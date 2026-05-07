@@ -5,251 +5,538 @@ activities:
     items:
       - name: Tawaf
         description: Circumambulating the Kaaba seven times counterclockwise
-        location: Masjid al-Haram
+        location:
+          name: Masjid al-Haram
+          area: Al Haram district, Mekka 24231
+          coordinates: "21.4225° N, 39.8262° E"
         duration: 30–60 minutes
         notes: Mandatory for Hajj and Umrah; can also be performed voluntarily (Nafl Tawaf)
 
       - name: Sa'i
         description: Walking seven times between the hills of Safa and Marwa
-        location: Al-Mas'a corridor, Masjid al-Haram
+        location:
+          name: Al-Mas'a Corridor
+          area: Inside Masjid al-Haram, ground and upper floors
+          coordinates: "21.4234° N, 39.8271° E"
         duration: 30–45 minutes
         notes: Commemorates Hajar's search for water for her son Ismail
 
       - name: Salah at Masjid al-Haram
         description: Performing the five daily prayers inside the Grand Mosque
-        location: Masjid al-Haram
+        location:
+          name: Masjid al-Haram
+          area: Al Haram district, Mekka 24231
+          coordinates: "21.4225° N, 39.8262° E"
         duration: 10–20 minutes per prayer
         notes: One prayer here equals 100,000 prayers elsewhere (hadith)
 
       - name: Drinking Zamzam Water
         description: Drinking from the blessed well of Zamzam
-        location: Masjid al-Haram (taps throughout the mosque)
-        duration: Any time
-        notes: Zamzam is considered blessed and spiritually significant
+        location:
+          name: Zamzam Water Stations
+          area: Throughout Masjid al-Haram (basement, mataf level, corridors)
+        notes: Available free of charge 24/7 throughout the mosque
 
       - name: Touching the Hajar al-Aswad
         description: Kissing or gesturing toward the Black Stone embedded in the Kaaba corner
-        location: Masjid al-Haram, eastern corner of the Kaaba
+        location:
+          name: Eastern Corner of the Kaaba
+          area: Mataf (Tawaf area), Masjid al-Haram
+          coordinates: "21.4225° N, 39.8262° E"
         notes: Sunnah; gesture from a distance is acceptable during crowds
 
       - name: Standing at Maqam Ibrahim
         description: Praying two rak'ahs behind the station of Ibrahim after Tawaf
-        location: Near the Kaaba inside Masjid al-Haram
+        location:
+          name: Maqam Ibrahim
+          area: Inside Masjid al-Haram, few meters from the Kaaba
         notes: Quranic instruction (2:125)
 
       - name: Tahajjud (Night Prayer)
         description: Voluntary night prayer in the last third of the night
-        location: Masjid al-Haram or hotel
+        location:
+          name: Masjid al-Haram or any hotel prayer room
+          area: Al Haram district
         duration: Variable
-        notes: Especially blessed during the month of Ramadan
+        notes: Especially blessed during Ramadan; mosque is open 24/7
 
-      - name: Dhikr and Supplication
-        description: Continuous remembrance of Allah and personal du'a
-        location: Anywhere in Mekka
-        notes: Best times include between Asr and Maghrib, and at Multazam
+      - name: Dhikr and Supplication at Multazam
+        description: Clinging to the wall between the Kaaba door and the Black Stone for du'a
+        location:
+          name: Multazam
+          area: Kaaba wall, Masjid al-Haram
+        notes: Highly recommended spot for heartfelt supplication
 
   hajj_rites:
     description: Rituals performed exclusively during the Hajj season (Dhul Hijjah 8–13)
     items:
-      - name: Entering Ihram
+      - name: Entering Ihram at Miqat
         description: Donning the white seamless garments and making the intention for Hajj
-        location: Miqat (designated boundary points)
-        notes: Marks the beginning of the Hajj; specific rules of conduct apply
+        location:
+          name: Miqat stations (varies by origin)
+          landmarks:
+            - "Dhul Hulayfah (Abyar Ali) — for pilgrims coming from Medina"
+            - "Al-Juhfah (Rabigh) — for pilgrims from Syria/Egypt direction"
+            - "Qarn al-Manazil — for pilgrims from Najd/Gulf"
+            - "Yalamlam — for pilgrims from Yemen/South Asia"
+            - "Dhat Irq — for pilgrims from Iraq"
+        notes: Marks the beginning of Hajj; specific rules of conduct apply
 
       - name: Wuquf at Arafat
         description: Standing in supplication on the plains of Arafat
-        location: Plain of Arafat (approx. 20 km from Mekka)
-        date: 9th Dhul Hijjah (afternoon)
-        duration: Several hours (noon to sunset)
-        notes: The pinnacle of Hajj; missing this invalidates the Hajj
+        location:
+          name: Plain of Arafat
+          area: Approx. 20 km east of Masjid al-Haram
+          coordinates: "21.3549° N, 39.9845° E"
+          landmark: Jabal al-Rahmah (Mount of Mercy) is the central hill
+        date: 9th Dhul Hijjah (afternoon to sunset)
+        duration: Several hours
+        notes: The pinnacle of Hajj; missing this invalidates the entire Hajj
 
       - name: Muzdalifah Overnight Stay
         description: Spending the night under the open sky and collecting pebbles
-        location: Muzdalifah
+        location:
+          name: Muzdalifah
+          area: Between Arafat and Mina, approx. 9 km from Mekka
+          coordinates: "21.3797° N, 39.9358° E"
+          landmark: Masjid al-Mash'ar al-Haram is the central mosque here
         date: Night of 9th–10th Dhul Hijjah
-        notes: Pebbles collected here are used for the Rami (stoning) ritual
+        notes: Pebbles collected here for Rami; elderly and ill may leave after midnight
 
       - name: Rami al-Jamarat (Stoning the Devil)
         description: Throwing pebbles at three pillars symbolizing Satan's temptation
-        location: Jamarat Bridge, Mina
+        location:
+          name: Jamarat Bridge (Jisr al-Jamarat)
+          area: Mina, approx. 5 km from Masjid al-Haram
+          coordinates: "21.3926° N, 39.8731° E"
+          address: King Fahd Road, Mina, Mekka
         date: 10th–13th Dhul Hijjah
-        notes: Represents the rejection of evil; done in stages over multiple days
+        notes: Multi-level bridge built to manage crowd; follow time slots assigned by authorities
 
       - name: Nahr (Animal Sacrifice / Qurbani)
         description: Slaughtering an animal as a religious offering
-        location: Mina or official abattoirs
+        location:
+          name: Islamic Development Bank Abattoir (official)
+          area: Mina slaughterhouse complex, Mekka
         date: 10th Dhul Hijjah (Eid al-Adha)
-        notes: Meat distributed to those in need; can be done via authorized agencies
+        notes: Can be arranged through the Saudi Hajj Ministry online portal; meat distributed to the poor
 
       - name: Halq or Taqsir
         description: Shaving the head (men) or cutting a portion of hair (women)
-        location: Mina or barber shops in Mekka
+        location:
+          name: Mina barber tents or Mekka barber shops
+          area: Mina and Al-Aziziyah district
         date: After Nahr on 10th Dhul Hijjah
         notes: Marks partial exit from Ihram
 
       - name: Stay in Mina
-        description: Spending the Tashreeq nights in Mina
-        location: Mina
+        description: Spending the Tashreeq nights in the tent city of Mina
+        location:
+          name: Mina Tent City
+          area: Mina, Mekka — the world's largest tent city
+          coordinates: "21.4133° N, 39.8924° E"
         date: 11th–13th Dhul Hijjah
-        notes: Staying two or three nights depending on the pilgrim's choice
+        notes: Pilgrims are assigned designated tent zones by nationality/group
 
   umrah_rites:
     description: Rituals of the lesser pilgrimage, performable year-round
     items:
       - name: Entering Ihram at Miqat
         description: Putting on Ihram garments and making intention for Umrah
-        location: Designated Miqat (e.g., Masjid Aisha / Tan'eem for residents of Mekka)
-        notes: Specific duas and ghusl (ritual bath) recommended before Ihram
+        location:
+          name: Masjid Aisha (Tan'eem) — closest Miqat for those already in Mekka
+          area: Tan'eem district, approx. 7.5 km from Masjid al-Haram
+          coordinates: "21.4629° N, 39.8200° E"
+          address: Al-Hijrah Road, Tan'eem, Mekka
+        notes: Ghusl and 2 rak'ahs of Ihram prayer recommended beforehand
 
       - name: Tawaf al-Umrah
         description: Seven circuits around the Kaaba
-        location: Masjid al-Haram
-        notes: Begin from the Black Stone corner; men jog the first three rounds (Raml) if able
+        location:
+          name: Mataf (Tawaf Area), Masjid al-Haram
+          area: Al Haram district, Mekka
+        notes: Begin from the Black Stone corner; Raml (light jog) in first three rounds for men
 
       - name: Sa'i al-Umrah
         description: Seven walks between Safa and Marwa
-        location: Al-Mas'a corridor
-        notes: Starts at Safa and ends at Marwa
+        location:
+          name: Al-Mas'a Corridor
+          area: Inside Masjid al-Haram
+        notes: Starts at Safa and ends at Marwa; escalators available on upper floors
 
       - name: Halq or Taqsir
         description: Cutting or shaving hair to exit Ihram
-        location: Anywhere in Mekka
-        notes: Completes the Umrah
+        location:
+          name: Any barber shop in Mekka
+          businesses:
+            - name: Barber shops in Ajyad Street
+              area: Ajyad, near Masjid al-Haram
+            - name: Al-Noor Barber (cluster of shops)
+              area: Al-Aziziyah district
+        notes: Completes the Umrah; widely available shops near the mosque
 
   historical_sites:
     description: Significant historical and religious landmarks in and around Mekka
     items:
       - name: Jabal al-Nour (Mountain of Light)
         description: Mountain housing the Cave of Hira where the first Quranic revelation descended
-        location: Approx. 4 km from Masjid al-Haram
+        location:
+          name: Jabal al-Nour
+          area: Al-Nour district, approx. 4 km northeast of Masjid al-Haram
+          coordinates: "21.4572° N, 39.8586° E"
+          address: Al Nour Mountain Road, Mekka
         duration: 1.5–2 hours (hike up and down)
-        notes: Cave where Prophet Muhammad received the first revelation from Angel Jibreel
+        notes: 1,294 steps to the top; best visited early morning to avoid heat
 
       - name: Jabal Thawr (Mount Thawr)
         description: Mountain containing the cave where the Prophet took refuge during the Hijra
-        location: Approx. 4 km south of Masjid al-Haram
+        location:
+          name: Jabal Thawr
+          area: Approx. 4.7 km south of Masjid al-Haram
+          coordinates: "21.3856° N, 39.8192° E"
         duration: 2–3 hours
-        notes: Steeper climb than Jabal al-Nour; historically significant for the migration to Medina
+        notes: Steeper and harder than Jabal al-Nour; sturdy footwear recommended
 
       - name: Masjid al-Jinn
-        description: Mosque marking the spot where a group of jinn embraced Islam
-        location: Near Mekka city center
-        notes: Mentioned in Surah al-Jinn (72)
+        description: Mosque marking the spot where a group of jinn pledged allegiance to Islam
+        location:
+          name: Masjid al-Jinn
+          area: Al-Mu'alla district, near Jannat al-Mu'alla cemetery
+          coordinates: "21.4317° N, 39.8314° E"
+          address: Al-Jinn Street, Al Mu'alla, Mekka
+        notes: Mentioned in Surah al-Jinn (72); small but historically significant
 
       - name: Masjid Aisha (Tan'eem)
-        description: Mosque where pilgrims can enter Ihram for additional Umrahs
-        location: Approx. 7.5 km from Masjid al-Haram
-        notes: Named after Aisha (RA) who entered Ihram here by the Prophet's instruction
+        description: Mosque where pilgrims enter Ihram for additional Umrahs
+        location:
+          name: Masjid Aisha
+          area: Tan'eem, approx. 7.5 km from Masjid al-Haram
+          coordinates: "21.4629° N, 39.8200° E"
+          address: Al-Hijrah Road, Tan'eem, Mekka
+        notes: Accessible by taxi, bus (Mekka Metro Line 2), or Uber/Careem
 
       - name: Jannat al-Mu'alla Cemetery
-        description: Ancient cemetery where many relatives of the Prophet are buried
-        location: Near Masjid al-Haram
-        notes: Includes the grave of Khadijah (RA), the Prophet's first wife
+        description: Ancient cemetery where many relatives and companions of the Prophet are buried
+        location:
+          name: Jannat al-Mu'alla (Al-Hajoon Cemetery)
+          area: Al-Mu'alla district, few hundred meters from Masjid al-Haram
+          coordinates: "21.4331° N, 39.8283° E"
+          address: Al Mu'alla Street, Mekka
+        notes: Includes the graves of Khadijah (RA), Abu Talib, and other family members of the Prophet
 
-      - name: Al-Masjid al-Haram Tour
-        description: Exploring the different sections of the Grand Mosque including minarets and courtyards
-        location: Masjid al-Haram
+      - name: Masjid al-Haram Architecture Tour
+        description: Exploring the mosque's minarets, gates, clocks, and historical sections
+        location:
+          name: Masjid al-Haram (various gates)
+          key_gates:
+            - "King Abdulaziz Gate (Gate 1) — main ceremonial entrance"
+            - "King Fahd Gate (Gate 79) — facing Abraj Al-Bait"
+            - "Bab al-Salam (Gate of Peace)"
+            - "Bab Umrah"
         duration: 1–2 hours
-        notes: The mosque has been greatly expanded; guided tours available
+        notes: Guided tours by licensed agencies available; best done outside peak prayer times
+
+      - name: Makkah Museum (Al-Zaher Palace)
+        description: Royal palace turned museum covering the history of Mekka and the Hajj
+        location:
+          name: Al-Zaher Palace Museum
+          area: Al-Zaher district, Mekka
+          address: Al-Zaher Road, Mekka
+        notes: Displays Ottoman-era artifacts, old maps, and Hajj documentation
 
   educational_cultural:
     description: Learning and enrichment activities for spiritual growth
     items:
       - name: Islamic History Lectures
-        description: Attending scholarly talks held regularly in and around the mosque
-        location: Masjid al-Haram and nearby hotels
-        notes: Topics range from Seerah (Prophet's biography) to Fiqh (Islamic jurisprudence)
+        description: Attending scholarly talks held regularly in the mosque
+        location:
+          name: Masjid al-Haram lecture halls and gate areas
+          area: Al Haram district
+        businesses:
+          - name: Dar al-Hadith al-Khayriyyah
+            area: Near Masjid al-Haram, Mekka
+            notes: Historic Islamic educational institution offering courses
+          - name: Umm al-Qura University Islamic Studies Faculty
+            area: Al-Abdiyah district, Mekka
+            notes: Public lectures occasionally open to pilgrims
+        notes: Topics include Seerah, Aqeedah, Fiqh; schedules posted at mosque entrances
 
-      - name: Quranic Recitation Classes
-        description: Joining Quran learning circles (Halaqat) in the mosque
-        location: Masjid al-Haram
-        notes: Available for beginners and advanced learners; often free
+      - name: Quranic Recitation Circles (Halaqat)
+        description: Joining Quran learning circles inside the mosque
+        location:
+          name: Masjid al-Haram — King Fahd expansion section
+          area: Al Haram district
+        notes: Available for all levels; often led by certified reciters; free to join
 
-      - name: Visiting the Zamzam Museum
-        description: Learning about the history and science of the Zamzam well
-        location: Masjid al-Haram basement area
-        notes: Displays historical artifacts and information on the well's hydrology
-
-      - name: Mekka Museum (Al-Zaher Palace)
-        description: Museum exploring the history of Mekka and the Hajj journey
-        location: Mekka city
-        notes: Offers insight into the evolution of the city and pilgrimage
+      - name: Zamzam Well Exhibition
+        description: Learning about the history and hydrology of the Zamzam well
+        location:
+          name: Zamzam Well Area
+          area: Masjid al-Haram basement (accessible from Mataf level)
+          coordinates: "21.4227° N, 39.8264° E"
+        notes: The well itself is enclosed but the surrounding area has informational displays
 
   food_and_hospitality:
     description: Culinary experiences and local hospitality
     items:
-      - name: Harees
-        description: Traditional slow-cooked wheat and meat porridge popular during Ramadan and Hajj
-        location: Local restaurants throughout Mekka
-        notes: A comforting dish deeply rooted in Arabian cuisine
+      - name: Al Baik
+        description: Iconic Saudi fast-food chain famous for crispy fried chicken and shrimp
+        location:
+          area: Multiple branches throughout Mekka
+          branches:
+            - address: Ajyad Street, near Masjid al-Haram
+            - address: Ibrahim Al Khalil Street, Al Haram
+            - address: Abraj Al-Bait Mall food court
+        notes: A must-try; expect queues; open 24 hours during Hajj and Ramadan seasons
 
-      - name: Kabsa
-        description: Saudi national dish of spiced rice with meat or chicken
-        location: Saudi restaurants and hotel buffets
-        notes: Often served at large communal gatherings
+      - name: Al Romansiah
+        description: Popular Saudi restaurant chain serving traditional Kabsa and grills
+        location:
+          area: Multiple branches in Mekka
+          branches:
+            - address: Al-Aziziyah district, Mekka
+            - address: Al-Naseem district, Mekka
+        notes: Family-friendly seating; halal-certified; ideal for group dining
 
-      - name: Dates and Qahwa (Arabic Coffee)
-        description: Traditional Saudi welcome — fresh dates paired with cardamom-spiced coffee
-        location: Cafes, hotels, and hospitality tents
-        notes: Offering and accepting dates is a sign of hospitality
+      - name: Mataam Al Kabsa Al Asli
+        description: Traditional restaurant serving authentic Kabsa (spiced rice with meat)
+        location:
+          name: Mataam Al Kabsa Al Asli
+          area: Al-Aziziyah district, Mekka
+        notes: Affordable and popular with locals; communal table seating
 
-      - name: Mutabbaq
-        description: Stuffed pancake or pastry with meat, eggs, or sweet fillings
-        location: Street vendors and local eateries
-        notes: A popular street food especially in the evenings
+      - name: Saffron Restaurant (Fairmont Makkah)
+        description: Upscale buffet restaurant in the Fairmont Clock Tower with Kaaba views
+        location:
+          name: Fairmont Makkah Clock Royal Tower — Saffron Restaurant
+          address: Abraj Al-Bait Complex, Ibrahim Al Khalil Street, Mekka
+          floor: Level 3
+        notes: Spectacular views of the Haram; international and Arabic cuisine; reservations recommended
 
-      - name: Mandi
-        description: Slow-cooked meat and rice dish prepared in a tandoor oven
-        location: Traditional restaurants
-        notes: Usually lamb or chicken; rich in spices and flavor
+      - name: Al Nafoura (Le Méridien Towers)
+        description: All-day dining with Arabic and international buffet
+        location:
+          name: Le Méridien Towers Makkah — Al Nafoura Restaurant
+          address: Ajyad Street, Al Haram district, Mekka
+        notes: Convenient for pilgrims staying in Ajyad area; popular for Suhoor during Ramadan
+
+      - name: Herfy
+        description: Saudi fast-food chain offering burgers, chicken, and Arabic staples
+        location:
+          area: Multiple branches throughout Mekka
+          branches:
+            - address: Abraj Al-Bait Mall
+            - address: Al-Aziziyah district
+        notes: Budget-friendly; good for a quick meal between worship sessions
+
+      - name: Tandoor Express
+        description: Affordable South Asian-style restaurant popular with pilgrims
+        location:
+          name: Tandoor Express
+          area: Ajyad Street, near Masjid al-Haram, Mekka
+        notes: Popular with South Asian pilgrims; serves biryani, naan, and curries
+
+      - name: Nando's Makkah
+        description: Flame-grilled peri-peri chicken restaurant
+        location:
+          name: Nando's
+          address: Abraj Al-Bait Mall, Level 2, Ibrahim Al Khalil Street, Mekka
+        notes: Familiar international option; halal-certified
+
+      - name: Local Date Shops & Cafes
+        description: Buying and tasting various varieties of Saudi dates with Arabic coffee
+        location:
+          businesses:
+            - name: Bateel Dates Boutique
+              address: Abraj Al-Bait Mall, Mekka
+              notes: Premium Saudi dates and gourmet gifts
+            - name: Al-Madinah Date Market stalls
+              area: Souq area near Masjid al-Haram
+              notes: Fresh and dried dates in bulk; Ajwa, Medjool, Sukkari varieties
 
   shopping:
-    description: Popular places to buy souvenirs and Islamic goods
+    description: Popular places to buy souvenirs, clothing, and Islamic goods
     items:
-      - name: Abraj Al-Bait Mall
-        description: Large shopping mall adjacent to Masjid al-Haram
-        location: Directly across from Masjid al-Haram
-        notes: Houses international and local brands; convenient for pilgrims
+      - name: Abraj Al-Bait Mall (Clock Tower Mall)
+        description: Largest mall in Mekka, directly adjacent to Masjid al-Haram
+        location:
+          name: Abraj Al-Bait Mall
+          address: Ibrahim Al Khalil Street, Al Haram district, Mekka 24231
+          coordinates: "21.4196° N, 39.8262° E"
+        hours: "10:00–00:00 daily (extended during Ramadan)"
+        notes: Houses Hyper Panda supermarket, Bateel, international fashion brands, and a food court
+
+      - name: Ajyad Mall
+        description: Mid-range mall popular with pilgrims for Islamic goods and clothing
+        location:
+          name: Ajyad Mall
+          address: Ajyad Street, Al Haram district, Mekka
+          coordinates: "21.4179° N, 39.8241° E"
+        notes: Good selection of Ihram garments, prayer items, and souvenirs at competitive prices
+
+      - name: Al Hijaz Mall
+        description: Shopping mall offering a mix of local and international brands
+        location:
+          name: Al Hijaz Mall
+          address: King Abdulaziz Road, Al-Aziziyah, Mekka
+        notes: Less crowded than Abraj Al-Bait; good for clothing and electronics
 
       - name: Souq Al-Zal
-        description: Traditional open-air market selling antiques, clothing, and local goods
-        location: Mekka city center
-        notes: Good place for authentic local shopping experience
+        description: Traditional open-air market for antiques, local handicrafts, and vintage items
+        location:
+          name: Souq Al-Zal
+          area: Old Mekka, near Al-Mu'alla district
+          address: Al-Zaher Road, Al Mu'alla, Mekka
+        notes: Bargaining expected; best visited in the evening; authentic local atmosphere
 
-      - name: Attar (Arabic Perfume)
-        description: Buying traditional oil-based Islamic perfumes
-        location: Perfume shops throughout Mekka
-        notes: Oud and musk are popular; alcohol-free formulas widely available
+      - name: Abdul Samad Al Qurashi Perfumes
+        description: Renowned Saudi perfumery selling high-quality Oud, musk, and Attar blends
+        location:
+          name: Abdul Samad Al Qurashi
+          branches:
+            - address: Abraj Al-Bait Mall, Mekka
+            - address: Ajyad Street, near Masjid al-Haram
+        notes: One of the most prestigious perfume houses in the Arab world; alcohol-free
 
-      - name: Prayer Rugs and Tasbeeh
-        description: Purchasing prayer essentials and Islamic gifts for family
-        location: Shops around Masjid al-Haram and souqs
-        notes: Wide range of quality and price; bargaining is common in souqs
+      - name: Haramain Perfumes
+        description: Affordable perfume shop popular for Bakhoor (incense) and oil perfumes
+        location:
+          name: Haramain Perfumes
+          area: Multiple shops near Masjid al-Haram souq area
+          address: Al Haram district, Mekka
+        notes: Great for buying gifts; reasonable prices; wide variety
 
-      - name: Islamic Books and Qurans
-        description: Buying Qurans, hadith collections, and Islamic literature
-        location: Bookshops near Masjid al-Haram and in malls
-        notes: Available in many languages; free Qurans sometimes distributed at the mosque
+      - name: Maktabat Dar al-Salam (Islamic Bookstore)
+        description: Large Islamic bookstore selling Qurans, hadith books, and Islamic literature
+        location:
+          name: Dar al-Salam Bookstore
+          area: Near Masjid al-Haram, Al Haram district, Mekka
+        notes: Books available in Arabic, English, Urdu, French, and more; competitive prices
+
+      - name: Bin Dawood Supermarket
+        description: Large Saudi supermarket chain for food, supplies, and everyday items
+        location:
+          name: Bin Dawood
+          branches:
+            - address: Al-Aziziyah district, Mekka
+            - address: Near Abraj Al-Bait, Mekka
+        notes: Stocks Zamzam water bottles, halal snacks, and pilgrim essentials
+
+  accommodation:
+    description: Notable hotels and stays near Masjid al-Haram
+    items:
+      - name: Fairmont Makkah Clock Royal Tower
+        description: Luxury 5-star hotel in the iconic Clock Tower with direct views of the Kaaba
+        location:
+          address: Abraj Al-Bait Complex, Ibrahim Al Khalil Street, Mekka 24231
+          coordinates: "21.4196° N, 39.8260° E"
+        distance_to_haram: Directly adjacent (2–3 minute walk)
+        notes: Premium option; multiple restaurants, spa, rooftop views; reservations months in advance
+
+      - name: Swissôtel Makkah
+        description: Upscale hotel connected to the Abraj Al-Bait complex
+        location:
+          address: Abraj Al-Bait, Ibrahim Al Khalil Street, Mekka
+        distance_to_haram: 2–5 minute walk
+        notes: Excellent Haram views from upper floors; buffet dining available
+
+      - name: Raffles Makkah Palace
+        description: Ultra-luxury hotel in the Abraj Al-Bait with palatial suites
+        location:
+          address: Abraj Al-Bait Complex, Mekka
+        distance_to_haram: 3–5 minute walk
+        notes: Top-tier service; butler service; ideal for those prioritizing comfort
+
+      - name: Hilton Suites Makkah
+        description: Well-known 5-star hotel close to the Grand Mosque
+        location:
+          address: Ibrahim Al Khalil Street, Al Haram district, Mekka
+          coordinates: "21.4197° N, 39.8253° E"
+        distance_to_haram: 5 minute walk
+        notes: Spacious suites; strong reputation for Hajj and Umrah groups
+
+      - name: Pullman ZamZam Makkah
+        description: Premium hotel offering Kaaba views and Haram proximity
+        location:
+          address: Ajyad Street, Al Haram district, Mekka
+        distance_to_haram: 5–7 minute walk
+        notes: Part of the Accor group; known for good service and comfortable rooms
+
+      - name: Le Méridien Towers Makkah
+        description: Twin-tower hotel in the Ajyad area with excellent dining
+        location:
+          address: Ajyad Street, Al Haram district, Mekka
+        distance_to_haram: 7–10 minute walk
+        notes: Popular with families and large groups; Al Nafoura restaurant on site
+
+      - name: InterContinental Makkah
+        description: Established 5-star hotel with conference facilities and Haram access
+        location:
+          address: King Abdulaziz Road, Al Haram district, Mekka
+        distance_to_haram: 10–15 minute walk
+        notes: Good for larger group bookings; shuttle service to the mosque available
+
+  transportation:
+    description: Getting around Mekka during your stay
+    items:
+      - name: Mekka Metro (Mashaaer Railway)
+        description: Metro line connecting Masjid al-Haram, Mina, Muzdalifah, and Arafat
+        location:
+          stations:
+            - "King Abdulaziz Station (Masjid al-Haram)"
+            - "Mina Station"
+            - "Muzdalifah Station"
+            - "Arafat Station"
+        notes: Operates mainly during Hajj season; alleviates congestion on pilgrimage routes
+
+      - name: Uber / Careem
+        description: Ride-hailing apps widely used in Mekka for point-to-point travel
+        notes: Available year-round; surge pricing common during prayer times and Hajj; book in advance
+
+      - name: Mekka Bus Service (Saptco)
+        description: Public bus network covering key areas in Mekka
+        location:
+          key_routes:
+            - "Al Haram ↔ Tan'eem (Masjid Aisha)"
+            - "Al Haram ↔ Jabal al-Nour"
+            - "Al Haram ↔ Al-Aziziyah"
+        notes: Affordable; AC buses; Mada card (contactless payment) accepted
+
+      - name: Taxis
+        description: Metered and non-metered taxis available throughout Mekka
+        notes: Agree on fare before starting; licensed yellow taxis preferred over informal options
 
   wellness_and_rest:
     description: Activities to maintain health and spiritual energy during the pilgrimage
     items:
-      - name: Rest and Recovery
-        description: Adequate sleep and hydration between worship sessions
-        location: Hotel
-        notes: Essential for sustaining energy through the physically demanding Hajj and Umrah
+      - name: Hotel Spa and Rest
+        description: Using hotel wellness facilities to recover from physically demanding rituals
+        businesses:
+          - name: Fairmont Spa (Fairmont Makkah Clock Royal Tower)
+            address: Abraj Al-Bait Complex, Mekka
+            notes: Full-service spa with massage, steam, and pool
+          - name: Swissôtel Fitness Center
+            address: Abraj Al-Bait, Mekka
+            notes: Gym and pool facilities for hotel guests
+        notes: Adequate rest is critical for sustaining Hajj and Umrah stamina
 
       - name: Walking the Mosque Courtyards
-        description: Gentle walking and reflection in the open courtyards of Masjid al-Haram
-        location: Masjid al-Haram outdoor areas
-        notes: Peaceful especially in early mornings or after Fajr
+        description: Gentle walking and quiet reflection in the open courtyards of Masjid al-Haram
+        location:
+          name: Masjid al-Haram outdoor and rooftop areas
+          area: Al Haram district
+        notes: Peaceful especially after Fajr; rooftop accessible from several gates
 
       - name: Journaling and Reflection
-        description: Writing personal reflections, duas, and spiritual goals
-        location: Anywhere
-        notes: A meaningful way to document the spiritual journey
+        description: Writing personal duas, reflections, and spiritual intentions
+        notes: A meaningful practice; some pilgrims use dedicated Hajj/Umrah journals sold at local bookstores
 
       - name: Charity and Sadaqah
-        description: Giving to those in need, including beggars and charitable organizations
-        location: Throughout Mekka
-        notes: Sadaqah is especially rewarded in the holy city
+        description: Giving to those in need including charitable organizations present in Mekka
+        businesses:
+          - name: Makkah Al-Mukarramah Charity
+            area: Mekka city
+            notes: Official local charity accepting donations for pilgrims in need
+          - name: Al-Rajhi Charity Foundation donation boxes
+            area: Throughout Masjid al-Haram and hotels
+        notes: Sadaqah is especially rewarded in the holy city; many collection points near the mosque
