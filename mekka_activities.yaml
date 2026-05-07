@@ -528,8 +528,14 @@ activities:
         notes: Peaceful especially after Fajr; rooftop accessible from several gates
 
       - name: Journaling and Reflection
-        description: Writing personal duas, reflections, and spiritual intentions
-        notes: A meaningful practice; some pilgrims use dedicated Hajj/Umrah journals sold at local bookstores
+        description: >
+          Keeping a written, audio, or video spiritual diary of the pilgrimage — recording
+          duas, personal milestones, and reflections. Many pilgrims find journaling
+          transforms the experience into a lifelong spiritual reference.
+        notes: >
+          Dedicated Hajj/Umrah journal notebooks sold at Islamic bookstores near Masjid al-Haram;
+          voice recording duas at Multazam, in Arafat, and after Tawaf is a common practice;
+          video diaries permitted in most public areas of the mosque complex
 
       - name: Charity and Sadaqah
         description: Giving to those in need including charitable organizations present in Mekka
@@ -1630,6 +1636,21 @@ activities:
         best_time: "Midnight to pre-Fajr hours during Hajj"
         notes: Hajj pilgrims only; wide-angle or smartphone astrophotography works well here
 
+      - name: Aerial and Cityscape Photography
+        description: >
+          Capturing Mekka's dramatic skyline — the iconic Abraj Al-Bait clock towers rising
+          above Masjid al-Haram, cradled in the Hejaz mountain bowl. Best approached from
+          elevated vantage points rather than ground level.
+        best_locations:
+          - "Jabal al-Nour summit — panoramic views of central Mekka"
+          - "Jabal Abu Qubays hilltop — direct elevated view toward the Haram"
+          - "Fairmont Makkah upper floors and observation deck"
+          - "Ring road hillside pull-offs surrounding the Wadi Ibrahim valley"
+        notes: >
+          Drone photography requires a permit from the General Authority of Civil Aviation (GACA);
+          unauthorized drones are strictly prohibited near Masjid al-Haram;
+          high-megapixel telephoto shots from hotel rooms facing the Haram are an excellent legal alternative
+
   volunteer_and_service:
     description: >
       Opportunities to give back and serve the global Muslim community during your time
@@ -2310,6 +2331,18 @@ activities:
           Non-Muslim visitors are not permitted in Mekka at any time;
           Muslim residents not performing Hajj should avoid pilgrim routes (Mina, Arafat,
           Muzdalifah) during Hajj days due to extreme crowd density
+
+      - name: Mekka Season (Mawsim Makkah)
+        description: >
+          Part of Saudi Arabia's Vision 2030 entertainment initiative, Mekka Season
+          features cultural exhibitions, heritage shows, art installations, and family
+          entertainment events across the city during designated periods outside Hajj.
+        timing: Varies (typically aligns with school holidays and non-Hajj periods)
+        location:
+          area: Various venues across Mekka including Al-Aziziyah and Abraj Al-Bait
+        notes: >
+          Check the Saudi Tourism Authority (visitsaudi.com) for current season dates
+          and event listings; programming changes annually
 
   health_and_medical_services:
     description: >
