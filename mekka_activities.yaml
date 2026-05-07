@@ -1631,3 +1631,533 @@ activities:
         notes: >
           Language skills are the most valuable asset in this role; Malay, Urdu,
           Bengali, Turkish, Indonesian, Hausa, and Swahili speakers are particularly needed
+
+  day_trips:
+    description: >
+      Popular day-trip destinations reachable from Mekka within 1–2 hours,
+      offering a change of scenery and additional spiritual or cultural experiences.
+    items:
+      - name: Medina (Al-Madinah al-Munawwarah)
+        description: >
+          The Prophet's city — home of Masjid al-Nabawi, the Quba Mosque (first mosque
+          in Islam), Masjid al-Qiblatayn, and the Baqi cemetery. A deeply moving pilgrimage
+          extension for any visitor to Mekka.
+        location:
+          area: Medina, approx. 450 km north of Mekka
+          distance_from_mekka: 450 km (4–4.5 hours by road; 2 hours by Haramain High Speed Railway)
+        key_sites:
+          - Masjid al-Nabawi (Prophet's Mosque) — burial place of the Prophet Muhammad (PBUH)
+          - Masjid Quba — first mosque built in Islam; two rak'ahs here equal an Umrah (hadith)
+          - Masjid al-Qiblatayn — where the Qibla direction was changed to Mekka
+          - Jannat al-Baqi — the main Medina cemetery with companions of the Prophet
+          - Jabal Uhud — site of the Battle of Uhud; graves of the martyrs
+          - Al-Madinah Dates Market — the largest date market in the world
+        transport:
+          - Haramain High Speed Railway (HHR) — fastest option; 2 hours; book online
+          - Intercity buses (SAPTCO) — affordable; depart from Mekka Central Bus Station
+          - Private car hire or taxi — flexible; allow extra time for checkpoints
+        notes: >
+          Non-Muslims are not permitted to enter Medina's central sacred area;
+          Muslim visitors should book railway tickets well in advance during Hajj and Ramadan
+
+      - name: Jeddah (Historic Al-Balad)
+        description: >
+          Saudi Arabia's cosmopolitan port city on the Red Sea — home to UNESCO World Heritage
+          Site Al-Balad, the Jeddah Corniche, King Fahd Fountain (world's tallest), and the
+          gateway to Red Sea adventures.
+        location:
+          area: Jeddah, approx. 80 km west of Mekka (approx. 1 hour by car)
+        key_sites:
+          - Al-Balad Historic District — UNESCO World Heritage Site; coral-stone houses with Roshan wooden screens
+          - King Fahd Fountain — world's tallest fountain (312 m); best viewed at night
+          - Jeddah Corniche (Al-Kurnaysh) — 30 km waterfront promenade
+          - Floating Mosque (Masjid Al-Rahma) — iconic mosque built on the Red Sea
+          - Red Sea snorkeling and diving sites
+        transport:
+          - Taxi or Uber/Careem — approx. SAR 100–150 one way
+          - SAPTCO buses — budget option from Mekka Central Bus Station
+        notes: >
+          Al-Balad is best explored on foot in cooler morning or evening hours;
+          combine with Red Sea activities for a full day
+
+      - name: Taif (City of Roses)
+        description: >
+          A scenic mountain city at 1,800 m elevation — Saudi Arabia's summer retreat,
+          famous for Damascene roses, cooler temperatures, lush gardens, and mountain escarpments.
+        location:
+          area: Taif, approx. 75 km southeast of Mekka
+          distance_from_mekka: 75 km (approx. 1–1.5 hours by car via Al-Hada mountain road)
+        key_sites:
+          - Al-Hada and Al-Shafa mountain resort areas
+          - Taif Rose Farms (peak bloom March–April)
+          - Al-Rudaf Park and Taif Zoo
+          - Al-Hada Cable Car (Teleferik) — aerial valley views
+          - Taif Souq and local honey and date market
+        transport:
+          - Taxi or Uber/Careem — scenic mountain road drive
+          - SAPTCO bus — regular departures from Mekka
+        best_season: "Year-round; summer is refreshing at altitude; rose season is March–April"
+        notes: >
+          The drive up Al-Hada mountain road offers stunning hairpin-bend scenery;
+          Taif is significantly cooler than Mekka — bring a light jacket
+
+      - name: Badr (First Major Battle of Islam)
+        description: >
+          The plains of Badr, where the Prophet (PBUH) and 313 companions achieved a decisive
+          victory in 624 CE. A profoundly moving historical and spiritual destination.
+        location:
+          area: Badr, approx. 340 km northwest of Mekka
+          distance_from_mekka: 340 km (approx. 3.5 hours by car)
+          coordinates: "23.7794° N, 38.7867° E"
+        key_sites:
+          - Martyrs' Cemetery (Shuhada Badr)
+          - Jabal al-Malaikah (Angels' Mountain)
+          - The Well of Badr
+          - Badr Museum
+        notes: >
+          Best combined with a Medina trip; respectful modest dress required;
+          guided tours available from Mekka and Medina
+
+  ramadan_activities:
+    description: >
+      Special activities and experiences unique to the holy month of Ramadan,
+      when Mekka is at its most spiritually charged and vibrant.
+    items:
+      - name: Iftar at Masjid al-Haram
+        description: >
+          Breaking the fast at sunset (Maghrib) inside the Grand Mosque — one of the most
+          spiritually profound experiences in Islam. Dates and water distributed free by
+          the Saudi government throughout the mosque.
+        location:
+          name: Masjid al-Haram
+          area: Al Haram district, Mekka
+        timing: Daily at Maghrib prayer time throughout Ramadan
+        notes: >
+          Arrive 30–45 minutes before Maghrib to secure a spot; communal spirit is
+          extraordinary; dates, water, and sometimes full meals distributed free of charge
+
+      - name: Tarawih Prayer (Ramadan Night Prayer)
+        description: >
+          Extended nightly prayers held after Isha during Ramadan — led by world-renowned
+          Quran reciters at Masjid al-Haram. Among the most moving religious experiences
+          available anywhere in the Muslim world.
+        location:
+          name: Masjid al-Haram
+          area: Al Haram district, Mekka
+        duration: 1.5–2.5 hours per night
+        notes: >
+          The Imam recites the entire Quran over 30 nights; arrive early for space;
+          rooftop and courtyard areas fill fast; bring a small prayer mat or towel
+
+      - name: Laylat al-Qadr Vigil (Night of Power)
+        description: >
+          The holiest night of the year — believed to fall in the last ten nights of
+          Ramadan (most likely the 27th). Worship on this night is better than a thousand
+          months (Quran 97:3). Muslims spend the night in prayer, Quran recitation, and
+          supplication at Masjid al-Haram.
+        location:
+          name: Masjid al-Haram
+          area: Al Haram district, Mekka
+        timing: Last ten nights of Ramadan; most intensely the 27th night
+        notes: >
+          The mosque reaches absolute peak capacity on this night; arrive several hours early
+          or plan to worship from the courtyards and rooftop; I'tikaf retreat is highly recommended
+
+      - name: Suhoor Near the Grand Mosque
+        description: >
+          The pre-dawn meal (Suhoor) taken before Fajr — enjoyed at the many restaurants
+          and street food stalls that stay open all night during Ramadan around the Haram.
+        location:
+          area: Ajyad Street, Ibrahim Al Khalil Street, and hotel restaurants in Al Haram district
+        businesses:
+          - name: Al Baik (24-hour Ramadan hours)
+            area: Ajyad Street and Abraj Al-Bait
+          - name: Al Nafoura — Le Méridien Towers
+            area: Ajyad Street
+            notes: Suhoor buffet with Haram views
+          - name: Saffron Restaurant — Fairmont Clock Tower
+            area: Abraj Al-Bait
+            notes: Upscale Suhoor with Kaaba view; reservation essential
+        notes: >
+          Streets around the Haram are uniquely alive between midnight and Fajr during
+          Ramadan — street vendors, charity food distribution, and a festive spiritual atmosphere
+
+      - name: I'tikaf (Mosque Seclusion Retreat)
+        description: >
+          Devoting the last ten days and nights of Ramadan to seclusion inside Masjid
+          al-Haram — sleeping, eating, and worshipping within the mosque. A Sunnah of the
+          Prophet (PBUH); profoundly transformative for those who undertake it.
+        location:
+          name: Masjid al-Haram — designated I'tikaf areas
+          area: Al Haram district, Mekka
+        timing: Last ten days of Ramadan
+        notes: >
+          Registration required through the Saudi Ministry of Hajj and Umrah;
+          permits are limited and must be applied for well in advance
+
+      - name: Ramadan Night Markets
+        description: >
+          Temporary evening markets around Mekka and Jeddah during Ramadan — street food,
+          craft stalls, Nasheed performances, and family entertainment from Iftar until Suhoor.
+        businesses:
+          - name: Mekka Ramadan Festival (seasonal, location varies)
+            area: Al-Aziziyah district and central Mekka
+            notes: Check Saudi Tourism Authority for annual event details
+          - name: Corniche Ramadan Night Market
+            area: Jeddah Corniche (80 km)
+            notes: Large outdoor market; family-friendly; open nightly from Iftar until Fajr
+        notes: Deeply festive; families stay out very late; a social highlight of the month
+
+  skills_craft:
+    description: >
+      Hands-on workshops in traditional and contemporary crafts — pottery, woodworking,
+      photography, and textile arts. Available at cultural centers in Mekka, with specialist
+      studios in Taif and Jeddah. Most sessions welcome complete beginners.
+    items:
+      - name: Photography Walks and Workshops
+        description: >
+          Guided photography tours of Mekka's most visually striking locations — the Grand
+          Mosque at golden hour, Souq Al-Zal's alleyways, and Hejazi old-city architecture.
+          Covers composition, natural light, and phone/DSLR technique.
+        skill_levels: [beginner, intermediate, advanced]
+        businesses:
+          - name: Mekka Photography Circle
+            area: Al Haram district, Mekka
+            notes: Community group organizing weekly dawn shoots; welcoming to visiting photographers
+          - name: Saudi Photography Club (Mekka chapter)
+            area: Al-Aziziyah district, Mekka
+            notes: Club outings, studio workshops, and portrait sessions; equipment loans available
+          - name: Visual Makkah Workshop (Jeddah-based, Mekka day trips)
+            area: Al-Balad, Jeddah / day trips to Mekka
+            notes: Professional photographers lead small-group documentary shoots; Arabic and English
+        duration: 2–4 hours per session
+        notes: Bring your own camera or smartphone; wide-angle lens ideal for architecture
+
+      - name: Pottery and Ceramics (Fakhkhar)
+        description: >
+          Traditional Arabian pottery — wheel-throwing, hand-building, and decorative glazing.
+          The Hejaz has a centuries-old tradition of unglazed water vessels (Zeer) and decorative
+          terracotta. Modern workshops blend heritage forms with contemporary design.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Mekka Cultural Center (Dar al-Thaqafa) — Pottery Studio
+            area: Al-Adl district, Mekka
+            notes: Clay wheel sessions; kiln firing included; take home fired pieces on second visit
+          - name: Al-Fakhkhar Ceramics Studio
+            area: Al-Rawdah district, Jeddah (80 km)
+            notes: 12-wheel studio; beginner wheel-throwing courses; glazing workshops available
+          - name: Saudi Heritage Commission Craft Workshops
+            area: Mekka Heritage Center
+            notes: Heritage-focused sessions recreating traditional unglazed Hejazi pottery
+        duration: 2–3 hours per session
+        materials_provided: true
+        notes: Wear clothes you don't mind getting clay on; aprons provided; meditative and rewarding
+
+      - name: Traditional Woodworking and Mashrabiya Carving
+        description: >
+          The ornate wooden lattice screens (Mashrabiya) of Hejazi architecture are a
+          masterpiece of Islamic craft. Learn to design and carve geometric patterns using
+          traditional chisels and rotary tools.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Al-Balad Heritage Craft Center
+            area: Al-Balad (UNESCO World Heritage), Jeddah
+            notes: Sessions inside restored coral-stone buildings; master craftsmen on site
+          - name: Saudi Heritage Commission Woodcraft Workshops
+            area: Mekka Heritage Center and Jeddah
+            notes: Broader curriculum covering Mashrabiya design and traditional joinery
+          - name: Taif Artisan Center
+            area: Taif city center
+            notes: Specialty in local juniper and olive wood; mountain climate makes sessions comfortable
+        duration: 3–4 hours per session
+        notes: Safety gloves and goggles provided; no prior woodworking required
+
+      - name: Textile Weaving and Traditional Sadu
+        description: >
+          Sadu is the geometric Bedouin weaving tradition of the Arabian Peninsula —
+          bold patterns woven on ground looms using wool and natural dyes. UNESCO-listed
+          Intangible Cultural Heritage. Learn warp setting, shuttle technique, and pattern counting.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Saudi Heritage Commission Sadu Workshops
+            area: Mekka Heritage Center
+            notes: Authentic loom sessions led by Bedouin weavers; natural dyes; take home a woven strip
+          - name: Jeddah Craft Heritage Hub
+            area: Al-Balad, Jeddah
+            notes: Mixed textile workshops including Sadu, embroidery, and cross-stitch
+          - name: Taif Bedouin Heritage Camp (weaving module)
+            area: Al-Hada, Taif
+            notes: Evening sessions in traditional tents; scarves and table runners completed in 2 hours
+        duration: 2–3 hours per session
+        notes: All materials provided; sitting Bedouin-style on floor cushions
+
+  events:
+    description: >
+      Recurring and seasonal cultural events in Mekka, Taif, and Jeddah — poetry circles,
+      Oud evenings, seasonal markets, Ramadan programs, and heritage festivals.
+      Many events are free or low-cost. Check Saudi Tourism Authority and local social
+      media for current schedules.
+    items:
+      - name: Oud and Arabic Music Evenings
+        description: >
+          Live Oud performances, classical Arabic ensemble concerts, and maqam improvisation
+          sessions held at cultural centers and music cafes — a window into 1,000 years of
+          living musical heritage.
+        recurrence: weekly
+        businesses:
+          - name: Mekka Music and Arts Institute (Evening Concerts)
+            area: Al-Naseem district, Mekka
+            notes: Monthly public recitals; student and faculty performances; free admission
+          - name: Taif Arts Center (Friday Evenings)
+            area: Taif city center
+            notes: Weekly evening concerts featuring regional Oud players; open to visitors
+          - name: Jeddah Music Quarter (Al-Hamra Cultural Events)
+            area: Al-Hamra district, Jeddah
+            notes: Regular performance evenings; check Instagram for weekly schedule
+        notes: Modest dress required; arrive 30 minutes early for seating
+
+      - name: Poetry Circles (Majlis al-Shi'r)
+        description: >
+          Traditional Arabian poetry gatherings — classical Fusha and colloquial Nabati —
+          held in cultural clubs and private majlis settings. Recitation, improvised response
+          poetry, and audience participation.
+        recurrence: weekly
+        businesses:
+          - name: Saudi Writers and Literati Club (Mekka Chapter) — Friday Circle
+            area: Mekka city center
+            notes: Every Friday evening; classical and Nabati poetry; public welcome
+          - name: Taif Cultural Palace (Nabati Poetry Night)
+            area: Taif city center
+            notes: Thursday evenings; celebrated regional poets perform; very lively
+          - name: Jeddah Literary Club Monthly Evening
+            area: Al-Rawdah district, Jeddah
+            notes: Monthly gathering with guest poets; includes beginner workshops
+        notes: Arabic comprehension helpful; some events offer Arabic–English interpretation
+
+      - name: Taif Rose Festival (Mahrajan al-Ward)
+        description: >
+          Annual celebration of Taif's iconic Damascene roses during bloom season. Live
+          rose-picking, traditional distillation demonstrations, rose product markets,
+          Bedouin cultural performances, and cooking with rose water.
+        recurrence: seasonal
+        season: Late March to early April (varies by bloom)
+        location:
+          name: Taif Rose Farms and Al-Rudaf Park
+          area: Taif governorate (75 km from Mekka)
+        notes: Book accommodation in Taif weeks ahead during festival season
+
+      - name: Saudi National Day Celebrations (23 September)
+        description: >
+          Kingdom-wide celebrations with fireworks, drone light shows, live performances,
+          and heritage exhibitions across Mekka, Taif, and Jeddah.
+        recurrence: annual
+        season: 23 September
+        location:
+          areas:
+            - Abraj Al-Bait area and Mekka city center
+            - Jeddah Corniche (largest regional display)
+        notes: Hotels book up weeks in advance; fireworks typically after Isha prayer
+
+      - name: Heritage Bazaars and Seasonal Souqs
+        description: >
+          Open-air markets celebrating Arabian craft, food, and folk traditions — held during
+          national holidays, Eid, and heritage seasons. Feature handmade goods, traditional food,
+          live demonstrations, and folk performances.
+        businesses:
+          - name: Souq Al-Zal Heritage Nights (Ramadan edition)
+            area: Al-Mu'alla district, Mekka
+            notes: Extended hours and special vendors during Ramadan evenings
+          - name: Eid Al-Fitr Market (Mekka City Center)
+            area: Mekka Mall and surrounding streets, Al-Aziziyah
+            notes: Three-day market after Eid prayer; traditional sweets, clothing, and gifts
+          - name: Jeddah Winter Festival Market (Al-Balad Heritage Souq)
+            area: Historic Jeddah
+            notes: December–January; artisan stalls, street food, and live music; easy day trip
+        notes: Follow Saudi Tourism Authority (@visitsaudi) for current annual schedules
+
+  health_and_medical_services:
+    description: >
+      Key medical facilities, pharmacies, and health resources for pilgrims and visitors.
+      Mekka has world-class medical infrastructure specifically built to serve millions of
+      pilgrims — many services are free or subsidized for Hajj pilgrims.
+    items:
+      - name: King Abdullah Medical Complex (KAMC)
+        description: >
+          One of the largest and most advanced hospitals in Mekka — a major referral
+          center for serious medical cases during Hajj and Umrah seasons.
+        location:
+          name: King Abdullah Medical Complex
+          area: Al-Zahir district, Mekka
+          address: King Abdullah Road, Mekka
+        notes: >
+          24-hour emergency department; cardiology, orthopedics, and internal medicine;
+          Arabic and English-speaking staff; free treatment for Hajj pilgrims
+
+      - name: Ajyad Emergency Hospital
+        description: >
+          The closest major hospital to Masjid al-Haram — specifically designed to handle
+          the high volume of medical emergencies arising near the Grand Mosque.
+        location:
+          name: Ajyad Emergency Hospital
+          area: Ajyad district, directly adjacent to Masjid al-Haram
+          address: Ajyad Street, Al Haram district, Mekka
+        notes: 24-hour emergency care; heat stroke, cardiac, and crush injury specialists
+
+      - name: Saudi Red Crescent Authority (SRCA) Field Stations
+        description: >
+          Mobile and fixed first aid stations positioned throughout the Hajj circuit —
+          Mina, Arafat, Muzdalifah, and Masjid al-Haram perimeter — staffed by paramedics.
+        location:
+          area: Throughout Hajj circuit and Masjid al-Haram perimeter
+        emergency_number: "911"
+        notes: Rapid response for heat exhaustion, dehydration, and crowd-related injuries; free service
+
+      - name: Pharmacies Near Masjid al-Haram
+        description: Well-stocked pharmacies serving pilgrims 24 hours during peak seasons.
+        businesses:
+          - name: Al-Dawaa Pharmacy (multiple branches)
+            area: Ajyad Street and Ibrahim Al Khalil Street, Al Haram district
+            notes: Large Saudi chain; 24-hour during Hajj/Ramadan; Arabic and English staff
+          - name: United Pharmacy (Saydaliyat United)
+            area: Near Abraj Al-Bait, Al Haram district
+            notes: Comprehensive stock; competitive prices; multilingual staff
+          - name: Hotel Pharmacies (Fairmont, Hilton, Pullman)
+            area: Abraj Al-Bait Complex and Ajyad Street
+            notes: Convenient; higher prices but 24-hour availability
+        notes: >
+          Stock up on: oral rehydration salts, blister plasters, pain relief, sunscreen,
+          and heat stroke prevention supplies before intensive ibadah activities
+
+      - name: Heat Exhaustion Prevention
+        description: >
+          Practical guidance for staying safe in Mekka's extreme heat — temperatures
+          regularly exceed 45°C in summer. Heat exhaustion and heat stroke are the
+          leading medical emergencies during Hajj.
+        key_tips:
+          - Drink at least 3–4 liters of water daily (Zamzam freely available)
+          - Avoid direct sun between 10:00–16:00
+          - Wear white or light-colored loose clothing
+          - Use an umbrella during outdoor rituals (Arafat, Jamarat)
+          - Carry an electrolyte sachet (ORS) daily
+          - Recognize signs — dizziness, confusion, stopping sweating — seek shade and water immediately
+        cooling_stations:
+          - name: Masjid al-Haram cooling mist systems
+            area: Outdoor Mataf and sahn areas; misting fans throughout the perimeter
+          - name: Air-conditioned pedestrian tunnels
+            area: Connecting Mina tents and Jamarat Bridge
+        notes: Individual vigilance remains essential despite the government's cooling infrastructure
+
+      - name: Mental Health and Spiritual Counseling
+        description: >
+          Support services for pilgrims experiencing emotional distress or spiritual
+          challenges during the intense pilgrimage experience.
+        businesses:
+          - name: Masjid al-Haram Counseling and Guidance Office
+            area: Inside Masjid al-Haram (service desks near main gates)
+            notes: Islamic scholars and counselors; grief support and spiritual guidance; multilingual
+          - name: Ministry of Hajj Pilgrim Services Centers
+            area: Throughout Mekka and Hajj circuit
+            notes: Welfare services; lost and found; family reunification; psychological first aid
+        notes: Services are free and confidential; seeking guidance is a sign of strength
+
+  practical_resources:
+    description: >
+      Essential practical information for a safe, organized, and spiritually fulfilling
+      visit to Mekka — emergency contacts, apps, visa guidance, and packing essentials.
+    items:
+      - name: Emergency Contacts
+        description: Key emergency numbers and medical facilities in Mekka.
+        contacts:
+          - service: Saudi Emergency (Police / Ambulance / Fire)
+            number: "911"
+          - service: Saudi Red Crescent (Ambulance)
+            number: "997"
+          - service: Hajj Ministry Emergency Line
+            number: "920002814"
+        hospitals:
+          - name: King Abdullah Medical Complex (KAMC)
+            area: Al Haram district, Mekka
+            notes: Largest hospital in Mekka; 24/7 emergency; free care for Hajj pilgrims
+          - name: Al-Noor Specialist Hospital
+            area: Al-Aziziyah Road, Mekka
+            notes: Full specialist services; English-speaking staff available
+          - name: King Faisal Hospital
+            area: Al-Zaher district, Mekka
+            notes: General hospital with well-equipped A&E
+
+      - name: Essential Apps for Pilgrims
+        description: Smartphone applications that enhance safety, navigation, and spiritual experience.
+        apps:
+          - name: Nusuk (نسك)
+            developer: Saudi Ministry of Hajj and Umrah
+            platforms: [iOS, Android]
+            features:
+              - Official Hajj and Umrah registration and permits
+              - Real-time crowd density maps for Masjid al-Haram
+              - Prayer times and Qibla direction
+              - Lost pilgrim reporting
+            notes: Mandatory for Hajj pilgrims; highly recommended for Umrah visitors
+
+          - name: Careem / Uber
+            platforms: [iOS, Android]
+            features:
+              - Ride-hailing across Mekka and surrounding areas
+              - Advance booking available
+            notes: Careem is locally dominant; surge pricing during prayer times and Hajj
+
+          - name: Muslim Pro
+            platforms: [iOS, Android]
+            features:
+              - Accurate prayer times for Mekka
+              - Quran with translations and audio recitation
+              - Adhkar (daily remembrances) tracker
+
+          - name: Google Maps / Apple Maps
+            platforms: [iOS, Android]
+            features:
+              - Navigation within Mekka (good coverage)
+              - Download offline maps before arrival
+            notes: Walking coverage inside Masjid al-Haram is limited
+
+      - name: Visa and Entry Requirements
+        description: >
+          Saudi Arabia requires specific visas for Hajj and Umrah pilgrims.
+          Always verify with the official Saudi Hajj Ministry before booking.
+        visa_types:
+          - type: Hajj Visa
+            eligibility: Muslim pilgrims with approved national Hajj quota
+            apply_via: Your country's official Hajj mission or authorized Hajj operator
+            notes: Strictly for Hajj season; non-Muslim visitors are not permitted in Mekka
+
+          - type: Umrah Visa
+            eligibility: Muslim pilgrims; some nationalities via e-visa
+            validity: Up to 90 days; multiple-entry options available
+            apply_via: Saudi e-visa portal or licensed Umrah operators
+            notes: Many nationalities can now obtain the e-visa online; covers Mekka and Medina
+
+          - type: Saudi Tourist Visa (Non-Muslim)
+            eligibility: Nationals from eligible countries
+            notes: Non-Muslims may NOT enter Mekka city; covers all other Saudi destinations
+        notes: Always carry printed copies of all documents in addition to digital copies
+
+      - name: Ihram and Pilgrim Essentials Checklist
+        description: Practical packing guide for Hajj and Umrah.
+        ihram_requirements:
+          men:
+            - Two pieces of unstitched white cloth (Rida and Izar)
+            - Sandals (no covered heels in Ihram)
+          women:
+            - Modest, loose, full-coverage clothing (any color; face and hands uncovered)
+            - Comfortable walking shoes
+        recommended_items:
+          - Zamzam water carry bottle (stainless steel or BPA-free)
+          - Compact prayer mat
+          - Sunscreen (SPF 50+)
+          - Electrolyte sachets (ORS)
+          - Blister plasters and comfortable walking shoes
+          - Small first aid kit
+          - Prescription medications (carry doctor's letter in Arabic and English)
+          - Portable phone charger / power bank
+          - Small LED torch (useful in Mina tent city)
+          - Hajj/Umrah journal for recording duas and reflections
+        notes: All items available near Masjid al-Haram if forgotten; Ihram cloth sold at Miqat stations
