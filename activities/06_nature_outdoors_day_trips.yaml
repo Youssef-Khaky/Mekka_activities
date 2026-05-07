@@ -1,296 +1,261 @@
-# Nature, outdoor activities, and day trips from Mekka
+# الطبيعة والأنشطة الخارجية والرحلات اليومية من مكة المكرمة
 
 activities:
   nature_and_outdoors:
     description: >
-      Natural landscapes surrounding Mekka — from desert plains to the cool Taif mountains and Red Sea coast. Best visited
-      outside peak Hajj season (Dhul Hijjah) for safety and access.
+      المناظر الطبيعية المحيطة بمكة المكرمة — من السهول الصحراوية إلى جبال الطائف الباردة وشاطئ
+      البحر الأحمر. يُنصح بالزيارة خارج موسم الحج (ذو الحجة) لضمان السلامة وسهولة الوصول.
     items:
-    - name: Taif Mountain Trekking
+    - name: التنزه في جبال الطائف
       description: >
-        The Al-Hada and Al-Shafa mountains around Taif (75 km from Mekka, 1,800 m elevation) offer cooler temperatures, forested
-        trails, waterfalls, and stunning valley views. A complete contrast to Mekka's desert basin.
+        توفر جبال الهدا والشفا حول الطائف (75 كم من مكة، ارتفاع 1800 م) درجات حرارة أكثر برودة
+        ومسارات مشجرة وشلالات ومناظر خلابة للأودية. تناقض تام مع حرارة سهل مكة الصحراوي.
       location:
-        name: Al-Hada and Al-Shafa mountains
-        area: Taif governorate, Makkah Region
+        name: جبال الهدا والشفا
+        area: محافظة الطائف، منطقة مكة المكرمة
         coordinates: 21.3528° N, 40.4062° E
-        distance_from_mekka: 75 km (approx. 1 hour by car)
+        distance_from_mekka: 75 كم (نحو ساعة بالسيارة)
       businesses:
-      - name: Al-Hada Mountain Resort Trails (public access)
-        area: Al-Hada, Taif
-        notes: Marked walking trails through pine and juniper forest; free access
-      - name: Taif Adventure Park
-        area: Al-Shafa, Taif
-        notes: >
-          Zipline, rope bridges, and guided hiking; family-friendly; stunning views over the Hejaz mountain range
-      - name: Saudi Trekking Club (Taif chapter)
-        area: Taif
-        notes: Organized group hikes; welcome to visitors; contact via social media
-      difficulty: easy to moderate
-      best_season: >-
-        Year-round (summer especially pleasant — Taif is known as Saudi Arabia's summer retreat)
-      duration: 2–6 hours depending on trail
-      notes: >
-        Bring water, sunscreen, and layered clothing (evenings cool quickly at altitude); Al-Hada cable car offers aerial
-        views for those preferring a gentler option
-    - name: Taif Rose Valley (Wadi al-Ward)
+      - name: مسارات منتجع الهدا الجبلي (وصول عام)
+        area: الهدا، الطائف
+        notes: مسارات مُعلَّمة عبر غابات الصنوبر والعرعر؛ مجانية
+      - name: متنزه الطائف المغامر
+        area: الشفا، الطائف
+        notes: تحلق بالزيبلاين وجسور الحبال والمشي الإرشادي؛ مناسب للعائلات؛ إطلالات خلابة
+      - name: نادي المشي السعودي (فرع الطائف)
+        area: الطائف
+        notes: رحلات مشي جماعية منظمة؛ ترحيب بالزوار؛ التواصل عبر وسائل التواصل الاجتماعي
+      difficulty: سهل إلى متوسط
+      best_season: على مدار العام (الصيف ممتع بشكل خاص — الطائف مصيف المملكة المعروف)
+      duration: ساعتان إلى ست ساعات حسب المسار
+      notes: أحضر ماءً وواقٍ شمس وملابس متعددة الطبقات؛ تلفريك الهدا يتيح مناظر جوية للمستريحين
+
+    - name: وادي الورد بالطائف
       description: >
-        Taif is world-famous for its Damascene roses — the source of some of the world's finest rose oil (Attar al-Ward).
-        The rose season (March–April) fills the valleys with color and fragrance. Visit working rose farms and distilleries.
+        الطائف مشهورة عالمياً بأزهارها الدمشقية — مصدر بعض من أفخر زيت الورد في العالم (عطر الورد).
+        موسم الورد (مارس–أبريل) يملأ الأودية بالألوان والعطر. زيارة مزارع الورد ومعامل التقطير.
       location:
-        name: Rose Farms of Al-Hada and Al-Hawiyah
-        area: Taif, Makkah Region
-        distance_from_mekka: 75 km
+        name: مزارع ورود الهدا والحوية
+        area: الطائف، منطقة مكة المكرمة
+        distance_from_mekka: 75 كم
       businesses:
-      - name: Al-Khuraibah Rose Farm
-        area: Al-Hawiyah district, Taif
-        notes: >
-          One of the oldest rose farms in Taif; guided tours of rose picking and traditional steam-distillation of rose water
-          and Attar
-      - name: Taif Rose Festival (seasonal)
-        area: Taif city and surrounding farms
-        notes: >
-          Annual festival held during bloom season (late March to early April); live distillation demos, rose products market,
-          and cultural performances
-      - name: Al-Rudaf Park
-        area: Taif city center
-        address: Al-Rudaf Road, Taif
-        notes: Large public park with rose gardens; picnic areas; family-friendly; free entry
-      best_season: March–April (rose bloom season)
-      duration: Half-day to full-day
-      notes: >
-        Rose water, rose oil, and rose jam sold directly at farms — far cheaper and more authentic than city shops; book farm
-        visits in advance during festival season
-    - name: Desert Stargazing
+      - name: مزرعة الخريبة للورود
+        area: حي الحوية، الطائف
+        notes: من أقدم مزارع الورود في الطائف؛ جولات إرشادية لقطف الورود والتقطير التقليدي
+      - name: مهرجان ورود الطائف (موسمي)
+        area: مدينة الطائف والمزارع المحيطة
+        notes: مهرجان سنوي في موسم التفتح (أواخر مارس وأوائل أبريل)؛ عروض تقطير مباشرة وسوق منتجات
+      - name: منتزه الردف
+        area: وسط مدينة الطائف
+        address: طريق الردف، الطائف
+        notes: منتزه عام كبير مع حدائق الورود؛ مناطق نزهة؛ مناسب للعائلات؛ دخول مجاني
+      best_season: مارس–أبريل (موسم تفتح الورود)
+      duration: نصف يوم إلى يوم كامل
+      notes: ماء الورد وزيت الورد ومربى الورد تُباع مباشرة من المزارع بأسعار أرخص وجودة أعلى
+
+    - name: مراقبة النجوم في الصحراء
       description: >
-        The desert skies around Mekka are among the least light-polluted in the region. On clear nights the Milky Way is visible
-        with the naked eye. An experience that connects deeply with Islamic reflection on the cosmos.
+        سماء الصحراء حول مكة من أقل السماوات تلوثاً ضوئياً في المنطقة. في الليالي الصافية يُرى
+        درب التبانة بالعين المجردة. تجربة تُعمق التأمل الإسلامي في الكون.
       location:
-        name: Desert outskirts east of Mekka
-        area: Al-Badia and Wadi Na'man areas
-        distance_from_mekka: 20–40 km
+        name: أطراف الصحراء شرق مكة المكرمة
+        area: مناطق البادية ووادي نعمان
+        distance_from_mekka: 20–40 كم
       businesses:
-      - name: Makkah Desert Safari Co. (Stargazing Package)
-        area: Eastern desert, Mekka outskirts
-        notes: >
-          Evening packages including telescope sessions, Bedouin dinner, and guided star identification (Arabic star names
-          are richly historical)
-      - name: Saudi Astronomical Society (Jeddah chapter)
-        area: Jeddah (80 km)
-        notes: >
-          Organizes public stargazing nights; visitors welcome; telescopes provided; lectures on Islamic astronomy and the
-          historical Arabic star map
-      best_time: New moon phase; winter months (October–March) for clearest skies
-      duration: 3–5 hours (evening into night)
-      notes: >
-        Bring warm clothing for the desert night chill; Islamic astronomical heritage is vast — most stars visible tonight
-        carry Arabic names given by medieval Muslim scholars
-    - name: Wadi Na'man Hiking
+      - name: شركة سفاري مكة الصحراوية (باقة رصد النجوم)
+        area: الصحراء الشرقية، أطراف مكة
+        notes: باقات مسائية تشمل جلسات التلسكوب والعشاء البدوي وتحديد النجوم (أسماؤها العربية ثرية تاريخياً)
+      - name: الجمعية الفلكية السعودية (فرع جدة)
+        area: جدة (80 كم)
+        notes: تنظم ليالي رصد نجوم عامة؛ ترحيب بالزوار؛ تلسكوبات مرفقة
+      best_time: مرحلة الهلال الجديد؛ أشهر الشتاء (أكتوبر–مارس) لأصفى سماء
+      duration: ثلاث إلى خمس ساعات (من المساء حتى الليل)
+      notes: أحضر ملابس دافئة لبرودة الليل الصحراوي؛ التراث الفلكي الإسلامي ثري — معظم نجوم السماء تحمل أسماءً عربية
+
+    - name: تنزه وادي نعمان
       description: >
-        Wadi Na'man is a scenic valley system northeast of Mekka with rocky gorges, seasonal waterfalls after rainfall, and
-        ancient agricultural terraces. Popular for day hikes among Mekka residents.
+        وادي نعمان نظام وادٍ خلاب شمال شرق مكة بأخاديد صخرية وشلالات موسمية بعد هطول الأمطار
+        وشرفات زراعية قديمة. شهير بالنزهات اليومية بين سكان مكة.
       location:
-        name: Wadi Na'man
-        area: Northeast of Mekka, approx. 25 km from city center
+        name: وادي نعمان
+        area: شمال شرق مكة، نحو 25 كم من مركز المدينة
         coordinates: 21.5200° N, 39.9500° E
-      difficulty: easy to moderate
-      duration: 2–4 hours
-      notes: >
-        Best visited after winter rains (December–February) when water flows; no formal facilities — bring all food, water,
-        and navigation tools; hiking in groups is recommended
-    - name: Al-Hada Cable Car (Teleferik)
+      difficulty: سهل إلى متوسط
+      duration: ساعتان إلى أربع ساعات
+      notes: الأفضل بعد أمطار الشتاء (ديسمبر–فبراير)؛ لا مرافق رسمية — احمل طعامك وماءك؛ يُنصح بالتجمع
+
+    - name: تلفريك الهدا
       description: >
-        A scenic cable car ride over the Al-Hada mountain valley near Taif — offering breathtaking aerial views over the Hejaz
-        highlands, valleys, and forest canopy.
+        رحلة تلفريك خلابة فوق وادي الهدا الجبلي قرب الطائف — توفر مناظر جوية مذهلة على مرتفعات
+        الحجاز والأودية والغطاء الحرجي.
       location:
-        name: Al-Hada Cable Car Station
-        area: Al-Hada, Taif
-        address: Al-Hada Road, Taif
+        name: محطة تلفريك الهدا
+        area: الهدا، الطائف
+        address: طريق الهدا، الطائف
         coordinates: 21.3774° N, 40.3607° E
-      duration: 20–30 minutes (round trip)
-      operating_hours: 09:00–22:00 daily
-      notes: >
-        Suitable for all fitness levels; spectacular sunset views; combine with lunch at one of the hilltop restaurants overlooking
-        the valley
-    - name: Red Sea Snorkeling and Diving (Jeddah)
+      duration: 20–30 دقيقة (ذهاباً وإياباً)
+      operating_hours: 09:00–22:00 يومياً
+      notes: مناسب لجميع مستويات اللياقة؛ غروب رائع؛ يُقرن بغداء في أحد مطاعم القمة المطلة على الوادي
+
+    - name: الغطس والغوص في البحر الأحمر (جدة)
       description: >
-        The Red Sea off Jeddah hosts some of the world's most biodiverse coral reefs — pristine hard and soft corals, reef
-        fish, rays, turtles, and occasional whale sharks. Accessible for complete beginners through to advanced technical
-        divers.
+        يُعدّ البحر الأحمر قبالة جدة من أكثر الشعب المرجانية تنوعاً بيولوجياً في العالم — مرجان صلب
+        وطري وأسماك شعاب وأشعة وسلاحف وقراش الحوت أحياناً. متاح للمبتدئين التامين حتى الغواصين المتقدمين.
       location:
-        name: Jeddah Corniche and offshore reefs
-        area: Jeddah, Red Sea coast (80 km from Mekka)
+        name: كورنيش جدة والشعاب البحرية الخارجية
+        area: جدة، ساحل البحر الأحمر (80 كم من مكة)
         coordinates: 21.5433° N, 39.1728° E
       businesses:
-      - name: Dive Jeddah
-        area: Al-Kurnaysh (Corniche), Jeddah
-        notes: >
-          PADI Open Water certification courses; Discover Scuba for beginners (no cert needed); guided reef dives at Sharm
-          Obhur and offshore sites; full equipment rental
-      - name: Red Sea Dive Center
-        area: Obhur Creek, North Jeddah
-        address: Obhur Al-Shamaliyah, Jeddah
-        notes: >
-          Snorkeling day trips to shallow reefs; boat dive charters; underwater photography rental available; family snorkel
-          packages
-      - name: Al-Nawras Diving Club
-        area: Al-Hamra, Jeddah Corniche
-        notes: >
-          Community dive club; day memberships for certified divers; guided night dives (extraordinary visibility in warm
-          Red Sea waters)
-      best_season: October–April (cooler water; optimal visibility)
-      duration: Half-day to full-day
-      notes: >
-        Water temperature 22–30°C year-round; no wetsuit needed in summer; modest swimwear options available from dive centers
+      - name: دايف جدة
+        area: الكورنيش، جدة
+        notes: دورات PADI للغوص المفتوح؛ غطس استكشافي للمبتدئين بلا شهادة؛ غطسات إرشادية بشعاب شرم عبهر
+      - name: مركز البحر الأحمر للغوص
+        area: خور عبهر، شمال جدة
+        address: عبهر الشمالية، جدة
+        notes: رحلات غطس يومية لشعاب ضحلة؛ إيجار معدات تصوير تحت الماء متاح
+      - name: نادي النوارس للغوص
+        area: الحمراء، كورنيش جدة
+        notes: نادي غوص مجتمعي؛ اشتراكات يومية للغواصين المعتمدين؛ غطسات ليلية إرشادية
+      best_season: أكتوبر–أبريل (ماء أكثر برودة وأفضل وضوحاً)
+      duration: نصف يوم إلى يوم كامل
+      notes: درجة حرارة الماء 22–30°C على مدار العام؛ بدلات سباحة محتشمة متاحة من مراكز الغوص
+
   day_trips:
     description: >
-      Popular day-trip destinations reachable from Mekka within 1–2 hours, offering a change of scenery and additional spiritual
-      or cultural experiences.
+      وجهات رحلات يومية شهيرة يمكن الوصول إليها من مكة في غضون ساعة إلى ساعتين، توفر تغييراً
+      في المشهد وتجارب روحية وثقافية إضافية.
     items:
-    - name: Medina (Al-Madinah al-Munawwarah)
+    - name: المدينة المنورة
       description: >
-        The Prophet's city — home of Masjid al-Nabawi, the Quba Mosque (first mosque in Islam), Masjid al-Qiblatayn, and the
-        Baqi cemetery. A deeply moving pilgrimage extension for any visitor to Mekka.
+        مدينة النبي صلى الله عليه وسلم — موطن المسجد النبوي الشريف ومسجد قباء (أول مسجد في الإسلام)
+        ومسجد القبلتين ومقبرة البقيع. إضافة حجية عميقة الأثر لأي زيارة لمكة.
       location:
-        area: Medina, approx. 450 km north of Mekka
-        distance_from_mekka: 450 km (4–4.5 hours by road; 2 hours by Haramain High Speed Railway)
+        area: المدينة المنورة، نحو 450 كم شمال مكة
+        distance_from_mekka: 450 كم (4–4.5 ساعات براً؛ ساعتان بقطار الحرمين)
       key_sites:
-      - >-
-        Masjid al-Nabawi (Prophet's Mosque) — burial place of the Prophet Muhammad (PBUH)
-      - >-
-        Masjid Quba — first mosque built in Islam; two rak'ahs here equal an Umrah (hadith)
-      - Masjid al-Qiblatayn — where the Qibla direction was changed to Mekka
-      - Jannat al-Baqi — the main Medina cemetery with companions of the Prophet
-      - Jabal Uhud — site of the Battle of Uhud; graves of the martyrs
-      - Al-Madinah Dates Market — the largest date market in the world
+      - المسجد النبوي الشريف — ضريح النبي محمد صلى الله عليه وسلم
+      - مسجد قباء — أول مسجد بُني في الإسلام؛ ركعتان تعدلان عمرة (حديث شريف)
+      - مسجد القبلتين — حيث تحولت القبلة إلى مكة المكرمة
+      - مقبرة البقيع — مقبرة المدينة الرئيسية تضم قبور صحابة النبي
+      - جبل أحد — موقع غزوة أحد وقبور الشهداء
+      - سوق تمور المدينة المنورة — أكبر سوق تمور في العالم
       transport:
-      - Haramain High Speed Railway (HHR) — fastest option; 2 hours; book online
-      - Intercity buses (SAPTCO) — affordable; depart from Mekka Central Bus Station
-      - Private car hire or taxi — flexible; allow extra time for checkpoints
-      notes: >
-        Non-Muslims are not permitted to enter Medina's central sacred area; Muslim visitors should book railway tickets well
-        in advance during Hajj and Ramadan
-    - name: Jeddah (Historic Al-Balad)
+      - قطار الحرمين السريع (HHR) — الأسرع؛ ساعتان؛ احجز إلكترونياً
+        url: https://sar.hhr.sa
+      - حافلات سابتكو بين المدن — اقتصادية؛ تنطلق من محطة مكة المركزية
+        url: https://saptco.com.sa/en
+      - استئجار سيارة خاصة أو تاكسي — مرن؛ احسب وقتاً إضافياً للنقاط الأمنية
+      notes: غير المسلمين لا يُسمح لهم بدخول المنطقة المركزية المقدسة بالمدينة
+
+    - name: جدة (البلد التاريخي)
       description: >
-        Saudi Arabia's cosmopolitan port city on the Red Sea — home to UNESCO World Heritage Site Al-Balad, the Jeddah Corniche,
-        King Fahd Fountain (world's tallest), and the gateway to Red Sea adventures.
+        المدينة الساحلية العالمية على البحر الأحمر — موطن موقع البلد التراثي المدرج في قائمة يونسكو
+        وكورنيش جدة ونافورة الملك فهد (الأعلى في العالم) وبوابة مغامرات البحر الأحمر.
       location:
-        area: Jeddah, approx. 80 km west of Mekka (approx. 1 hour by car)
+        area: جدة، نحو 80 كم غرب مكة (نحو ساعة بالسيارة)
       key_sites:
-      - >-
-        Al-Balad Historic District — UNESCO World Heritage Site; coral-stone houses with Roshan wooden screens
-      - King Fahd Fountain — world's tallest fountain (312 m); best viewed at night
-      - Jeddah Corniche (Al-Kurnaysh) — 30 km waterfront promenade
-      - Floating Mosque (Masjid Al-Rahma) — iconic mosque built on the Red Sea
-      - Red Sea snorkeling and diving sites
+      - حي البلد التاريخي — موقع يونسكو؛ منازل مرجانية بشناشيل خشبية
+      - نافورة الملك فهد — أعلى نافورة في العالم (312 م)؛ أجمل ليلاً
+      - كورنيش جدة — ممشى مائي بطول 30 كم
+      - المسجد الرحمة العائم — مسجد أيقوني يُبنى على البحر الأحمر
+      - مواقع الغطس والغوص في البحر الأحمر
       transport:
-      - Taxi or Uber/Careem — approx. SAR 100–150 one way
-      - SAPTCO buses — budget option from Mekka Central Bus Station
-      notes: >
-        Al-Balad is best explored on foot in cooler morning or evening hours; combine with Red Sea activities for a full day
-    - name: Taif (City of Roses)
+      - تاكسي أو أوبر/كريم — نحو 100–150 ريال اتجاهاً واحداً
+      - حافلات سابتكو — خيار اقتصادي من محطة مكة المركزية
+        url: https://saptco.com.sa/en
+      notes: البلد أجمل ما يُستكشف سيراً في ساعات الصباح أو المساء الأكثر برودة
+
+    - name: الطائف (مدينة الورود)
       description: >
-        A scenic mountain city at 1,800 m elevation — Saudi Arabia's summer retreat, famous for Damascene roses, cooler temperatures,
-        lush gardens, and mountain escarpments.
+        مدينة جبلية خلابة على ارتفاع 1800 م — مصيف المملكة العربية السعودية، مشهورة بالورود الدمشقية
+        ومناخها الأكثر برودة وحدائقها الغناء ومنحدراتها الجبلية.
       location:
-        area: Taif, approx. 75 km southeast of Mekka
-        distance_from_mekka: 75 km (approx. 1–1.5 hours by car via Al-Hada mountain road)
+        area: الطائف، نحو 75 كم جنوب شرق مكة
+        distance_from_mekka: 75 كم (نحو ساعة إلى ساعة ونصف بالسيارة عبر طريق الهدا الجبلي)
       key_sites:
-      - Al-Hada and Al-Shafa mountain resort areas
-      - Taif Rose Farms (peak bloom March–April)
-      - Al-Rudaf Park and Taif Zoo
-      - Al-Hada Cable Car (Teleferik) — aerial valley views
-      - Taif Souq and local honey and date market
+      - مناطق منتجع الهدا والشفا الجبليتين
+      - مزارع ورود الطائف (ذروة التفتح مارس–أبريل)
+      - منتزه الردف وحديقة حيوان الطائف
+      - تلفريك الهدا — مناظر جوية للوادي
+      - سوق الطائف والعسل والتمور المحلية
       transport:
-      - Taxi or Uber/Careem — scenic mountain road drive
-      - SAPTCO bus — regular departures from Mekka
-      best_season: Year-round; summer is refreshing at altitude; rose season is March–April
-      notes: >
-        The drive up Al-Hada mountain road offers stunning hairpin-bend scenery; Taif is significantly cooler than Mekka —
-        bring a light jacket
-    - name: Badr (First Major Battle of Islam)
+      - تاكسي أو أوبر/كريم — طريق جبلي خلاب
+      - حافلة سابتكو — رحلات منتظمة من مكة
+        url: https://saptco.com.sa/en
+      best_season: على مدار العام؛ الصيف منعش بالارتفاع؛ موسم الورود مارس–أبريل
+      notes: الطريق الصاعد على الهدا يتيح مناظر ملتوية مبهرة؛ الطائف أبرد بكثير من مكة — احمل جاكيتاً خفيفاً
+
+    - name: بدر (الغزوة الكبرى الأولى في الإسلام)
       description: >
-        The plains of Badr, where the Prophet (PBUH) and 313 companions achieved a decisive victory in 624 CE. A profoundly
-        moving historical and spiritual destination.
+        سهول بدر حيث حقق النبي صلى الله عليه وسلم و313 من صحابته نصراً حاسماً عام 624م.
+        وجهة تاريخية وروحية بالغة التأثير.
       location:
-        area: Badr, approx. 340 km northwest of Mekka
-        distance_from_mekka: 340 km (approx. 3.5 hours by car)
+        area: بدر، نحو 340 كم شمال غرب مكة
+        distance_from_mekka: 340 كم (نحو 3.5 ساعات بالسيارة)
         coordinates: 23.7794° N, 38.7867° E
       key_sites:
-      - Martyrs' Cemetery (Shuhada Badr)
-      - Jabal al-Malaikah (Angels' Mountain)
-      - The Well of Badr
-      - Badr Museum
-      notes: >
-        Best combined with a Medina trip; respectful modest dress required; guided tours available from Mekka and Medina
-    - name: Miqat Stations Tour
+      - مقبرة شهداء بدر
+      - جبل الملائكة
+      - بئر بدر
+      - متحف بدر
+      notes: يُفضل تنسيقه مع رحلة إلى المدينة المنورة؛ الملبس المحتشم إلزامي
+
+    - name: جولة مواقيت الإحرام
       description: >
-        A guided journey visiting the boundary points (Miqat) that mark the sacred limits of the Haram — historically significant
-        for pilgrims and Islamic geography.
+        رحلة إرشادية تزور نقاط الحدود (المواقيت) التي تحدد الحدود المقدسة للحرم — ذات أهمية تاريخية
+        بالغة لفقه الحج وجغرافية الإسلام.
       highlights:
-      - Masjid Aisha (Tan'eem) — 7.5 km north; closest Miqat for those already in Mekka
-      - >-
-        Masjid Al-Ji'ranah — where the Prophet distributed Hunayn spoils and entered Ihram
-      - Qarn al-Manazil (Al-Sayl Al-Kabir) — 75 km east; Miqat for pilgrims from Najd
-      - >-
-        Al-Juhfah (near Rabigh) — 180 km northwest; Miqat for pilgrims from Syria/Egypt direction
-      duration: Half-day (Tan'eem and Ji'ranah) to full day (outer Miqat stations)
-      notes: >
-        Excellent for deepening understanding of Islamic geography and Hajj jurisprudence; many pilgrims make an additional
-        Umrah from Masjid Ji'ranah following the Prophet's Sunnah
-    - name: Wadi-e-Nakhla (Valley of Palms)
+      - مسجد السيدة عائشة (التنعيم) — 7.5 كم شمالاً؛ أقرب ميقات لمن في مكة
+      - مسجد الجعرانة — حيث وزع النبي صلى الله عليه وسلم غنائم حنين وأحرم
+      - قرن المنازل (السيل الكبير) — 75 كم شرقاً؛ ميقات أهل نجد والخليج
+      - الجحفة (قرب رابغ) — 180 كم شمال غرباً؛ ميقات أهل الشام ومصر
+      duration: نصف يوم (التنعيم والجعرانة) إلى يوم كامل (المواقيت الخارجية)
+      notes: يُعمق فهم الجغرافية الإسلامية وفقه الحج؛ كثير من الحجاج يؤدون عمرة من الجعرانة
+
+    - name: وادي النخلة (وادي الأخشب)
       description: >
-        A lush valley just outside Mekka historically significant as where the Prophet (PBUH) encountered the group of jinn
-        who embraced Islam (referenced in Surah Al-Jinn 72). A scenic natural and spiritually meaningful excursion.
+        وادٍ خصب خارج مكة مباشرة ذو أهمية تاريخية لأنه المكان الذي التقى فيه النبي صلى الله عليه
+        وسلم بالجن الذين آمنوا (مذكور في سورة الجن 72). رحلة طبيعية ذات معنى روحي عميق.
       location:
-        name: Wadi Nakhla
-        area: Northeast of Mekka, approx. 20 km from city center
-      duration: 2–3 hours
-      notes: >
-        Accessible by taxi or private car; serene natural environment; best visited in cooler months (October–March)
-    - name: Wadi Bahra and Wadi Na'man Excursion
+        name: وادي نخلة
+        area: شمال شرق مكة، نحو 20 كم من المركز
+      duration: ساعتان إلى ثلاث ساعات
+      notes: يُصل إليه بالتاكسي أو السيارة الخاصة؛ بيئة طبيعية هادئة؛ أفضل في الأشهر الباردة
+
+    - name: رحلة وادي بهرة ووادي نعمان
       description: >
-        Scenic desert valley systems northeast of Mekka offering geological formations, natural rock pools (seasonal), ancient
-        agricultural terraces, and Bedouin heritage sites.
+        أودية صحراوية خلابة شمال شرق مكة توفر تشكيلات جيولوجية وبرك طبيعية موسمية وشرفات زراعية
+        قديمة ومواقع تراث بدوي.
       location:
-        area: Northeast of Mekka, 20–40 km from city center
+        area: شمال شرق مكة، 20–40 كم من المركز
       businesses:
-      - name: Makkah Desert Safari Co. (valley excursions)
-        area: Eastern desert outskirts of Mekka
-        notes: Half-day wadi hikes combined with Bedouin lunch; vehicle transport included
-      difficulty: easy to moderate
-      duration: Half-day (3–5 hours)
-      notes: >-
-        Best after winter rains (December–February); bring plenty of water and sun protection
-    - name: Souq Okaz (Seasonal Heritage Festival)
+      - name: شركة سفاري مكة الصحراوية (رحلات الأودية)
+        area: الأطراف الشرقية الصحراوية لمكة
+        notes: نزهات وادي نصف يوم مع غداء بدوي؛ نقل بالسيارة مشمول
+      difficulty: سهل إلى متوسط
+      duration: نصف يوم (3–5 ساعات)
+      notes: الأفضل بعد أمطار الشتاء (ديسمبر–فبراير)؛ أحضر كمية وافرة من الماء وواقٍ شمس
+
+    - name: سوق عكاظ (مهرجان تراثي موسمي)
       description: >
-        Revival of the ancient pre-Islamic and early Islamic market-fair near Taif where Arab poets, traders, and tribal leaders
-        gathered. Now a major annual cultural festival organized by the Saudi Ministry of Culture — featuring live poetry
-        competitions, theatrical performances, traditional crafts, and Arabian horse shows.
+        إحياء سوق ما قبل الإسلام والفجر الإسلامي قرب الطائف حيث كان الشعراء والتجار وزعماء القبائل
+        العرب يجتمعون. الآن مهرجان ثقافي كبير تنظمه وزارة الثقافة يتضمن مسابقات شعرية حية
+        وعروضاً مسرحية وحرفاً تقليدية وعروضاً للخيل العربية.
       location:
-        name: Souq Okaz Festival Grounds
-        area: Approx. 30 km northeast of Taif (110 km from Mekka)
-      season: Annually (typically July–August; check Saudi Tourism Authority for exact dates)
-      duration: Full day
-      notes: >-
-        Unique window into classical Arabian civilization; one of the most atmospheric events in the region
-    - name: Wadi Al-Noman
+        name: ساحات مهرجان سوق عكاظ
+        area: نحو 30 كم شمال شرق الطائف (110 كم من مكة)
+      season: سنوياً (في الغالب يوليو–أغسطس؛ راجع هيئة السياحة للتواريخ الدقيقة)
+        url: https://www.visitsaudi.com/en
+      duration: يوم كامل
+      notes: نافذة فريدة على الحضارة العربية الكلاسيكية؛ من أكثر الفعاليات الإقليمية جمالاً وأصالة
+
+    - name: موقع الأخدود التاريخي (نجران)
       description: >
-        A scenic valley northeast of Mekka mentioned in Islamic poetry and narrations, historically associated with the spread
-        of early Islam. Rocky desert scenery with ancient agricultural terracing.
+        رحلة أطول إلى الأخدود (نجران) — مدينة قديمة مرشحة لليونسكو مذكورة في القرآن الكريم
+        (سورة البروج 85). تضم نقوشاً صخرية ما قبل إسلامية وأطلال حميرية وموقع أصحاب الأخدود.
       location:
-        area: Northeast of Mekka, approx. 30 km
-        coordinates: 21.5200° N, 39.9500° E
-      duration: Half-day
-      notes: Best in cooler months (November–March); no formal facilities; 4x4 recommended
-    - name: Al-Ukhdood Historical Site (Najran)
-      description: >
-        A longer excursion to Al-Ukhdood (Najran) — a UNESCO-nominated ancient city mentioned in the Quran (Surah al-Buruj
-        85). Includes pre-Islamic rock inscriptions, Himyarite ruins, and the site of the Companions of the Trench.
-      location:
-        name: Al-Ukhdood Archaeological Site
-        area: Najran, Southern Saudi Arabia
-        distance_from_mekka: 700 km (approx. 7 hours by road or 1.5 hours by flight)
-      duration: 2-day trip minimum
-      notes: >
-        For history enthusiasts; Saudia and flynas operate Jeddah–Najran flights; combine with Najran Museum for full context
+        name: الموقع الأثري بالأخدود
+        area: نجران، جنوب المملكة العربية السعودية
+        distance_from_mekka: 700 كم (نحو 7 ساعات براً أو ساعة ونصف بالطيران)
+      duration: رحلة يومين على الأقل
+      notes: لهواة التاريخ؛ السعودية وفلاي ناس تشغلان رحلات جدة–نجران؛ يُقرن بمتحف نجران

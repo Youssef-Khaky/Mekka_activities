@@ -1,394 +1,415 @@
-# Seasonal events, family activities, and health resources
+# الفعاليات الموسمية والأنشطة العائلية والخدمات الصحية
 
 activities:
   ramadan_activities:
     description: >
-      Special activities and experiences unique to the holy month of Ramadan, when Mekka is at its most spiritually charged
-      and vibrant.
+      أنشطة وتجارب خاصة بالشهر الفضيل رمضان، حين تبلغ مكة المكرمة ذروتها الروحية والحيوية.
     items:
-    - name: Iftar at Masjid al-Haram
+    - name: الإفطار في المسجد الحرام
       description: >
-        Breaking the fast at sunset (Maghrib) inside the Grand Mosque — one of the most spiritually profound experiences in
-        Islam. Dates and water distributed free by the Saudi government throughout the mosque.
+        الإفطار عند أذان المغرب داخل المسجد الحرام — من أعمق التجارب الروحية في الإسلام.
+        التمر والماء يوزعان مجاناً من قِبل الحكومة السعودية في أنحاء المسجد.
       location:
-        name: Masjid al-Haram
-        area: Al Haram district, Mekka
-      timing: Daily at Maghrib prayer time throughout Ramadan
+        name: المسجد الحرام
+        area: منطقة الحرم، مكة المكرمة
+      timing: يومياً عند صلاة المغرب طوال رمضان
       notes: >
-        Arrive 30–45 minutes before Maghrib to secure a spot; communal spirit is extraordinary; dates, water, and sometimes
-        full meals distributed free of charge
-    - name: Tarawih Prayer (Ramadan Night Prayer)
+        صل قبل 30–45 دقيقة من المغرب لتأمين مكانك؛ الروح الجماعية استثنائية؛ التمر والماء
+        وأحياناً وجبات كاملة تُوزع مجاناً
+
+    - name: صلاة التراويح (قيام الليل الرمضاني)
       description: >
-        Extended nightly prayers held after Isha during Ramadan — led by world-renowned Quran reciters at Masjid al-Haram.
-        Among the most moving religious experiences available anywhere in the Muslim world.
+        صلوات ليلية مطولة تُقام بعد العشاء في رمضان — يؤمها قراء مشهورون في المسجد الحرام.
+        من أكثر التجارب الدينية تأثيراً في العالم الإسلامي.
       location:
-        name: Masjid al-Haram
-        area: Al Haram district, Mekka
-      duration: 1.5–2.5 hours per night
+        name: المسجد الحرام
+        area: منطقة الحرم، مكة المكرمة
+      duration: ساعة ونصف إلى ساعتين ونصف كل ليلة
       notes: >
-        The Imam recites the entire Quran over 30 nights; arrive early for space; rooftop and courtyard areas fill fast; bring
-        a small prayer mat or towel
-    - name: Laylat al-Qadr Vigil (Night of Power)
+        يختم الإمام القرآن الكريم كاملاً خلال 30 ليلة؛ تبكّر لتأمين المكان؛ السطح والأفنية تمتلئ
+        سريعاً؛ أحضر سجادة صغيرة أو منشفة
+
+    - name: ليلة القدر (أشرف ليالي العام)
       description: >
-        The holiest night of the year — believed to fall in the last ten nights of Ramadan (most likely the 27th). Worship
-        on this night is better than a thousand months (Quran 97:3). Muslims spend the night in prayer, Quran recitation,
-        and supplication at Masjid al-Haram.
+        أقدس ليلة في العام — يُرجَّح أنها في العشر الأواخر من رمضان (الأرجح الليلة السابعة والعشرون).
+        العبادة فيها خير من ألف شهر (القرآن 97:3). يقضي المسلمون الليل في الصلاة وتلاوة القرآن
+        والتضرع بالدعاء في المسجد الحرام.
       location:
-        name: Masjid al-Haram
-        area: Al Haram district, Mekka
-      timing: Last ten nights of Ramadan; most intensely the 27th night
+        name: المسجد الحرام
+        area: منطقة الحرم، مكة المكرمة
+      timing: العشر الأواخر من رمضان؛ بكثافة في الليلة السابعة والعشرين
       notes: >
-        The mosque reaches absolute peak capacity on this night; arrive several hours early or plan to worship from the courtyards
-        and rooftop; I'tikaf retreat is highly recommended
-    - name: Suhoor Near the Grand Mosque
+        يصل المسجد لأعلى طاقته الاستيعابية في هذه الليلة؛ تبكّر بساعات أو خطط للعبادة
+        في الأفنية والسطح؛ الاعتكاف موصى به بشدة
+
+    - name: السحور قرب المسجد الحرام
       description: >
-        The pre-dawn meal (Suhoor) taken before Fajr — enjoyed at the many restaurants and street food stalls that stay open
-        all night during Ramadan around the Haram.
+        وجبة السحور قبيل الفجر — في المطاعم ومحلات الطعام التي تبقى مفتوحة الليل كله حول
+        الحرم خلال رمضان.
       location:
-        area: >-
-          Ajyad Street, Ibrahim Al Khalil Street, and hotel restaurants in Al Haram district
+        area: شارع أجياد وشارع إبراهيم الخليل ومطاعم الفنادق في منطقة الحرم
       businesses:
-      - name: Al Baik (24-hour Ramadan hours)
-        area: Ajyad Street and Abraj Al-Bait
-      - name: Al Nafoura — Le Méridien Towers
-        area: Ajyad Street
-        notes: Suhoor buffet with Haram views
-      - name: Saffron Restaurant — Fairmont Clock Tower
-        area: Abraj Al-Bait
-        notes: Upscale Suhoor with Kaaba view; reservation essential
+      - name: البيك (مواعيد رمضان المفتوحة)
+        area: شارع أجياد وأبراج البيت
+        url: https://www.albaik.com
+      - name: مطعم النافورة — لو ميريديان تاورز
+        area: شارع أجياد
+        notes: بوفيه سحور مع إطلالة على الحرم
+      - name: مطعم سافرون — فيرمونت برج الساعة
+        area: أبراج البيت
+        notes: سحور راقٍ مع إطلالة على الكعبة؛ الحجز ضروري
       notes: >
-        Streets around the Haram are uniquely alive between midnight and Fajr during Ramadan — street vendors, charity food
-        distribution, and a festive spiritual atmosphere
-    - name: I'tikaf (Mosque Seclusion Retreat)
+        الشوارع حول الحرم حيّة بشكل فريد بين منتصف الليل والفجر في رمضان — باعة متجولون
+        وتوزيع خيري للطعام وأجواء روحانية احتفالية
+
+    - name: الاعتكاف (الخلوة الرمضانية)
       description: >
-        Devoting the last ten days and nights of Ramadan to seclusion inside Masjid al-Haram — sleeping, eating, and worshipping
-        within the mosque. A Sunnah of the Prophet (PBUH); profoundly transformative for those who undertake it.
+        تكريس العشر الأواخر والليالي من رمضان للخلوة داخل المسجد الحرام — النوم والأكل والعبادة
+        داخل المسجد. سنة نبوية مأثورة؛ تحوّل أصحابها إلى تجربة روحية مدى الحياة.
       location:
-        name: Masjid al-Haram — designated I'tikaf areas
-        area: Al Haram district, Mekka
-      timing: Last ten days of Ramadan
+        name: المسجد الحرام — مناطق الاعتكاف المخصصة
+        area: منطقة الحرم، مكة المكرمة
+      timing: العشر الأواخر من رمضان
       notes: >
-        Registration required through the Saudi Ministry of Hajj and Umrah; permits are limited and must be applied for well
-        in advance
-    - name: Ramadan Night Markets
+        التسجيل مطلوب عبر وزارة الحج والعمرة؛ التصاريح محدودة ويجب التقدم مبكراً
+
+    - name: أسواق رمضان الليلية
       description: >
-        Temporary evening markets around Mekka and Jeddah during Ramadan — street food, craft stalls, Nasheed performances,
-        and family entertainment from Iftar until Suhoor.
+        أسواق مسائية مؤقتة في مكة وجدة خلال رمضان — طعام شعبي وبسطات حرفية وأمسيات نشيد
+        وترفيه عائلي من الإفطار حتى السحور.
       businesses:
-      - name: Mekka Ramadan Festival (seasonal, location varies)
-        area: Al-Aziziyah district and central Mekka
-        notes: Check Saudi Tourism Authority for annual event details
-      - name: Corniche Ramadan Night Market
-        area: Jeddah Corniche (80 km)
-        notes: Large outdoor market; family-friendly; open nightly from Iftar until Fajr
-      notes: Deeply festive; families stay out very late; a social highlight of the month
-    - name: Quran Khatm (Completion Gatherings)
+      - name: مهرجان مكة رمضان (موسمي، الموقع يتغير)
+        area: حي العزيزية ووسط مكة
+        notes: راجع هيئة السياحة لتفاصيل الفعالية السنوية
+        url: https://www.visitsaudi.com/en
+      - name: سوق رمضان الليلي — كورنيش جدة
+        area: كورنيش جدة (80 كم)
+        notes: سوق خارجي كبير؛ مناسب للعائلات؛ مفتوح ليلياً من الإفطار حتى الفجر
+      notes: أجواء بالغة الحيوية؛ العائلات تسهر حتى وقت متأخر؛ تظاهرة اجتماعية بارزة في الشهر
+
+    - name: ختمات القرآن الكريم
       description: >
-        Joining groups that complete a full recitation of the Quran — traditionally done multiple times during Ramadan. Study
-        circles with teachers guide daily portions with correct Tajweed (recitation rules) and pronunciation.
+        الانضمام لمجموعات ختم القرآن الكريم كاملاً — يُقرأ تقليدياً أكثر من مرة في رمضان. حلقات
+        دراسة يقودها شيوخ تُغطي الحصص اليومية بتجويد صحيح ونطق سليم.
       location:
-        name: Masjid al-Haram — various floor sections and corridors
-        area: Al Haram district, Mekka
+        name: المسجد الحرام — أقسام وممرات متعددة
+        area: منطقة الحرم، مكة المكرمة
       notes: >
-        Groups form organically near pillars and corridors throughout the mosque; non-Arabic speakers are welcome to listen
-        and follow along with a translation; completing the Quran in Ramadan at Masjid al-Haram carries immense spiritual
-        reward
+        المجموعات تتشكل طوعياً بالقرب من الأعمدة والممرات في المسجد؛ غير الناطقين بالعربية
+        مرحب بهم للاستماع والمتابعة مع ترجمة؛ لختم القرآن في رمضان بالمسجد الحرام أجر عظيم
+
   events:
     description: >
-      Recurring and seasonal cultural events in Mekka, Taif, and Jeddah — poetry circles, Oud evenings, seasonal markets,
-      Ramadan programs, and heritage festivals. Many events are free or low-cost. Check Saudi Tourism Authority and local
-      social media for current schedules.
+      فعاليات ثقافية متكررة وموسمية في مكة والطائف وجدة — أمسيات شعرية وليالي عود وأسواق موسمية
+      وبرامج رمضانية ومهرجانات تراثية. كثير منها مجاني أو رمزي التكلفة. راجع هيئة السياحة
+      ووسائل التواصل المحلية للبرامج الراهنة.
     items:
-    - name: Oud and Arabic Music Evenings
+    - name: أمسيات العود والموسيقى العربية
       description: >
-        Live Oud performances, classical Arabic ensemble concerts, and maqam improvisation sessions held at cultural centers
-        and music cafes — a window into 1,000 years of living musical heritage.
-      recurrence: weekly
+        عروض عود حية وحفلات أنسامبل عربي كلاسيكي وجلسات ارتجال مقامي في المراكز الثقافية
+        والكافيهات الموسيقية — نافذة على ألف عام من التراث الموسيقي الحي.
+      recurrence: أسبوعية
       businesses:
-      - name: Mekka Music and Arts Institute (Evening Concerts)
-        area: Al-Naseem district, Mekka
-        notes: Monthly public recitals; student and faculty performances; free admission
-      - name: Taif Arts Center (Friday Evenings)
-        area: Taif city center
-        notes: Weekly evening concerts featuring regional Oud players; open to visitors
-      - name: Jeddah Music Quarter (Al-Hamra Cultural Events)
-        area: Al-Hamra district, Jeddah
-        notes: Regular performance evenings; check Instagram for weekly schedule
-      notes: Modest dress required; arrive 30 minutes early for seating
-    - name: Poetry Circles (Majlis al-Shi'r)
+      - name: معهد مكة للموسيقى والفنون (حفلات مسائية)
+        area: حي النسيم، مكة المكرمة
+        notes: حفلات عامة شهرية؛ عروض الطلاب وأعضاء هيئة التدريس؛ دخول مجاني
+      - name: مركز الطائف للفنون (أمسيات الجمعة)
+        area: وسط مدينة الطائف
+        notes: حفلات مسائية أسبوعية لعازفي عود إقليميين؛ مفتوحة للزوار
+      - name: منطقة الموسيقى بجدة (فعاليات ثقافية الحمراء)
+        area: حي الحمراء، جدة
+        notes: أمسيات أداء منتظمة؛ راجع إنستغرام للبرنامج الأسبوعي
+      notes: الملبس المحتشم مطلوب؛ تبكّر 30 دقيقة لتأمين المقعد
+
+    - name: أمسيات الشعر (مجلس الشعر)
       description: >
-        Traditional Arabian poetry gatherings — classical Fusha and colloquial Nabati — held in cultural clubs and private
-        majlis settings. Recitation, improvised response poetry, and audience participation.
-      recurrence: weekly
+        تجمعات شعر عربي تقليدية — فصيح ونبطي — في الأندية الثقافية وصالونات المجلس الخاصة.
+        إلقاء وشعر تلقائي وارتجال ومشاركة جمهور.
+      recurrence: أسبوعية
       businesses:
-      - name: Saudi Writers and Literati Club (Mekka Chapter) — Friday Circle
-        area: Mekka city center
-        notes: Every Friday evening; classical and Nabati poetry; public welcome
-      - name: Taif Cultural Palace (Nabati Poetry Night)
-        area: Taif city center
-        notes: Thursday evenings; celebrated regional poets perform; very lively
-      - name: Jeddah Literary Club Monthly Evening
-        area: Al-Rawdah district, Jeddah
-        notes: Monthly gathering with guest poets; includes beginner workshops
-      notes: Arabic comprehension helpful; some events offer Arabic–English interpretation
-    - name: Taif Rose Festival (Mahrajan al-Ward)
+      - name: نادي الأدباء والكتاب السعوديين (فرع مكة) — أمسية الجمعة
+        area: وسط مكة المكرمة
+        notes: كل جمعة مساءً؛ شعر كلاسيكي ونبطي؛ الجمهور مرحب به
+      - name: القصر الثقافي بالطائف (ليلة الشعر النبطي)
+        area: وسط مدينة الطائف
+        notes: مساء الخميس؛ شعراء إقليميون مشهورون؛ حضور مميز
+      - name: الأمسية الشهرية — نادي جدة الأدبي
+        area: حي الروضة، جدة
+        url: https://adabijeddah.com
+        notes: تجمع شهري مع شعراء ضيوف؛ يشمل ورشاً للمبتدئين
+      notes: الفهم العربي مفيد؛ بعض الفعاليات تقدم ترجمة عربية–إنجليزية
+
+    - name: مهرجان ورود الطائف (مهرجان الورد)
       description: >
-        Annual celebration of Taif's iconic Damascene roses during bloom season. Live rose-picking, traditional distillation
-        demonstrations, rose product markets, Bedouin cultural performances, and cooking with rose water.
-      recurrence: seasonal
-      season: Late March to early April (varies by bloom)
+        احتفال سنوي بورود الطائف الدمشقية الأيقونية في موسم التفتح. قطف الورود الحي وعروض
+        التقطير التقليدي وسوق منتجات الورد وفعاليات ثقافية بدوية وطبخ بماء الورد.
+      recurrence: موسمية
+      season: أواخر مارس وأوائل أبريل (يتفاوت حسب التفتح)
       location:
-        name: Taif Rose Farms and Al-Rudaf Park
-        area: Taif governorate (75 km from Mekka)
-      notes: Book accommodation in Taif weeks ahead during festival season
-    - name: Saudi National Day Celebrations (23 September)
+        name: مزارع ورود الطائف ومنتزه الردف
+        area: محافظة الطائف (75 كم من مكة)
+      notes: احجز الإقامة في الطائف قبل أسابيع في موسم المهرجان
+
+    - name: احتفالات اليوم الوطني السعودي (23 سبتمبر)
       description: >
-        Kingdom-wide celebrations with fireworks, drone light shows, live performances, and heritage exhibitions across Mekka,
-        Taif, and Jeddah.
-      recurrence: annual
-      season: 23 September
+        احتفالات على مستوى المملكة بالألعاب النارية وعروض الضوء بالطائرات المسيّرة وعروض حية
+        ومعارض تراثية في مكة والطائف وجدة.
+      recurrence: سنوية
+      season: 23 سبتمبر
       location:
         areas:
-        - Abraj Al-Bait area and Mekka city center
-        - Jeddah Corniche (largest regional display)
-      notes: Hotels book up weeks in advance; fireworks typically after Isha prayer
-    - name: Heritage Bazaars and Seasonal Souqs
+        - منطقة أبراج البيت ووسط مكة المكرمة
+        - كورنيش جدة (أكبر عرض إقليمي)
+      notes: الفنادق تمتلئ قبل أسابيع؛ الألعاب النارية في الغالب بعد صلاة العشاء
+
+    - name: البازارات التراثية والأسواق الموسمية
       description: >
-        Open-air markets celebrating Arabian craft, food, and folk traditions — held during national holidays, Eid, and heritage
-        seasons. Feature handmade goods, traditional food, live demonstrations, and folk performances.
+        أسواق مفتوحة تحتفي بالحرف والمأكولات العربية والتقاليد الشعبية — تُقام خلال الأعياد
+        والعطل الوطنية والمواسم التراثية. تضم بضائع يدوية وأطعمة تقليدية وعروضاً حية.
       businesses:
-      - name: Souq Al-Zal Heritage Nights (Ramadan edition)
-        area: Al-Mu'alla district, Mekka
-        notes: Extended hours and special vendors during Ramadan evenings
-      - name: Eid Al-Fitr Market (Mekka City Center)
-        area: Mekka Mall and surrounding streets, Al-Aziziyah
-        notes: Three-day market after Eid prayer; traditional sweets, clothing, and gifts
-      - name: Jeddah Winter Festival Market (Al-Balad Heritage Souq)
-        area: Historic Jeddah
-        notes: December–January; artisan stalls, street food, and live music; easy day trip
-      notes: Follow Saudi Tourism Authority (@visitsaudi) for current annual schedules
-    - name: Ramadan Cultural Evenings (Layali Ramadan)
+      - name: ليالي سوق الزل التراثية (طبعة رمضان)
+        area: حي المعلا، مكة المكرمة
+        notes: مواعيد ممتدة وباعة مميزون في أمسيات رمضان
+      - name: سوق عيد الفطر (وسط مكة)
+        area: مكة مول والشوارع المحيطة، العزيزية
+        notes: سوق ثلاثة أيام بعد صلاة العيد؛ حلوى تقليدية وملابس وهدايا
+      - name: سوق مهرجان جدة الشتوي (سوق البلد التراثي)
+        area: جدة التاريخية
+        notes: ديسمبر–يناير؛ بسطات حرفيين وطعام شعبي وموسيقى حية؛ رحلة يومية سهلة
+      notes: تابع هيئة السياحة (@visitsaudi) للبرامج السنوية الراهنة
+
+    - name: الأمسيات الثقافية الرمضانية (ليالي رمضان)
       description: >
-        During Ramadan, Mekka and surrounding cities come alive after Iftar with poetry recitations, Nasheed performances,
-        Quran competitions, and open-air markets. The spiritual atmosphere of Mekka during Ramadan is unmatched anywhere on
-        earth.
-      recurrence: seasonal
-      season: Ramadan (dates shift annually with the Islamic calendar)
+        في رمضان تنبعث الحياة في مكة وما حولها بعد الإفطار بقراءات شعرية وأمسيات نشيد ومسابقات
+        قرآنية وأسواق مفتوحة. الأجواء الروحانية لمكة في رمضان لا مثيل لها في العالم.
+      recurrence: موسمية
+      season: رمضان (تواريخ متغيرة مع التقويم الهجري)
       location:
         areas:
-        - Masjid al-Haram courtyards and surrounding streets
-        - Abraj Al-Bait Mall public spaces
-        - Mekka Cultural Center (Dar al-Thaqafa)
+        - أفنية المسجد الحرام والشوارع المحيطة
+        - المساحات العامة في مجمع أبراج البيت
+        - المركز الثقافي بمكة (دار الثقافة)
       notes: >
-        Many events are spontaneous and community-organized; major Tarawih prayers at Masjid al-Haram draw millions and are
-        themselves a profound communal event
-    - name: Hajj Season Open Mosque Programs
+        كثير من الفعاليات عفوية وتنظيمها مجتمعي؛ صلوات التراويح الكبرى في المسجد الحرام
+        تستقطب الملايين وهي بحد ذاتها حدث جماعي عميق
+
+    - name: برامج المسجد المفتوح في موسم الحج
       description: >
-        During Hajj (Dhul Hijjah), Masjid al-Haram and the surrounding district host special programs for pilgrims — scholarly
-        lectures, Quran recitation competitions, Seerah exhibitions, and interfaith heritage tours.
-      recurrence: seasonal
-      season: Dhul Hijjah 1–13 (Islamic calendar)
+        خلال الحج (ذو الحجة)، يستضيف المسجد الحرام والحي المحيط به برامج خاصة للحجاج —
+        محاضرات علمية ومسابقات تلاوة وعروض سيرة ونبوية وجولات تراث إسلامي.
+      recurrence: موسمية
+      season: ذو الحجة 1–13 (التقويم الهجري)
       location:
-        name: Masjid al-Haram and Al Haram district
-        area: Mekka
+        name: المسجد الحرام ومنطقة الحرم
+        area: مكة المكرمة
       notes: >
-        Programs organized by the Saudi Ministry of Hajj and Umrah; schedules published via the Nusuk app (official Saudi
-        Hajj platform)
-    - name: Eid al-Adha Celebrations in Mekka
+        تنظمها وزارة الحج والعمرة؛ البرامج تُنشر عبر تطبيق نسك (المنصة الرسمية للحج السعودي)
+        url: https://www.nusuk.sa
+
+    - name: احتفالات عيد الأضحى في مكة المكرمة
       description: >
-        Eid al-Adha (10th Dhul Hijjah) coincides with the peak of Hajj. The city transforms with prayers, sacrifice, family
-        gatherings, and festive atmosphere. Streets are decorated and charity flows throughout Mekka.
+        يتزامن عيد الأضحى (العاشر من ذي الحجة) مع ذروة موسم الحج. تتحول المدينة بصلاة العيد
+        والأضاحي واجتماع الأسر والأجواء الاحتفالية. الشوارع مزينة والخير يفيض في مكة.
       key_activities:
-      - Eid prayer at Masjid al-Haram (massive congregation)
-      - Witnessing Qurbani (animal sacrifice) distribution
-      - Visiting family and exchanging Eid greetings
-      - Charitable giving at mosque donation points
-      notes: >-
-        Non-Hajj visitors are welcome to observe Eid prayers; city traffic is extremely heavy
-    - name: Eid al-Fitr Celebrations
+      - صلاة العيد في المسجد الحرام (جماعة ضخمة)
+      - مشاهدة توزيع لحوم القرابين
+      - زيارة الأسرة وتبادل التهاني
+      - الصدقة في نقاط التبرع بالمسجد
+      notes: الزوار غير الحجاج مرحب بهم لمشاهدة صلاة العيد؛ حركة المرور شديدة الكثافة في المدينة
+
+    - name: احتفالات عيد الفطر
       description: >
-        The celebration marking the end of Ramadan — a day of communal prayer, family visits, gift-giving, and festivity.
-        Mekka's streets are alive with joy and the city's famously warm hospitality is on full display.
+        الاحتفال بانقضاء رمضان — يوم صلاة جماعية وزيارات عائلية وتبادل هدايا وابتهاج.
+        شوارع مكة تزهو بالبهجة والضيافة السعودية الحارة في أبهى صورها.
       key_activities:
-      - Eid al-Fitr prayer at Masjid al-Haram (dawn congregation)
-      - Street food and sweet stalls throughout the city
-      - Traditional Eid sweets — Maamoul, Kahk, and Luqaimat
-      - Shopping and gift-giving in Mekka's malls and markets
-      notes: >-
-        Government offices and most businesses closed on Eid day; mosques and food stalls open
-    - name: Saudi Founding Day (February 22nd)
+      - صلاة عيد الفطر في المسجد الحرام (جماعة الفجر)
+      - طعام شعبي وحلوى في أرجاء المدينة
+      - حلوى العيد التقليدية — المعمول والكعك واللقيمات
+      - التسوق والهدايا في مجمعات مكة وأسواقها
+      notes: الدوائر الحكومية ومعظم الشركات مغلقة يوم العيد؛ المساجد ومحلات الطعام مفتوحة
+
+    - name: يوم التأسيس السعودي (22 فبراير)
       description: >
-        Celebrating the founding of the First Saudi State in 1727. Cultural events, heritage exhibitions, traditional dress,
-        and historical displays take place across the country including Mekka.
-      recurrence: annual
-      season: 22 February
+        إحياء ذكرى تأسيس الدولة السعودية الأولى عام 1727م. فعاليات ثقافية ومعارض تراثية وملابس
+        تقليدية وعروض تاريخية في أنحاء المملكة بما فيها مكة المكرمة.
+      recurrence: سنوية
+      season: 22 فبراير
       location:
-        area: Cultural centers, malls, and public spaces throughout Mekka
-      notes: Public holiday; heritage-themed exhibitions run for several days around the date
-    - name: Hajj Season (Dhul Hijjah 1–13) — Observer Experience
+        area: المراكز الثقافية والمجمعات التجارية والمساحات العامة في مكة
+      notes: عطلة رسمية؛ معارض تراثية تمتد لأيام حول التاريخ
+
+    - name: موسم الحج (ذو الحجة 1–13) — تجربة المراقبة
       description: >
-        Even for non-Hajj visitors resident in Mekka, the Hajj season transforms the city into the world's largest annual
-        gathering. Witnessing millions of white-clad pilgrims arriving from every nation is a singular experience of global
-        Islamic unity.
+        حتى الزائر المقيم في مكة غير الحاج يشهد تحول المدينة إلى أكبر تجمع بشري سنوي في العالم.
+        مشاهدة الملايين بالإحرام الأبيض قادمين من كل أمة تجربة لا مثيل لها في وحدة الإسلام العالمية.
       key_observations:
-      - Pilgrims arriving in Ihram at city entry points and the Grand Mosque
-      - Increased scholarly lectures and Quran recitation at Masjid al-Haram
-      - International food stalls and street markets from dozens of countries
-      - The city at its most multicultural and spiritually charged atmosphere
+      - حجاج يصلون بالإحرام من مداخل المدينة والمسجد الحرام
+      - محاضرات علمية متزايدة وتلاوات قرآنية في المسجد الحرام
+      - بسطات طعام دولية وأسواق شعبية من عشرات الدول
+      - المدينة في أعلى درجات التعدد الحضاري وزخمها الروحي
       notes: >
-        Non-Muslim visitors are not permitted in Mekka at any time; Muslim residents not performing Hajj should avoid pilgrim
-        routes (Mina, Arafat, Muzdalifah) during Hajj days due to extreme crowd density
-    - name: Mekka Season (Mawsim Makkah)
+        غير المسلمين ممنوعون من دخول مكة في أي وقت؛ المقيمون المسلمون غير الحجاج يتجنبون
+        طرق الحجاج (منى وعرفات ومزدلفة) أيام الحج بسبب الكثافة البشرية الشديدة
+
+    - name: موسم مكة (مع رؤية 2030)
       description: >
-        Part of Saudi Arabia's Vision 2030 entertainment initiative, Mekka Season features cultural exhibitions, heritage
-        shows, art installations, and family entertainment events across the city during designated periods outside Hajj.
-      timing: Varies (typically aligns with school holidays and non-Hajj periods)
+        ضمن مبادرة رؤية 2030 للترفيه، يتضمن موسم مكة معارض ثقافية وعروض تراثية ومنشآت فنية
+        وفعاليات ترفيهية عائلية عبر المدينة في فترات محددة خارج موسم الحج.
+      timing: يتغير (في الغالب يتزامن مع الإجازات المدرسية والفترات خارج الحج)
       location:
-        area: Various venues across Mekka including Al-Aziziyah and Abraj Al-Bait
+        area: أماكن متعددة في مكة بما فيها العزيزية وأبراج البيت
       notes: >
-        Check the Saudi Tourism Authority (visitsaudi.com) for current season dates and event listings; programming changes
-        annually
+        راجع هيئة السياحة السعودية لتواريخ الموسم الراهن والفعاليات المدرجة؛ البرمجة تتجدد سنوياً
+        url: https://www.visitsaudi.com/en
+
   family_and_kids:
     description: >
-      Family-friendly activities and attractions suitable for children and all ages, combining entertainment with cultural
-      and spiritual enrichment.
+      أنشطة وجهات مناسبة للعائلات والأطفال وجميع الأعمار، تجمع الترفيه مع الإثراء الثقافي
+      والروحي.
     items:
-    - name: Al-Shallal Theme Park
+    - name: منتزه الشلال الترفيهي
       description: >
-        Large entertainment complex combining an indoor theme park, aquatic park, go-karts, bowling, ice skating, and restaurants.
-        One of the largest in the region.
+        مجمع ترفيهي كبير يضم حديقة ملاهٍ داخلية وحديقة مائية وسيارات كارت ومسار بولينج وكتابة
+        على الجليد ومطاعم. من أكبر المجمعات الترفيهية في المنطقة.
       location:
-        name: Al-Shallal Theme Park
-        address: Corniche Road, Jeddah (80 km from Mekka)
+        name: منتزه الشلال
+        address: طريق الكورنيش، جدة (80 كم من مكة)
         coordinates: 21.5900° N, 39.1170° E
-      age_range: All ages (some rides 3+)
-      duration: Half-day to full-day
-      notes: Family-friendly; halal food throughout; segregated and family sections
-    - name: Mekka Mall Entertainment (Funland)
-      description: Indoor family entertainment center with rides, arcade games, and play zones.
+      age_range: جميع الأعمار (بعض الألعاب من 3 سنوات)
+      duration: نصف يوم إلى يوم كامل
+      notes: مناسب للعائلات؛ طعام حلال في كل أرجائه؛ أقسام مختلطة وعائلية
+
+    - name: مركز ترفيه مكة مول (فن لاند)
+      description: مركز ترفيه عائلي داخلي بألعاب وألعاب إلكترونية ومناطق لعب.
       location:
-        name: Mekka Mall
-        address: Al-Aziziyah district, Mekka
-      age_range: 2–14 years (primary focus)
-      duration: 1–3 hours
-      notes: Indoor and air-conditioned; ideal during Mekka's hot midday hours
-    - name: Taif Zoo and Wildlife Park
+        name: مكة مول
+        address: حي العزيزية، مكة المكرمة
+      age_range: 2–14 سنة (الفئة المستهدفة الرئيسية)
+      duration: ساعة إلى ثلاث ساعات
+      notes: داخلي ومكيف؛ مثالي خلال ساعات الحرارة الشديدة في مكة
+
+    - name: حديقة حيوان الطائف ومتنزهها البري
       description: >
-        One of Saudi Arabia's largest zoos featuring Arabian wildlife including oryx, sand gazelles, baboons, and birds native
-        to the Hejaz region.
+        من أكبر حدائق الحيوان في المملكة العربية السعودية، تضم حياة برية عربية كالمها والغزال
+        وقرود المندريل وطيور أصيلة في منطقة الحجاز.
       location:
-        name: Taif Zoo (Al-Rudaf Park)
-        address: Al-Rudaf Road, Taif
+        name: حديقة حيوان الطائف (منتزه الردف)
+        address: طريق الردف، الطائف
         coordinates: 21.2667° N, 40.4145° E
-        distance_from_mekka: 75 km
-      duration: 2–3 hours
-      notes: Family-friendly; shaded walkways; educational Arabic and English signage
-    - name: Children's Quran and Islamic Learning Camps
+        distance_from_mekka: 75 كم
+      duration: ساعتان إلى ثلاث ساعات
+      notes: مناسب للعائلات؛ ممرات مظللة؛ لافتات توضيحية بالعربية والإنجليزية
+
+    - name: مخيمات تعليم القرآن والإسلام للأطفال
       description: >
-        Structured programs for children combining Quran memorization, Islamic history storytelling, Arabic alphabet, and
-        fun activities — available during school holidays.
+        برامج منهجية للأطفال تجمع حفظ القرآن وقصص التاريخ الإسلامي وحروف الهجاء العربية
+        وأنشطة ممتعة — متاحة في العطل المدرسية.
       businesses:
-      - name: Masjid al-Haram Children's Quran Program
-        area: Masjid al-Haram, Mekka
-        notes: Free programs run during summer and Ramadan for ages 5–15
-      - name: Al-Nour Islamic Children's Academy
-        area: Al-Aziziyah district, Mekka
-        notes: Intensive summer camps; Quran, Arabic, and Islamic arts integrated
-      duration: Half-day sessions or week-long camps
-      notes: Deeply meaningful for Muslim families visiting Mekka with children
-    - name: Camel and Horse Petting Farm (Family Visit)
+      - name: برنامج القرآن للأطفال — المسجد الحرام
+        area: المسجد الحرام، مكة المكرمة
+        notes: برامج مجانية خلال الصيف ورمضان للأعمار 5–15
+      - name: أكاديمية النور الإسلامية للأطفال
+        area: حي العزيزية، مكة المكرمة
+        notes: مخيمات صيفية مكثفة؛ قرآن وعربية وفنون إسلامية متكاملة
+      duration: جلسات نصف يوم أو مخيمات أسبوعية
+      notes: ذو معنى عميق للعائلات المسلمة الزائرة لمكة بأطفالها
+
+    - name: مزرعة الجمال والخيول العائلية
       description: >
-        Gentle interaction with Arabian horses, camels, and farm animals — a hands-on educational experience for children
-        to connect with the animals of Islamic heritage.
+        التفاعل اللطيف مع الخيول العربية والجمال وحيوانات المزرعة — تجربة تعليمية تفاعلية للأطفال
+        للتعرف على حيوانات التراث الإسلامي.
       businesses:
-      - name: Al-Badia Family Farm
-        area: Outskirts of Mekka, Al-Badia district
-        notes: >-
-          Family visits; animal feeding; photography; short guided camel walks for children
-      - name: Al-Hada Animal Farm (Taif)
-        area: Al-Hada, Taif
-        notes: >
-          Mountain setting; goats, horses, and camels; pony rides for young children; fresh farm products sold on-site
-      duration: 1–2 hours
-      notes: Bring modest, comfortable clothing; closed shoes essential around animals
+      - name: مزرعة البادية للعائلات
+        area: أطراف مكة، حي البادية
+        notes: زيارات عائلية؛ إطعام الحيوانات؛ تصوير؛ جولات جمال إرشادية للأطفال
+      - name: مزرعة الهدا للحيوانات (الطائف)
+        area: الهدا، الطائف
+        notes: موقع جبلي؛ ماعز وخيول وجمال؛ ركوب خيل للصغار؛ منتجات المزرعة الطازجة في الموقع
+      duration: ساعة إلى ساعتين
+      notes: ارتدِ ملابس محتشمة ومريحة؛ حذاء مغلق ضروري حول الحيوانات
+
   health_and_medical_services:
     description: >
-      Key medical facilities, pharmacies, and health resources for pilgrims and visitors. Mekka has world-class medical infrastructure
-      specifically built to serve millions of pilgrims — many services are free or subsidized for Hajj pilgrims.
+      المرافق الطبية والصيدليات والموارد الصحية الرئيسية للحجاج والزوار. تمتلك مكة بنية تحتية
+      طبية عالمية المستوى مُصممة لخدمة الملايين — كثير من الخدمات مجانية أو مدعومة لحجاج بيت الله.
     items:
-    - name: King Abdullah Medical Complex (KAMC)
+    - name: مجمع الملك عبدالله الطبي (KAMC)
       description: >
-        One of the largest and most advanced hospitals in Mekka — a major referral center for serious medical cases during
-        Hajj and Umrah seasons.
+        من أكبر وأكثر المستشفيات تطوراً في مكة المكرمة — مركز إحالة رئيسي للحالات الطبية
+        الحرجة في موسمي الحج والعمرة.
       location:
-        name: King Abdullah Medical Complex
-        area: Al-Zahir district, Mekka
-        address: King Abdullah Road, Mekka
+        name: مجمع الملك عبدالله الطبي
+        area: حي الزاهر، مكة المكرمة
+        address: طريق الملك عبدالله، مكة المكرمة
+      url: https://kamc.med.sa/en
       notes: >
-        24-hour emergency department; cardiology, orthopedics, and internal medicine; Arabic and English-speaking staff; free
-        treatment for Hajj pilgrims
-    - name: Ajyad Emergency Hospital
+        قسم طوارئ على مدار الساعة؛ أمراض القلب وجراحة العظام والطب الباطني؛ كادر طبي عربي وإنجليزي؛
+        علاج مجاني لحجاج بيت الله
+
+    - name: مستشفى أجياد للطوارئ
       description: >
-        The closest major hospital to Masjid al-Haram — specifically designed to handle the high volume of medical emergencies
-        arising near the Grand Mosque.
+        أقرب مستشفى رئيسي إلى المسجد الحرام — مُصمم خصيصاً للتعامل مع الحجم الكبير من حالات
+        الطوارئ الطبية القريبة من المسجد الحرام.
       location:
-        name: Ajyad Emergency Hospital
-        area: Ajyad district, directly adjacent to Masjid al-Haram
-        address: Ajyad Street, Al Haram district, Mekka
-      notes: 24-hour emergency care; heat stroke, cardiac, and crush injury specialists
-    - name: Saudi Red Crescent Authority (SRCA) Field Stations
+        name: مستشفى أجياد للطوارئ
+        area: حي أجياد، ملاصق مباشرة للمسجد الحرام
+        address: شارع أجياد، منطقة الحرم، مكة المكرمة
+      url: https://www.makkahhc.sa/en/category/hospitals-en/ajyad-emergency-hospital
+      notes: طوارئ 24 ساعة؛ متخصصون في ضربة الحرارة وحالات القلب وإصابات الحشود
+
+    - name: محطات هيئة الهلال الأحمر السعودي (SRCA) الميدانية
       description: >
-        Mobile and fixed first aid stations positioned throughout the Hajj circuit — Mina, Arafat, Muzdalifah, and Masjid
-        al-Haram perimeter — staffed by paramedics.
+        محطات إسعاف ثابتة ومتنقلة في أنحاء مسار الحج — منى وعرفات ومزدلفة ومحيط المسجد الحرام
+        — تعمل بكوادر مسعفين مدربين.
       location:
-        area: Throughout Hajj circuit and Masjid al-Haram perimeter
+        area: في أنحاء مسار الحج ومحيط المسجد الحرام
+      url: https://srca.org.sa/en
       emergency_number: '911'
-      notes: >-
-        Rapid response for heat exhaustion, dehydration, and crowd-related injuries; free service
-    - name: Pharmacies Near Masjid al-Haram
-      description: Well-stocked pharmacies serving pilgrims 24 hours during peak seasons.
+      notes: استجابة سريعة لحالات الإجهاد الحراري والجفاف والإصابات المرتبطة بالحشود؛ خدمة مجانية
+
+    - name: الصيدليات بالقرب من المسجد الحرام
+      description: صيدليات جيدة التجهيز تخدم الحجاج 24 ساعة في المواسم الكبرى.
       businesses:
-      - name: Al-Dawaa Pharmacy (multiple branches)
-        area: Ajyad Street and Ibrahim Al Khalil Street, Al Haram district
-        notes: Large Saudi chain; 24-hour during Hajj/Ramadan; Arabic and English staff
-      - name: United Pharmacy (Saydaliyat United)
-        area: Near Abraj Al-Bait, Al Haram district
-        notes: Comprehensive stock; competitive prices; multilingual staff
-      - name: Hotel Pharmacies (Fairmont, Hilton, Pullman)
-        area: Abraj Al-Bait Complex and Ajyad Street
-        notes: Convenient; higher prices but 24-hour availability
+      - name: صيدلية الدواء (فروع متعددة)
+        area: شارع أجياد وشارع إبراهيم الخليل، منطقة الحرم
+        notes: سلسلة سعودية كبرى؛ 24 ساعة خلال الحج ورمضان؛ كادر عربي وإنجليزي
+      - name: الصيدلية المتحدة (صيدليات يونايتد)
+        area: بالقرب من أبراج البيت، منطقة الحرم
+        notes: مخزون شامل؛ أسعار تنافسية؛ كادر متعدد اللغات
+      - name: صيدليات الفنادق (فيرمونت وهيلتون وبولمان)
+        area: مجمع أبراج البيت وشارع أجياد
+        notes: مريحة؛ أسعار أعلى لكنها متاحة 24 ساعة
       notes: >
-        Stock up on: oral rehydration salts, blister plasters, pain relief, sunscreen, and heat stroke prevention supplies
-        before intensive ibadah activities
-    - name: Heat Exhaustion Prevention
+        احرص على توفر: أملاح الإماهة الفموية ولاصقات البثور ومسكنات الألم وكريم الشمس
+        ومستلزمات الوقاية من ضربة الشمس قبل العبادات المكثفة
+
+    - name: الوقاية من الإجهاد الحراري
       description: >
-        Practical guidance for staying safe in Mekka's extreme heat — temperatures regularly exceed 45°C in summer. Heat exhaustion
-        and heat stroke are the leading medical emergencies during Hajj.
+        إرشادات عملية للبقاء آمناً في حرارة مكة الشديدة — تتجاوز درجات الحرارة 45°C في الصيف.
+        الإجهاد الحراري وضربة الشمس أكثر الطوارئ الطبية شيوعاً في الحج.
       key_tips:
-      - Drink at least 3–4 liters of water daily (Zamzam freely available)
-      - Avoid direct sun between 10:00–16:00
-      - Wear white or light-colored loose clothing
-      - Use an umbrella during outdoor rituals (Arafat, Jamarat)
-      - Carry an electrolyte sachet (ORS) daily
-      - >-
-        Recognize signs — dizziness, confusion, stopping sweating — seek shade and water immediately
+      - اشرب 3–4 لترات من الماء يومياً على الأقل (ماء زمزم متاح مجاناً)
+      - تجنب أشعة الشمس المباشرة بين 10:00 و16:00
+      - ارتدِ ملابس فضفاضة بيضاء أو فاتحة اللون
+      - استخدم مظلة في الشعائر الخارجية (عرفات والجمرات)
+      - احمل كيس أملاح الإماهة (ORS) يومياً
+      - تعرّف على الأعراض — دوخة وتشوش وتوقف التعرق — انسحب للظل والماء فوراً
       cooling_stations:
-      - name: Masjid al-Haram cooling mist systems
-        area: Outdoor Mataf and sahn areas; misting fans throughout the perimeter
-      - name: Air-conditioned pedestrian tunnels
-        area: Connecting Mina tents and Jamarat Bridge
-      notes: >-
-        Individual vigilance remains essential despite the government's cooling infrastructure
-    - name: Mental Health and Spiritual Counseling
+      - name: نظام الرش الضبابي بالمسجد الحرام
+        area: المطاف الخارجي والأفنية؛ مراوح رش في أنحاء المحيط
+      - name: الأنفاق المكيفة للمشاة
+        area: تربط خيام منى بجسر الجمرات
+      notes: اليقظة الفردية ضرورية رغم البنية التحتية الحكومية للتبريد
+
+    - name: الصحة النفسية والإرشاد الروحي
       description: >
-        Support services for pilgrims experiencing emotional distress or spiritual challenges during the intense pilgrimage
-        experience.
+        خدمات دعم للحجاج الذين يعانون ضائقة نفسية أو تحديات روحية خلال التجربة العميقة للحج.
       businesses:
-      - name: Masjid al-Haram Counseling and Guidance Office
-        area: Inside Masjid al-Haram (service desks near main gates)
-        notes: >-
-          Islamic scholars and counselors; grief support and spiritual guidance; multilingual
-      - name: Ministry of Hajj Pilgrim Services Centers
-        area: Throughout Mekka and Hajj circuit
-        notes: Welfare services; lost and found; family reunification; psychological first aid
-      notes: Services are free and confidential; seeking guidance is a sign of strength
+      - name: مكتب الإرشاد والتوجيه — المسجد الحرام
+        area: داخل المسجد الحرام (مكاتب خدمة عند الأبواب الرئيسية)
+        notes: علماء دين ومرشدون؛ دعم نفسي وإرشاد روحي؛ متعددو اللغات
+      - name: مراكز خدمات الحجاج — وزارة الحج
+        area: في أنحاء مكة ومسار الحج
+        url: https://www.nusuk.sa
+        notes: خدمات رعاية؛ مكتب المفقودات؛ لمّ شمل الأسر؛ إسعاف نفسي
+      notes: الخدمات مجانية وسرية؛ طلب الإرشاد دليل قوة لا ضعف
