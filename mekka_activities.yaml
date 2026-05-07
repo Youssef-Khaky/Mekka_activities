@@ -1418,3 +1418,216 @@ activities:
               fresh farm products sold on-site
         duration: 1–2 hours
         notes: Bring modest, comfortable clothing; closed shoes essential around animals
+
+  photography_spots:
+    description: >
+      Iconic locations in and around Mekka offering exceptional photography opportunities —
+      from the grandeur of Masjid al-Haram to sweeping mountain vistas and golden desert
+      landscapes. Always respect prayer times and fellow worshippers when photographing.
+    items:
+      - name: Abraj Al-Bait Clock Tower Observation Deck
+        description: >
+          The highest publicly accessible viewpoint in Mekka, offering a panoramic bird's-eye
+          view of Masjid al-Haram, the Kaaba, and the city skyline. At 400+ metres elevation,
+          it is unmatched for aerial Haram photography.
+        location:
+          name: Fairmont Clock Royal Tower — Observation Deck
+          address: Abraj Al-Bait Complex, Ibrahim Al Khalil Street, Mekka 24231
+          coordinates: "21.4196° N, 39.8262° E"
+          floor: Level 76–78
+        best_time: "Pre-dawn (before Fajr) and after Isha for illuminated Kaaba; sunset golden hour"
+        notes: >
+          Access via Fairmont hotel lobby; tower guests have priority; non-guests may access
+          for a fee subject to availability; tripods permitted during quiet hours
+
+      - name: Jabal al-Nour Sunrise Photography
+        description: >
+          Photographing the city of Mekka at sunrise from the summit of the Mountain of Light —
+          a 270-degree panorama over the Haram district, surrounding hills, and golden sky.
+        location:
+          name: Jabal al-Nour Summit (565 m)
+          area: Al-Nour district, approx. 4 km northeast of Masjid al-Haram
+          coordinates: "21.4572° N, 39.8586° E"
+        best_time: "Arrive 45 minutes before sunrise (Fajr); light is spectacular at golden hour"
+        duration: 2–3 hours (hike + photography)
+        notes: >
+          Long exposure shots of Masjid al-Haram are stunning from this elevation;
+          bring a headlamp for the pre-dawn ascent; 1,294 steps to the top
+
+      - name: Masjid al-Haram Night Photography (Mataf Level)
+        description: >
+          Capturing the Kaaba surrounded by tens of thousands of pilgrims performing Tawaf
+          at night — one of the most awe-inspiring images in the world.
+        location:
+          name: Upper floor galleries and rooftop of Masjid al-Haram
+          area: Al Haram district, Mekka
+        best_time: "After Isha prayer (especially Tahajjud hours, 02:00–04:00) for dramatic crowd shots"
+        notes: >
+          Photography of the Kaaba and Haram interior is permitted for personal use;
+          use a wide-angle or ultra-wide lens; high ISO settings needed for low-light conditions
+
+      - name: Jabal Thawr and South Mekka Hills
+        description: >
+          The rugged desert hills south of Mekka, with Jabal Thawr as the focal point.
+          Excellent for landscape photography capturing the raw Hejazi terrain and ancient geology.
+        location:
+          name: Jabal Thawr area
+          area: South of Masjid al-Haram, approx. 4.7 km
+          coordinates: "21.3856° N, 39.8192° E"
+        best_time: "Golden hour (1 hour before sunset)"
+        notes: Bring a telephoto lens for distant mountain details; rocky terrain requires sturdy footwear
+
+      - name: Mekka Old City Street Photography (Al-Mu'alla District)
+        description: >
+          Photographing the remaining old-quarter streets, traditional Hejazi architecture,
+          wooden Roshan screens, and the daily life of Mekka's permanent residents and pilgrims.
+        location:
+          name: Al-Mu'alla district and surroundings
+          area: Near Jannat al-Mu'alla Cemetery, Mekka
+        best_time: "Early morning (06:00–09:00) for soft light and less crowded streets"
+        notes: >
+          Be respectful when photographing individuals — always ask permission first;
+          the remaining pre-modern architecture is rapidly disappearing — a historically
+          significant photographic record
+
+      - name: Arafat Plain and Jabal al-Rahmah (Hajj Season)
+        description: >
+          During Hajj, the plains of Arafat fill with millions of white-clad pilgrims — one
+          of the largest human gatherings on Earth. Photographing Jabal al-Rahmah (Mount of
+          Mercy) surrounded by this sea of humanity is an extraordinary visual experience.
+        location:
+          name: Plain of Arafat
+          area: Approx. 20 km east of Masjid al-Haram
+          coordinates: "21.3549° N, 39.9845° E"
+        best_time: "Afternoon of 9th Dhul Hijjah; light and the scale of the gathering are peak"
+        notes: >
+          Only accessible during Hajj season (9th Dhul Hijjah);
+          drone photography is strictly prohibited in the Hajj zones;
+          the white Ihram garments create a visually unified and deeply moving scene
+
+      - name: Taif Valley and Mountain Vistas
+        description: >
+          The dramatic escarpment of the Hejaz mountains around Taif — sheer cliffs,
+          deep valleys, terraced farms, and cloud-level mist — offers landscape photography
+          unlike anywhere else in the Arabian Peninsula.
+        location:
+          name: Al-Hada and Al-Shafa viewpoints
+          area: Taif governorate (75 km from Mekka)
+          coordinates: "21.3528° N, 40.4062° E"
+        best_time: "Early morning for valley mist; golden hour for cliff textures"
+        notes: >
+          Al-Hada cable car offers elevated framing unavailable from the road;
+          spring months (March–April) add rose blooms to the valley foreground
+
+  volunteer_and_service:
+    description: >
+      Opportunities to give back and serve the global Muslim community during your time
+      in Mekka — from direct pilgrim assistance to charitable work and environmental care.
+      Volunteering in the holy city carries immense spiritual reward.
+    items:
+      - name: Pilgrim Guidance and Assistance Volunteering
+        description: >
+          Assisting elderly, disabled, and first-time pilgrims with navigation, ritual
+          guidance, wheelchair pushing, and translation. Officially organized through the
+          Saudi Ministry of Hajj and Umrah volunteer program.
+        businesses:
+          - name: Saudi Ministry of Hajj and Umrah — Volunteer Portal
+            area: Nationwide (Mekka and Medina focus)
+            notes: >
+              Register at the official Nusuk platform (nusuk.sa); positions include
+              Tawaf assistants, crowd management helpers, and information desk operators;
+              accommodation and meals sometimes provided to registered volunteers
+          - name: International Islamic Relief Organization (IIRO)
+            area: Al Haram district, Mekka
+            notes: Saudi-based Islamic charity coordinating pilgrim welfare volunteers during Hajj season
+        duration: Variable (day sessions to full Hajj season placements)
+        notes: >
+          Strong language skills (Arabic, English, Urdu, Malay, French, etc.) are highly
+          valued; apply 3–6 months before Hajj season as positions fill quickly
+
+      - name: Food Distribution and Iftar Volunteering (Ramadan)
+        description: >
+          Organizing and distributing Iftar meals to pilgrims, workers, and those in need
+          around Masjid al-Haram during Ramadan. Thousands of Iftar tables are set daily.
+        businesses:
+          - name: Makkah Al-Mukarramah Charity (Haramain Charitable Foundation)
+            area: Mekka city
+            notes: Coordinates large-scale Iftar distribution; volunteers needed for setup, serving, and cleanup
+          - name: Al-Rajhi Foundation Iftar Project
+            area: Throughout Masjid al-Haram and surrounding streets
+            notes: >
+              One of the largest Iftar programs in Mekka; volunteers help distribute
+              hundreds of thousands of meals nightly during Ramadan
+          - name: Local mosque and hotel charity kitchens
+            area: Al Haram district and Al-Aziziyah, Mekka
+            notes: Many hotels and local mosques organize community Iftar programs welcoming volunteer help
+        best_season: Ramadan (entire month)
+        notes: Register early; shifts typically start 2 hours before Maghrib prayer
+
+      - name: Zamzam Water Service (Sabil)
+        description: >
+          Distributing cups of Zamzam water to pilgrims within Masjid al-Haram — a
+          deeply valued act of service (Sabil) that has been performed continuously
+          since the time of the Prophet's companions.
+        location:
+          name: Masjid al-Haram water distribution points
+          area: Throughout the mosque (Mataf level, corridors, courtyards)
+        notes: >
+          Organized groups of volunteers (often family groups) may set up Zamzam service
+          points; coordinate with mosque management (Al-Riyasat al-Ammah) for permission;
+          individual informal service to those nearby needs no formal approval
+
+      - name: Environmental Clean-Up (Keeping the Haram Pure)
+        description: >
+          Participating in voluntary mosque cleanliness initiatives — collecting litter,
+          organizing shoes at mosque entrances, and maintaining clean prayer areas.
+          The Presidency of the Two Holy Mosques (Al-Riyasat) organizes structured programs.
+        businesses:
+          - name: Presidency of the Two Holy Mosques — Volunteer Division
+            area: Masjid al-Haram, Mekka
+            notes: >
+              Official body overseeing mosque operations; volunteer coordination during
+              peak seasons; contact through the Nusuk platform or mosque administration office
+        notes: >
+          Even informal individual clean-up efforts within the mosque are deeply
+          valued; picking up litter while walking is a small but meaningful act
+
+      - name: Teaching and Literacy Support (Madrasa Volunteering)
+        description: >
+          Teaching Quran, Arabic, or basic literacy to children and new Muslims in
+          community madrasas and Islamic centers operating in Mekka's residential districts.
+        businesses:
+          - name: Al-Nour Islamic Children's Academy
+            area: Al-Aziziyah district, Mekka
+            notes: Welcomes qualified volunteer teachers for Quran and Arabic literacy programs
+          - name: Dar al-Arqam Islamic Center
+            area: Al-Adl district, Mekka
+            notes: >
+              Adult Islamic literacy and new Muslim support center;
+              volunteer tutors in English, Urdu, and Arabic welcome
+          - name: Umm al-Qura University Community Outreach
+            area: Al-Abdiyah district, Mekka
+            notes: Connects volunteers with community literacy programs in underserved Mekka districts
+        notes: >
+          Relevant teaching experience or Islamic knowledge qualification preferred;
+          even one hour per week of teaching has profound community impact
+
+      - name: Hajj and Umrah Lost and Found Service
+        description: >
+          Assisting lost pilgrims — particularly elderly visitors unfamiliar with Mekka —
+          in locating their hotels, group leaders, or family members. A critical and
+          frequently needed service during peak pilgrimage times.
+        businesses:
+          - name: Saudi Ministry of Hajj Lost Pilgrim Service Center
+            area: Main gates of Masjid al-Haram (rotating locations)
+            notes: >
+              Official government service; volunteers who speak multiple languages are
+              especially needed; positions coordinated through the Nusuk volunteer portal
+          - name: Mobile volunteer teams (community-organized)
+            area: Mina, Arafat, and Al Haram district
+            notes: >
+              Independent volunteer groups active on WhatsApp networks; coordinate
+              directly with Hajj ministry liaison officers on the ground
+        notes: >
+          Language skills are the most valuable asset in this role; Malay, Urdu,
+          Bengali, Turkish, Indonesian, Hausa, and Swahili speakers are particularly needed
