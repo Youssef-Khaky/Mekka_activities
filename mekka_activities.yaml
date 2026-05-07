@@ -732,3 +732,689 @@ activities:
         notes: >
           Modest swimwear required in public areas; private or segregated pools available
           for those who prefer; Jeddah day trips easily arranged from Mekka via taxi or Careem
+
+      - name: Saudi Jiu-Jitsu (SJJ)
+        description: >
+          Saudi Jiu-Jitsu has exploded in popularity across the Kingdom. Combines ground
+          grappling, chokes, joint locks, and takedowns. Saudi Arabia hosts major international
+          SJJ tournaments and the sport is supported at national federation level.
+        skill_levels: [beginner, intermediate, advanced]
+        businesses:
+          - name: Saudi Jiu-Jitsu Federation Affiliated Academy (Mekka)
+            area: Al-Aziziyah district, Mekka
+            notes: >
+              Beginner-friendly gi and no-gi classes; coaches certified by the Saudi
+              Jiu-Jitsu Federation; free trial class often available for visitors
+          - name: Al-Hilal Sports Academy
+            area: Jeddah (80 km from Mekka)
+            notes: Full BJJ and SJJ curriculum; competition prep classes available
+          - name: Gracie Jeddah
+            area: Al-Rawdah district, Jeddah
+            notes: International-standard instruction; Gracie family lineage curriculum
+        duration: 1–1.5 hours per class
+        equipment_provided: false
+        notes: >
+          Bring or rent a gi (uniform); nail clipping and hygiene strictly enforced on the mat;
+          one of the best sports for building functional strength and discipline
+
+      - name: Spear and Shield Training (Al-Harbah)
+        description: >
+          Ancient Arabian battlefield art using the traditional long spear (Harbah) and
+          round leather shield (Turs). Taught as a cultural martial art and physical discipline.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Saudi Heritage Commission Martial Arts Workshops
+            area: Mekka Heritage Center
+            notes: Seasonal sessions; traditional wooden training spears used for safety
+          - name: Al-Ardah Cultural Troupe Training Sessions
+            area: Jeddah Heritage Festival grounds
+            notes: Group workshops alongside sword and percussion training
+        duration: 1–2 hours
+        notes: Protective padding provided; sessions often conclude with a group Al-Ardah performance
+
+      - name: Desert Dune Bashing and Off-Road Driving
+        description: >
+          4x4 off-road driving across the desert dunes surrounding Mekka — a beloved
+          Saudi weekend activity combining adrenaline with Bedouin landscape exploration.
+        skill_levels: [beginner (passenger), intermediate, advanced]
+        businesses:
+          - name: Makkah Desert Safari Co.
+            area: Eastern desert outskirts of Mekka
+            notes: >
+              Full packages include 4x4 convoy, sandboarding, camel riding, and Bedouin
+              dinner under stars; pickup from central Mekka hotels available
+          - name: Saudi Off-Road Club (Jeddah chapter)
+            area: Jeddah and surrounding desert areas
+            notes: Community group runs organized desert drives; visitors may join with prior contact
+        duration: 3–6 hours (half-day or full-day packages)
+        notes: >
+          Vehicles and drivers provided for beginners; bring sunscreen, sunglasses, and a scarf
+          for dust; evenings are recommended for the best temperatures
+
+  arts_and_culture:
+    description: >
+      Traditional and contemporary Arabian arts — calligraphy, music, poetry, and storytelling
+      deeply rooted in Islamic civilization. Many workshops available in Mekka, Taif, and Jeddah.
+    items:
+      - name: Arabic Calligraphy (Al-Khatt al-Arabi)
+        description: >
+          The art of beautiful Arabic script — considered the highest Islamic visual art form.
+          Styles include Naskh, Thuluth, Diwani, Kufi, and Ruq'a. UNESCO-listed as Intangible
+          Cultural Heritage. Learning even basic Naskh is a deeply rewarding spiritual experience.
+        skill_levels: [beginner, intermediate, advanced]
+        styles:
+          - Naskh (most readable; best for beginners)
+          - Thuluth (classical mosque inscriptions; intermediate)
+          - Diwani (ornate Ottoman style; advanced)
+          - Kufi (geometric angular style; advanced)
+          - Ruq'a (everyday handwriting style; beginner-friendly)
+        businesses:
+          - name: Dar al-Khatt al-Islami
+            area: Al-Aziziyah district, Mekka
+            notes: >
+              Dedicated calligraphy school offering weekend and intensive courses;
+              supplies included; work in both traditional reed pen (qalam) and modern tools
+          - name: Mekka Cultural Center (Dar al-Thaqafa)
+            area: Al-Adl district, Mekka
+            address: King Fahd Road, Al-Adl, Mekka
+            notes: Regular calligraphy workshops by master calligraphers; free or low-cost sessions
+          - name: Al-Balad Calligraphy Studio
+            area: Historic Jeddah (Al-Balad), Jeddah
+            notes: >
+              Beautiful heritage building setting; courses from 1-day crash course to
+              12-week term; certificates issued by Saudi Calligraphy Association
+          - name: Umm al-Qura University Arts Faculty (open workshops)
+            area: Al-Abdiyah district, Mekka
+            notes: Occasional public workshops run by the university's arts department
+        duration: 2–3 hours per session (courses range from 1 day to 12 weeks)
+        supplies_needed:
+          - Reed pen (qalam) or bamboo pen
+          - Calligraphy ink (Hibr)
+          - Practice paper (smooth, non-absorbent)
+          - Ruler and T-square
+        notes: >
+          Suitable for all ages; Arabic literacy not strictly required for beginners;
+          finished pieces make extraordinary personal keepsakes and gifts
+
+      - name: Oud Playing (Al-Oud)
+        description: >
+          The Oud is the king of Arabian musical instruments — a fretless lute with a warm,
+          resonant tone at the heart of classical Arabic music. Learning even basic maqamat
+          (melodic modes) opens a world of Islamic musical heritage spanning 1,000+ years.
+        skill_levels: [beginner, intermediate, advanced]
+        arabic_maqamat_covered:
+          - Rast (foundational; most common beginner mode)
+          - Bayati (melancholic; emotionally expressive)
+          - Hijaz (exotic; associated with Arabian Peninsula)
+          - Nahawand (resembles Western minor scale)
+          - Saba (deeply emotional; used in religious music)
+        businesses:
+          - name: Mekka Music and Arts Institute
+            area: Al-Naseem district, Mekka
+            notes: >
+              Private and group Oud lessons; Ouds available for rent during lessons;
+              instructors trained in classical Arabic and Islamic musical traditions
+          - name: Al-Andalus Music Academy
+            area: Al-Hamra district, Jeddah
+            notes: >
+              Well-regarded school with experienced Oud masters; beginner courses
+              start with proper posture, right-hand picking technique, and basic maqamat
+          - name: Taif Arts Center
+            area: Taif city center
+            notes: Oud workshops and cultural music evenings; intimate setting
+        duration: 45–60 minutes per lesson
+        notes: >
+          Student-grade Ouds available for purchase at music shops near Mekka;
+          Arabic music is microtonal — quarter tones differ from Western scales;
+          patience in the first weeks yields lifelong musical ability
+
+      - name: Arabic Poetry (Al-Shi'r al-Arabi)
+        description: >
+          Arabia is the birthplace of one of history's greatest poetic traditions. From
+          pre-Islamic Mu'allaqat odes to Nabati Bedouin poetry and contemporary verse,
+          learning to compose or recite Arabic poetry sharpens language and deepens spirituality.
+        genres:
+          - Fusha (Classical Arabic poetry — formal, literary)
+          - Nabati (Bedouin vernacular poetry — oral tradition, emotionally raw)
+          - Zajal (colloquial rhyming poetry — performed at social gatherings)
+          - Qasida (long ode form — classical structure)
+          - Haiku-inspired modern Arabic verse (contemporary)
+        businesses:
+          - name: Saudi Writers and Literati Club (Mekka Chapter)
+            area: Mekka city center
+            notes: >
+              Weekly poetry circles open to the public; recitation evenings, critique
+              sessions, and poetry workshops in both classical and colloquial Arabic
+          - name: Taif Cultural Palace
+            area: Taif city center
+            notes: Regular literary evenings featuring Nabati poetry; audience participation welcomed
+          - name: Jeddah Literary Club
+            area: Al-Rawdah district, Jeddah
+            notes: >
+              One of Saudi Arabia's most active literary societies; hosts famous poets;
+              workshops for beginners wanting to try composing their first qasida
+        duration: 1–3 hours per session
+        notes: >
+          No Arabic writing required to enjoy Nabati poetry circles (oral tradition);
+          classical poetry workshops benefit from basic Modern Standard Arabic literacy
+
+      - name: Arabic Storytelling (Al-Hakawati)
+        description: >
+          The Hakawati is the traditional Arabian oral storyteller — a figure who once held
+          court in coffeehouses and public squares. Sessions combine folklore, Islamic history,
+          Bedouin legends, and improvised narrative. A living tradition being actively revived.
+        businesses:
+          - name: Saudi Heritage Commission Story Nights
+            area: Mekka Heritage Center and Jeddah Al-Balad
+            notes: >
+              Organized storytelling evenings in Arabic; themes drawn from Islamic
+              history, Arabian Nights (Alf Layla), and regional folklore
+          - name: Jeddah Corniche Cultural Events
+            area: Al-Kurnaysh, Jeddah
+            notes: Outdoor storytelling performances during national festivals and Ramadan evenings
+          - name: Al-Hada Mountain Camps (Taif)
+            area: Al-Hada, Taif
+            notes: Bedouin-hosted evenings with traditional stories around a campfire
+        duration: 1–2 hours per session
+        notes: Basic Arabic comprehension helpful; some sessions offered with English summaries
+
+      - name: Islamic Geometric Art and Tile Design
+        description: >
+          The intricate geometric patterns adorning mosques, palaces, and manuscripts across
+          the Islamic world. Learn to construct star patterns, girih tiles, and arabesque
+          designs using compass and ruler — the classical Islamic method.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Mekka Cultural Center (Dar al-Thaqafa)
+            area: Al-Adl district, Mekka
+            notes: Geometric art workshops; materials provided; no drawing experience required
+          - name: Saudi Heritage Commission Design Workshops
+            area: Mekka and Jeddah
+            notes: >
+              Hands-on sessions covering Mamluk, Ottoman, and Andalusian geometric traditions;
+              participants take home their completed framed artwork
+          - name: Al-Balad Art Studios (Historic Jeddah)
+            area: Al-Balad (UNESCO World Heritage Site), Jeddah
+            notes: >
+              Beautiful workshop spaces inside restored coral-stone buildings;
+              combine with a walking tour of Al-Balad's intricate Roshan wooden screens
+        duration: 2–4 hours per session
+        materials_provided: true
+        notes: >
+          Compass, ruler, fine-liner pens, and quality paper provided;
+          finished geometric works are frameable art pieces
+
+      - name: Arabic Percussion — Tabla and Riqq
+        description: >
+          Learn the foundational rhythms (Iqa'at) of Arabic music on the hand drum (Tabla/Darbuka)
+          or tambourine (Riqq). Rhythmic cycles like Maqsum, Samai, and Wahda underpin all
+          Arabic classical and folk music.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Mekka Music and Arts Institute
+            area: Al-Naseem district, Mekka
+            notes: Group percussion classes; Tabla rental available
+          - name: Al-Andalus Music Academy
+            area: Al-Hamra district, Jeddah
+            notes: Individual and ensemble percussion coaching; covers Tabla, Riqq, and Duff
+        duration: 45–60 minutes per lesson
+        notes: >
+          Riqq (tambourine) is gentler for complete beginners; Tabla requires
+          finger conditioning but progress is rapid; rhythms are written in visual notation
+
+      - name: Traditional Saudi Nasheed (Islamic Vocal Music)
+        description: >
+          Nasheed is vocal Islamic music — unaccompanied or with light percussion.
+          Learn proper maqam-based vocal technique, breath control, and the classical
+          Arabic texts set to traditional melodic modes.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Mekka Islamic Arts Institute
+            area: Al Haram district, Mekka
+            notes: >
+              Group vocal workshops focusing on Quranic recitation tone (Tajweed melody)
+              and classical Nasheed forms; open to men, women (separate sessions)
+          - name: Taif Arts Center Vocal Workshops
+            area: Taif city center
+            notes: >
+              Courses covering proper Arabic vocal production, maqam awareness,
+              and group Nasheed performance practice
+        duration: 1 hour per session
+        notes: >
+          No prior musical experience required; Nasheed connects spiritual intention
+          with vocal artistry; many participants report it deepening their Quran recitation
+
+  nature_and_outdoors:
+    description: >
+      Natural landscapes surrounding Mekka — from desert plains to the cool Taif mountains
+      and Red Sea coast. Best visited outside peak Hajj season (Dhul Hijjah) for safety and access.
+    items:
+      - name: Taif Mountain Trekking
+        description: >
+          The Al-Hada and Al-Shafa mountains around Taif (75 km from Mekka, 1,800 m elevation)
+          offer cooler temperatures, forested trails, waterfalls, and stunning valley views.
+          A complete contrast to Mekka's desert basin.
+        location:
+          name: Al-Hada and Al-Shafa mountains
+          area: Taif governorate, Makkah Region
+          coordinates: "21.3528° N, 40.4062° E"
+          distance_from_mekka: 75 km (approx. 1 hour by car)
+        businesses:
+          - name: Al-Hada Mountain Resort Trails (public access)
+            area: Al-Hada, Taif
+            notes: Marked walking trails through pine and juniper forest; free access
+          - name: Taif Adventure Park
+            area: Al-Shafa, Taif
+            notes: >
+              Zipline, rope bridges, and guided hiking; family-friendly; stunning
+              views over the Hejaz mountain range
+          - name: Saudi Trekking Club (Taif chapter)
+            area: Taif
+            notes: Organized group hikes; welcome to visitors; contact via social media
+        difficulty: easy to moderate
+        best_season: "Year-round (summer especially pleasant — Taif is known as Saudi Arabia's summer retreat)"
+        duration: 2–6 hours depending on trail
+        notes: >
+          Bring water, sunscreen, and layered clothing (evenings cool quickly at altitude);
+          Al-Hada cable car offers aerial views for those preferring a gentler option
+
+      - name: Taif Rose Valley (Wadi al-Ward)
+        description: >
+          Taif is world-famous for its Damascene roses — the source of some of the world's
+          finest rose oil (Attar al-Ward). The rose season (March–April) fills the valleys
+          with color and fragrance. Visit working rose farms and distilleries.
+        location:
+          name: Rose Farms of Al-Hada and Al-Hawiyah
+          area: Taif, Makkah Region
+          distance_from_mekka: 75 km
+        businesses:
+          - name: Al-Khuraibah Rose Farm
+            area: Al-Hawiyah district, Taif
+            notes: >
+              One of the oldest rose farms in Taif; guided tours of rose picking
+              and traditional steam-distillation of rose water and Attar
+          - name: Taif Rose Festival (seasonal)
+            area: Taif city and surrounding farms
+            notes: >
+              Annual festival held during bloom season (late March to early April);
+              live distillation demos, rose products market, and cultural performances
+          - name: Al-Rudaf Park
+            area: Taif city center
+            address: Al-Rudaf Road, Taif
+            notes: Large public park with rose gardens; picnic areas; family-friendly; free entry
+        best_season: "March–April (rose bloom season)"
+        duration: Half-day to full-day
+        notes: >
+          Rose water, rose oil, and rose jam sold directly at farms — far cheaper and
+          more authentic than city shops; book farm visits in advance during festival season
+
+      - name: Desert Stargazing
+        description: >
+          The desert skies around Mekka are among the least light-polluted in the region.
+          On clear nights the Milky Way is visible with the naked eye. An experience
+          that connects deeply with Islamic reflection on the cosmos.
+        location:
+          name: Desert outskirts east of Mekka
+          area: Al-Badia and Wadi Na'man areas
+          distance_from_mekka: 20–40 km
+        businesses:
+          - name: Makkah Desert Safari Co. (Stargazing Package)
+            area: Eastern desert, Mekka outskirts
+            notes: >
+              Evening packages including telescope sessions, Bedouin dinner,
+              and guided star identification (Arabic star names are richly historical)
+          - name: Saudi Astronomical Society (Jeddah chapter)
+            area: Jeddah (80 km)
+            notes: >
+              Organizes public stargazing nights; visitors welcome; telescopes provided;
+              lectures on Islamic astronomy and the historical Arabic star map
+        best_time: "New moon phase; winter months (October–March) for clearest skies"
+        duration: 3–5 hours (evening into night)
+        notes: >
+          Bring warm clothing for the desert night chill; Islamic astronomical heritage
+          is vast — most stars visible tonight carry Arabic names given by medieval Muslim scholars
+
+      - name: Wadi Na'man Hiking
+        description: >
+          Wadi Na'man is a scenic valley system northeast of Mekka with rocky gorges,
+          seasonal waterfalls after rainfall, and ancient agricultural terraces. Popular
+          for day hikes among Mekka residents.
+        location:
+          name: Wadi Na'man
+          area: Northeast of Mekka, approx. 25 km from city center
+          coordinates: "21.5200° N, 39.9500° E"
+        difficulty: easy to moderate
+        duration: 2–4 hours
+        notes: >
+          Best visited after winter rains (December–February) when water flows;
+          no formal facilities — bring all food, water, and navigation tools;
+          hiking in groups is recommended
+
+      - name: Al-Hada Cable Car (Teleferik)
+        description: >
+          A scenic cable car ride over the Al-Hada mountain valley near Taif — offering
+          breathtaking aerial views over the Hejaz highlands, valleys, and forest canopy.
+        location:
+          name: Al-Hada Cable Car Station
+          area: Al-Hada, Taif
+          address: Al-Hada Road, Taif
+          coordinates: "21.3774° N, 40.3607° E"
+        duration: 20–30 minutes (round trip)
+        operating_hours: "09:00–22:00 daily"
+        notes: >
+          Suitable for all fitness levels; spectacular sunset views; combine with
+          lunch at one of the hilltop restaurants overlooking the valley
+
+      - name: Red Sea Snorkeling and Diving (Jeddah)
+        description: >
+          The Red Sea off Jeddah hosts some of the world's most biodiverse coral reefs —
+          pristine hard and soft corals, reef fish, rays, turtles, and occasional whale sharks.
+          Accessible for complete beginners through to advanced technical divers.
+        location:
+          name: Jeddah Corniche and offshore reefs
+          area: Jeddah, Red Sea coast (80 km from Mekka)
+          coordinates: "21.5433° N, 39.1728° E"
+        businesses:
+          - name: Dive Jeddah
+            area: Al-Kurnaysh (Corniche), Jeddah
+            notes: >
+              PADI Open Water certification courses; Discover Scuba for beginners (no cert needed);
+              guided reef dives at Sharm Obhur and offshore sites; full equipment rental
+          - name: Red Sea Dive Center
+            area: Obhur Creek, North Jeddah
+            address: Obhur Al-Shamaliyah, Jeddah
+            notes: >
+              Snorkeling day trips to shallow reefs; boat dive charters; underwater
+              photography rental available; family snorkel packages
+          - name: Al-Nawras Diving Club
+            area: Al-Hamra, Jeddah Corniche
+            notes: >
+              Community dive club; day memberships for certified divers;
+              guided night dives (extraordinary visibility in warm Red Sea waters)
+        best_season: "October–April (cooler water; optimal visibility)"
+        duration: Half-day to full-day
+        notes: >
+          Water temperature 22–30°C year-round; no wetsuit needed in summer;
+          modest swimwear options available from dive centers
+
+  modern_sports_and_fitness:
+    description: >
+      Contemporary sports facilities, martial arts academies, and fitness centers in Mekka,
+      with options in nearby Jeddah and Taif for specialist activities.
+    items:
+      - name: Football (Soccer)
+        description: >
+          Saudi Arabia's most popular sport. Public pitches, 5-a-side centers, and
+          full-size pitches are available across Mekka for casual and competitive play.
+        businesses:
+          - name: Mekka Stadium (Prince Abdullah Al-Faisal Stadium)
+            area: Al-Aziziyah district, Mekka
+            address: King Abdulaziz Road, Mekka
+            notes: >
+              Home ground of Ittihad Mekka FC; check fixture schedule for match days;
+              watching a Saudi Pro League match is a vibrant cultural experience
+          - name: Foot Zone 5-a-side Centers
+            area: Multiple locations in Mekka
+            notes: >
+              Hourly pitch rentals; floodlit artificial turf; equipment hire available;
+              popular with pilgrims and residents for casual games
+          - name: Al-Aziziyah Sports Complex
+            area: Al-Aziziyah district, Mekka
+            notes: Full-size natural and artificial pitches; changing rooms and showers
+        notes: Bring or rent boots; water is essential; avoid midday heat (play mornings or evenings)
+
+      - name: Basketball
+        description: Fast-growing sport in Saudi Arabia with quality courts across Mekka.
+        businesses:
+          - name: Al-Makkah Sports Club Basketball Courts
+            area: Al-Aziziyah district, Mekka
+            notes: Indoor courts; open sessions and league games; visitor-friendly
+          - name: Public Courts at King Fahd Sports Complex
+            area: Mekka
+            notes: Outdoor courts free to use; active pickup games most evenings
+        notes: Courts usually busy after Asr prayer until late evening
+
+      - name: Tennis
+        description: Available at major hotels and sports clubs in Mekka and Taif.
+        businesses:
+          - name: Fairmont Makkah Tennis Facility
+            area: Abraj Al-Bait Complex, Mekka
+            notes: Courts for hotel guests; coaching available on request
+          - name: Taif Tennis Club
+            area: Taif Sports City, Taif
+            notes: >
+              Outdoor and indoor courts; coaching sessions; cooler mountain climate
+              makes Taif the preferred destination for year-round outdoor tennis
+          - name: Al-Aziziyah Sports Complex Tennis Courts
+            area: Al-Aziziyah, Mekka
+            notes: Public courts; racket hire available
+        notes: Book courts in advance; early morning or evening sessions recommended
+
+      - name: Mixed Martial Arts (MMA)
+        description: >
+          MMA has a fast-growing scene in Saudi Arabia following Vision 2030 reforms.
+          Saudi Arabia now hosts major UFC and boxing events. Training academies in Mekka
+          and Jeddah offer striking (Muay Thai, Boxing) and grappling (BJJ, Wrestling) classes.
+        skill_levels: [beginner, intermediate, advanced]
+        businesses:
+          - name: Saudi MMA Federation Academy (Mekka)
+            area: Al-Aziziyah district, Mekka
+            notes: >
+              Official federation-affiliated academy; classes in striking, wrestling,
+              and submission grappling; beginners welcome; trial class available
+          - name: Elevation MMA (Jeddah)
+            area: Al-Rawdah district, Jeddah
+            notes: >
+              Full MMA curriculum including Muay Thai, Boxing, BJJ, and Wrestling;
+              international coaching staff; English and Arabic instruction
+          - name: Arena MMA Academy (Jeddah)
+            area: Jeddah
+            notes: Well-equipped gym; large mat area; regular in-house competitions
+        duration: 1–1.5 hours per class
+        notes: >
+          Mouthguard and groin guard recommended for sparring sessions;
+          most gyms provide gloves and pads for beginners
+
+      - name: Gym and Fitness Centers
+        description: Modern fitness facilities for weight training, cardio, and group classes.
+        businesses:
+          - name: Fitness Time (Mekka branches)
+            area: Multiple locations — Al-Aziziyah, Al-Naseem, Abraj Al-Bait area
+            notes: Saudi Arabia's largest gym chain; day passes and monthly memberships; modern equipment
+          - name: Gold's Gym Makkah
+            area: Al-Aziziyah district, Mekka
+            notes: International brand; weights, cardio, and group fitness classes
+          - name: Fairmont Makkah Fitness Center
+            area: Abraj Al-Bait Complex, Mekka
+            notes: Premium hotel gym; open to non-guests for a day fee
+          - name: Swissôtel Fitness Center
+            area: Abraj Al-Bait, Mekka
+            notes: Full gym with pool; hotel guests free, visitors pay day fee
+        notes: Separate facilities for men and women at most venues; hydration critical in Mekka's climate
+
+      - name: Running and Athletics
+        description: >
+          Running clubs and athletics tracks are available in Mekka.
+          The early morning hours after Fajr are ideal for running in cooler temperatures.
+        businesses:
+          - name: King Abdulaziz Sports City Athletics Track
+            area: Al-Aziziyah district, Mekka
+            notes: Standard 400m track; public access; often used by serious runners
+          - name: Makkah Running Club (community group)
+            area: Various meeting points across Mekka
+            notes: >
+              Community running group active on social media; weekly group runs;
+              welcoming to visiting runners and pilgrims
+        best_time: "05:30–07:30 (post-Fajr) or after Maghrib prayer"
+        notes: >
+          Hydration is critical — carry water; avoid running during midday heat;
+          the elevated terrain of parts of Mekka provides natural hill training
+
+  culinary_arts:
+    description: >
+      Hands-on cooking experiences celebrating Saudi and Hejazi culinary heritage —
+      from traditional bread-baking to coffee ceremony mastery and royal kitchen techniques.
+    items:
+      - name: Saudi Cooking Classes (Hejazi Cuisine)
+        description: >
+          Learn to cook authentic Hejazi dishes — the distinct cuisine of the Mekka
+          and Jeddah region, shaped by centuries of pilgrims from across the Muslim world.
+          Dishes include Kabsa, Saleeg, Jareesh, Mutabbaq, and Harees.
+        signature_dishes_taught:
+          - Kabsa (spiced rice with meat — the national dish)
+          - Saleeg (white rice slow-cooked in broth and milk; Hejazi specialty)
+          - Jareesh (cracked wheat porridge with meat and caramelized onions)
+          - Harees (slow-cooked wheat and lamb; Ramadan staple)
+          - Mutabbaq (stuffed pastry with spiced meat and egg)
+          - Maamoul (semolina cookies stuffed with dates or nuts)
+        businesses:
+          - name: Mekka Culinary Experience Center
+            area: Al-Aziziyah district, Mekka
+            notes: >
+              Group and private cooking classes taught by local Hejazi home cooks;
+              all ingredients provided; full meal enjoyed at the end; English and Arabic instruction
+          - name: Jeddah Cooking Academy
+            area: Al-Rawdah district, Jeddah
+            notes: >
+              Professional kitchen setting; wide Saudi and Gulf curriculum;
+              Hejazi cuisine module highly popular with international visitors
+          - name: Sofitel Jeddah Culinary Workshops
+            area: Corniche Road, Jeddah
+            notes: Hotel-run cooking experiences; Saudi and international techniques
+        duration: 3–4 hours per class (including eating the meal cooked)
+        notes: Halal-only ingredients; alcohol-free; dietary preferences accommodated on request
+
+      - name: Arabic Coffee Ceremony (Qahwa Arabiyya)
+        description: >
+          The preparation and serving of traditional Saudi qahwa (Arabic coffee) is a refined
+          art and a pillar of Arabian hospitality. Learn to roast green beans, grind with a
+          wooden mortar (Mihbaj), and brew with cardamom, cloves, and saffron.
+        businesses:
+          - name: Saudi Heritage Commission Coffee Workshops
+            area: Mekka Heritage Center
+            notes: >
+              Authentic demonstrations of traditional qahwa preparation;
+              participants roast their own beans and brew a full ceremonial pot (Dallah)
+          - name: Al-Nakhi Specialty Coffee (workshop sessions)
+            area: Al-Aziziyah district, Mekka
+            notes: Specialty coffee roaster offering qahwa heritage sessions alongside modern brewing
+          - name: Taif Bedouin Camp Experiences
+            area: Al-Hada, Taif
+            notes: >
+              Bedouin hosts teach qahwa ceremony in a traditional tent setting;
+              paired with dates, dried fruits, and the full hospitality sequence
+        duration: 1–2 hours
+        notes: >
+          Qahwa is served without sugar (sweetness comes from dates served alongside);
+          the Dallah (coffee pot) and small handle-less cups (Fenjan) are iconic souvenirs
+
+      - name: Traditional Bread Baking (Khobz Tannour and Margoog)
+        description: >
+          Learn to bake traditional Arabian flatbread in a clay tandoor oven (Tannour)
+          and prepare Margoog — a slow-cooked meat and vegetable stew with thin bread layers.
+          A deeply communal cooking tradition.
+        businesses:
+          - name: Mekka Heritage Cooking Sessions
+            area: Traditional homes and cultural centers in Al-Adl district, Mekka
+            notes: >
+              Hosted by local families via cultural heritage programs;
+              hands-on bread slapping, tandoor management, and stew preparation
+          - name: Bedouin Desert Camp Cooking (Mekka outskirts)
+            area: Eastern desert outskirts of Mekka
+            notes: Evening programs include open-fire bread baking and Bedouin dinner preparation
+        duration: 2–3 hours
+        notes: >
+          Flatbread baking in a Tannour reaches very high heat; long oven gloves provided;
+          the finished meal is eaten together — a communal experience
+
+      - name: Date Tasting and Classification Workshop
+        description: >
+          Saudi Arabia produces over 100 varieties of dates. Learn to distinguish between
+          Ajwa (Medina's prized black date), Medjool (king of dates), Sukkari (caramel-sweet),
+          Khlas, Safawi, and Barhi — assessing texture, sugar content, skin, and origin.
+        businesses:
+          - name: Bateel Dates Academy Sessions
+            area: Abraj Al-Bait Mall, Mekka
+            notes: >
+              Guided tasting experiences; premium date varieties from Saudi farms;
+              pairing with Arabic coffee; gift packaging available
+          - name: Al-Madinah Date Market (tasting sessions)
+            area: Near Masjid al-Haram souq area, Mekka
+            notes: Informal but generous tastings from market vendors; bulk purchasing encouraged
+          - name: Taif Date and Honey Festival (seasonal)
+            area: Taif
+            notes: >
+              Annual event celebrating local dates and Sidr honey;
+              expert-led tasting workshops; live harvest demonstrations
+        duration: 1–2 hours
+        notes: >
+          Dates are considered Sunnah food (the Prophet PBUH broke fast with dates);
+          Ajwa dates from Medina have particular religious significance for pilgrims
+
+  family_and_kids:
+    description: >
+      Family-friendly activities and attractions suitable for children and all ages,
+      combining entertainment with cultural and spiritual enrichment.
+    items:
+      - name: Al-Shallal Theme Park
+        description: >
+          Large entertainment complex combining an indoor theme park, aquatic park,
+          go-karts, bowling, ice skating, and restaurants. One of the largest in the region.
+        location:
+          name: Al-Shallal Theme Park
+          address: Corniche Road, Jeddah (80 km from Mekka)
+          coordinates: "21.5900° N, 39.1170° E"
+        age_range: All ages (some rides 3+)
+        duration: Half-day to full-day
+        notes: Family-friendly; halal food throughout; segregated and family sections
+
+      - name: Mekka Mall Entertainment (Funland)
+        description: Indoor family entertainment center with rides, arcade games, and play zones.
+        location:
+          name: Mekka Mall
+          address: Al-Aziziyah district, Mekka
+        age_range: 2–14 years (primary focus)
+        duration: 1–3 hours
+        notes: Indoor and air-conditioned; ideal during Mekka's hot midday hours
+
+      - name: Taif Zoo and Wildlife Park
+        description: >
+          One of Saudi Arabia's largest zoos featuring Arabian wildlife including oryx,
+          sand gazelles, baboons, and birds native to the Hejaz region.
+        location:
+          name: Taif Zoo (Al-Rudaf Park)
+          address: Al-Rudaf Road, Taif
+          coordinates: "21.2667° N, 40.4145° E"
+          distance_from_mekka: 75 km
+        duration: 2–3 hours
+        notes: Family-friendly; shaded walkways; educational Arabic and English signage
+
+      - name: Children's Quran and Islamic Learning Camps
+        description: >
+          Structured programs for children combining Quran memorization, Islamic history
+          storytelling, Arabic alphabet, and fun activities — available during school holidays.
+        businesses:
+          - name: Masjid al-Haram Children's Quran Program
+            area: Masjid al-Haram, Mekka
+            notes: Free programs run during summer and Ramadan for ages 5–15
+          - name: Al-Nour Islamic Children's Academy
+            area: Al-Aziziyah district, Mekka
+            notes: Intensive summer camps; Quran, Arabic, and Islamic arts integrated
+        duration: Half-day sessions or week-long camps
+        notes: Deeply meaningful for Muslim families visiting Mekka with children
+
+      - name: Camel and Horse Petting Farm (Family Visit)
+        description: >
+          Gentle interaction with Arabian horses, camels, and farm animals — a hands-on
+          educational experience for children to connect with the animals of Islamic heritage.
+        businesses:
+          - name: Al-Badia Family Farm
+            area: Outskirts of Mekka, Al-Badia district
+            notes: Family visits; animal feeding; photography; short guided camel walks for children
+          - name: Al-Hada Animal Farm (Taif)
+            area: Al-Hada, Taif
+            notes: >
+              Mountain setting; goats, horses, and camels; pony rides for young children;
+              fresh farm products sold on-site
+        duration: 1–2 hours
+        notes: Bring modest, comfortable clothing; closed shoes essential around animals
