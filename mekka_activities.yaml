@@ -1,0 +1,255 @@
+activities:
+
+  spiritual_worship:
+    description: Core acts of worship performed at Masjid al-Haram and surroundings
+    items:
+      - name: Tawaf
+        description: Circumambulating the Kaaba seven times counterclockwise
+        location: Masjid al-Haram
+        duration: 30–60 minutes
+        notes: Mandatory for Hajj and Umrah; can also be performed voluntarily (Nafl Tawaf)
+
+      - name: Sa'i
+        description: Walking seven times between the hills of Safa and Marwa
+        location: Al-Mas'a corridor, Masjid al-Haram
+        duration: 30–45 minutes
+        notes: Commemorates Hajar's search for water for her son Ismail
+
+      - name: Salah at Masjid al-Haram
+        description: Performing the five daily prayers inside the Grand Mosque
+        location: Masjid al-Haram
+        duration: 10–20 minutes per prayer
+        notes: One prayer here equals 100,000 prayers elsewhere (hadith)
+
+      - name: Drinking Zamzam Water
+        description: Drinking from the blessed well of Zamzam
+        location: Masjid al-Haram (taps throughout the mosque)
+        duration: Any time
+        notes: Zamzam is considered blessed and spiritually significant
+
+      - name: Touching the Hajar al-Aswad
+        description: Kissing or gesturing toward the Black Stone embedded in the Kaaba corner
+        location: Masjid al-Haram, eastern corner of the Kaaba
+        notes: Sunnah; gesture from a distance is acceptable during crowds
+
+      - name: Standing at Maqam Ibrahim
+        description: Praying two rak'ahs behind the station of Ibrahim after Tawaf
+        location: Near the Kaaba inside Masjid al-Haram
+        notes: Quranic instruction (2:125)
+
+      - name: Tahajjud (Night Prayer)
+        description: Voluntary night prayer in the last third of the night
+        location: Masjid al-Haram or hotel
+        duration: Variable
+        notes: Especially blessed during the month of Ramadan
+
+      - name: Dhikr and Supplication
+        description: Continuous remembrance of Allah and personal du'a
+        location: Anywhere in Mekka
+        notes: Best times include between Asr and Maghrib, and at Multazam
+
+  hajj_rites:
+    description: Rituals performed exclusively during the Hajj season (Dhul Hijjah 8–13)
+    items:
+      - name: Entering Ihram
+        description: Donning the white seamless garments and making the intention for Hajj
+        location: Miqat (designated boundary points)
+        notes: Marks the beginning of the Hajj; specific rules of conduct apply
+
+      - name: Wuquf at Arafat
+        description: Standing in supplication on the plains of Arafat
+        location: Plain of Arafat (approx. 20 km from Mekka)
+        date: 9th Dhul Hijjah (afternoon)
+        duration: Several hours (noon to sunset)
+        notes: The pinnacle of Hajj; missing this invalidates the Hajj
+
+      - name: Muzdalifah Overnight Stay
+        description: Spending the night under the open sky and collecting pebbles
+        location: Muzdalifah
+        date: Night of 9th–10th Dhul Hijjah
+        notes: Pebbles collected here are used for the Rami (stoning) ritual
+
+      - name: Rami al-Jamarat (Stoning the Devil)
+        description: Throwing pebbles at three pillars symbolizing Satan's temptation
+        location: Jamarat Bridge, Mina
+        date: 10th–13th Dhul Hijjah
+        notes: Represents the rejection of evil; done in stages over multiple days
+
+      - name: Nahr (Animal Sacrifice / Qurbani)
+        description: Slaughtering an animal as a religious offering
+        location: Mina or official abattoirs
+        date: 10th Dhul Hijjah (Eid al-Adha)
+        notes: Meat distributed to those in need; can be done via authorized agencies
+
+      - name: Halq or Taqsir
+        description: Shaving the head (men) or cutting a portion of hair (women)
+        location: Mina or barber shops in Mekka
+        date: After Nahr on 10th Dhul Hijjah
+        notes: Marks partial exit from Ihram
+
+      - name: Stay in Mina
+        description: Spending the Tashreeq nights in Mina
+        location: Mina
+        date: 11th–13th Dhul Hijjah
+        notes: Staying two or three nights depending on the pilgrim's choice
+
+  umrah_rites:
+    description: Rituals of the lesser pilgrimage, performable year-round
+    items:
+      - name: Entering Ihram at Miqat
+        description: Putting on Ihram garments and making intention for Umrah
+        location: Designated Miqat (e.g., Masjid Aisha / Tan'eem for residents of Mekka)
+        notes: Specific duas and ghusl (ritual bath) recommended before Ihram
+
+      - name: Tawaf al-Umrah
+        description: Seven circuits around the Kaaba
+        location: Masjid al-Haram
+        notes: Begin from the Black Stone corner; men jog the first three rounds (Raml) if able
+
+      - name: Sa'i al-Umrah
+        description: Seven walks between Safa and Marwa
+        location: Al-Mas'a corridor
+        notes: Starts at Safa and ends at Marwa
+
+      - name: Halq or Taqsir
+        description: Cutting or shaving hair to exit Ihram
+        location: Anywhere in Mekka
+        notes: Completes the Umrah
+
+  historical_sites:
+    description: Significant historical and religious landmarks in and around Mekka
+    items:
+      - name: Jabal al-Nour (Mountain of Light)
+        description: Mountain housing the Cave of Hira where the first Quranic revelation descended
+        location: Approx. 4 km from Masjid al-Haram
+        duration: 1.5–2 hours (hike up and down)
+        notes: Cave where Prophet Muhammad received the first revelation from Angel Jibreel
+
+      - name: Jabal Thawr (Mount Thawr)
+        description: Mountain containing the cave where the Prophet took refuge during the Hijra
+        location: Approx. 4 km south of Masjid al-Haram
+        duration: 2–3 hours
+        notes: Steeper climb than Jabal al-Nour; historically significant for the migration to Medina
+
+      - name: Masjid al-Jinn
+        description: Mosque marking the spot where a group of jinn embraced Islam
+        location: Near Mekka city center
+        notes: Mentioned in Surah al-Jinn (72)
+
+      - name: Masjid Aisha (Tan'eem)
+        description: Mosque where pilgrims can enter Ihram for additional Umrahs
+        location: Approx. 7.5 km from Masjid al-Haram
+        notes: Named after Aisha (RA) who entered Ihram here by the Prophet's instruction
+
+      - name: Jannat al-Mu'alla Cemetery
+        description: Ancient cemetery where many relatives of the Prophet are buried
+        location: Near Masjid al-Haram
+        notes: Includes the grave of Khadijah (RA), the Prophet's first wife
+
+      - name: Al-Masjid al-Haram Tour
+        description: Exploring the different sections of the Grand Mosque including minarets and courtyards
+        location: Masjid al-Haram
+        duration: 1–2 hours
+        notes: The mosque has been greatly expanded; guided tours available
+
+  educational_cultural:
+    description: Learning and enrichment activities for spiritual growth
+    items:
+      - name: Islamic History Lectures
+        description: Attending scholarly talks held regularly in and around the mosque
+        location: Masjid al-Haram and nearby hotels
+        notes: Topics range from Seerah (Prophet's biography) to Fiqh (Islamic jurisprudence)
+
+      - name: Quranic Recitation Classes
+        description: Joining Quran learning circles (Halaqat) in the mosque
+        location: Masjid al-Haram
+        notes: Available for beginners and advanced learners; often free
+
+      - name: Visiting the Zamzam Museum
+        description: Learning about the history and science of the Zamzam well
+        location: Masjid al-Haram basement area
+        notes: Displays historical artifacts and information on the well's hydrology
+
+      - name: Mekka Museum (Al-Zaher Palace)
+        description: Museum exploring the history of Mekka and the Hajj journey
+        location: Mekka city
+        notes: Offers insight into the evolution of the city and pilgrimage
+
+  food_and_hospitality:
+    description: Culinary experiences and local hospitality
+    items:
+      - name: Harees
+        description: Traditional slow-cooked wheat and meat porridge popular during Ramadan and Hajj
+        location: Local restaurants throughout Mekka
+        notes: A comforting dish deeply rooted in Arabian cuisine
+
+      - name: Kabsa
+        description: Saudi national dish of spiced rice with meat or chicken
+        location: Saudi restaurants and hotel buffets
+        notes: Often served at large communal gatherings
+
+      - name: Dates and Qahwa (Arabic Coffee)
+        description: Traditional Saudi welcome — fresh dates paired with cardamom-spiced coffee
+        location: Cafes, hotels, and hospitality tents
+        notes: Offering and accepting dates is a sign of hospitality
+
+      - name: Mutabbaq
+        description: Stuffed pancake or pastry with meat, eggs, or sweet fillings
+        location: Street vendors and local eateries
+        notes: A popular street food especially in the evenings
+
+      - name: Mandi
+        description: Slow-cooked meat and rice dish prepared in a tandoor oven
+        location: Traditional restaurants
+        notes: Usually lamb or chicken; rich in spices and flavor
+
+  shopping:
+    description: Popular places to buy souvenirs and Islamic goods
+    items:
+      - name: Abraj Al-Bait Mall
+        description: Large shopping mall adjacent to Masjid al-Haram
+        location: Directly across from Masjid al-Haram
+        notes: Houses international and local brands; convenient for pilgrims
+
+      - name: Souq Al-Zal
+        description: Traditional open-air market selling antiques, clothing, and local goods
+        location: Mekka city center
+        notes: Good place for authentic local shopping experience
+
+      - name: Attar (Arabic Perfume)
+        description: Buying traditional oil-based Islamic perfumes
+        location: Perfume shops throughout Mekka
+        notes: Oud and musk are popular; alcohol-free formulas widely available
+
+      - name: Prayer Rugs and Tasbeeh
+        description: Purchasing prayer essentials and Islamic gifts for family
+        location: Shops around Masjid al-Haram and souqs
+        notes: Wide range of quality and price; bargaining is common in souqs
+
+      - name: Islamic Books and Qurans
+        description: Buying Qurans, hadith collections, and Islamic literature
+        location: Bookshops near Masjid al-Haram and in malls
+        notes: Available in many languages; free Qurans sometimes distributed at the mosque
+
+  wellness_and_rest:
+    description: Activities to maintain health and spiritual energy during the pilgrimage
+    items:
+      - name: Rest and Recovery
+        description: Adequate sleep and hydration between worship sessions
+        location: Hotel
+        notes: Essential for sustaining energy through the physically demanding Hajj and Umrah
+
+      - name: Walking the Mosque Courtyards
+        description: Gentle walking and reflection in the open courtyards of Masjid al-Haram
+        location: Masjid al-Haram outdoor areas
+        notes: Peaceful especially in early mornings or after Fajr
+
+      - name: Journaling and Reflection
+        description: Writing personal reflections, duas, and spiritual goals
+        location: Anywhere
+        notes: A meaningful way to document the spiritual journey
+
+      - name: Charity and Sadaqah
+        description: Giving to those in need, including beggars and charitable organizations
+        location: Throughout Mekka
+        notes: Sadaqah is especially rewarded in the holy city
