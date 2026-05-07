@@ -1,0 +1,379 @@
+# Historical sites, education, arts, and traditional crafts
+
+activities:
+  historical_sites:
+    description: Significant historical and religious landmarks in and around Mekka
+    items:
+    - name: Jabal al-Nour (Mountain of Light)
+      description: Mountain housing the Cave of Hira where the first Quranic revelation descended
+      location:
+        name: Jabal al-Nour
+        area: Al-Nour district, approx. 4 km northeast of Masjid al-Haram
+        coordinates: 21.4572° N, 39.8586° E
+        address: Al Nour Mountain Road, Mekka
+      duration: 1.5–2 hours (hike up and down)
+      notes: 1,294 steps to the top; best visited early morning to avoid heat
+    - name: Jabal Thawr (Mount Thawr)
+      description: Mountain containing the cave where the Prophet took refuge during the Hijra
+      location:
+        name: Jabal Thawr
+        area: Approx. 4.7 km south of Masjid al-Haram
+        coordinates: 21.3856° N, 39.8192° E
+      duration: 2–3 hours
+      notes: Steeper and harder than Jabal al-Nour; sturdy footwear recommended
+    - name: Masjid al-Jinn
+      description: Mosque marking the spot where a group of jinn pledged allegiance to Islam
+      location:
+        name: Masjid al-Jinn
+        area: Al-Mu'alla district, near Jannat al-Mu'alla cemetery
+        coordinates: 21.4317° N, 39.8314° E
+        address: Al-Jinn Street, Al Mu'alla, Mekka
+      notes: Mentioned in Surah al-Jinn (72); small but historically significant
+    - name: Masjid Aisha (Tan'eem)
+      description: Mosque where pilgrims enter Ihram for additional Umrahs
+      location:
+        name: Masjid Aisha
+        area: Tan'eem, approx. 7.5 km from Masjid al-Haram
+        coordinates: 21.4629° N, 39.8200° E
+        address: Al-Hijrah Road, Tan'eem, Mekka
+      notes: Accessible by taxi, bus (Mekka Metro Line 2), or Uber/Careem
+    - name: Jannat al-Mu'alla Cemetery
+      description: Ancient cemetery where many relatives and companions of the Prophet are buried
+      location:
+        name: Jannat al-Mu'alla (Al-Hajoon Cemetery)
+        area: Al-Mu'alla district, few hundred meters from Masjid al-Haram
+        coordinates: 21.4331° N, 39.8283° E
+        address: Al Mu'alla Street, Mekka
+      notes: >-
+        Includes the graves of Khadijah (RA), Abu Talib, and other family members of the Prophet
+    - name: Masjid al-Haram Architecture Tour
+      description: Exploring the mosque's minarets, gates, clocks, and historical sections
+      location:
+        name: Masjid al-Haram (various gates)
+        key_gates:
+        - King Abdulaziz Gate (Gate 1) — main ceremonial entrance
+        - King Fahd Gate (Gate 79) — facing Abraj Al-Bait
+        - Bab al-Salam (Gate of Peace)
+        - Bab Umrah
+      duration: 1–2 hours
+      notes: Guided tours by licensed agencies available; best done outside peak prayer times
+    - name: Makkah Museum (Al-Zaher Palace)
+      description: Royal palace turned museum covering the history of Mekka and the Hajj
+      location:
+        name: Al-Zaher Palace Museum
+        area: Al-Zaher district, Mekka
+        address: Al-Zaher Road, Mekka
+      notes: Displays Ottoman-era artifacts, old maps, and Hajj documentation
+  educational_cultural:
+    description: Learning and enrichment activities for spiritual growth
+    items:
+    - name: Islamic History Lectures
+      description: Attending scholarly talks held regularly in the mosque
+      location:
+        name: Masjid al-Haram lecture halls and gate areas
+        area: Al Haram district
+      businesses:
+      - name: Dar al-Hadith al-Khayriyyah
+        area: Near Masjid al-Haram, Mekka
+        notes: Historic Islamic educational institution offering courses
+      - name: Umm al-Qura University Islamic Studies Faculty
+        area: Al-Abdiyah district, Mekka
+        notes: Public lectures occasionally open to pilgrims
+      notes: Topics include Seerah, Aqeedah, Fiqh; schedules posted at mosque entrances
+    - name: Quranic Recitation Circles (Halaqat)
+      description: Joining Quran learning circles inside the mosque
+      location:
+        name: Masjid al-Haram — King Fahd expansion section
+        area: Al Haram district
+      notes: Available for all levels; often led by certified reciters; free to join
+    - name: Zamzam Well Exhibition
+      description: Learning about the history and hydrology of the Zamzam well
+      location:
+        name: Zamzam Well Area
+        area: Masjid al-Haram basement (accessible from Mataf level)
+        coordinates: 21.4227° N, 39.8264° E
+      notes: The well itself is enclosed but the surrounding area has informational displays
+  arts_and_culture:
+    description: >
+      Traditional and contemporary Arabian arts — calligraphy, music, poetry, and storytelling deeply rooted in Islamic civilization.
+      Many workshops available in Mekka, Taif, and Jeddah.
+    items:
+    - name: Arabic Calligraphy (Al-Khatt al-Arabi)
+      description: >
+        The art of beautiful Arabic script — considered the highest Islamic visual art form. Styles include Naskh, Thuluth,
+        Diwani, Kufi, and Ruq'a. UNESCO-listed as Intangible Cultural Heritage. Learning even basic Naskh is a deeply rewarding
+        spiritual experience.
+      skill_levels:
+      - beginner
+      - intermediate
+      - advanced
+      styles:
+      - Naskh (most readable; best for beginners)
+      - Thuluth (classical mosque inscriptions; intermediate)
+      - Diwani (ornate Ottoman style; advanced)
+      - Kufi (geometric angular style; advanced)
+      - Ruq'a (everyday handwriting style; beginner-friendly)
+      businesses:
+      - name: Dar al-Khatt al-Islami
+        area: Al-Aziziyah district, Mekka
+        notes: >
+          Dedicated calligraphy school offering weekend and intensive courses; supplies included; work in both traditional
+          reed pen (qalam) and modern tools
+      - name: Mekka Cultural Center (Dar al-Thaqafa)
+        area: Al-Adl district, Mekka
+        address: King Fahd Road, Al-Adl, Mekka
+        notes: Regular calligraphy workshops by master calligraphers; free or low-cost sessions
+      - name: Al-Balad Calligraphy Studio
+        area: Historic Jeddah (Al-Balad), Jeddah
+        notes: >
+          Beautiful heritage building setting; courses from 1-day crash course to 12-week term; certificates issued by Saudi
+          Calligraphy Association
+      - name: Umm al-Qura University Arts Faculty (open workshops)
+        area: Al-Abdiyah district, Mekka
+        notes: Occasional public workshops run by the university's arts department
+      duration: 2–3 hours per session (courses range from 1 day to 12 weeks)
+      supplies_needed:
+      - Reed pen (qalam) or bamboo pen
+      - Calligraphy ink (Hibr)
+      - Practice paper (smooth, non-absorbent)
+      - Ruler and T-square
+      notes: >
+        Suitable for all ages; Arabic literacy not strictly required for beginners; finished pieces make extraordinary personal
+        keepsakes and gifts
+    - name: Oud Playing (Al-Oud)
+      description: >
+        The Oud is the king of Arabian musical instruments — a fretless lute with a warm, resonant tone at the heart of classical
+        Arabic music. Learning even basic maqamat (melodic modes) opens a world of Islamic musical heritage spanning 1,000+
+        years.
+      skill_levels:
+      - beginner
+      - intermediate
+      - advanced
+      arabic_maqamat_covered:
+      - Rast (foundational; most common beginner mode)
+      - Bayati (melancholic; emotionally expressive)
+      - Hijaz (exotic; associated with Arabian Peninsula)
+      - Nahawand (resembles Western minor scale)
+      - Saba (deeply emotional; used in religious music)
+      businesses:
+      - name: Mekka Music and Arts Institute
+        area: Al-Naseem district, Mekka
+        notes: >
+          Private and group Oud lessons; Ouds available for rent during lessons; instructors trained in classical Arabic and
+          Islamic musical traditions
+      - name: Al-Andalus Music Academy
+        area: Al-Hamra district, Jeddah
+        notes: >
+          Well-regarded school with experienced Oud masters; beginner courses start with proper posture, right-hand picking
+          technique, and basic maqamat
+      - name: Taif Arts Center
+        area: Taif city center
+        notes: Oud workshops and cultural music evenings; intimate setting
+      duration: 45–60 minutes per lesson
+      notes: >
+        Student-grade Ouds available for purchase at music shops near Mekka; Arabic music is microtonal — quarter tones differ
+        from Western scales; patience in the first weeks yields lifelong musical ability
+    - name: Arabic Poetry (Al-Shi'r al-Arabi)
+      description: >
+        Arabia is the birthplace of one of history's greatest poetic traditions. From pre-Islamic Mu'allaqat odes to Nabati
+        Bedouin poetry and contemporary verse, learning to compose or recite Arabic poetry sharpens language and deepens spirituality.
+      genres:
+      - Fusha (Classical Arabic poetry — formal, literary)
+      - Nabati (Bedouin vernacular poetry — oral tradition, emotionally raw)
+      - Zajal (colloquial rhyming poetry — performed at social gatherings)
+      - Qasida (long ode form — classical structure)
+      - Haiku-inspired modern Arabic verse (contemporary)
+      businesses:
+      - name: Saudi Writers and Literati Club (Mekka Chapter)
+        area: Mekka city center
+        notes: >
+          Weekly poetry circles open to the public; recitation evenings, critique sessions, and poetry workshops in both classical
+          and colloquial Arabic
+      - name: Taif Cultural Palace
+        area: Taif city center
+        notes: >-
+          Regular literary evenings featuring Nabati poetry; audience participation welcomed
+      - name: Jeddah Literary Club
+        area: Al-Rawdah district, Jeddah
+        notes: >
+          One of Saudi Arabia's most active literary societies; hosts famous poets; workshops for beginners wanting to try
+          composing their first qasida
+      duration: 1–3 hours per session
+      notes: >
+        No Arabic writing required to enjoy Nabati poetry circles (oral tradition); classical poetry workshops benefit from
+        basic Modern Standard Arabic literacy
+    - name: Arabic Storytelling (Al-Hakawati)
+      description: >
+        The Hakawati is the traditional Arabian oral storyteller — a figure who once held court in coffeehouses and public
+        squares. Sessions combine folklore, Islamic history, Bedouin legends, and improvised narrative. A living tradition
+        being actively revived.
+      businesses:
+      - name: Saudi Heritage Commission Story Nights
+        area: Mekka Heritage Center and Jeddah Al-Balad
+        notes: >
+          Organized storytelling evenings in Arabic; themes drawn from Islamic history, Arabian Nights (Alf Layla), and regional
+          folklore
+      - name: Jeddah Corniche Cultural Events
+        area: Al-Kurnaysh, Jeddah
+        notes: Outdoor storytelling performances during national festivals and Ramadan evenings
+      - name: Al-Hada Mountain Camps (Taif)
+        area: Al-Hada, Taif
+        notes: Bedouin-hosted evenings with traditional stories around a campfire
+      duration: 1–2 hours per session
+      notes: Basic Arabic comprehension helpful; some sessions offered with English summaries
+    - name: Islamic Geometric Art and Tile Design
+      description: >
+        The intricate geometric patterns adorning mosques, palaces, and manuscripts across the Islamic world. Learn to construct
+        star patterns, girih tiles, and arabesque designs using compass and ruler — the classical Islamic method.
+      skill_levels:
+      - beginner
+      - intermediate
+      businesses:
+      - name: Mekka Cultural Center (Dar al-Thaqafa)
+        area: Al-Adl district, Mekka
+        notes: Geometric art workshops; materials provided; no drawing experience required
+      - name: Saudi Heritage Commission Design Workshops
+        area: Mekka and Jeddah
+        notes: >
+          Hands-on sessions covering Mamluk, Ottoman, and Andalusian geometric traditions; participants take home their completed
+          framed artwork
+      - name: Al-Balad Art Studios (Historic Jeddah)
+        area: Al-Balad (UNESCO World Heritage Site), Jeddah
+        notes: >
+          Beautiful workshop spaces inside restored coral-stone buildings; combine with a walking tour of Al-Balad's intricate
+          Roshan wooden screens
+      duration: 2–4 hours per session
+      materials_provided: true
+      notes: >
+        Compass, ruler, fine-liner pens, and quality paper provided; finished geometric works are frameable art pieces
+    - name: Arabic Percussion — Tabla and Riqq
+      description: >
+        Learn the foundational rhythms (Iqa'at) of Arabic music on the hand drum (Tabla/Darbuka) or tambourine (Riqq). Rhythmic
+        cycles like Maqsum, Samai, and Wahda underpin all Arabic classical and folk music.
+      skill_levels:
+      - beginner
+      - intermediate
+      businesses:
+      - name: Mekka Music and Arts Institute
+        area: Al-Naseem district, Mekka
+        notes: Group percussion classes; Tabla rental available
+      - name: Al-Andalus Music Academy
+        area: Al-Hamra district, Jeddah
+        notes: Individual and ensemble percussion coaching; covers Tabla, Riqq, and Duff
+      duration: 45–60 minutes per lesson
+      notes: >
+        Riqq (tambourine) is gentler for complete beginners; Tabla requires finger conditioning but progress is rapid; rhythms
+        are written in visual notation
+    - name: Traditional Saudi Nasheed (Islamic Vocal Music)
+      description: >
+        Nasheed is vocal Islamic music — unaccompanied or with light percussion. Learn proper maqam-based vocal technique,
+        breath control, and the classical Arabic texts set to traditional melodic modes.
+      skill_levels:
+      - beginner
+      - intermediate
+      businesses:
+      - name: Mekka Islamic Arts Institute
+        area: Al Haram district, Mekka
+        notes: >
+          Group vocal workshops focusing on Quranic recitation tone (Tajweed melody) and classical Nasheed forms; open to
+          men, women (separate sessions)
+      - name: Taif Arts Center Vocal Workshops
+        area: Taif city center
+        notes: >
+          Courses covering proper Arabic vocal production, maqam awareness, and group Nasheed performance practice
+      duration: 1 hour per session
+      notes: >
+        No prior musical experience required; Nasheed connects spiritual intention with vocal artistry; many participants
+        report it deepening their Quran recitation
+  skills_craft:
+    description: >
+      Hands-on workshops in traditional and contemporary crafts — pottery, woodworking, photography, and textile arts. Available
+      at cultural centers in Mekka, with specialist studios in Taif and Jeddah. Most sessions welcome complete beginners.
+    items:
+    - name: Photography Walks and Workshops
+      description: >
+        Guided photography tours of Mekka's most visually striking locations — the Grand Mosque at golden hour, Souq Al-Zal's
+        alleyways, and Hejazi old-city architecture. Covers composition, natural light, and phone/DSLR technique.
+      skill_levels:
+      - beginner
+      - intermediate
+      - advanced
+      businesses:
+      - name: Mekka Photography Circle
+        area: Al Haram district, Mekka
+        notes: >-
+          Community group organizing weekly dawn shoots; welcoming to visiting photographers
+      - name: Saudi Photography Club (Mekka chapter)
+        area: Al-Aziziyah district, Mekka
+        notes: Club outings, studio workshops, and portrait sessions; equipment loans available
+      - name: Visual Makkah Workshop (Jeddah-based, Mekka day trips)
+        area: Al-Balad, Jeddah / day trips to Mekka
+        notes: >-
+          Professional photographers lead small-group documentary shoots; Arabic and English
+      duration: 2–4 hours per session
+      notes: Bring your own camera or smartphone; wide-angle lens ideal for architecture
+    - name: Pottery and Ceramics (Fakhkhar)
+      description: >
+        Traditional Arabian pottery — wheel-throwing, hand-building, and decorative glazing. The Hejaz has a centuries-old
+        tradition of unglazed water vessels (Zeer) and decorative terracotta. Modern workshops blend heritage forms with contemporary
+        design.
+      skill_levels:
+      - beginner
+      - intermediate
+      businesses:
+      - name: Mekka Cultural Center (Dar al-Thaqafa) — Pottery Studio
+        area: Al-Adl district, Mekka
+        notes: >-
+          Clay wheel sessions; kiln firing included; take home fired pieces on second visit
+      - name: Al-Fakhkhar Ceramics Studio
+        area: Al-Rawdah district, Jeddah (80 km)
+        notes: 12-wheel studio; beginner wheel-throwing courses; glazing workshops available
+      - name: Saudi Heritage Commission Craft Workshops
+        area: Mekka Heritage Center
+        notes: Heritage-focused sessions recreating traditional unglazed Hejazi pottery
+      duration: 2–3 hours per session
+      materials_provided: true
+      notes: >-
+        Wear clothes you don't mind getting clay on; aprons provided; meditative and rewarding
+    - name: Traditional Woodworking and Mashrabiya Carving
+      description: >
+        The ornate wooden lattice screens (Mashrabiya) of Hejazi architecture are a masterpiece of Islamic craft. Learn to
+        design and carve geometric patterns using traditional chisels and rotary tools.
+      skill_levels:
+      - beginner
+      - intermediate
+      businesses:
+      - name: Al-Balad Heritage Craft Center
+        area: Al-Balad (UNESCO World Heritage), Jeddah
+        notes: Sessions inside restored coral-stone buildings; master craftsmen on site
+      - name: Saudi Heritage Commission Woodcraft Workshops
+        area: Mekka Heritage Center and Jeddah
+        notes: Broader curriculum covering Mashrabiya design and traditional joinery
+      - name: Taif Artisan Center
+        area: Taif city center
+        notes: >-
+          Specialty in local juniper and olive wood; mountain climate makes sessions comfortable
+      duration: 3–4 hours per session
+      notes: Safety gloves and goggles provided; no prior woodworking required
+    - name: Textile Weaving and Traditional Sadu
+      description: >
+        Sadu is the geometric Bedouin weaving tradition of the Arabian Peninsula — bold patterns woven on ground looms using
+        wool and natural dyes. UNESCO-listed Intangible Cultural Heritage. Learn warp setting, shuttle technique, and pattern
+        counting.
+      skill_levels:
+      - beginner
+      - intermediate
+      businesses:
+      - name: Saudi Heritage Commission Sadu Workshops
+        area: Mekka Heritage Center
+        notes: >-
+          Authentic loom sessions led by Bedouin weavers; natural dyes; take home a woven strip
+      - name: Jeddah Craft Heritage Hub
+        area: Al-Balad, Jeddah
+        notes: Mixed textile workshops including Sadu, embroidery, and cross-stitch
+      - name: Taif Bedouin Heritage Camp (weaving module)
+        area: Al-Hada, Taif
+        notes: >-
+          Evening sessions in traditional tents; scarves and table runners completed in 2 hours
+      duration: 2–3 hours per session
+      notes: All materials provided; sitting Bedouin-style on floor cushions

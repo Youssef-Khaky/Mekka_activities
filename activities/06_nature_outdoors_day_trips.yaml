@@ -1,0 +1,296 @@
+# Nature, outdoor activities, and day trips from Mekka
+
+activities:
+  nature_and_outdoors:
+    description: >
+      Natural landscapes surrounding Mekka — from desert plains to the cool Taif mountains and Red Sea coast. Best visited
+      outside peak Hajj season (Dhul Hijjah) for safety and access.
+    items:
+    - name: Taif Mountain Trekking
+      description: >
+        The Al-Hada and Al-Shafa mountains around Taif (75 km from Mekka, 1,800 m elevation) offer cooler temperatures, forested
+        trails, waterfalls, and stunning valley views. A complete contrast to Mekka's desert basin.
+      location:
+        name: Al-Hada and Al-Shafa mountains
+        area: Taif governorate, Makkah Region
+        coordinates: 21.3528° N, 40.4062° E
+        distance_from_mekka: 75 km (approx. 1 hour by car)
+      businesses:
+      - name: Al-Hada Mountain Resort Trails (public access)
+        area: Al-Hada, Taif
+        notes: Marked walking trails through pine and juniper forest; free access
+      - name: Taif Adventure Park
+        area: Al-Shafa, Taif
+        notes: >
+          Zipline, rope bridges, and guided hiking; family-friendly; stunning views over the Hejaz mountain range
+      - name: Saudi Trekking Club (Taif chapter)
+        area: Taif
+        notes: Organized group hikes; welcome to visitors; contact via social media
+      difficulty: easy to moderate
+      best_season: >-
+        Year-round (summer especially pleasant — Taif is known as Saudi Arabia's summer retreat)
+      duration: 2–6 hours depending on trail
+      notes: >
+        Bring water, sunscreen, and layered clothing (evenings cool quickly at altitude); Al-Hada cable car offers aerial
+        views for those preferring a gentler option
+    - name: Taif Rose Valley (Wadi al-Ward)
+      description: >
+        Taif is world-famous for its Damascene roses — the source of some of the world's finest rose oil (Attar al-Ward).
+        The rose season (March–April) fills the valleys with color and fragrance. Visit working rose farms and distilleries.
+      location:
+        name: Rose Farms of Al-Hada and Al-Hawiyah
+        area: Taif, Makkah Region
+        distance_from_mekka: 75 km
+      businesses:
+      - name: Al-Khuraibah Rose Farm
+        area: Al-Hawiyah district, Taif
+        notes: >
+          One of the oldest rose farms in Taif; guided tours of rose picking and traditional steam-distillation of rose water
+          and Attar
+      - name: Taif Rose Festival (seasonal)
+        area: Taif city and surrounding farms
+        notes: >
+          Annual festival held during bloom season (late March to early April); live distillation demos, rose products market,
+          and cultural performances
+      - name: Al-Rudaf Park
+        area: Taif city center
+        address: Al-Rudaf Road, Taif
+        notes: Large public park with rose gardens; picnic areas; family-friendly; free entry
+      best_season: March–April (rose bloom season)
+      duration: Half-day to full-day
+      notes: >
+        Rose water, rose oil, and rose jam sold directly at farms — far cheaper and more authentic than city shops; book farm
+        visits in advance during festival season
+    - name: Desert Stargazing
+      description: >
+        The desert skies around Mekka are among the least light-polluted in the region. On clear nights the Milky Way is visible
+        with the naked eye. An experience that connects deeply with Islamic reflection on the cosmos.
+      location:
+        name: Desert outskirts east of Mekka
+        area: Al-Badia and Wadi Na'man areas
+        distance_from_mekka: 20–40 km
+      businesses:
+      - name: Makkah Desert Safari Co. (Stargazing Package)
+        area: Eastern desert, Mekka outskirts
+        notes: >
+          Evening packages including telescope sessions, Bedouin dinner, and guided star identification (Arabic star names
+          are richly historical)
+      - name: Saudi Astronomical Society (Jeddah chapter)
+        area: Jeddah (80 km)
+        notes: >
+          Organizes public stargazing nights; visitors welcome; telescopes provided; lectures on Islamic astronomy and the
+          historical Arabic star map
+      best_time: New moon phase; winter months (October–March) for clearest skies
+      duration: 3–5 hours (evening into night)
+      notes: >
+        Bring warm clothing for the desert night chill; Islamic astronomical heritage is vast — most stars visible tonight
+        carry Arabic names given by medieval Muslim scholars
+    - name: Wadi Na'man Hiking
+      description: >
+        Wadi Na'man is a scenic valley system northeast of Mekka with rocky gorges, seasonal waterfalls after rainfall, and
+        ancient agricultural terraces. Popular for day hikes among Mekka residents.
+      location:
+        name: Wadi Na'man
+        area: Northeast of Mekka, approx. 25 km from city center
+        coordinates: 21.5200° N, 39.9500° E
+      difficulty: easy to moderate
+      duration: 2–4 hours
+      notes: >
+        Best visited after winter rains (December–February) when water flows; no formal facilities — bring all food, water,
+        and navigation tools; hiking in groups is recommended
+    - name: Al-Hada Cable Car (Teleferik)
+      description: >
+        A scenic cable car ride over the Al-Hada mountain valley near Taif — offering breathtaking aerial views over the Hejaz
+        highlands, valleys, and forest canopy.
+      location:
+        name: Al-Hada Cable Car Station
+        area: Al-Hada, Taif
+        address: Al-Hada Road, Taif
+        coordinates: 21.3774° N, 40.3607° E
+      duration: 20–30 minutes (round trip)
+      operating_hours: 09:00–22:00 daily
+      notes: >
+        Suitable for all fitness levels; spectacular sunset views; combine with lunch at one of the hilltop restaurants overlooking
+        the valley
+    - name: Red Sea Snorkeling and Diving (Jeddah)
+      description: >
+        The Red Sea off Jeddah hosts some of the world's most biodiverse coral reefs — pristine hard and soft corals, reef
+        fish, rays, turtles, and occasional whale sharks. Accessible for complete beginners through to advanced technical
+        divers.
+      location:
+        name: Jeddah Corniche and offshore reefs
+        area: Jeddah, Red Sea coast (80 km from Mekka)
+        coordinates: 21.5433° N, 39.1728° E
+      businesses:
+      - name: Dive Jeddah
+        area: Al-Kurnaysh (Corniche), Jeddah
+        notes: >
+          PADI Open Water certification courses; Discover Scuba for beginners (no cert needed); guided reef dives at Sharm
+          Obhur and offshore sites; full equipment rental
+      - name: Red Sea Dive Center
+        area: Obhur Creek, North Jeddah
+        address: Obhur Al-Shamaliyah, Jeddah
+        notes: >
+          Snorkeling day trips to shallow reefs; boat dive charters; underwater photography rental available; family snorkel
+          packages
+      - name: Al-Nawras Diving Club
+        area: Al-Hamra, Jeddah Corniche
+        notes: >
+          Community dive club; day memberships for certified divers; guided night dives (extraordinary visibility in warm
+          Red Sea waters)
+      best_season: October–April (cooler water; optimal visibility)
+      duration: Half-day to full-day
+      notes: >
+        Water temperature 22–30°C year-round; no wetsuit needed in summer; modest swimwear options available from dive centers
+  day_trips:
+    description: >
+      Popular day-trip destinations reachable from Mekka within 1–2 hours, offering a change of scenery and additional spiritual
+      or cultural experiences.
+    items:
+    - name: Medina (Al-Madinah al-Munawwarah)
+      description: >
+        The Prophet's city — home of Masjid al-Nabawi, the Quba Mosque (first mosque in Islam), Masjid al-Qiblatayn, and the
+        Baqi cemetery. A deeply moving pilgrimage extension for any visitor to Mekka.
+      location:
+        area: Medina, approx. 450 km north of Mekka
+        distance_from_mekka: 450 km (4–4.5 hours by road; 2 hours by Haramain High Speed Railway)
+      key_sites:
+      - >-
+        Masjid al-Nabawi (Prophet's Mosque) — burial place of the Prophet Muhammad (PBUH)
+      - >-
+        Masjid Quba — first mosque built in Islam; two rak'ahs here equal an Umrah (hadith)
+      - Masjid al-Qiblatayn — where the Qibla direction was changed to Mekka
+      - Jannat al-Baqi — the main Medina cemetery with companions of the Prophet
+      - Jabal Uhud — site of the Battle of Uhud; graves of the martyrs
+      - Al-Madinah Dates Market — the largest date market in the world
+      transport:
+      - Haramain High Speed Railway (HHR) — fastest option; 2 hours; book online
+      - Intercity buses (SAPTCO) — affordable; depart from Mekka Central Bus Station
+      - Private car hire or taxi — flexible; allow extra time for checkpoints
+      notes: >
+        Non-Muslims are not permitted to enter Medina's central sacred area; Muslim visitors should book railway tickets well
+        in advance during Hajj and Ramadan
+    - name: Jeddah (Historic Al-Balad)
+      description: >
+        Saudi Arabia's cosmopolitan port city on the Red Sea — home to UNESCO World Heritage Site Al-Balad, the Jeddah Corniche,
+        King Fahd Fountain (world's tallest), and the gateway to Red Sea adventures.
+      location:
+        area: Jeddah, approx. 80 km west of Mekka (approx. 1 hour by car)
+      key_sites:
+      - >-
+        Al-Balad Historic District — UNESCO World Heritage Site; coral-stone houses with Roshan wooden screens
+      - King Fahd Fountain — world's tallest fountain (312 m); best viewed at night
+      - Jeddah Corniche (Al-Kurnaysh) — 30 km waterfront promenade
+      - Floating Mosque (Masjid Al-Rahma) — iconic mosque built on the Red Sea
+      - Red Sea snorkeling and diving sites
+      transport:
+      - Taxi or Uber/Careem — approx. SAR 100–150 one way
+      - SAPTCO buses — budget option from Mekka Central Bus Station
+      notes: >
+        Al-Balad is best explored on foot in cooler morning or evening hours; combine with Red Sea activities for a full day
+    - name: Taif (City of Roses)
+      description: >
+        A scenic mountain city at 1,800 m elevation — Saudi Arabia's summer retreat, famous for Damascene roses, cooler temperatures,
+        lush gardens, and mountain escarpments.
+      location:
+        area: Taif, approx. 75 km southeast of Mekka
+        distance_from_mekka: 75 km (approx. 1–1.5 hours by car via Al-Hada mountain road)
+      key_sites:
+      - Al-Hada and Al-Shafa mountain resort areas
+      - Taif Rose Farms (peak bloom March–April)
+      - Al-Rudaf Park and Taif Zoo
+      - Al-Hada Cable Car (Teleferik) — aerial valley views
+      - Taif Souq and local honey and date market
+      transport:
+      - Taxi or Uber/Careem — scenic mountain road drive
+      - SAPTCO bus — regular departures from Mekka
+      best_season: Year-round; summer is refreshing at altitude; rose season is March–April
+      notes: >
+        The drive up Al-Hada mountain road offers stunning hairpin-bend scenery; Taif is significantly cooler than Mekka —
+        bring a light jacket
+    - name: Badr (First Major Battle of Islam)
+      description: >
+        The plains of Badr, where the Prophet (PBUH) and 313 companions achieved a decisive victory in 624 CE. A profoundly
+        moving historical and spiritual destination.
+      location:
+        area: Badr, approx. 340 km northwest of Mekka
+        distance_from_mekka: 340 km (approx. 3.5 hours by car)
+        coordinates: 23.7794° N, 38.7867° E
+      key_sites:
+      - Martyrs' Cemetery (Shuhada Badr)
+      - Jabal al-Malaikah (Angels' Mountain)
+      - The Well of Badr
+      - Badr Museum
+      notes: >
+        Best combined with a Medina trip; respectful modest dress required; guided tours available from Mekka and Medina
+    - name: Miqat Stations Tour
+      description: >
+        A guided journey visiting the boundary points (Miqat) that mark the sacred limits of the Haram — historically significant
+        for pilgrims and Islamic geography.
+      highlights:
+      - Masjid Aisha (Tan'eem) — 7.5 km north; closest Miqat for those already in Mekka
+      - >-
+        Masjid Al-Ji'ranah — where the Prophet distributed Hunayn spoils and entered Ihram
+      - Qarn al-Manazil (Al-Sayl Al-Kabir) — 75 km east; Miqat for pilgrims from Najd
+      - >-
+        Al-Juhfah (near Rabigh) — 180 km northwest; Miqat for pilgrims from Syria/Egypt direction
+      duration: Half-day (Tan'eem and Ji'ranah) to full day (outer Miqat stations)
+      notes: >
+        Excellent for deepening understanding of Islamic geography and Hajj jurisprudence; many pilgrims make an additional
+        Umrah from Masjid Ji'ranah following the Prophet's Sunnah
+    - name: Wadi-e-Nakhla (Valley of Palms)
+      description: >
+        A lush valley just outside Mekka historically significant as where the Prophet (PBUH) encountered the group of jinn
+        who embraced Islam (referenced in Surah Al-Jinn 72). A scenic natural and spiritually meaningful excursion.
+      location:
+        name: Wadi Nakhla
+        area: Northeast of Mekka, approx. 20 km from city center
+      duration: 2–3 hours
+      notes: >
+        Accessible by taxi or private car; serene natural environment; best visited in cooler months (October–March)
+    - name: Wadi Bahra and Wadi Na'man Excursion
+      description: >
+        Scenic desert valley systems northeast of Mekka offering geological formations, natural rock pools (seasonal), ancient
+        agricultural terraces, and Bedouin heritage sites.
+      location:
+        area: Northeast of Mekka, 20–40 km from city center
+      businesses:
+      - name: Makkah Desert Safari Co. (valley excursions)
+        area: Eastern desert outskirts of Mekka
+        notes: Half-day wadi hikes combined with Bedouin lunch; vehicle transport included
+      difficulty: easy to moderate
+      duration: Half-day (3–5 hours)
+      notes: >-
+        Best after winter rains (December–February); bring plenty of water and sun protection
+    - name: Souq Okaz (Seasonal Heritage Festival)
+      description: >
+        Revival of the ancient pre-Islamic and early Islamic market-fair near Taif where Arab poets, traders, and tribal leaders
+        gathered. Now a major annual cultural festival organized by the Saudi Ministry of Culture — featuring live poetry
+        competitions, theatrical performances, traditional crafts, and Arabian horse shows.
+      location:
+        name: Souq Okaz Festival Grounds
+        area: Approx. 30 km northeast of Taif (110 km from Mekka)
+      season: Annually (typically July–August; check Saudi Tourism Authority for exact dates)
+      duration: Full day
+      notes: >-
+        Unique window into classical Arabian civilization; one of the most atmospheric events in the region
+    - name: Wadi Al-Noman
+      description: >
+        A scenic valley northeast of Mekka mentioned in Islamic poetry and narrations, historically associated with the spread
+        of early Islam. Rocky desert scenery with ancient agricultural terracing.
+      location:
+        area: Northeast of Mekka, approx. 30 km
+        coordinates: 21.5200° N, 39.9500° E
+      duration: Half-day
+      notes: Best in cooler months (November–March); no formal facilities; 4x4 recommended
+    - name: Al-Ukhdood Historical Site (Najran)
+      description: >
+        A longer excursion to Al-Ukhdood (Najran) — a UNESCO-nominated ancient city mentioned in the Quran (Surah al-Buruj
+        85). Includes pre-Islamic rock inscriptions, Himyarite ruins, and the site of the Companions of the Trench.
+      location:
+        name: Al-Ukhdood Archaeological Site
+        area: Najran, Southern Saudi Arabia
+        distance_from_mekka: 700 km (approx. 7 hours by road or 1.5 hours by flight)
+      duration: 2-day trip minimum
+      notes: >
+        For history enthusiasts; Saudia and flynas operate Jeddah–Najran flights; combine with Najran Museum for full context

@@ -1,0 +1,162 @@
+# Core pilgrimage rites — worship, Hajj, and Umrah
+
+activities:
+  spiritual_worship:
+    description: Core acts of worship performed at Masjid al-Haram and surroundings
+    items:
+    - name: Tawaf
+      description: Circumambulating the Kaaba seven times counterclockwise
+      location:
+        name: Masjid al-Haram
+        area: Al Haram district, Mekka 24231
+        coordinates: 21.4225° N, 39.8262° E
+      duration: 30–60 minutes
+      notes: Mandatory for Hajj and Umrah; can also be performed voluntarily (Nafl Tawaf)
+    - name: Sa'i
+      description: Walking seven times between the hills of Safa and Marwa
+      location:
+        name: Al-Mas'a Corridor
+        area: Inside Masjid al-Haram, ground and upper floors
+        coordinates: 21.4234° N, 39.8271° E
+      duration: 30–45 minutes
+      notes: Commemorates Hajar's search for water for her son Ismail
+    - name: Salah at Masjid al-Haram
+      description: Performing the five daily prayers inside the Grand Mosque
+      location:
+        name: Masjid al-Haram
+        area: Al Haram district, Mekka 24231
+        coordinates: 21.4225° N, 39.8262° E
+      duration: 10–20 minutes per prayer
+      notes: One prayer here equals 100,000 prayers elsewhere (hadith)
+    - name: Drinking Zamzam Water
+      description: Drinking from the blessed well of Zamzam
+      location:
+        name: Zamzam Water Stations
+        area: Throughout Masjid al-Haram (basement, mataf level, corridors)
+      notes: Available free of charge 24/7 throughout the mosque
+    - name: Touching the Hajar al-Aswad
+      description: Kissing or gesturing toward the Black Stone embedded in the Kaaba corner
+      location:
+        name: Eastern Corner of the Kaaba
+        area: Mataf (Tawaf area), Masjid al-Haram
+        coordinates: 21.4225° N, 39.8262° E
+      notes: Sunnah; gesture from a distance is acceptable during crowds
+    - name: Standing at Maqam Ibrahim
+      description: Praying two rak'ahs behind the station of Ibrahim after Tawaf
+      location:
+        name: Maqam Ibrahim
+        area: Inside Masjid al-Haram, few meters from the Kaaba
+      notes: Quranic instruction (2:125)
+    - name: Tahajjud (Night Prayer)
+      description: Voluntary night prayer in the last third of the night
+      location:
+        name: Masjid al-Haram or any hotel prayer room
+        area: Al Haram district
+      duration: Variable
+      notes: Especially blessed during Ramadan; mosque is open 24/7
+    - name: Dhikr and Supplication at Multazam
+      description: Clinging to the wall between the Kaaba door and the Black Stone for du'a
+      location:
+        name: Multazam
+        area: Kaaba wall, Masjid al-Haram
+      notes: Highly recommended spot for heartfelt supplication
+  hajj_rites:
+    description: Rituals performed exclusively during the Hajj season (Dhul Hijjah 8–13)
+    items:
+    - name: Entering Ihram at Miqat
+      description: Donning the white seamless garments and making the intention for Hajj
+      location:
+        name: Miqat stations (varies by origin)
+        landmarks:
+        - Dhul Hulayfah (Abyar Ali) — for pilgrims coming from Medina
+        - Al-Juhfah (Rabigh) — for pilgrims from Syria/Egypt direction
+        - Qarn al-Manazil — for pilgrims from Najd/Gulf
+        - Yalamlam — for pilgrims from Yemen/South Asia
+        - Dhat Irq — for pilgrims from Iraq
+      notes: Marks the beginning of Hajj; specific rules of conduct apply
+    - name: Wuquf at Arafat
+      description: Standing in supplication on the plains of Arafat
+      location:
+        name: Plain of Arafat
+        area: Approx. 20 km east of Masjid al-Haram
+        coordinates: 21.3549° N, 39.9845° E
+        landmark: Jabal al-Rahmah (Mount of Mercy) is the central hill
+      date: 9th Dhul Hijjah (afternoon to sunset)
+      duration: Several hours
+      notes: The pinnacle of Hajj; missing this invalidates the entire Hajj
+    - name: Muzdalifah Overnight Stay
+      description: Spending the night under the open sky and collecting pebbles
+      location:
+        name: Muzdalifah
+        area: Between Arafat and Mina, approx. 9 km from Mekka
+        coordinates: 21.3797° N, 39.9358° E
+        landmark: Masjid al-Mash'ar al-Haram is the central mosque here
+      date: Night of 9th–10th Dhul Hijjah
+      notes: Pebbles collected here for Rami; elderly and ill may leave after midnight
+    - name: Rami al-Jamarat (Stoning the Devil)
+      description: Throwing pebbles at three pillars symbolizing Satan's temptation
+      location:
+        name: Jamarat Bridge (Jisr al-Jamarat)
+        area: Mina, approx. 5 km from Masjid al-Haram
+        coordinates: 21.3926° N, 39.8731° E
+        address: King Fahd Road, Mina, Mekka
+      date: 10th–13th Dhul Hijjah
+      notes: >-
+        Multi-level bridge built to manage crowd; follow time slots assigned by authorities
+    - name: Nahr (Animal Sacrifice / Qurbani)
+      description: Slaughtering an animal as a religious offering
+      location:
+        name: Islamic Development Bank Abattoir (official)
+        area: Mina slaughterhouse complex, Mekka
+      date: 10th Dhul Hijjah (Eid al-Adha)
+      notes: >-
+        Can be arranged through the Saudi Hajj Ministry online portal; meat distributed to the poor
+    - name: Halq or Taqsir
+      description: Shaving the head (men) or cutting a portion of hair (women)
+      location:
+        name: Mina barber tents or Mekka barber shops
+        area: Mina and Al-Aziziyah district
+      date: After Nahr on 10th Dhul Hijjah
+      notes: Marks partial exit from Ihram
+    - name: Stay in Mina
+      description: Spending the Tashreeq nights in the tent city of Mina
+      location:
+        name: Mina Tent City
+        area: Mina, Mekka — the world's largest tent city
+        coordinates: 21.4133° N, 39.8924° E
+      date: 11th–13th Dhul Hijjah
+      notes: Pilgrims are assigned designated tent zones by nationality/group
+  umrah_rites:
+    description: Rituals of the lesser pilgrimage, performable year-round
+    items:
+    - name: Entering Ihram at Miqat
+      description: Putting on Ihram garments and making intention for Umrah
+      location:
+        name: Masjid Aisha (Tan'eem) — closest Miqat for those already in Mekka
+        area: Tan'eem district, approx. 7.5 km from Masjid al-Haram
+        coordinates: 21.4629° N, 39.8200° E
+        address: Al-Hijrah Road, Tan'eem, Mekka
+      notes: Ghusl and 2 rak'ahs of Ihram prayer recommended beforehand
+    - name: Tawaf al-Umrah
+      description: Seven circuits around the Kaaba
+      location:
+        name: Mataf (Tawaf Area), Masjid al-Haram
+        area: Al Haram district, Mekka
+      notes: >-
+        Begin from the Black Stone corner; Raml (light jog) in first three rounds for men
+    - name: Sa'i al-Umrah
+      description: Seven walks between Safa and Marwa
+      location:
+        name: Al-Mas'a Corridor
+        area: Inside Masjid al-Haram
+      notes: Starts at Safa and ends at Marwa; escalators available on upper floors
+    - name: Halq or Taqsir
+      description: Cutting or shaving hair to exit Ihram
+      location:
+        name: Any barber shop in Mekka
+        businesses:
+        - name: Barber shops in Ajyad Street
+          area: Ajyad, near Masjid al-Haram
+        - name: Al-Noor Barber (cluster of shops)
+          area: Al-Aziziyah district
+      notes: Completes the Umrah; widely available shops near the mosque

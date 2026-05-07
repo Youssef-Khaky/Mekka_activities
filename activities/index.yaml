@@ -1,0 +1,35 @@
+# Mekka Activities — File Index
+# 24 categories / 170 items split across 8 files to keep each file manageable.
+
+files:
+  - file: 01_pilgrimage_rites.yaml
+    categories: [spiritual_worship, hajj_rites, umrah_rites]
+    items: 19
+
+  - file: 02_history_education_arts.yaml
+    categories: [historical_sites, educational_cultural, arts_and_culture, skills_craft]
+    items: 21
+
+  - file: 03_food_shopping_culinary.yaml
+    categories: [food_and_hospitality, shopping, culinary_arts]
+    items: 21
+
+  - file: 04_accommodation_transport_practical.yaml
+    categories: [accommodation, transportation, practical_resources]
+    items: 15
+
+  - file: 05_sports_fitness_wellness.yaml
+    categories: [arabian_heritage_sports, modern_sports_and_fitness, wellness_and_rest]
+    items: 21
+
+  - file: 06_nature_outdoors_day_trips.yaml
+    categories: [nature_and_outdoors, day_trips]
+    items: 16
+
+  - file: 07_photography_volunteering.yaml
+    categories: [photography_spots, volunteer_and_service]
+    items: 27
+
+  - file: 08_seasonal_events_family_health.yaml
+    categories: [ramadan_activities, events, family_and_kids, health_and_medical_services]
+    items: 30
