@@ -1,379 +1,361 @@
-# Historical sites, education, arts, and traditional crafts
+# المواقع التاريخية والتعليم والفنون والحرف التقليدية
 
 activities:
   historical_sites:
-    description: Significant historical and religious landmarks in and around Mekka
+    description: المعالم التاريخية والدينية البارزة في مكة المكرمة وما حولها
     items:
-    - name: Jabal al-Nour (Mountain of Light)
-      description: Mountain housing the Cave of Hira where the first Quranic revelation descended
+    - name: جبل النور
+      description: الجبل الذي يضم غار حراء حيث نزل الوحي القرآني الكريم لأول مرة
       location:
-        name: Jabal al-Nour
-        area: Al-Nour district, approx. 4 km northeast of Masjid al-Haram
+        name: جبل النور
+        area: حي النور، على بُعد نحو 4 كم شمال شرق المسجد الحرام
         coordinates: 21.4572° N, 39.8586° E
-        address: Al Nour Mountain Road, Mekka
-      duration: 1.5–2 hours (hike up and down)
-      notes: 1,294 steps to the top; best visited early morning to avoid heat
-    - name: Jabal Thawr (Mount Thawr)
-      description: Mountain containing the cave where the Prophet took refuge during the Hijra
+        address: طريق جبل النور، مكة المكرمة
+      duration: ساعة ونصف إلى ساعتين (صعوداً وهبوطاً)
+      notes: 1294 درجة حتى القمة؛ يُنصح بالزيارة في الصباح الباكر تجنباً للحرارة
+
+    - name: جبل ثور
+      description: الجبل الذي يضم الغار الذي لجأ إليه النبي صلى الله عليه وسلم أثناء الهجرة
       location:
-        name: Jabal Thawr
-        area: Approx. 4.7 km south of Masjid al-Haram
+        name: جبل ثور
+        area: على بُعد نحو 4.7 كم جنوب المسجد الحرام
         coordinates: 21.3856° N, 39.8192° E
-      duration: 2–3 hours
-      notes: Steeper and harder than Jabal al-Nour; sturdy footwear recommended
-    - name: Masjid al-Jinn
-      description: Mosque marking the spot where a group of jinn pledged allegiance to Islam
+      duration: ساعتان إلى ثلاث ساعات
+      notes: أشد وعورةً من جبل النور؛ يُنصح بارتداء حذاء متين
+
+    - name: مسجد الجن
+      description: المسجد الذي يُعلِّم الموضع الذي بايع فيه نفر من الجن الإسلامَ
       location:
-        name: Masjid al-Jinn
-        area: Al-Mu'alla district, near Jannat al-Mu'alla cemetery
+        name: مسجد الجن
+        area: حي المعلا، بالقرب من مقبرة جنة المعلا
         coordinates: 21.4317° N, 39.8314° E
-        address: Al-Jinn Street, Al Mu'alla, Mekka
-      notes: Mentioned in Surah al-Jinn (72); small but historically significant
-    - name: Masjid Aisha (Tan'eem)
-      description: Mosque where pilgrims enter Ihram for additional Umrahs
+        address: شارع الجن، المعلا، مكة المكرمة
+      notes: مذكور في سورة الجن (72)؛ صغير الحجم لكنه بالغ الأثر التاريخي
+
+    - name: مسجد السيدة عائشة (التنعيم)
+      description: المسجد الذي يُحرم منه الحجاج لأداء عمرة إضافية
       location:
-        name: Masjid Aisha
-        area: Tan'eem, approx. 7.5 km from Masjid al-Haram
+        name: مسجد السيدة عائشة
+        area: التنعيم، على بُعد نحو 7.5 كم من المسجد الحرام
         coordinates: 21.4629° N, 39.8200° E
-        address: Al-Hijrah Road, Tan'eem, Mekka
-      notes: Accessible by taxi, bus (Mekka Metro Line 2), or Uber/Careem
-    - name: Jannat al-Mu'alla Cemetery
-      description: Ancient cemetery where many relatives and companions of the Prophet are buried
+        address: طريق الهجرة، التنعيم، مكة المكرمة
+      notes: يمكن الوصول إليه بالتاكسي أو الحافلة (مترو مكة خط 2) أو كريم وأوبر
+
+    - name: مقبرة جنة المعلا
+      description: مقبرة أثرية قديمة تضم رفات عدد من أقارب النبي وصحابته الكرام
       location:
-        name: Jannat al-Mu'alla (Al-Hajoon Cemetery)
-        area: Al-Mu'alla district, few hundred meters from Masjid al-Haram
+        name: جنة المعلا (مقبرة الحجون)
+        area: حي المعلا، على بُعد بضع مئات من الأمتار من المسجد الحرام
         coordinates: 21.4331° N, 39.8283° E
-        address: Al Mu'alla Street, Mekka
-      notes: >-
-        Includes the graves of Khadijah (RA), Abu Talib, and other family members of the Prophet
-    - name: Masjid al-Haram Architecture Tour
-      description: Exploring the mosque's minarets, gates, clocks, and historical sections
+        address: شارع المعلا، مكة المكرمة
+      notes: تضم قبور السيدة خديجة رضي الله عنها وأبي طالب وآخرين من أسرة النبي
+
+    - name: جولة معمارية في المسجد الحرام
+      description: استكشاف مآذن المسجد وأبوابه وساعاته وأقسامه التاريخية
       location:
-        name: Masjid al-Haram (various gates)
+        name: المسجد الحرام (مداخل متعددة)
         key_gates:
-        - King Abdulaziz Gate (Gate 1) — main ceremonial entrance
-        - King Fahd Gate (Gate 79) — facing Abraj Al-Bait
-        - Bab al-Salam (Gate of Peace)
-        - Bab Umrah
-      duration: 1–2 hours
-      notes: Guided tours by licensed agencies available; best done outside peak prayer times
-    - name: Makkah Museum (Al-Zaher Palace)
-      description: Royal palace turned museum covering the history of Mekka and the Hajj
+        - باب الملك عبدالعزيز (باب 1) — المدخل الرسمي الرئيسي
+        - باب الملك فهد (باب 79) — المطل على أبراج البيت
+        - باب السلام
+        - باب العمرة
+      duration: ساعة إلى ساعتين
+      notes: جولات إرشادية متاحة عبر وكالات مرخصة؛ يُفضل إجراؤها خارج أوقات الذروة
+
+    - name: متحف مكة المكرمة (قصر الزاهر)
+      description: قصر ملكي تحول إلى متحف يؤرخ لمكة المكرمة وموسم الحج
       location:
-        name: Al-Zaher Palace Museum
-        area: Al-Zaher district, Mekka
-        address: Al-Zaher Road, Mekka
-      notes: Displays Ottoman-era artifacts, old maps, and Hajj documentation
+        name: متحف قصر الزاهر
+        area: حي الزاهر، مكة المكرمة
+        address: طريق الزاهر، مكة المكرمة
+      notes: يعرض آثاراً عثمانية وخرائط قديمة ووثائق تاريخية تتعلق بالحج
+
   educational_cultural:
-    description: Learning and enrichment activities for spiritual growth
+    description: أنشطة تعليمية وإثرائية للنمو الروحي والفكري
     items:
-    - name: Islamic History Lectures
-      description: Attending scholarly talks held regularly in the mosque
+    - name: محاضرات التاريخ الإسلامي
+      description: حضور المحاضرات العلمية التي تُقام بانتظام في المسجد الحرام
       location:
-        name: Masjid al-Haram lecture halls and gate areas
-        area: Al Haram district
+        name: قاعات المحاضرات ومناطق الأبواب في المسجد الحرام
+        area: منطقة الحرم
       businesses:
-      - name: Dar al-Hadith al-Khayriyyah
-        area: Near Masjid al-Haram, Mekka
-        notes: Historic Islamic educational institution offering courses
-      - name: Umm al-Qura University Islamic Studies Faculty
-        area: Al-Abdiyah district, Mekka
-        notes: Public lectures occasionally open to pilgrims
-      notes: Topics include Seerah, Aqeedah, Fiqh; schedules posted at mosque entrances
-    - name: Quranic Recitation Circles (Halaqat)
-      description: Joining Quran learning circles inside the mosque
+      - name: دار الحديث الخيرية
+        area: بالقرب من المسجد الحرام، مكة المكرمة
+        notes: مؤسسة تعليمية إسلامية عريقة تقدم دورات متخصصة
+      - name: كلية الدراسات الإسلامية بجامعة أم القرى
+        area: حي العابدية، مكة المكرمة
+        url: https://uqu.edu.sa/en
+        notes: محاضرات عامة مفتوحة للحجاج في بعض الأحيان
+      notes: تشمل الموضوعات السيرة والعقيدة والفقه؛ المواعيد منشورة عند مداخل المسجد
+
+    - name: حلقات تحفيظ القرآن الكريم
+      description: الانضمام إلى حلقات تعلم القرآن الكريم داخل المسجد الحرام
       location:
-        name: Masjid al-Haram — King Fahd expansion section
-        area: Al Haram district
-      notes: Available for all levels; often led by certified reciters; free to join
-    - name: Zamzam Well Exhibition
-      description: Learning about the history and hydrology of the Zamzam well
+        name: المسجد الحرام — قسم التوسعة الملكية الفهدية
+        area: منطقة الحرم
+      notes: متاحة لجميع المستويات؛ يقودها قراء متقنون معتمدون؛ مجانية
+
+    - name: معرض بئر زمزم
+      description: التعرف على تاريخ بئر زمزم المباركة وخصائصها الهيدرولوجية
       location:
-        name: Zamzam Well Area
-        area: Masjid al-Haram basement (accessible from Mataf level)
+        name: منطقة بئر زمزم
+        area: بدروم المسجد الحرام (يُدخل من مستوى المطاف)
         coordinates: 21.4227° N, 39.8264° E
-      notes: The well itself is enclosed but the surrounding area has informational displays
+      notes: البئر محاطة بسياج زجاجي لكن المنطقة المحيطة بها تحتوي على لوحات توضيحية
+
   arts_and_culture:
     description: >
-      Traditional and contemporary Arabian arts — calligraphy, music, poetry, and storytelling deeply rooted in Islamic civilization.
-      Many workshops available in Mekka, Taif, and Jeddah.
+      الفنون العربية الأصيلة والمعاصرة — الخط والموسيقى والشعر والحكواتية، جذورها ضاربة في الحضارة الإسلامية.
+      كثير من الورش متاحة في مكة المكرمة والطائف وجدة.
     items:
-    - name: Arabic Calligraphy (Al-Khatt al-Arabi)
+    - name: الخط العربي (الخط العربي الإسلامي)
       description: >
-        The art of beautiful Arabic script — considered the highest Islamic visual art form. Styles include Naskh, Thuluth,
-        Diwani, Kufi, and Ruq'a. UNESCO-listed as Intangible Cultural Heritage. Learning even basic Naskh is a deeply rewarding
-        spiritual experience.
+        فن الكتابة العربية الجميلة — يُعدّ أرقى الفنون البصرية الإسلامية. تشمل الأنماط النسخ والثلث والديواني
+        والكوفي والرقعة. مدرج في قائمة اليونسكو للتراث الثقافي غير المادي.
       skill_levels:
-      - beginner
-      - intermediate
-      - advanced
+      - مبتدئ
+      - متوسط
+      - متقدم
       styles:
-      - Naskh (most readable; best for beginners)
-      - Thuluth (classical mosque inscriptions; intermediate)
-      - Diwani (ornate Ottoman style; advanced)
-      - Kufi (geometric angular style; advanced)
-      - Ruq'a (everyday handwriting style; beginner-friendly)
+      - النسخ (الأكثر وضوحاً؛ مثالي للمبتدئين)
+      - الثلث (كتابات المساجد الكلاسيكية؛ متوسط)
+      - الديواني (النمط العثماني الزخرفي؛ متقدم)
+      - الكوفي (النمط الهندسي الزاوي؛ متقدم)
+      - الرقعة (خط الكتابة اليومية؛ سهل للمبتدئين)
       businesses:
-      - name: Dar al-Khatt al-Islami
-        area: Al-Aziziyah district, Mekka
-        notes: >
-          Dedicated calligraphy school offering weekend and intensive courses; supplies included; work in both traditional
-          reed pen (qalam) and modern tools
-      - name: Mekka Cultural Center (Dar al-Thaqafa)
-        area: Al-Adl district, Mekka
-        address: King Fahd Road, Al-Adl, Mekka
-        notes: Regular calligraphy workshops by master calligraphers; free or low-cost sessions
-      - name: Al-Balad Calligraphy Studio
-        area: Historic Jeddah (Al-Balad), Jeddah
-        notes: >
-          Beautiful heritage building setting; courses from 1-day crash course to 12-week term; certificates issued by Saudi
-          Calligraphy Association
-      - name: Umm al-Qura University Arts Faculty (open workshops)
-        area: Al-Abdiyah district, Mekka
-        notes: Occasional public workshops run by the university's arts department
-      duration: 2–3 hours per session (courses range from 1 day to 12 weeks)
+      - name: دار الخط الإسلامي
+        area: حي العزيزية، مكة المكرمة
+        notes: مدرسة خط متخصصة تقدم دورات مكثفة وطويلة بعلم ومستلزمات مرفقة
+      - name: المركز الثقافي بمكة (دار الثقافة)
+        area: حي العدل، مكة المكرمة
+        address: طريق الملك فهد، العدل، مكة المكرمة
+        notes: ورش خط دورية يقدمها خطاطون متمرسون؛ مجانية أو رمزية التكلفة
+      - name: استوديو الخط في البلد
+        area: البلد التاريخي، جدة
+        notes: دورات تتراوح بين يوم واحد و12 أسبوعاً؛ شهادات من جمعية الخط السعودية
+      - name: كلية الفنون بجامعة أم القرى (ورش مفتوحة)
+        area: حي العابدية، مكة المكرمة
+        url: https://uqu.edu.sa/en
+        notes: ورش عامة عرضية تنظمها قسم الفنون بالجامعة
+      duration: ساعتان إلى ثلاث ساعات للجلسة (الدورات من يوم إلى 12 أسبوعاً)
       supplies_needed:
-      - Reed pen (qalam) or bamboo pen
-      - Calligraphy ink (Hibr)
-      - Practice paper (smooth, non-absorbent)
-      - Ruler and T-square
-      notes: >
-        Suitable for all ages; Arabic literacy not strictly required for beginners; finished pieces make extraordinary personal
-        keepsakes and gifts
-    - name: Oud Playing (Al-Oud)
+      - قلم قصبة أو خيزران
+      - حبر الخط (هبر)
+      - ورق تمرين أملس غير ماص
+      - مسطرة وزاوية
+      notes: مناسب لجميع الأعمار؛ القراءة العربية ليست شرطاً للمبتدئين
+
+    - name: العزف على العود
       description: >
-        The Oud is the king of Arabian musical instruments — a fretless lute with a warm, resonant tone at the heart of classical
-        Arabic music. Learning even basic maqamat (melodic modes) opens a world of Islamic musical heritage spanning 1,000+
-        years.
+        العود هو ملك الآلات الموسيقية العربية — عود ذو رنين دافئ في صميم الموسيقى العربية الكلاسيكية.
+        تعلم أساسيات المقامات يفتح عالماً من التراث الموسيقي الإسلامي الممتد لأكثر من ألف عام.
       skill_levels:
-      - beginner
-      - intermediate
-      - advanced
+      - مبتدئ
+      - متوسط
+      - متقدم
       arabic_maqamat_covered:
-      - Rast (foundational; most common beginner mode)
-      - Bayati (melancholic; emotionally expressive)
-      - Hijaz (exotic; associated with Arabian Peninsula)
-      - Nahawand (resembles Western minor scale)
-      - Saba (deeply emotional; used in religious music)
+      - راست (الأساسي؛ الأكثر شيوعاً للمبتدئين)
+      - بياتي (عاطفي؛ تعبيري)
+      - حجاز (شرقي؛ مرتبط بشبه الجزيرة العربية)
+      - نهاوند (يشبه السلم الغربي الصغير)
+      - صبا (عميق الإحساس؛ يُستخدم في الموسيقى الدينية)
       businesses:
-      - name: Mekka Music and Arts Institute
-        area: Al-Naseem district, Mekka
-        notes: >
-          Private and group Oud lessons; Ouds available for rent during lessons; instructors trained in classical Arabic and
-          Islamic musical traditions
-      - name: Al-Andalus Music Academy
-        area: Al-Hamra district, Jeddah
-        notes: >
-          Well-regarded school with experienced Oud masters; beginner courses start with proper posture, right-hand picking
-          technique, and basic maqamat
-      - name: Taif Arts Center
-        area: Taif city center
-        notes: Oud workshops and cultural music evenings; intimate setting
-      duration: 45–60 minutes per lesson
-      notes: >
-        Student-grade Ouds available for purchase at music shops near Mekka; Arabic music is microtonal — quarter tones differ
-        from Western scales; patience in the first weeks yields lifelong musical ability
-    - name: Arabic Poetry (Al-Shi'r al-Arabi)
+      - name: معهد مكة للموسيقى والفنون
+        area: حي النسيم، مكة المكرمة
+        notes: دروس فردية وجماعية للعود؛ أعواد للإيجار أثناء الدروس
+      - name: أكاديمية الأندلس للموسيقى
+        area: حي الحمراء، جدة
+        notes: مدرسة موسيقية رائدة؛ الدورات المبتدئة تشمل الوضعية والإيقاع والمقامات الأساسية
+      - name: مركز الطائف للفنون
+        area: وسط مدينة الطائف
+        notes: ورش عود وأمسيات موسيقية ثقافية في بيئة حميمة
+      duration: 45–60 دقيقة للحصة الواحدة
+      notes: عيدان للطلاب متاحة للشراء في محلات الآلات الموسيقية قرب مكة
+
+    - name: الشعر العربي
       description: >
-        Arabia is the birthplace of one of history's greatest poetic traditions. From pre-Islamic Mu'allaqat odes to Nabati
-        Bedouin poetry and contemporary verse, learning to compose or recite Arabic poetry sharpens language and deepens spirituality.
+        الجزيرة العربية مهد أحد أعظم التقاليد الشعرية في التاريخ. من معلقات ما قبل الإسلام إلى الشعر
+        النبطي البدوي والشعر المعاصر، يُشحذ الشعر اللغة ويرسّخ الروحانية.
       genres:
-      - Fusha (Classical Arabic poetry — formal, literary)
-      - Nabati (Bedouin vernacular poetry — oral tradition, emotionally raw)
-      - Zajal (colloquial rhyming poetry — performed at social gatherings)
-      - Qasida (long ode form — classical structure)
-      - Haiku-inspired modern Arabic verse (contemporary)
+      - الفصحى (الشعر العربي الفصيح — الأدبي الرسمي)
+      - النبطي (الشعر الشعبي البدوي — الموروث الشفهي)
+      - الزجل (الشعر العامي — يُؤدى في التجمعات)
+      - القصيدة (النموذج المطول الكلاسيكي)
+      - الشعر العربي الحديث
       businesses:
-      - name: Saudi Writers and Literati Club (Mekka Chapter)
-        area: Mekka city center
-        notes: >
-          Weekly poetry circles open to the public; recitation evenings, critique sessions, and poetry workshops in both classical
-          and colloquial Arabic
-      - name: Taif Cultural Palace
-        area: Taif city center
-        notes: >-
-          Regular literary evenings featuring Nabati poetry; audience participation welcomed
-      - name: Jeddah Literary Club
-        area: Al-Rawdah district, Jeddah
-        notes: >
-          One of Saudi Arabia's most active literary societies; hosts famous poets; workshops for beginners wanting to try
-          composing their first qasida
-      duration: 1–3 hours per session
-      notes: >
-        No Arabic writing required to enjoy Nabati poetry circles (oral tradition); classical poetry workshops benefit from
-        basic Modern Standard Arabic literacy
-    - name: Arabic Storytelling (Al-Hakawati)
+      - name: نادي الأدباء والكتاب السعوديين (فرع مكة)
+        area: وسط مكة المكرمة
+        notes: أمسيات شعرية أسبوعية مفتوحة للجمهور؛ في الشعر الفصيح والنبطي
+      - name: القصر الثقافي بالطائف
+        area: وسط مدينة الطائف
+        notes: أمسيات أدبية منتظمة تضم الشعر النبطي؛ مشاركة الجمهور مرحب بها
+      - name: نادي جدة الأدبي
+        area: حي الروضة، جدة
+        url: https://adabijeddah.com
+        notes: من أنشط الأندية الأدبية في المملكة؛ ورش للمبتدئين الراغبين في نظم قصيدتهم الأولى
+      duration: ساعة إلى ثلاث ساعات للجلسة
+      notes: الشعر النبطي شفهي — لا يشترط إتقان الكتابة للمشاركة
+
+    - name: فن الحكواتية العربية
       description: >
-        The Hakawati is the traditional Arabian oral storyteller — a figure who once held court in coffeehouses and public
-        squares. Sessions combine folklore, Islamic history, Bedouin legends, and improvised narrative. A living tradition
-        being actively revived.
+        الحكواتي هو الراوي الشعبي العربي التقليدي الذي كان يُجلس في المقاهي والميادين.
+        تجمع الجلسات بين الفولكلور والتاريخ الإسلامي والأساطير البدوية والسرد التلقائي. تراث حي يُحيا من جديد.
       businesses:
-      - name: Saudi Heritage Commission Story Nights
-        area: Mekka Heritage Center and Jeddah Al-Balad
-        notes: >
-          Organized storytelling evenings in Arabic; themes drawn from Islamic history, Arabian Nights (Alf Layla), and regional
-          folklore
-      - name: Jeddah Corniche Cultural Events
-        area: Al-Kurnaysh, Jeddah
-        notes: Outdoor storytelling performances during national festivals and Ramadan evenings
-      - name: Al-Hada Mountain Camps (Taif)
-        area: Al-Hada, Taif
-        notes: Bedouin-hosted evenings with traditional stories around a campfire
-      duration: 1–2 hours per session
-      notes: Basic Arabic comprehension helpful; some sessions offered with English summaries
-    - name: Islamic Geometric Art and Tile Design
+      - name: أمسيات الحكي — هيئة التراث السعودية
+        area: مراكز التراث في مكة وجدة البلد
+        url: https://heritage.moc.gov.sa/en
+        notes: أمسيات قصص منظمة باللغة العربية؛ موضوعاتها من التاريخ الإسلامي وألف ليلة والفولكلور
+      - name: فعاليات كورنيش جدة الثقافية
+        area: الكورنيش، جدة
+        notes: عروض حكي خارجية في المهرجانات الوطنية وأمسيات رمضان
+      - name: مخيمات جبل الهدا (الطائف)
+        area: الهدا، الطائف
+        notes: أمسيات بدوية بقصص تقليدية حول نار المخيم
+      duration: ساعة إلى ساعتين للجلسة
+      notes: يُفيد الفهم الأساسي للعربية؛ بعض الجلسات تتوفر فيها ملخصات بالإنجليزية
+
+    - name: الفن الإسلامي الهندسي وتصميم البلاط
       description: >
-        The intricate geometric patterns adorning mosques, palaces, and manuscripts across the Islamic world. Learn to construct
-        star patterns, girih tiles, and arabesque designs using compass and ruler — the classical Islamic method.
+        الأنماط الهندسية المعقدة التي تزين المساجد والقصور والمخطوطات في العالم الإسلامي.
+        تعلم رسم نجمة الأنماط والزليج العربي والأرابيسك باستخدام البرجل والمسطرة — الطريقة الإسلامية الكلاسيكية.
       skill_levels:
-      - beginner
-      - intermediate
+      - مبتدئ
+      - متوسط
       businesses:
-      - name: Mekka Cultural Center (Dar al-Thaqafa)
-        area: Al-Adl district, Mekka
-        notes: Geometric art workshops; materials provided; no drawing experience required
-      - name: Saudi Heritage Commission Design Workshops
-        area: Mekka and Jeddah
-        notes: >
-          Hands-on sessions covering Mamluk, Ottoman, and Andalusian geometric traditions; participants take home their completed
-          framed artwork
-      - name: Al-Balad Art Studios (Historic Jeddah)
-        area: Al-Balad (UNESCO World Heritage Site), Jeddah
-        notes: >
-          Beautiful workshop spaces inside restored coral-stone buildings; combine with a walking tour of Al-Balad's intricate
-          Roshan wooden screens
-      duration: 2–4 hours per session
+      - name: المركز الثقافي بمكة (دار الثقافة)
+        area: حي العدل، مكة المكرمة
+        notes: ورش فن هندسي؛ المواد مرفقة؛ لا يشترط الخبرة في الرسم
+      - name: ورش هيئة التراث السعودي للتصميم
+        area: مكة المكرمة وجدة
+        url: https://heritage.moc.gov.sa/en
+        notes: جلسات تغطي الأنماط المملوكية والعثمانية والأندلسية؛ المشاركون يأخذون أعمالهم معهم
+      - name: استوديوهات البلد للفنون (جدة التاريخية)
+        area: البلد (مدرج يونسكو)، جدة
+        notes: ورش داخل مبانٍ مرجانية مرممة؛ تُقرن بجولة مشاة في البلد التاريخي
+      duration: ساعتان إلى أربع ساعات للجلسة
       materials_provided: true
-      notes: >
-        Compass, ruler, fine-liner pens, and quality paper provided; finished geometric works are frameable art pieces
-    - name: Arabic Percussion — Tabla and Riqq
+      notes: البرجل والمسطرة وأقلام الرسم والورق مرفقة؛ الأعمال المنجزة صالحة للتأطير
+
+    - name: الإيقاع العربي — الطبلة والرق
       description: >
-        Learn the foundational rhythms (Iqa'at) of Arabic music on the hand drum (Tabla/Darbuka) or tambourine (Riqq). Rhythmic
-        cycles like Maqsum, Samai, and Wahda underpin all Arabic classical and folk music.
+        تعلم الإيقاعات الأساسية للموسيقى العربية (الإيقاعات) على الطبلة (الدربكة) أو الرق.
+        الدوارات الإيقاعية كالمقسوم والسماعي والوحدة تُشكّل أساس الموسيقى العربية الكلاسيكية والشعبية.
       skill_levels:
-      - beginner
-      - intermediate
+      - مبتدئ
+      - متوسط
       businesses:
-      - name: Mekka Music and Arts Institute
-        area: Al-Naseem district, Mekka
-        notes: Group percussion classes; Tabla rental available
-      - name: Al-Andalus Music Academy
-        area: Al-Hamra district, Jeddah
-        notes: Individual and ensemble percussion coaching; covers Tabla, Riqq, and Duff
-      duration: 45–60 minutes per lesson
-      notes: >
-        Riqq (tambourine) is gentler for complete beginners; Tabla requires finger conditioning but progress is rapid; rhythms
-        are written in visual notation
-    - name: Traditional Saudi Nasheed (Islamic Vocal Music)
+      - name: معهد مكة للموسيقى والفنون
+        area: حي النسيم، مكة المكرمة
+        notes: دروس إيقاع جماعية؛ إيجار طبلة متاح
+      - name: أكاديمية الأندلس للموسيقى
+        area: حي الحمراء، جدة
+        notes: تدريب فردي وجماعي؛ يشمل الطبلة والرق والدف
+      duration: 45–60 دقيقة للحصة الواحدة
+      notes: الرق أرفق للمبتدئين التامين؛ الطبلة تتطلب تكييف الأصابع لكن التقدم سريع
+
+    - name: الأناشيد الإسلامية التقليدية (النشيد السعودي)
       description: >
-        Nasheed is vocal Islamic music — unaccompanied or with light percussion. Learn proper maqam-based vocal technique,
-        breath control, and the classical Arabic texts set to traditional melodic modes.
+        النشيد موسيقى إسلامية صوتية — إنشاد بلا مصاحبة أو مع إيقاع خفيف. تعلم تقنية الصوت المبنية على المقامات
+        والتحكم في التنفس والنصوص العربية الكلاسيكية المقطّعة على الأنماط اللحنية التقليدية.
       skill_levels:
-      - beginner
-      - intermediate
+      - مبتدئ
+      - متوسط
       businesses:
-      - name: Mekka Islamic Arts Institute
-        area: Al Haram district, Mekka
-        notes: >
-          Group vocal workshops focusing on Quranic recitation tone (Tajweed melody) and classical Nasheed forms; open to
-          men, women (separate sessions)
-      - name: Taif Arts Center Vocal Workshops
-        area: Taif city center
-        notes: >
-          Courses covering proper Arabic vocal production, maqam awareness, and group Nasheed performance practice
-      duration: 1 hour per session
-      notes: >
-        No prior musical experience required; Nasheed connects spiritual intention with vocal artistry; many participants
-        report it deepening their Quran recitation
+      - name: معهد الفنون الإسلامية بمكة
+        area: منطقة الحرم، مكة المكرمة
+        notes: ورش صوتية جماعية تركز على نبرة التجويد القرآني والنشيد الكلاسيكي؛ جلسات منفصلة للرجال والنساء
+      - name: ورش الصوت بمركز الطائف للفنون
+        area: وسط مدينة الطائف
+        notes: دورات في الإنتاج الصوتي العربي الصحيح والوعي بالمقامات وأداء النشيد الجماعي
+      duration: ساعة واحدة للجلسة
+      notes: لا تشترط الخبرة الموسيقية المسبقة؛ النشيد يربط النية الروحية بالفن الصوتي
+
   skills_craft:
     description: >
-      Hands-on workshops in traditional and contemporary crafts — pottery, woodworking, photography, and textile arts. Available
-      at cultural centers in Mekka, with specialist studios in Taif and Jeddah. Most sessions welcome complete beginners.
+      ورش عملية في الحرف التقليدية والمعاصرة — الخزف والنجارة والتصوير والمنسوجات. متاحة في مراكز ثقافية
+      بمكة مع استوديوهات متخصصة في الطائف وجدة. معظم الجلسات ترحب بالمبتدئين.
     items:
-    - name: Photography Walks and Workshops
+    - name: جولات التصوير الفوتوغرافي والورش
       description: >
-        Guided photography tours of Mekka's most visually striking locations — the Grand Mosque at golden hour, Souq Al-Zal's
-        alleyways, and Hejazi old-city architecture. Covers composition, natural light, and phone/DSLR technique.
+        جولات تصوير إرشادية في أجمل مواقع مكة المكرمة — المسجد الحرام عند الساعة الذهبية وأزقة سوق الزل
+        ومعمار المدينة الحجازية القديمة. تشمل التكوين والإضاءة الطبيعية وتقنيات الهاتف والكاميرا.
       skill_levels:
-      - beginner
-      - intermediate
-      - advanced
+      - مبتدئ
+      - متوسط
+      - متقدم
       businesses:
-      - name: Mekka Photography Circle
-        area: Al Haram district, Mekka
-        notes: >-
-          Community group organizing weekly dawn shoots; welcoming to visiting photographers
-      - name: Saudi Photography Club (Mekka chapter)
-        area: Al-Aziziyah district, Mekka
-        notes: Club outings, studio workshops, and portrait sessions; equipment loans available
-      - name: Visual Makkah Workshop (Jeddah-based, Mekka day trips)
-        area: Al-Balad, Jeddah / day trips to Mekka
-        notes: >-
-          Professional photographers lead small-group documentary shoots; Arabic and English
-      duration: 2–4 hours per session
-      notes: Bring your own camera or smartphone; wide-angle lens ideal for architecture
-    - name: Pottery and Ceramics (Fakhkhar)
+      - name: نادي مكة للتصوير
+        area: منطقة الحرم، مكة المكرمة
+        notes: مجموعة مجتمعية تنظم جلسات تصوير فجرية أسبوعية؛ ترحب بالمصورين الزائرين
+      - name: نادي التصوير السعودي (فرع مكة)
+        area: حي العزيزية، مكة المكرمة
+        notes: رحلات النادي وورش الاستوديو وجلسات البورتريه؛ إعارة معدات متاحة
+      - name: ورشة فيجوال مكة (مقرها جدة، رحلات يومية إلى مكة)
+        area: البلد، جدة / رحلات يومية إلى مكة
+        notes: مصورون محترفون يقودون جلسات تصوير وثائقي لمجموعات صغيرة؛ عربي وإنجليزي
+      duration: ساعتان إلى أربع ساعات للجلسة
+      notes: أحضر كاميرتك أو هاتفك الذكي؛ العدسة الواسعة الزاوية مثالية للمعمار
+
+    - name: الفخار والسيراميك
       description: >
-        Traditional Arabian pottery — wheel-throwing, hand-building, and decorative glazing. The Hejaz has a centuries-old
-        tradition of unglazed water vessels (Zeer) and decorative terracotta. Modern workshops blend heritage forms with contemporary
-        design.
+        الفخار العربي التقليدي — الدوّارة واليدوية والتزجيج الزخرفي. للحجاز تقليد عريق في صنع أواني الماء
+        الخزفية (الزير) والحلي الترّاكوتية. الورش الحديثة تمزج الأشكال التراثية مع التصميم المعاصر.
       skill_levels:
-      - beginner
-      - intermediate
+      - مبتدئ
+      - متوسط
       businesses:
-      - name: Mekka Cultural Center (Dar al-Thaqafa) — Pottery Studio
-        area: Al-Adl district, Mekka
-        notes: >-
-          Clay wheel sessions; kiln firing included; take home fired pieces on second visit
-      - name: Al-Fakhkhar Ceramics Studio
-        area: Al-Rawdah district, Jeddah (80 km)
-        notes: 12-wheel studio; beginner wheel-throwing courses; glazing workshops available
-      - name: Saudi Heritage Commission Craft Workshops
-        area: Mekka Heritage Center
-        notes: Heritage-focused sessions recreating traditional unglazed Hejazi pottery
-      duration: 2–3 hours per session
+      - name: مركز مكة الثقافي (دار الثقافة) — ورشة الفخار
+        area: حي العدل، مكة المكرمة
+        notes: جلسات على الدوّارة الطينية؛ تشمل الحرق بالفرن؛ تأخذ قطعك في الزيارة الثانية
+      - name: استوديو الفخار الفني
+        area: حي الروضة، جدة (80 كم)
+        notes: استوديو يضم 12 دوّارة؛ دورات تعليمية ابتدائية؛ ورش تزجيج متاحة
+      - name: ورش الحرف التراثية — هيئة التراث السعودي
+        area: مركز التراث بمكة
+        url: https://heritage.moc.gov.sa/en
+        notes: جلسات تراثية لإعادة إنتاج الفخار الحجازي التقليدي غير المزجج
+      duration: ساعتان إلى ثلاث ساعات للجلسة
       materials_provided: true
-      notes: >-
-        Wear clothes you don't mind getting clay on; aprons provided; meditative and rewarding
-    - name: Traditional Woodworking and Mashrabiya Carving
+      notes: ارتدِ ملابس لا تخشى عليها من الطين؛ مآزر مرفقة
+
+    - name: النجارة التقليدية ونقش المشربية
       description: >
-        The ornate wooden lattice screens (Mashrabiya) of Hejazi architecture are a masterpiece of Islamic craft. Learn to
-        design and carve geometric patterns using traditional chisels and rotary tools.
+        شاشات الخشب الشبكية المزخرفة (المشربية) في العمارة الحجازية تحفة في الحرف الإسلامية.
+        تعلم تصميم الأنماط الهندسية ونحتها باستخدام الإزميل والأدوات الدوّارة التقليدية.
       skill_levels:
-      - beginner
-      - intermediate
+      - مبتدئ
+      - متوسط
       businesses:
-      - name: Al-Balad Heritage Craft Center
-        area: Al-Balad (UNESCO World Heritage), Jeddah
-        notes: Sessions inside restored coral-stone buildings; master craftsmen on site
-      - name: Saudi Heritage Commission Woodcraft Workshops
-        area: Mekka Heritage Center and Jeddah
-        notes: Broader curriculum covering Mashrabiya design and traditional joinery
-      - name: Taif Artisan Center
-        area: Taif city center
-        notes: >-
-          Specialty in local juniper and olive wood; mountain climate makes sessions comfortable
-      duration: 3–4 hours per session
-      notes: Safety gloves and goggles provided; no prior woodworking required
-    - name: Textile Weaving and Traditional Sadu
+      - name: مركز حرف التراث في البلد
+        area: البلد (تراث اليونسكو)، جدة
+        notes: جلسات داخل مبانٍ مرجانية مرممة؛ حرفيون أمهر في الموقع
+      - name: ورش الأخشاب التراثية — هيئة التراث السعودي
+        area: مركز التراث بمكة وجدة
+        url: https://heritage.moc.gov.sa/en
+        notes: منهج واسع يشمل تصميم المشربية والنجارة التقليدية
+      - name: مركز الطائف للحرفيين
+        area: وسط مدينة الطائف
+        notes: تخصص في خشب العرعر والزيتون المحلي؛ مناخ الجبل يجعل الجلسات مريحة
+      duration: ثلاث إلى أربع ساعات للجلسة
+      notes: قفازات السلامة ونظارات الواقي مرفقة؛ لا تشترط خبرة نجارة مسبقة
+
+    - name: النسيج التقليدي والسدو
       description: >
-        Sadu is the geometric Bedouin weaving tradition of the Arabian Peninsula — bold patterns woven on ground looms using
-        wool and natural dyes. UNESCO-listed Intangible Cultural Heritage. Learn warp setting, shuttle technique, and pattern
-        counting.
+        السدو هو فن النسيج البدوي الهندسي لشبه الجزيرة العربية — أنماط جريئة تُنسج على أنوال أرضية بالصوف
+        والأصباغ الطبيعية. مدرج في قائمة اليونسكو للتراث غير المادي. تعلم إعداد السدى وتقنية المكوك وعد الأنماط.
       skill_levels:
-      - beginner
-      - intermediate
+      - مبتدئ
+      - متوسط
       businesses:
-      - name: Saudi Heritage Commission Sadu Workshops
-        area: Mekka Heritage Center
-        notes: >-
-          Authentic loom sessions led by Bedouin weavers; natural dyes; take home a woven strip
-      - name: Jeddah Craft Heritage Hub
-        area: Al-Balad, Jeddah
-        notes: Mixed textile workshops including Sadu, embroidery, and cross-stitch
-      - name: Taif Bedouin Heritage Camp (weaving module)
-        area: Al-Hada, Taif
-        notes: >-
-          Evening sessions in traditional tents; scarves and table runners completed in 2 hours
-      duration: 2–3 hours per session
-      notes: All materials provided; sitting Bedouin-style on floor cushions
+      - name: ورش السدو — هيئة التراث السعودي
+        area: مركز التراث بمكة
+        url: https://heritage.moc.gov.sa/en
+        notes: جلسات نول أصيلة يقودها حرفيات بدويات؛ أصباغ طبيعية؛ تأخذ شريطاً منسوجاً
+      - name: مركز تراث الحرف بجدة
+        area: البلد، جدة
+        notes: ورش نسيج متنوعة تشمل السدو والتطريز والقماش المطرز
+      - name: مخيم التراث البدوي بالطائف (وحدة النسيج)
+        area: الهدا، الطائف
+        notes: جلسات مسائية في خيام تقليدية؛ أوشحة وأوعية منجزة في ساعتين
+      duration: ساعتان إلى ثلاث ساعات للجلسة
+      notes: جميع المواد مرفقة؛ الجلوس على وسائد الأرض بالأسلوب البدوي

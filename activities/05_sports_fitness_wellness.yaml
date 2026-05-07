@@ -1,412 +1,373 @@
-# Sports, fitness, and wellness activities
+# الرياضة واللياقة البدنية وأنشطة العافية
 
 activities:
   arabian_heritage_sports:
     description: >
-      Traditional Arabian sports and martial arts rooted in Islamic and Bedouin culture. Most venues are in Mekka or a short
-      drive away in Taif (75 km, cooler climate) or Jeddah (80 km). Advance booking is strongly recommended for all activities.
+      الرياضات العربية التقليدية والفنون القتالية المتجذرة في الثقافة الإسلامية والبدوية. معظم
+      الأماكن في مكة المكرمة أو على مسافة قصيرة في الطائف (75 كم، مناخ أكثر برودة) أو جدة (80 كم).
+      يُنصح بشدة بالحجز المسبق لجميع الأنشطة.
     items:
-    - name: Horseback Riding (Furousia)
+    - name: ركوب الخيل (الفروسية)
       description: >
-        Learning to ride Arabian horses — one of the most celebrated skills in Islamic tradition. The Prophet Muhammad (PBUH)
-        encouraged horse riding as a noble sport.
+        تعلم ركوب الخيل العربية — من أشرف المهارات في التراث الإسلامي. حث النبي صلى الله عليه وسلم
+        على الفروسية باعتبارها رياضة نبيلة.
       skill_levels:
-      - beginner
-      - intermediate
-      - advanced
+      - مبتدئ
+      - متوسط
+      - متقدم
       businesses:
-      - name: Al-Furousiya Equestrian Academy
-        area: Al-Shafa, Taif (approx. 75 km from Mekka)
-        notes: >
-          Offers beginner lessons, trail rides through mountain terrain, and Arabian horse care workshops; cooler mountain
-          climate makes it ideal for riding year-round
-      - name: Taif Equestrian Club
-        area: Taif city, Al-Hada district
-        notes: >-
-          Affiliated with the Saudi Equestrian Federation; group and private lessons available
-      - name: Jeddah Equestrian Club
-        area: Al-Andalus district, Jeddah (80 km from Mekka)
-        address: King Abdulaziz Road, Jeddah
-        notes: >
-          One of the oldest equestrian clubs in the region; hosts competitions and offers riding lessons for all ages; short
-          drive from Mekka
-      duration: 1–3 hours per session
-      notes: >
-        Wear long trousers and closed shoes; helmets provided; book lessons at least a week ahead during Hajj season as availability
-        is limited
-    - name: Arabian Sword Fighting (Al-Furusiyya al-Harbiyya)
+      - name: أكاديمية الفروسية العربية
+        area: الشفا، الطائف (نحو 75 كم من مكة)
+        notes: دروس مبتدئة وجولات ميدانية في التضاريس الجبلية وورش العناية بالخيل العربية
+      - name: نادي الفروسية بالطائف
+        area: مدينة الطائف، حي الهدا
+        notes: تابع لاتحاد الفروسية السعودي؛ دروس فردية وجماعية
+      - name: نادي الفروسية بجدة
+        area: حي الأندلس، جدة (80 كم من مكة)
+        address: طريق الملك عبدالعزيز، جدة
+        url: https://saef.gov.sa/en
+        notes: من أقدم أندية الفروسية في المنطقة؛ يستضيف مسابقات ويقدم دروساً لجميع الأعمار
+      duration: ساعة إلى ثلاث ساعات للجلسة
+      notes: ارتدِ بنطلوناً طويلاً وحذاء مغلق؛ خوذات مرفقة؛ احجز قبل أسبوع على الأقل في موسم الحج
+
+    - name: فنون السيف العربي (الفروسية الحربية)
       description: >
-        Traditional Arabian sword combat techniques derived from Islamic martial heritage. Includes Al-Ardah (ceremonial sword
-        dance), single-sword drills, and paired sparring forms used historically by Arabian warriors.
+        تقنيات القتال بالسيف العربي التقليدي المستمدة من التراث الحربي الإسلامي. تشمل العرضة
+        (رقصة السيف الاحتفالية) وتدريبات السيف المفردة وأشكال التقاطع.
       skill_levels:
-      - beginner
-      - intermediate
+      - مبتدئ
+      - متوسط
       businesses:
-      - name: Saudi Heritage Commission Cultural Centers
-        area: Mekka and Jeddah branches
-        notes: >
-          Run workshops on Al-Ardah (the traditional Saudi sword and dance performance); contact the Heritage Commission (Al-Turath)
-          for scheduled public sessions
-      - name: Al-Makkah Cultural and Sports Club
-        area: Al-Aziziyah district, Mekka
-        notes: Occasionally hosts traditional martial arts and heritage sport workshops
-      - name: Jeddah Heritage Festival Venues
-        area: Al-Balad (Historic Jeddah), Jeddah
-        notes: >
-          Seasonal festivals feature live Al-Ardah performances and hands-on sword handling demonstrations; check the Saudi
-          Tourism Authority event calendar
-      duration: 1–2 hours per session
-      notes: >
-        Al-Ardah is a cultural performance art as much as a martial skill; wooden practice swords used for beginners; traditional
-        dress (thobe) often worn during sessions
-    - name: Traditional Archery (Rami / Qaws)
+      - name: مراكز هيئة التراث السعودي الثقافية
+        area: فروع مكة وجدة
+        url: https://heritage.moc.gov.sa/en
+        notes: تنظم ورش العرضة السعودية التقليدية؛ تواصل مع الهيئة للجلسات العامة المجدولة
+      - name: نادي مكة الثقافي والرياضي
+        area: حي العزيزية، مكة المكرمة
+        notes: يستضيف أحياناً ورش فنون الحرب التراثية والرياضات التراثية
+      - name: مواقع مهرجان جدة التراثية
+        area: البلد (جدة التاريخية)، جدة
+        notes: تضم العروض الحية للعرضة وتجارب السيف التفاعلية
+      duration: ساعة إلى ساعتين للجلسة
+      notes: العرضة فن أداء ثقافي بقدر ما هي مهارة قتالية؛ سيوف خشبية للمبتدئين
+
+    - name: الرماية التقليدية (الرمي بالقوس)
       description: >
-        Islamic archery using traditional bows — explicitly encouraged in hadith ("Teach your children swimming, archery,
-        and horse riding" — reported by al-Bayhaqi). Covers stance, draw, aim, and release using recurve and traditional Arabic
-        bows.
+        الرماية الإسلامية بالأقواس التقليدية — حث عليها الحديث الشريف صراحةً ("علموا أولادكم السباحة
+        والرماية وركوب الخيل" — رواه البيهقي). تشمل الوقوف والشد والتصويب والإطلاق.
       skill_levels:
-      - beginner
-      - intermediate
-      - advanced
+      - مبتدئ
+      - متوسط
+      - متقدم
       businesses:
-      - name: Al-Rami Archery Club
-        area: Al-Aziziyah district, Mekka
-        notes: >-
-          Indoor range with traditional and modern bow options; beginner sessions available
-      - name: Saudi Archery Federation Affiliated Clubs
-        area: Jeddah and Taif (check federation website for Mekka-area affiliates)
-        notes: Certified coaching; equipment rental included for beginners
-      - name: Taif Sports City Archery Range
-        area: Taif Sports City, Taif
-        notes: >-
-          Outdoor range with longer distances; suitable for intermediate and advanced archers
-      duration: 1–2 hours per session
+      - name: نادي الرماء للرماية
+        area: حي العزيزية، مكة المكرمة
+        notes: مضمار داخلي بخيارات أقواس تقليدية وحديثة؛ جلسات مبتدئة متاحة
+      - name: الأندية التابعة لاتحاد الرماية السعودي
+        area: جدة والطائف (راجع موقع الاتحاد للأندية في منطقة مكة)
+        url: https://saaf.sa
+        notes: تدريب معتمد؛ تأجير المعدات مشمول للمبتدئين
+      - name: مضمار الرماية — مدينة الطائف الرياضية
+        area: مدينة الطائف الرياضية، الطائف
+        notes: مضمار خارجي بمسافات أطول؛ مناسب للرماة المتوسطين والمتقدمين
+      duration: ساعة إلى ساعتين للجلسة
       equipment_provided: true
-      notes: >
-        No prior experience needed to start; closed-toe shoes required; traditional thumb ring (Zihgir) used in Islamic archery
-        style
-    - name: Camel Riding
+      notes: لا تشترط خبرة مسبقة؛ حذاء مغلق مطلوب؛ خاتم الإبهام (الزهگير) يُستخدم في أسلوب الرماية الإسلامية
+
+    - name: ركوب الجمل
       description: >
-        Riding the "Ship of the Desert" — an iconic Bedouin experience and deeply symbolic animal in Islamic culture. Includes
-        mounting, basic steering, and short trail rides.
+        ركوب "سفينة الصحراء" — تجربة بدوية أيقونية وحيوان عميق الرمزية في الثقافة الإسلامية.
+        تشمل الصعود والتوجيه الأساسي وجولات قصيرة.
       skill_levels:
-      - beginner
+      - مبتدئ
       businesses:
-      - name: Al-Badia Camel Farm
-        area: Outskirts of Mekka, Al-Badia district
-        notes: Guided camel rides on desert trails; photography sessions available
-      - name: Desert Safari Makkah (various operators)
-        area: Eastern desert outskirts of Mekka
-        notes: >
-          Half-day packages combining camel riding, dune driving, and traditional Bedouin tent hospitality; bookable through
-          local tour agencies
-      - name: Taif Camel Experience
-        area: Al-Hada, Taif
-        notes: Scenic mountain-area camel rides; cooler and more comfortable than desert rides
-      duration: 30 minutes – 2 hours
-      notes: >
-        Wear modest, comfortable clothing; camels kneel for mounting; guides assist first-time riders; best experienced early
-        morning or near sunset
-    - name: Falconry (Al-Saqr)
+      - name: مزرعة الجمال البادية
+        area: أطراف مكة، حي البادية
+        notes: ركوب جمال إرشادي على مسارات صحراوية؛ جلسات تصوير متاحة
+      - name: سفاري الصحراء مكة (مشغلون متعددون)
+        area: أطراف مكة الشرقية الصحراوية
+        notes: باقات نصف يوم تجمع ركوب الجمال وسيارات الدفع الرباعي وضيافة خيمة بدوية
+      - name: تجربة جمال الطائف
+        area: الهدا، الطائف
+        notes: ركوب جمال في أجواء جبلية خلابة؛ أكثر برودة وراحة من الركوب الصحراوي
+      duration: 30 دقيقة إلى ساعتين
+      notes: ارتدِ ملابس محتشمة ومريحة؛ الجمل يجثو للركوب؛ الأدلاء يساعدون الراكبين لأول مرة
+
+    - name: الصقارة (الصقر)
       description: >
-        The ancient Arabian art of training and flying falcons for hunting — a UNESCO Intangible Cultural Heritage practice.
-        Includes handling, perch training, and short free-flight sessions with trained birds.
+        الفن العربي العريق في تدريب الصقور وتحليقها للصيد — تراث ثقافي غير مادي مدرج في قائمة
+        اليونسكو. تشمل التعامل وتدريب المجثم وجلسات الطيران الحر القصيرة مع الطيور المدربة.
       skill_levels:
-      - beginner
-      - intermediate
+      - مبتدئ
+      - متوسط
       businesses:
-      - name: Saudi Falconry Club (Jeddah)
-        area: Jeddah, approx. 80 km from Mekka
-        notes: >
-          Offers introductory falconry sessions; trained Saker and Peregrine falcons; handlers guide beginners through glove
-          work and lure flying
-      - name: Al-Saqr Heritage Falconry Center
-        area: Taif outskirts
-        notes: >
-          Combines falconry demonstration with Bedouin cultural experience; group sessions and private bookings available
-      - name: King Abdulaziz Falconry Festival (seasonal)
-        area: Varies (Riyadh-based main event; regional events in Mekka/Taif area)
-        notes: >
-          Annual national festival with competitions, exhibitions, and public demonstrations; check Saudi Falconry Association
-          for dates and locations
-      duration: 1–3 hours
-      notes: >
-        Thick leather glove provided; long sleeves recommended; patience required — falcons respond to calm, slow movements;
-        no loud noises near the birds
-    - name: Traditional Wrestling (Al-Musaraa)
+      - name: نادي الصقور السعودي (جدة)
+        area: جدة، نحو 80 كم من مكة
+        url: https://sfc.org.sa/sa/en
+        notes: جلسات صقارة تمهيدية؛ صقور ساكر وشاهين مدربة؛ المدربون يرشدون المبتدئين
+      - name: مركز تراث الصقارة السقر
+        area: أطراف الطائف
+        notes: يجمع عرض الصقارة مع التجربة الثقافية البدوية؛ حجوزات جماعية وخاصة
+      - name: مهرجان الملك عبدالعزيز للصقور (موسمي)
+        area: متغير (الحدث الرئيسي في الرياض؛ أحداث إقليمية في منطقة مكة والطائف)
+        notes: مهرجان وطني سنوي بمسابقات ومعارض وعروض عامة
+      duration: ساعة إلى ثلاث ساعات
+      notes: قفاز جلدي سميك مرفق؛ يُنصح بأكمام طويلة؛ الصقور تستجيب للهدوء والبطء
+
+    - name: المصارعة التقليدية (المصارعة العربية)
       description: >
-        Classical Arabian wrestling — a ground-based grappling sport historically practiced by Bedouin tribes. Focuses on
-        balance, leverage, and controlled throws.
+        المصارعة العربية الكلاسيكية — رياضة إمساك أرضية كانت القبائل البدوية تمارسها تاريخياً.
+        تركز على التوازن والرافعة والإسقاطات المضبوطة.
       skill_levels:
-      - beginner
-      - intermediate
+      - مبتدئ
+      - متوسط
       businesses:
-      - name: Al-Makkah Sports Club
-        area: Al-Aziziyah district, Mekka
-        address: King Abdulaziz Road, Al-Aziziyah, Mekka
-        notes: >
-          General sports club offering traditional and modern combat sports; Al-Musaraa training sessions run by experienced
-          coaches
-      - name: Al-Wahda Sports Club
-        area: Al-Zahir district, Mekka
-        notes: Community club with mat facilities; beginner-friendly environment
-      duration: 1–1.5 hours per session
-      notes: >
-        Wear comfortable athletic clothing; no shoes on the mat; good supplementary fitness activity during pilgrimage downtime
-    - name: Arabian Dagger Craft (Khanjar)
+      - name: نادي مكة الرياضي
+        area: حي العزيزية، مكة المكرمة
+        address: طريق الملك عبدالعزيز، العزيزية، مكة المكرمة
+        notes: نادي رياضي عام يقدم رياضات قتالية تقليدية وحديثة؛ جلسات تدريب بمدربين متمرسين
+      - name: نادي الوحدة الرياضي
+        area: حي الظاهر، مكة المكرمة
+        notes: نادي مجتمعي بمرافق متكاملة؛ بيئة مناسبة للمبتدئين
+      duration: ساعة إلى ساعة ونصف للجلسة
+      notes: ارتدِ ملابس رياضية مريحة؛ لا أحذية على الحصيرة
+
+    - name: حرفة الخنجر العربي
       description: >
-        Workshop learning the history, symbolism, and craftsmanship of the traditional Arabian curved dagger (Khanjar / Janbiya).
-        Includes handle carving and sheath decoration.
+        ورشة للتعرف على تاريخ ورمزية وصناعة الخنجر العربي التقليدي (الخنجر/الجنبية).
+        تشمل نحت المقبض وزخرفة الغمد.
       skill_levels:
-      - beginner
+      - مبتدئ
       businesses:
-      - name: Saudi Heritage Commission Craft Workshops
-        area: Mekka Heritage Center and Jeddah Al-Balad district
-        notes: >
-          Seasonal craft workshops on traditional Arabian weaponry and jewelry; contact Al-Turath (Heritage Commission) for
-          schedule
-      - name: Souq Al-Zal Artisan Stalls
-        area: Al-Mu'alla district, Mekka
-        notes: >
-          Master craftsmen sometimes demonstrate Khanjar making; daggers and decorative pieces available for purchase; not
-          typically a hands-on lesson but worth observing
-      duration: 2–3 hours (workshop format)
-      notes: >
-        Purely craft-focused; no combat element; decorative Khanjars make meaningful souvenirs; ornate versions with silver
-        handles can be expensive but are heirloom-quality pieces
-    - name: Swimming and Water Sports
+      - name: ورش الحرف التراثية — هيئة التراث السعودي
+        area: مركز التراث بمكة وحي البلد بجدة
+        url: https://heritage.moc.gov.sa/en
+        notes: ورش حرف موسمية حول الأسلحة والمجوهرات العربية التقليدية
+      - name: بسطات حرفيي سوق الزل
+        area: حي المعلا، مكة المكرمة
+        notes: يعرض أحياناً الحرفيون المهرة صناعة الخنجر؛ قطع زخرفية للشراء
+      duration: ساعتان إلى ثلاث ساعات (صيغة ورشة)
+      notes: تركيز حرفي تام دون عنصر قتالي؛ الخناجر الزخرفية تذكارات ذات قيمة
+
+    - name: السباحة والرياضات المائية
       description: >
-        The Prophet Muhammad (PBUH) encouraged Muslims to learn swimming. Jeddah's Red Sea coast (80 km) offers world-class
-        diving, snorkeling, and open-water swimming in warm, clear waters.
+        حث النبي صلى الله عليه وسلم على تعلم السباحة. يوفر ساحل البحر الأحمر بجدة (80 كم) غوصاً
+        وسباحة وركوب موجات بمياه دافئة وصافية.
       skill_levels:
-      - beginner
-      - intermediate
-      - advanced
+      - مبتدئ
+      - متوسط
+      - متقدم
       businesses:
-      - name: Jeddah Yacht Club
-        area: Al-Kurnaysh (Corniche), Jeddah
-        address: Al-Hamra, Jeddah Corniche, Jeddah
-        notes: Swimming, kayaking, sailing; Red Sea access; day membership available
-      - name: Dive Jeddah
-        area: Al-Kurnaysh, Jeddah
-        notes: >
-          PADI-certified dive center offering beginner Discover Scuba courses and guided reef dives; Red Sea coral reefs are
-          world-renowned for biodiversity
-      - name: Al-Shallal Theme Park (indoor pool)
-        area: Corniche Road, Jeddah
-        notes: Large indoor/outdoor aquatic park; suitable for families and non-swimmers
-      duration: Half-day to full-day
-      notes: >
-        Modest swimwear required in public areas; private or segregated pools available for those who prefer; Jeddah day trips
-        easily arranged from Mekka via taxi or Careem
-    - name: Saudi Jiu-Jitsu (SJJ)
+      - name: نادي اليخت بجدة
+        area: الكورنيش، جدة
+        address: الحمراء، كورنيش جدة
+        notes: سباحة وتجديف وإبحار؛ منفذ على البحر الأحمر؛ اشتراك يومي متاح
+      - name: دايف جدة
+        area: الكورنيش، جدة
+        notes: مركز غوص معتمد PADI؛ دورات غطس استكشافي للمبتدئين وغطسات شعاب مرجانية إرشادية
+      - name: منتزه الشلال المائي (مسبح داخلي)
+        area: طريق الكورنيش، جدة
+        notes: حديقة مائية داخلية وخارجية كبيرة؛ مناسبة للعائلات وغير السباحين
+      duration: نصف يوم إلى يوم كامل
+      notes: ملابس سباحة محتشمة مطلوبة في الأماكن العامة؛ مسابح خاصة أو مفصولة متاحة
+
+    - name: الجوجيتسو السعودي (SJJ)
       description: >
-        Saudi Jiu-Jitsu has exploded in popularity across the Kingdom. Combines ground grappling, chokes, joint locks, and
-        takedowns. Saudi Arabia hosts major international SJJ tournaments and the sport is supported at national federation
-        level.
+        انتشر الجوجيتسو السعودي انتشاراً واسعاً في المملكة. يجمع الإمساك الأرضي والخنق وأقفال
+        المفاصل والرمي. تستضيف المملكة بطولات دولية كبرى وتدعمها على المستوى الاتحادي.
       skill_levels:
-      - beginner
-      - intermediate
-      - advanced
+      - مبتدئ
+      - متوسط
+      - متقدم
       businesses:
-      - name: Saudi Jiu-Jitsu Federation Affiliated Academy (Mekka)
-        area: Al-Aziziyah district, Mekka
-        notes: >
-          Beginner-friendly gi and no-gi classes; coaches certified by the Saudi Jiu-Jitsu Federation; free trial class often
-          available for visitors
-      - name: Al-Hilal Sports Academy
-        area: Jeddah (80 km from Mekka)
-        notes: Full BJJ and SJJ curriculum; competition prep classes available
-      - name: Gracie Jeddah
-        area: Al-Rawdah district, Jeddah
-        notes: International-standard instruction; Gracie family lineage curriculum
-      duration: 1–1.5 hours per class
+      - name: أكاديمية اتحاد الجوجيتسو السعودي (مكة)
+        area: حي العزيزية، مكة المكرمة
+        url: http://saudijjf.com
+        notes: دروس بالغي وبدون غي للمبتدئين؛ مدربون معتمدون؛ حصة تجريبية مجانية في الغالب
+      - name: أكاديمية الهلال الرياضية
+        area: جدة (80 كم من مكة)
+        notes: منهج BJJ وSJJ متكامل؛ دروس تحضير للمسابقات متاحة
+      - name: غريسي جدة
+        area: حي الروضة، جدة
+        notes: تدريس بمعايير دولية؛ مناهج عائلة غريسي
+      duration: ساعة إلى ساعة ونصف للحصة
       equipment_provided: false
-      notes: >
-        Bring or rent a gi (uniform); nail clipping and hygiene strictly enforced on the mat; one of the best sports for building
-        functional strength and discipline
-    - name: Spear and Shield Training (Al-Harbah)
+      notes: أحضر غي أو استأجر؛ تقليم الأظافر والنظافة الشخصية إلزامية
+
+    - name: تدريب الرمح والترس (الحربة)
       description: >
-        Ancient Arabian battlefield art using the traditional long spear (Harbah) and round leather shield (Turs). Taught
-        as a cultural martial art and physical discipline.
+        فن حرب عربي قديم يستخدم الرمح الطويل التقليدي (الحربة) والترس الجلدي الدائري (التُرس).
+        يُعلَّم كفن قتال ثقافي وانضباط بدني.
       skill_levels:
-      - beginner
-      - intermediate
+      - مبتدئ
+      - متوسط
       businesses:
-      - name: Saudi Heritage Commission Martial Arts Workshops
-        area: Mekka Heritage Center
-        notes: Seasonal sessions; traditional wooden training spears used for safety
-      - name: Al-Ardah Cultural Troupe Training Sessions
-        area: Jeddah Heritage Festival grounds
-        notes: Group workshops alongside sword and percussion training
-      duration: 1–2 hours
-      notes: >-
-        Protective padding provided; sessions often conclude with a group Al-Ardah performance
-    - name: Desert Dune Bashing and Off-Road Driving
+      - name: ورش الفنون القتالية — هيئة التراث السعودي
+        area: مركز التراث بمكة
+        url: https://heritage.moc.gov.sa/en
+        notes: جلسات موسمية؛ رماح خشبية للتدريب لأغراض السلامة
+      - name: جلسات تدريب فرقة العرضة الثقافية
+        area: ساحات مهرجان جدة التراثية
+        notes: ورش جماعية جنباً إلى جنب مع تدريب السيف والإيقاع
+      duration: ساعة إلى ساعتين
+      notes: حشوات واقية مرفقة؛ تختتم الجلسات في الغالب بأداء عرضة جماعية
+
+    - name: قيادة السيارات على الكثبان الرملية والطرق الوعرة
       description: >
-        4x4 off-road driving across the desert dunes surrounding Mekka — a beloved Saudi weekend activity combining adrenaline
-        with Bedouin landscape exploration.
+        قيادة سيارات الدفع الرباعي على الكثبان الرملية المحيطة بمكة المكرمة — نشاط ترفيهي سعودي
+        محبب في عطلات نهاية الأسبوع يجمع الإثارة مع استكشاف المشهد البدوي.
       skill_levels:
-      - beginner (passenger)
-      - intermediate
-      - advanced
+      - مبتدئ (راكب)
+      - متوسط
+      - متقدم
       businesses:
-      - name: Makkah Desert Safari Co.
-        area: Eastern desert outskirts of Mekka
-        notes: >
-          Full packages include 4x4 convoy, sandboarding, camel riding, and Bedouin dinner under stars; pickup from central
-          Mekka hotels available
-      - name: Saudi Off-Road Club (Jeddah chapter)
-        area: Jeddah and surrounding desert areas
-        notes: >-
-          Community group runs organized desert drives; visitors may join with prior contact
-      duration: 3–6 hours (half-day or full-day packages)
-      notes: >
-        Vehicles and drivers provided for beginners; bring sunscreen, sunglasses, and a scarf for dust; evenings are recommended
-        for the best temperatures
+      - name: شركة سفاري مكة الصحراوية
+        area: أطراف مكة الشرقية الصحراوية
+        notes: باقات كاملة تشمل القافلة الرباعية وركوب الألواح الرملية وركوب الجمال وعشاء تحت النجوم
+      - name: نادي الطرق الوعرة السعودي (فرع جدة)
+        area: جدة والمناطق الصحراوية المحيطة
+        notes: مجموعة مجتمعية تنظم رحلات صحراوية منظمة؛ الزوار أهلاً بمسبق التواصل
+      duration: ثلاث إلى ست ساعات (باقات نصف يوم أو يوم كامل)
+      notes: مركبات وسائقون للمبتدئين؛ أحضر واقٍ شمس ونظارة وشماغ للغبار؛ المساء أفضل درجات الحرارة
+
   modern_sports_and_fitness:
     description: >
-      Contemporary sports facilities, martial arts academies, and fitness centers in Mekka, with options in nearby Jeddah
-      and Taif for specialist activities.
+      منشآت رياضية حديثة وأكاديميات فنون قتالية ومراكز لياقة في مكة مع خيارات في جدة والطائف
+      للأنشطة المتخصصة.
     items:
-    - name: Football (Soccer)
+    - name: كرة القدم
       description: >
-        Saudi Arabia's most popular sport. Public pitches, 5-a-side centers, and full-size pitches are available across Mekka
-        for casual and competitive play.
+        الرياضة الأكثر شعبية في المملكة. ملاعب عامة ومراكز خماسية وملاعب كاملة الحجم متاحة
+        في مكة للعب الترفيهي والتنافسي.
       businesses:
-      - name: Mekka Stadium (Prince Abdullah Al-Faisal Stadium)
-        area: Al-Aziziyah district, Mekka
-        address: King Abdulaziz Road, Mekka
-        notes: >
-          Home ground of Ittihad Mekka FC; check fixture schedule for match days; watching a Saudi Pro League match is a vibrant
-          cultural experience
-      - name: Foot Zone 5-a-side Centers
-        area: Multiple locations in Mekka
-        notes: >
-          Hourly pitch rentals; floodlit artificial turf; equipment hire available; popular with pilgrims and residents for
-          casual games
-      - name: Al-Aziziyah Sports Complex
-        area: Al-Aziziyah district, Mekka
-        notes: Full-size natural and artificial pitches; changing rooms and showers
-      notes: >-
-        Bring or rent boots; water is essential; avoid midday heat (play mornings or evenings)
-    - name: Basketball
-      description: Fast-growing sport in Saudi Arabia with quality courts across Mekka.
+      - name: استاد مكة (ملعب الأمير عبدالله الفيصل)
+        area: حي العزيزية، مكة المكرمة
+        address: طريق الملك عبدالعزيز، مكة المكرمة
+        notes: مقر نادي اتحاد مكة؛ راجع جدول المباريات؛ مشاهدة مباراة دوري يُعدّ تجربة ثقافية نابضة
+      - name: مراكز فوت زون الخماسية
+        area: مواقع متعددة في مكة المكرمة
+        notes: إيجار ملاعب بالساعة؛ عشب صناعي مضاء؛ تأجير معدات متاح
+      - name: المجمع الرياضي بالعزيزية
+        area: حي العزيزية، مكة المكرمة
+        notes: ملاعب طبيعية وصناعية كاملة الحجم؛ غرف تغيير ودش
+      notes: أحضر أو استأجر بوط؛ الماء ضروري؛ تجنب اللعب وقت منتصف النهار
+
+    - name: كرة السلة
+      description: رياضة سريعة النمو في المملكة بملاعب عالية الجودة في أنحاء مكة.
       businesses:
-      - name: Al-Makkah Sports Club Basketball Courts
-        area: Al-Aziziyah district, Mekka
-        notes: Indoor courts; open sessions and league games; visitor-friendly
-      - name: Public Courts at King Fahd Sports Complex
-        area: Mekka
-        notes: Outdoor courts free to use; active pickup games most evenings
-      notes: Courts usually busy after Asr prayer until late evening
-    - name: Tennis
-      description: Available at major hotels and sports clubs in Mekka and Taif.
+      - name: ملاعب كرة السلة — نادي مكة الرياضي
+        area: حي العزيزية، مكة المكرمة
+        notes: ملاعب داخلية؛ جلسات مفتوحة ومباريات دوري؛ ترحيب بالزوار
+      - name: الملاعب العامة — المجمع الرياضي الملك فهد
+        area: مكة المكرمة
+        notes: ملاعب خارجية مجانية؛ مباريات محلية نشطة أغلب الأمسيات
+      notes: الملاعب مكتظة في الغالب بعد صلاة العصر حتى وقت متأخر من الليل
+
+    - name: التنس
+      description: متاح في الفنادق الكبرى والأندية الرياضية في مكة والطائف.
       businesses:
-      - name: Fairmont Makkah Tennis Facility
-        area: Abraj Al-Bait Complex, Mekka
-        notes: Courts for hotel guests; coaching available on request
-      - name: Taif Tennis Club
-        area: Taif Sports City, Taif
-        notes: >
-          Outdoor and indoor courts; coaching sessions; cooler mountain climate makes Taif the preferred destination for year-round
-          outdoor tennis
-      - name: Al-Aziziyah Sports Complex Tennis Courts
-        area: Al-Aziziyah, Mekka
-        notes: Public courts; racket hire available
-      notes: Book courts in advance; early morning or evening sessions recommended
-    - name: Mixed Martial Arts (MMA)
+      - name: منشأة التنس — فيرمونت مكة
+        area: مجمع أبراج البيت، مكة المكرمة
+        notes: ملاعب لنزلاء الفندق؛ تدريب متاح عند الطلب
+      - name: نادي تنس الطائف
+        area: مدينة الطائف الرياضية، الطائف
+        notes: ملاعب خارجية وداخلية؛ جلسات تدريبية؛ مناخ الجبل الأكثر برودة مثالي
+      - name: ملاعب التنس — المجمع الرياضي بالعزيزية
+        area: العزيزية، مكة المكرمة
+        notes: ملاعب عامة؛ تأجير مضارب متاح
+      notes: احجز الملاعب مسبقاً؛ جلسات الصباح الباكر أو المساء مُوصى بها
+
+    - name: فنون القتال المختلطة (MMA)
       description: >
-        MMA has a fast-growing scene in Saudi Arabia following Vision 2030 reforms. Saudi Arabia now hosts major UFC and boxing
-        events. Training academies in Mekka and Jeddah offer striking (Muay Thai, Boxing) and grappling (BJJ, Wrestling) classes.
+        شهدت فنون القتال المختلطة نمواً متسارعاً في المملكة بعد إصلاحات رؤية 2030. تستضيف المملكة
+        الآن فعاليات UFC والملاكمة الكبرى. الأكاديميات في مكة وجدة تقدم ضرب وإمساك.
       skill_levels:
-      - beginner
-      - intermediate
-      - advanced
+      - مبتدئ
+      - متوسط
+      - متقدم
       businesses:
-      - name: Saudi MMA Federation Academy (Mekka)
-        area: Al-Aziziyah district, Mekka
-        notes: >
-          Official federation-affiliated academy; classes in striking, wrestling, and submission grappling; beginners welcome;
-          trial class available
-      - name: Elevation MMA (Jeddah)
-        area: Al-Rawdah district, Jeddah
-        notes: >
-          Full MMA curriculum including Muay Thai, Boxing, BJJ, and Wrestling; international coaching staff; English and Arabic
-          instruction
-      - name: Arena MMA Academy (Jeddah)
-        area: Jeddah
-        notes: Well-equipped gym; large mat area; regular in-house competitions
-      duration: 1–1.5 hours per class
-      notes: >
-        Mouthguard and groin guard recommended for sparring sessions; most gyms provide gloves and pads for beginners
-    - name: Gym and Fitness Centers
-      description: Modern fitness facilities for weight training, cardio, and group classes.
+      - name: أكاديمية اتحاد MMA السعودي (مكة)
+        area: حي العزيزية، مكة المكرمة
+        notes: أكاديمية تابعة للاتحاد الرسمي؛ دروس ضرب ومصارعة وإمساك؛ المبتدئون أهلاً
+      - name: إليفيشن MMA (جدة)
+        area: حي الروضة، جدة
+        notes: منهج MMA كامل يشمل المواي تاي والملاكمة والبراجيليان جوجيتسو والمصارعة
+      - name: أرينا MMA أكاديمي (جدة)
+        area: جدة
+        notes: جيم مجهز جيداً؛ مساحة حصيرة واسعة؛ مسابقات داخلية منتظمة
+      duration: ساعة إلى ساعة ونصف للحصة
+      notes: واقي الفم وواقي الفخذ موصى بهما للجلسات التدريبية
+
+    - name: صالات اللياقة البدنية ومراكز الفتنس
+      description: منشآت لياقة حديثة لرفع الأثقال والكارديو ودروس المجموعات.
       businesses:
-      - name: Fitness Time (Mekka branches)
-        area: Multiple locations — Al-Aziziyah, Al-Naseem, Abraj Al-Bait area
-        notes: >-
-          Saudi Arabia's largest gym chain; day passes and monthly memberships; modern equipment
-      - name: Gold's Gym Makkah
-        area: Al-Aziziyah district, Mekka
-        notes: International brand; weights, cardio, and group fitness classes
-      - name: Fairmont Makkah Fitness Center
-        area: Abraj Al-Bait Complex, Mekka
-        notes: Premium hotel gym; open to non-guests for a day fee
-      - name: Swissôtel Fitness Center
-        area: Abraj Al-Bait, Mekka
-        notes: Full gym with pool; hotel guests free, visitors pay day fee
-      notes: >-
-        Separate facilities for men and women at most venues; hydration critical in Mekka's climate
-    - name: Running and Athletics
+      - name: فتنس تايم (فروع مكة)
+        area: مواقع متعددة — العزيزية والنسيم ومنطقة أبراج البيت
+        url: https://www.fitnesstime.com.sa/en-us
+        notes: أكبر سلسلة جيم في المملكة؛ اشتراكات يومية وشهرية؛ معدات حديثة
+      - name: جولدز جيم مكة
+        area: حي العزيزية، مكة المكرمة
+        url: https://www.ggarabia.com/en
+        notes: علامة تجارية دولية؛ أثقال وكارديو ودروس لياقة جماعية
+      - name: مركز اللياقة البدنية — فيرمونت مكة
+        area: مجمع أبراج البيت، مكة المكرمة
+        notes: جيم فندقي متميز؛ مفتوح لغير النزلاء برسوم يومية
+      - name: مركز اللياقة البدنية — سويسوتيل
+        area: أبراج البيت، مكة المكرمة
+        notes: جيم كامل مع مسبح؛ نزلاء الفندق مجاناً والزوار برسوم يومية
+      notes: مرافق منفصلة للرجال والنساء في معظم الأماكن؛ الترطيب بالغ الأهمية في مناخ مكة
+
+    - name: الجري والألعاب الأثلتيكية
       description: >
-        Running clubs and athletics tracks are available in Mekka. The early morning hours after Fajr are ideal for running
-        in cooler temperatures.
+        أندية الجري ومضامير الألعاب الأثلتيكية متاحة في مكة. ساعات الصباح الباكر بعد صلاة الفجر
+        مثالية للجري في درجات حرارة معتدلة.
       businesses:
-      - name: King Abdulaziz Sports City Athletics Track
-        area: Al-Aziziyah district, Mekka
-        notes: Standard 400m track; public access; often used by serious runners
-      - name: Makkah Running Club (community group)
-        area: Various meeting points across Mekka
-        notes: >
-          Community running group active on social media; weekly group runs; welcoming to visiting runners and pilgrims
-      best_time: 05:30–07:30 (post-Fajr) or after Maghrib prayer
-      notes: >
-        Hydration is critical — carry water; avoid running during midday heat; the elevated terrain of parts of Mekka provides
-        natural hill training
+      - name: مضمار الألعاب الأثلتيكية — مدينة الملك عبدالعزيز الرياضية
+        area: حي العزيزية، مكة المكرمة
+        notes: مضمار قياسي 400 متر؛ مفتوح للعموم؛ يستخدمه الرياضيون الجادون
+      - name: نادي مكة للجري (مجموعة مجتمعية)
+        area: نقاط تجمع متعددة في مكة
+        notes: مجموعة جري مجتمعية نشطة على التواصل الاجتماعي؛ جري أسبوعي جماعي؛ ترحيب بالزوار
+      best_time: 05:30–07:30 (بعد الفجر) أو بعد المغرب
+      notes: الترطيب بالغ الأهمية — احمل الماء؛ تجنب الجري في ذروة الحرارة
+
   wellness_and_rest:
-    description: Activities to maintain health and spiritual energy during the pilgrimage
+    description: أنشطة للحفاظ على الصحة والطاقة الروحية خلال رحلة الحج أو العمرة
     items:
-    - name: Hotel Spa and Rest
-      description: Using hotel wellness facilities to recover from physically demanding rituals
+    - name: سبا الفندق والراحة
+      description: الاستفادة من مرافق العافية الفندقية للتعافي من مشقة الشعائر
       businesses:
-      - name: Fairmont Spa (Fairmont Makkah Clock Royal Tower)
-        address: Abraj Al-Bait Complex, Mekka
-        notes: Full-service spa with massage, steam, and pool
-      - name: Swissôtel Fitness Center
-        address: Abraj Al-Bait, Mekka
-        notes: Gym and pool facilities for hotel guests
-      notes: Adequate rest is critical for sustaining Hajj and Umrah stamina
-    - name: Walking the Mosque Courtyards
-      description: Gentle walking and quiet reflection in the open courtyards of Masjid al-Haram
+      - name: سبا فيرمونت (فيرمونت مكة كلوك رويال تاور)
+        address: مجمع أبراج البيت، مكة المكرمة
+        notes: سبا متكامل مع مساج وبخار ومسبح
+      - name: مركز اللياقة البدنية — سويسوتيل
+        address: أبراج البيت، مكة المكرمة
+        notes: مرافق جيم ومسبح لنزلاء الفندق
+      notes: الراحة الكافية ضرورية للمحافظة على الطاقة في أداء شعائر الحج والعمرة
+
+    - name: التمشي في أفنية المسجد الحرام
+      description: المشي الخفيف والتأمل الهادئ في الأفنية المفتوحة للمسجد الحرام
       location:
-        name: Masjid al-Haram outdoor and rooftop areas
-        area: Al Haram district
-      notes: Peaceful especially after Fajr; rooftop accessible from several gates
-    - name: Journaling and Reflection
+        name: الأفنية الخارجية وأسطح المسجد الحرام
+        area: منطقة الحرم
+      notes: هادئة بشكل خاص بعد الفجر؛ السطح متاح من عدة أبواب
+
+    - name: اليوميات والتأمل
       description: >
-        Keeping a written, audio, or video spiritual diary of the pilgrimage — recording duas, personal milestones, and reflections.
-        Many pilgrims find journaling transforms the experience into a lifelong spiritual reference.
+        الاحتفاظ بمذكرات روحية مكتوبة أو صوتية أو مرئية عن تجربة الحج — تسجيل الأدعية والإنجازات
+        الشخصية والتأملات. كثير من الحجاج يجدون في التدوين مرجعاً روحياً مدى الحياة.
       notes: >
-        Dedicated Hajj/Umrah journal notebooks sold at Islamic bookstores near Masjid al-Haram; voice recording duas at Multazam,
-        in Arafat, and after Tawaf is a common practice; video diaries permitted in most public areas of the mosque complex
-    - name: Charity and Sadaqah
-      description: Giving to those in need including charitable organizations present in Mekka
+        دفاتر مخصصة للحج والعمرة تُباع في المكتبات الإسلامية قرب المسجد الحرام؛ تسجيل الأدعية
+        عند الملتزم وفي عرفات وبعد الطواف شائع؛ تسجيل الفيديو مسموح به في أغلب المناطق العامة
+
+    - name: الصدقة والزكاة
+      description: العطاء للمحتاجين والمنظمات الخيرية الموجودة في مكة المكرمة
       businesses:
-      - name: Makkah Al-Mukarramah Charity
-        area: Mekka city
-        notes: Official local charity accepting donations for pilgrims in need
-      - name: Al-Rajhi Charity Foundation donation boxes
-        area: Throughout Masjid al-Haram and hotels
-      notes: >-
-        Sadaqah is especially rewarded in the holy city; many collection points near the mosque
+      - name: جمعية مكة المكرمة الخيرية
+        area: مكة المكرمة
+        url: https://albir-makkah.sa
+        notes: جمعية خيرية محلية رسمية تقبل التبرعات للحجاج المحتاجين
+      - name: صناديق مؤسسة الراجحي الخيرية
+        area: في أنحاء المسجد الحرام والفنادق
+        url: https://rf.org.sa/en
+      notes: الصدقة في البلد الحرام مضاعفة الأجر؛ نقاط تجميع كثيرة قرب المسجد

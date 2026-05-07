@@ -1,182 +1,210 @@
-# Accommodation, transport, and practical visitor information
+# الإقامة والنقل والمعلومات العملية للزائر
 
 activities:
   accommodation:
-    description: Notable hotels and stays near Masjid al-Haram
+    description: أبرز الفنادق والأماكن للإقامة بالقرب من المسجد الحرام
     items:
-    - name: Fairmont Makkah Clock Royal Tower
-      description: Luxury 5-star hotel in the iconic Clock Tower with direct views of the Kaaba
+    - name: فيرمونت مكة كلوك رويال تاور
+      description: فندق فاخر من فئة خمس نجوم في برج الساعة الأيقوني مع إطلالة مباشرة على الكعبة المشرفة
       location:
-        address: Abraj Al-Bait Complex, Ibrahim Al Khalil Street, Mekka 24231
+        address: مجمع أبراج البيت، شارع إبراهيم الخليل، مكة المكرمة 24231
         coordinates: 21.4196° N, 39.8260° E
-      distance_to_haram: Directly adjacent (2–3 minute walk)
-      notes: >-
-        Premium option; multiple restaurants, spa, rooftop views; reservations months in advance
-    - name: Swissôtel Makkah
-      description: Upscale hotel connected to the Abraj Al-Bait complex
+      url: https://www.fairmont.com/en/hotels/makkah/makkah-clock-royal-tower.html
+      distance_to_haram: ملاصق مباشرة (2–3 دقائق سيراً)
+      notes: خيار متميز؛ مطاعم متعددة وسبا وإطلالة سطح الفندق؛ الحجز يُغلق قبل أشهر
+
+    - name: سويسوتيل مكة
+      description: فندق راقٍ متصل بمجمع أبراج البيت
       location:
-        address: Abraj Al-Bait, Ibrahim Al Khalil Street, Mekka
-      distance_to_haram: 2–5 minute walk
-      notes: Excellent Haram views from upper floors; buffet dining available
-    - name: Raffles Makkah Palace
-      description: Ultra-luxury hotel in the Abraj Al-Bait with palatial suites
+        address: أبراج البيت، شارع إبراهيم الخليل، مكة المكرمة
+      url: https://www.swissotel.com/hotels/makkah
+      distance_to_haram: دقيقتان إلى خمس دقائق سيراً
+      notes: إطلالات ممتازة على الحرم من الطوابق العليا؛ بوفيه إفطار متاح
+
+    - name: رافلز مكة بالاس
+      description: فندق فائق الفخامة في أبراج البيت بأجنحة فارهة
       location:
-        address: Abraj Al-Bait Complex, Mekka
-      distance_to_haram: 3–5 minute walk
-      notes: Top-tier service; butler service; ideal for those prioritizing comfort
-    - name: Hilton Suites Makkah
-      description: Well-known 5-star hotel close to the Grand Mosque
+        address: مجمع أبراج البيت، مكة المكرمة
+      url: https://www.raffles.com/makkah
+      distance_to_haram: ثلاث إلى خمس دقائق سيراً
+      notes: خدمة على أعلى مستوى؛ خدمة كونسيرج؛ مثالي لمن يُقدّم الراحة الفائقة
+
+    - name: هيلتون سويتس مكة
+      description: فندق خمس نجوم مشهور قريب من المسجد الحرام
       location:
-        address: Ibrahim Al Khalil Street, Al Haram district, Mekka
+        address: شارع إبراهيم الخليل، منطقة الحرم، مكة المكرمة
         coordinates: 21.4197° N, 39.8253° E
-      distance_to_haram: 5 minute walk
-      notes: Spacious suites; strong reputation for Hajj and Umrah groups
-    - name: Pullman ZamZam Makkah
-      description: Premium hotel offering Kaaba views and Haram proximity
+      url: https://www.hilton.com/en/hotels/maksuhi-hilton-suites-jabal-omar-makkah
+      distance_to_haram: خمس دقائق سيراً
+      notes: أجنحة فسيحة؛ سمعة طيبة بين مجموعات الحج والعمرة
+
+    - name: بولمان زمزم مكة
+      description: فندق متميز يوفر إطلالات على الكعبة وقرب من الحرم
       location:
-        address: Ajyad Street, Al Haram district, Mekka
-      distance_to_haram: 5–7 minute walk
-      notes: Part of the Accor group; known for good service and comfortable rooms
-    - name: Le Méridien Towers Makkah
-      description: Twin-tower hotel in the Ajyad area with excellent dining
+        address: شارع أجياد، منطقة الحرم، مكة المكرمة
+      url: https://www.pullman-zamzam-makkah.com
+      distance_to_haram: خمس إلى سبع دقائق سيراً
+      notes: تابع لمجموعة أكور؛ معروف بالخدمة الجيدة والغرف المريحة
+
+    - name: لو ميريديان تاورز مكة
+      description: فندق ذو برجين في منطقة أجياد مع مطاعم ممتازة
       location:
-        address: Ajyad Street, Al Haram district, Mekka
-      distance_to_haram: 7–10 minute walk
-      notes: Popular with families and large groups; Al Nafoura restaurant on site
-    - name: InterContinental Makkah
-      description: Established 5-star hotel with conference facilities and Haram access
+        address: شارع أجياد، منطقة الحرم، مكة المكرمة
+      url: https://www.marriott.com/en-us/hotels/jedmk-le-meridien-towers-makkah/overview
+      distance_to_haram: سبع إلى عشر دقائق سيراً
+      notes: مفضل لدى العائلات والمجموعات الكبيرة؛ مطعم النافورة في الموقع
+
+    - name: إنتركونتيننتال مكة
+      description: فندق خمس نجوم راسخ السمعة يوفر قاعات مؤتمرات وسهولة وصول للحرم
       location:
-        address: King Abdulaziz Road, Al Haram district, Mekka
-      distance_to_haram: 10–15 minute walk
-      notes: Good for larger group bookings; shuttle service to the mosque available
+        address: طريق الملك عبدالعزيز، منطقة الحرم، مكة المكرمة
+      url: https://www.ihg.com/intercontinental/hotels/us/en/makkah/qcahd/hoteldetail
+      distance_to_haram: عشر إلى خمس عشرة دقيقة سيراً
+      notes: مناسب لحجوزات المجموعات الكبيرة؛ خدمة مكوك للمسجد متاحة
+
   transportation:
-    description: Getting around Mekka during your stay
+    description: التنقل داخل مكة المكرمة خلال إقامتك
     items:
-    - name: Mekka Metro (Mashaaer Railway)
-      description: Metro line connecting Masjid al-Haram, Mina, Muzdalifah, and Arafat
+    - name: مترو مكة (قطار المشاعر)
+      description: خط مترو يربط المسجد الحرام بمنى ومزدلفة وعرفات
       location:
         stations:
-        - King Abdulaziz Station (Masjid al-Haram)
-        - Mina Station
-        - Muzdalifah Station
-        - Arafat Station
-      notes: Operates mainly during Hajj season; alleviates congestion on pilgrimage routes
-    - name: Uber / Careem
-      description: Ride-hailing apps widely used in Mekka for point-to-point travel
-      notes: >-
-        Available year-round; surge pricing common during prayer times and Hajj; book in advance
-    - name: Mekka Bus Service (Saptco)
-      description: Public bus network covering key areas in Mekka
+        - محطة الملك عبدالعزيز (المسجد الحرام)
+        - محطة منى
+        - محطة مزدلفة
+        - محطة عرفات
+      notes: يعمل أساساً في موسم الحج؛ يُخفف الاختناقات المرورية على طرق الشعائر
+
+    - name: أوبر وكريم
+      description: تطبيقا طلب السيارات الأكثر استخداماً في مكة المكرمة
+      url_uber: https://www.uber.com/sa/en
+      url_careem: https://www.careem.com
+      notes: متاحان على مدار العام؛ ترتفع الأسعار في أوقات الصلاة والحج؛ الحجز المسبق مُستحسن
+
+    - name: حافلات مكة (سابتكو)
+      description: شبكة حافلات عامة تغطي المناطق الرئيسية في مكة المكرمة
       location:
         key_routes:
-        - Al Haram ↔ Tan'eem (Masjid Aisha)
-        - Al Haram ↔ Jabal al-Nour
-        - Al Haram ↔ Al-Aziziyah
-      notes: Affordable; AC buses; Mada card (contactless payment) accepted
-    - name: Taxis
-      description: Metered and non-metered taxis available throughout Mekka
-      notes: >-
-        Agree on fare before starting; licensed yellow taxis preferred over informal options
+        - الحرم ↔ التنعيم (مسجد السيدة عائشة)
+        - الحرم ↔ جبل النور
+        - الحرم ↔ العزيزية
+      url: https://saptco.com.sa/en
+      notes: اقتصادية؛ حافلات مكيفة؛ تقبل بطاقة مدى (الدفع اللاتلامسي)
+
+    - name: سيارات الأجرة
+      description: تاكسيات بعداد وبدون عداد متاحة في أنحاء مكة المكرمة
+      notes: اتفق على الأجرة قبل الانطلاق؛ التاكسيات الصفراء المرخصة أفضل من غيرها
+
   practical_resources:
     description: >
-      Essential practical information for a safe, organized, and spiritually fulfilling visit to Mekka — emergency contacts,
-      apps, visa guidance, and packing essentials.
+      معلومات عملية أساسية لزيارة آمنة ومنظمة وممتعة روحياً لمكة المكرمة — أرقام الطوارئ
+      والتطبيقات وإرشادات التأشيرة وقائمة المستلزمات.
     items:
-    - name: Emergency Contacts
-      description: Key emergency numbers and medical facilities in Mekka.
+    - name: أرقام الطوارئ
+      description: الأرقام الطارئة الرئيسية والمرافق الطبية في مكة المكرمة.
       contacts:
-      - service: Saudi Emergency (Police / Ambulance / Fire)
+      - service: الطوارئ السعودية (شرطة / إسعاف / إطفاء)
         number: '911'
-      - service: Saudi Red Crescent (Ambulance)
+      - service: الهلال الأحمر السعودي (إسعاف)
         number: '997'
-      - service: Hajj Ministry Emergency Line
+      - service: خط طوارئ وزارة الحج
         number: '920002814'
       hospitals:
-      - name: King Abdullah Medical Complex (KAMC)
-        area: Al Haram district, Mekka
-        notes: Largest hospital in Mekka; 24/7 emergency; free care for Hajj pilgrims
-      - name: Al-Noor Specialist Hospital
-        area: Al-Aziziyah Road, Mekka
-        notes: Full specialist services; English-speaking staff available
-      - name: King Faisal Hospital
-        area: Al-Zaher district, Mekka
-        notes: General hospital with well-equipped A&E
-    - name: Essential Apps for Pilgrims
-      description: >-
-        Smartphone applications that enhance safety, navigation, and spiritual experience.
+      - name: مجمع الملك عبدالله الطبي (KAMC)
+        area: منطقة الحرم، مكة المكرمة
+        url: https://kamc.med.sa/en
+        notes: أكبر مستشفى في مكة؛ طوارئ 24 ساعة؛ علاج مجاني لحجاج بيت الله
+      - name: مستشفى النور التخصصي
+        area: طريق العزيزية، مكة المكرمة
+        notes: خدمات تخصصية متكاملة؛ كادر طبي يتحدث الإنجليزية
+      - name: مستشفى الملك فيصل
+        area: حي الزاهر، مكة المكرمة
+        notes: مستشفى عام مجهز بقسم طوارئ متكامل
+
+    - name: التطبيقات الأساسية للحجاج
+      description: تطبيقات ذكية تُعزز السلامة والتنقل وتجربة العبادة.
       apps:
-      - name: Nusuk (نسك)
-        developer: Saudi Ministry of Hajj and Umrah
+      - name: نسك
+        developer: وزارة الحج والعمرة السعودية
+        url: https://www.nusuk.sa
         platforms:
         - iOS
         - Android
         features:
-        - Official Hajj and Umrah registration and permits
-        - Real-time crowd density maps for Masjid al-Haram
-        - Prayer times and Qibla direction
-        - Lost pilgrim reporting
-        notes: Mandatory for Hajj pilgrims; highly recommended for Umrah visitors
-      - name: Careem / Uber
+        - تسجيل الحج والعمرة الرسمي والتصاريح
+        - خرائط كثافة الحشود في الوقت الفعلي بالمسجد الحرام
+        - مواقيت الصلاة واتجاه القبلة
+        - الإبلاغ عن الحجاج المفقودين
+        notes: إلزامي لحجاج بيت الله؛ موصى به بشدة لمعتمري بيت الله
+
+      - name: كريم وأوبر
+        url_careem: https://www.careem.com
+        url_uber: https://www.uber.com/sa/en
         platforms:
         - iOS
         - Android
         features:
-        - Ride-hailing across Mekka and surrounding areas
-        - Advance booking available
-        notes: Careem is locally dominant; surge pricing during prayer times and Hajj
-      - name: Muslim Pro
+        - طلب سيارات في مكة والمناطق المحيطة
+        - إمكانية الحجز المسبق
+        notes: كريم الأكثر انتشاراً محلياً؛ ترتفع الأسعار في أوقات الصلاة والحج
+
+      - name: مسلم برو
+        url: https://www.muslimpro.com
         platforms:
         - iOS
         - Android
         features:
-        - Accurate prayer times for Mekka
-        - Quran with translations and audio recitation
-        - Adhkar (daily remembrances) tracker
-      - name: Google Maps / Apple Maps
+        - مواقيت صلاة دقيقة لمكة المكرمة
+        - القرآن الكريم مع ترجمات وتلاوات صوتية
+        - متابع أذكار يومية
+
+      - name: خرائط جوجل / خرائط آبل
         platforms:
         - iOS
         - Android
         features:
-        - Navigation within Mekka (good coverage)
-        - Download offline maps before arrival
-        notes: Walking coverage inside Masjid al-Haram is limited
-    - name: Visa and Entry Requirements
+        - التنقل داخل مكة المكرمة (تغطية جيدة)
+        - تحميل خرائط بدون إنترنت قبل الوصول
+        notes: تغطية المشي داخل المسجد الحرام محدودة
+
+    - name: التأشيرة ومتطلبات الدخول
       description: >
-        Saudi Arabia requires specific visas for Hajj and Umrah pilgrims. Always verify with the official Saudi Hajj Ministry
-        before booking.
+        تستلزم المملكة العربية السعودية تأشيرات خاصة لحجاج الحج والعمرة. تحقق دائماً من البوابة الرسمية
+        لوزارة الحج قبل الحجز.
       visa_types:
-      - type: Hajj Visa
-        eligibility: Muslim pilgrims with approved national Hajj quota
-        apply_via: Your country's official Hajj mission or authorized Hajj operator
-        notes: Strictly for Hajj season; non-Muslim visitors are not permitted in Mekka
-      - type: Umrah Visa
-        eligibility: Muslim pilgrims; some nationalities via e-visa
-        validity: Up to 90 days; multiple-entry options available
-        apply_via: Saudi e-visa portal or licensed Umrah operators
-        notes: Many nationalities can now obtain the e-visa online; covers Mekka and Medina
-      - type: Saudi Tourist Visa (Non-Muslim)
-        eligibility: Nationals from eligible countries
-        notes: Non-Muslims may NOT enter Mekka city; covers all other Saudi destinations
-      notes: Always carry printed copies of all documents in addition to digital copies
-    - name: Ihram and Pilgrim Essentials Checklist
-      description: Practical packing guide for Hajj and Umrah.
+      - type: تأشيرة الحج
+        eligibility: حجاج مسلمون ضمن الحصة الوطنية المعتمدة
+        apply_via: بعثة الحج الرسمية في بلدك أو وكيل حج مرخص
+        notes: خاصة بموسم الحج؛ غير المسلمين ممنوعون من دخول مكة
+      - type: تأشيرة العمرة
+        eligibility: حجاج مسلمون؛ بعض الجنسيات عبر التأشيرة الإلكترونية
+        validity: حتى 90 يوماً؛ خيارات دخول متعددة متاحة
+        apply_via: بوابة التأشيرة الإلكترونية السعودية أو وكلاء عمرة مرخصون
+        url: https://visa.visitsaudi.com
+        notes: كثير من الجنسيات تستطيع الحصول عليها إلكترونياً؛ تشمل مكة والمدينة
+      - type: التأشيرة السياحية السعودية (لغير المسلمين)
+        eligibility: مواطنو الدول المؤهلة
+        notes: غير المسلمين لا يُسمح لهم بدخول مكة المكرمة؛ تشمل سائر المناطق السعودية
+      notes: احتفظ دائماً بنسخ ورقية من جميع الوثائق إضافةً إلى النسخ الرقمية
+
+    - name: قائمة مستلزمات الإحرام والحاج
+      description: دليل عملي لتجهيز حقيبة الحج والعمرة.
       ihram_requirements:
         men:
-        - Two pieces of unstitched white cloth (Rida and Izar)
-        - Sandals (no covered heels in Ihram)
+        - قطعتان من القماش الأبيض غير المخيط (الرداء والإزار)
+        - صندل (بدون تغطية الكعب في الإحرام)
         women:
-        - Modest, loose, full-coverage clothing (any color; face and hands uncovered)
-        - Comfortable walking shoes
+        - ملابس محتشمة فضفاضة كاملة التغطية (أي لون؛ الوجه والكفان مكشوفان)
+        - حذاء مريح للمشي
       recommended_items:
-      - Zamzam water carry bottle (stainless steel or BPA-free)
-      - Compact prayer mat
-      - Sunscreen (SPF 50+)
-      - Electrolyte sachets (ORS)
-      - Blister plasters and comfortable walking shoes
-      - Small first aid kit
-      - Prescription medications (carry doctor's letter in Arabic and English)
-      - Portable phone charger / power bank
-      - Small LED torch (useful in Mina tent city)
-      - Hajj/Umrah journal for recording duas and reflections
-      notes: >-
-        All items available near Masjid al-Haram if forgotten; Ihram cloth sold at Miqat stations
+      - زجاجة ماء زمزم قابلة للحمل (من الفولاذ المقاوم للصدأ أو خالية من BPA)
+      - سجادة صلاة مدمجة
+      - كريم واقٍ من الشمس (SPF 50+)
+      - أكياس الأملاح والمعادن (ORS)
+      - لاصقات البثور وحذاء مريح للمشي
+      - حقيبة إسعافات أولية صغيرة
+      - أدوية موصوفة (مع رسالة طبية بالعربية والإنجليزية)
+      - شاحن هاتف محمول / بطارية احتياطية
+      - مصباح LED صغير (مفيد في مدينة خيام منى)
+      - مفكرة حج وعمرة لتسجيل الأدعية والتأملات
+      notes: جميع المستلزمات متاحة قرب المسجد الحرام عند النسيان؛ ثياب الإحرام تُباع في محطات الميقات
