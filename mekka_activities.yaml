@@ -1519,6 +1519,117 @@ activities:
           Al-Hada cable car offers elevated framing unavailable from the road;
           spring months (March–April) add rose blooms to the valley foreground
 
+      - name: Masjid al-Haram Rooftop and Upper Floors
+        description: >
+          The expansive rooftop of the Grand Mosque offers a unique elevated perspective —
+          an open-air prayer space with direct views of the Kaaba below and the city skyline
+          surrounding the mosque. Particularly beautiful at Fajr as dawn light illuminates the Kaaba.
+        location:
+          name: Masjid al-Haram Rooftop
+          area: Accessible via escalators from multiple gates
+        best_time: "Fajr prayer (dawn light) and after Isha for illuminated Kaaba"
+        notes: Bring a prayer mat; photography policy within the mosque should be respected
+
+      - name: Jabal Abu Qubays Summit
+        description: >
+          The historic mountain directly east of Masjid al-Haram — according to tradition,
+          the first mountain created on earth. The summit provides a close elevated aerial
+          view of the Grand Mosque and Kaaba, unique for its proximity and angle.
+        location:
+          name: Jabal Abu Qubays
+          area: Directly east of Masjid al-Haram, Al Haram district
+          coordinates: "21.4234° N, 39.8301° E"
+        best_time: "Early morning (Fajr to sunrise) for dramatic light over the mosque"
+        notes: Short but steep climb; partially developed path; check current access before visiting
+
+      - name: Bab al-Malik Fahd (King Fahd Gate) Forecourt
+        description: >
+          The grand ceremonial forecourt of Masjid al-Haram's King Fahd Gate offers a
+          sweeping perspective of the mosque facade, its minarets, and the Abraj Al-Bait
+          towers — a classic composition of old and new Mekka together.
+        location:
+          name: King Fahd Gate (Gate 79)
+          area: Northern face of Masjid al-Haram, Al Haram district
+        best_time: "Blue hour (just before dawn) or evening after Isha prayer"
+        notes: Wide-angle lens recommended; respect worshippers moving toward prayers
+
+      - name: King Fahd Road at Night
+        description: >
+          The main boulevard of Mekka illuminated at night — the Clock Tower lit in blue
+          and gold, mosque minarets glowing, and the constant movement of pilgrims creating
+          a unique atmosphere for street photography.
+        location:
+          name: Ibrahim Al Khalil Street (King Fahd Road)
+          area: Al Haram district, Mekka
+        best_time: "After Isha prayer (late evening)"
+        notes: >
+          Tripod or phone stabilizer recommended for night photography;
+          the illuminated Clock Tower is best framed from the mosque courtyards
+
+      - name: Kaaba Sunrise and Sunset Photography
+        description: >
+          Photographing the Kaaba in morning light or the golden hour glow — from upper
+          floors of Masjid al-Haram, hotel room views in the Abraj Al-Bait complex,
+          or the mosque rooftop areas accessible via upper gates.
+        best_locations:
+          - "Fairmont and Swissôtel Clock Tower upper floors facing the Haram"
+          - "Mosque rooftop areas accessible via upper gates"
+          - "Masjid al-Haram upper gallery levels"
+        best_times: "30 minutes after Fajr (soft pink light); 30 minutes before Maghrib (golden hour)"
+        notes: >
+          Hotel rooms facing the Haram in the Abraj Al-Bait towers offer the most
+          consistent access; these rooms book out months in advance during Hajj and Ramadan
+
+      - name: Jannat al-Mu'alla at Dusk
+        description: >
+          The ancient cemetery at dusk, with the illuminated Abraj Al-Bait towers rising
+          behind it — a striking contrast of old and new Mekka that makes for a powerful
+          photographic and reflective scene.
+        location:
+          name: Jannat al-Mu'alla (Al-Hajoon Cemetery)
+          area: Al-Mu'alla district, few hundred meters from Masjid al-Haram
+          coordinates: "21.4331° N, 39.8283° E"
+        best_time: "30 minutes before and after Maghrib prayer (blue hour)"
+        notes: Photography from the exterior road; enter with extreme quiet and reverence — active cemetery
+
+      - name: Tan'eem and Masjid Aisha Sunset Framing
+        description: >
+          The road between Tan'eem and the city center offers clear sightlines toward
+          Masjid al-Haram at sunset — the mosque illuminated against a red Hejaz sky.
+          Less photographed and more atmospheric than central locations.
+        location:
+          name: Al-Hijrah Road, Tan'eem, Mekka
+          area: 7.5 km from Masjid al-Haram
+        best_time: "30 minutes before Maghrib"
+        notes: Car or taxi needed; open desert terrain allows wide compositional framing
+
+      - name: Wadi Ibrahim Valley View
+        description: >
+          Mekka sits in the valley of Wadi Ibrahim — viewing the city from surrounding
+          hillside roads offers a dramatic perspective of the mosque complex nestled among
+          the mountains of the Hejaz. Popular among locals for evening drives.
+        location:
+          area: Ring roads on hills surrounding central Mekka
+          best_viewpoints:
+            - Al-Falaq Hill area — southern approach
+            - Ajyad Fortress hill (historical ruins viewpoint)
+            - Northern approach road via Al-Nour direction
+        notes: >
+          Best at sunset and evening twilight; accessible by taxi with a scenic request;
+          combine with Jabal al-Nour visit for an extended sightseeing half-day
+
+      - name: Muzdalifah Open Plain (Hajj Season)
+        description: >
+          During the night of 9th–10th Dhul Hijjah, Muzdalifah fills with millions of pilgrims
+          under the open sky — one of the most visually powerful gatherings on earth. The Milky
+          Way is often visible above a sea of white Ihram garments.
+        location:
+          name: Muzdalifah plain
+          area: Between Arafat and Mina
+          coordinates: "21.3797° N, 39.9358° E"
+        best_time: "Midnight to pre-Fajr hours during Hajj"
+        notes: Hajj pilgrims only; wide-angle or smartphone astrophotography works well here
+
   volunteer_and_service:
     description: >
       Opportunities to give back and serve the global Muslim community during your time
@@ -1632,6 +1743,59 @@ activities:
           Language skills are the most valuable asset in this role; Malay, Urdu,
           Bengali, Turkish, Indonesian, Hausa, and Swahili speakers are particularly needed
 
+      - name: Assisting Elderly and Disabled Pilgrims
+        description: >
+          Providing direct physical and logistical support to elderly or mobility-impaired
+          pilgrims during Tawaf, Sa'i, and movement between ritual sites — pushing wheelchairs,
+          guiding steps, carrying belongings, and offering companionship.
+        businesses:
+          - name: Saudi Ministry of Hajj Wheelchair Service
+            area: Masjid al-Haram — wheelchair stations at main gates
+            notes: Registered volunteers join the official wheelchair service during Hajj and Umrah seasons
+          - name: Islamic Relief (Mekka operations)
+            area: Al Haram district, Mekka
+            notes: International charity with Hajj support volunteers; contact well in advance
+        notes: >
+          Deeply rewarding; no formal medical training needed; physical fitness essential;
+          fluency in the pilgrim's language makes the experience far more impactful
+
+      - name: Donating to Quran Distribution Projects
+        description: >
+          Contributing to or volunteering with organizations that distribute free Quran
+          copies to pilgrims in dozens of languages — an act of Sadaqah Jariyah (ongoing charity).
+        businesses:
+          - name: King Fahd Complex for the Printing of the Holy Quran
+            area: Medina (70 km — day trip or donation by transfer)
+            notes: World's largest Quran printing facility; over 300 million copies distributed to date
+          - name: Quran desks at Masjid al-Haram information points
+            area: Throughout Masjid al-Haram
+            notes: Free Qurans in multiple languages; volunteers help distribute and manage stock
+        notes: A deeply rewarding form of ongoing Sadaqah Jariyah (perpetual charity)
+
+      - name: Sadaqah at Zamzam Distribution Points
+        description: >
+          Donating to the free Zamzam water distribution initiatives that provide
+          chilled water 24/7 to pilgrims throughout the mosque — funding refrigeration
+          and distribution infrastructure.
+        location:
+          name: Al-Rajhi Charity Foundation collection points
+          area: Masjid al-Haram entrances and corridor stations
+        notes: Collection boxes located near Zamzam coolers and at mosque entrances
+
+      - name: Hajj First Aid and Crowd Safety Support
+        description: >
+          Medical and first aid volunteers supporting pilgrims during Hajj — assisting
+          with heat exhaustion, lost pilgrims, mobility support, and emergency coordination.
+          Requires a relevant health or safety background.
+        how_to_join: >
+          Apply through the Saudi Red Crescent Authority (SRCA) Hajj volunteer program;
+          medical qualifications verified at application; training provided prior to Hajj
+        location:
+          name: Mina, Arafat, Muzdalifah, and Masjid al-Haram
+          area: Hajj circuit, Mekka governorate
+        notes: >
+          Physically demanding but deeply meaningful; SRCA volunteer certificate issued on completion
+
   day_trips:
     description: >
       Popular day-trip destinations reachable from Mekka within 1–2 hours,
@@ -1717,6 +1881,85 @@ activities:
         notes: >
           Best combined with a Medina trip; respectful modest dress required;
           guided tours available from Mekka and Medina
+
+      - name: Miqat Stations Tour
+        description: >
+          A guided journey visiting the boundary points (Miqat) that mark the sacred
+          limits of the Haram — historically significant for pilgrims and Islamic geography.
+        highlights:
+          - Masjid Aisha (Tan'eem) — 7.5 km north; closest Miqat for those already in Mekka
+          - Masjid Al-Ji'ranah — where the Prophet distributed Hunayn spoils and entered Ihram
+          - Qarn al-Manazil (Al-Sayl Al-Kabir) — 75 km east; Miqat for pilgrims from Najd
+          - Al-Juhfah (near Rabigh) — 180 km northwest; Miqat for pilgrims from Syria/Egypt direction
+        duration: "Half-day (Tan'eem and Ji'ranah) to full day (outer Miqat stations)"
+        notes: >
+          Excellent for deepening understanding of Islamic geography and Hajj jurisprudence;
+          many pilgrims make an additional Umrah from Masjid Ji'ranah following the Prophet's Sunnah
+
+      - name: Wadi-e-Nakhla (Valley of Palms)
+        description: >
+          A lush valley just outside Mekka historically significant as where the Prophet (PBUH)
+          encountered the group of jinn who embraced Islam (referenced in Surah Al-Jinn 72).
+          A scenic natural and spiritually meaningful excursion.
+        location:
+          name: Wadi Nakhla
+          area: Northeast of Mekka, approx. 20 km from city center
+        duration: 2–3 hours
+        notes: >
+          Accessible by taxi or private car; serene natural environment;
+          best visited in cooler months (October–March)
+
+      - name: Wadi Bahra and Wadi Na'man Excursion
+        description: >
+          Scenic desert valley systems northeast of Mekka offering geological formations,
+          natural rock pools (seasonal), ancient agricultural terraces, and Bedouin heritage sites.
+        location:
+          area: Northeast of Mekka, 20–40 km from city center
+        businesses:
+          - name: Makkah Desert Safari Co. (valley excursions)
+            area: Eastern desert outskirts of Mekka
+            notes: Half-day wadi hikes combined with Bedouin lunch; vehicle transport included
+        difficulty: easy to moderate
+        duration: Half-day (3–5 hours)
+        notes: Best after winter rains (December–February); bring plenty of water and sun protection
+
+      - name: Souq Okaz (Seasonal Heritage Festival)
+        description: >
+          Revival of the ancient pre-Islamic and early Islamic market-fair near Taif where Arab
+          poets, traders, and tribal leaders gathered. Now a major annual cultural festival
+          organized by the Saudi Ministry of Culture — featuring live poetry competitions,
+          theatrical performances, traditional crafts, and Arabian horse shows.
+        location:
+          name: Souq Okaz Festival Grounds
+          area: Approx. 30 km northeast of Taif (110 km from Mekka)
+        season: "Annually (typically July–August; check Saudi Tourism Authority for exact dates)"
+        duration: Full day
+        notes: Unique window into classical Arabian civilization; one of the most atmospheric events in the region
+
+      - name: Wadi Al-Noman
+        description: >
+          A scenic valley northeast of Mekka mentioned in Islamic poetry and narrations,
+          historically associated with the spread of early Islam. Rocky desert scenery
+          with ancient agricultural terracing.
+        location:
+          area: Northeast of Mekka, approx. 30 km
+          coordinates: "21.5200° N, 39.9500° E"
+        duration: Half-day
+        notes: Best in cooler months (November–March); no formal facilities; 4x4 recommended
+
+      - name: Al-Ukhdood Historical Site (Najran)
+        description: >
+          A longer excursion to Al-Ukhdood (Najran) — a UNESCO-nominated ancient city
+          mentioned in the Quran (Surah al-Buruj 85). Includes pre-Islamic rock inscriptions,
+          Himyarite ruins, and the site of the Companions of the Trench.
+        location:
+          name: Al-Ukhdood Archaeological Site
+          area: Najran, Southern Saudi Arabia
+          distance_from_mekka: "700 km (approx. 7 hours by road or 1.5 hours by flight)"
+        duration: "2-day trip minimum"
+        notes: >
+          For history enthusiasts; Saudia and flynas operate Jeddah–Najran flights;
+          combine with Najran Museum for full context
 
   ramadan_activities:
     description: >
@@ -1807,6 +2050,19 @@ activities:
             area: Jeddah Corniche (80 km)
             notes: Large outdoor market; family-friendly; open nightly from Iftar until Fajr
         notes: Deeply festive; families stay out very late; a social highlight of the month
+
+      - name: Quran Khatm (Completion Gatherings)
+        description: >
+          Joining groups that complete a full recitation of the Quran — traditionally done
+          multiple times during Ramadan. Study circles with teachers guide daily portions
+          with correct Tajweed (recitation rules) and pronunciation.
+        location:
+          name: Masjid al-Haram — various floor sections and corridors
+          area: Al Haram district, Mekka
+        notes: >
+          Groups form organically near pillars and corridors throughout the mosque;
+          non-Arabic speakers are welcome to listen and follow along with a translation;
+          completing the Quran in Ramadan at Masjid al-Haram carries immense spiritual reward
 
   skills_craft:
     description: >
@@ -1974,6 +2230,86 @@ activities:
             area: Historic Jeddah
             notes: December–January; artisan stalls, street food, and live music; easy day trip
         notes: Follow Saudi Tourism Authority (@visitsaudi) for current annual schedules
+
+      - name: Ramadan Cultural Evenings (Layali Ramadan)
+        description: >
+          During Ramadan, Mekka and surrounding cities come alive after Iftar with poetry
+          recitations, Nasheed performances, Quran competitions, and open-air markets.
+          The spiritual atmosphere of Mekka during Ramadan is unmatched anywhere on earth.
+        recurrence: seasonal
+        season: Ramadan (dates shift annually with the Islamic calendar)
+        location:
+          areas:
+            - Masjid al-Haram courtyards and surrounding streets
+            - Abraj Al-Bait Mall public spaces
+            - Mekka Cultural Center (Dar al-Thaqafa)
+        notes: >
+          Many events are spontaneous and community-organized; major Tarawih prayers at
+          Masjid al-Haram draw millions and are themselves a profound communal event
+
+      - name: Hajj Season Open Mosque Programs
+        description: >
+          During Hajj (Dhul Hijjah), Masjid al-Haram and the surrounding district host
+          special programs for pilgrims — scholarly lectures, Quran recitation competitions,
+          Seerah exhibitions, and interfaith heritage tours.
+        recurrence: seasonal
+        season: Dhul Hijjah 1–13 (Islamic calendar)
+        location:
+          name: Masjid al-Haram and Al Haram district
+          area: Mekka
+        notes: >
+          Programs organized by the Saudi Ministry of Hajj and Umrah;
+          schedules published via the Nusuk app (official Saudi Hajj platform)
+
+      - name: Eid al-Adha Celebrations in Mekka
+        description: >
+          Eid al-Adha (10th Dhul Hijjah) coincides with the peak of Hajj. The city
+          transforms with prayers, sacrifice, family gatherings, and festive atmosphere.
+          Streets are decorated and charity flows throughout Mekka.
+        key_activities:
+          - Eid prayer at Masjid al-Haram (massive congregation)
+          - Witnessing Qurbani (animal sacrifice) distribution
+          - Visiting family and exchanging Eid greetings
+          - Charitable giving at mosque donation points
+        notes: Non-Hajj visitors are welcome to observe Eid prayers; city traffic is extremely heavy
+
+      - name: Eid al-Fitr Celebrations
+        description: >
+          The celebration marking the end of Ramadan — a day of communal prayer, family
+          visits, gift-giving, and festivity. Mekka's streets are alive with joy and the
+          city's famously warm hospitality is on full display.
+        key_activities:
+          - Eid al-Fitr prayer at Masjid al-Haram (dawn congregation)
+          - Street food and sweet stalls throughout the city
+          - Traditional Eid sweets — Maamoul, Kahk, and Luqaimat
+          - Shopping and gift-giving in Mekka's malls and markets
+        notes: Government offices and most businesses closed on Eid day; mosques and food stalls open
+
+      - name: Saudi Founding Day (February 22nd)
+        description: >
+          Celebrating the founding of the First Saudi State in 1727. Cultural events,
+          heritage exhibitions, traditional dress, and historical displays take place
+          across the country including Mekka.
+        recurrence: annual
+        season: 22 February
+        location:
+          area: Cultural centers, malls, and public spaces throughout Mekka
+        notes: Public holiday; heritage-themed exhibitions run for several days around the date
+
+      - name: Hajj Season (Dhul Hijjah 1–13) — Observer Experience
+        description: >
+          Even for non-Hajj visitors resident in Mekka, the Hajj season transforms the city
+          into the world's largest annual gathering. Witnessing millions of white-clad pilgrims
+          arriving from every nation is a singular experience of global Islamic unity.
+        key_observations:
+          - Pilgrims arriving in Ihram at city entry points and the Grand Mosque
+          - Increased scholarly lectures and Quran recitation at Masjid al-Haram
+          - International food stalls and street markets from dozens of countries
+          - The city at its most multicultural and spiritually charged atmosphere
+        notes: >
+          Non-Muslim visitors are not permitted in Mekka at any time;
+          Muslim residents not performing Hajj should avoid pilgrim routes (Mina, Arafat,
+          Muzdalifah) during Hajj days due to extreme crowd density
 
   health_and_medical_services:
     description: >
