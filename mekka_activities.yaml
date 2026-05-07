@@ -540,3 +540,195 @@ activities:
           - name: Al-Rajhi Charity Foundation donation boxes
             area: Throughout Masjid al-Haram and hotels
         notes: Sadaqah is especially rewarded in the holy city; many collection points near the mosque
+
+  arabian_heritage_sports:
+    description: >
+      Traditional Arabian sports and martial arts rooted in Islamic and Bedouin culture.
+      Most venues are in Mekka or a short drive away in Taif (75 km, cooler climate) or Jeddah (80 km).
+      Advance booking is strongly recommended for all activities.
+    items:
+      - name: Horseback Riding (Furousia)
+        description: >
+          Learning to ride Arabian horses — one of the most celebrated skills in Islamic tradition.
+          The Prophet Muhammad (PBUH) encouraged horse riding as a noble sport.
+        skill_levels: [beginner, intermediate, advanced]
+        businesses:
+          - name: Al-Furousiya Equestrian Academy
+            area: Al-Shafa, Taif (approx. 75 km from Mekka)
+            notes: >
+              Offers beginner lessons, trail rides through mountain terrain, and Arabian horse
+              care workshops; cooler mountain climate makes it ideal for riding year-round
+          - name: Taif Equestrian Club
+            area: Taif city, Al-Hada district
+            notes: Affiliated with the Saudi Equestrian Federation; group and private lessons available
+          - name: Jeddah Equestrian Club
+            area: Al-Andalus district, Jeddah (80 km from Mekka)
+            address: King Abdulaziz Road, Jeddah
+            notes: >
+              One of the oldest equestrian clubs in the region; hosts competitions and offers
+              riding lessons for all ages; short drive from Mekka
+        duration: 1–3 hours per session
+        notes: >
+          Wear long trousers and closed shoes; helmets provided; book lessons at least a week ahead
+          during Hajj season as availability is limited
+
+      - name: Arabian Sword Fighting (Al-Furusiyya al-Harbiyya)
+        description: >
+          Traditional Arabian sword combat techniques derived from Islamic martial heritage.
+          Includes Al-Ardah (ceremonial sword dance), single-sword drills, and paired sparring
+          forms used historically by Arabian warriors.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Saudi Heritage Commission Cultural Centers
+            area: Mekka and Jeddah branches
+            notes: >
+              Run workshops on Al-Ardah (the traditional Saudi sword and dance performance);
+              contact the Heritage Commission (Al-Turath) for scheduled public sessions
+          - name: Al-Makkah Cultural and Sports Club
+            area: Al-Aziziyah district, Mekka
+            notes: Occasionally hosts traditional martial arts and heritage sport workshops
+          - name: Jeddah Heritage Festival Venues
+            area: Al-Balad (Historic Jeddah), Jeddah
+            notes: >
+              Seasonal festivals feature live Al-Ardah performances and hands-on sword
+              handling demonstrations; check the Saudi Tourism Authority event calendar
+        duration: 1–2 hours per session
+        notes: >
+          Al-Ardah is a cultural performance art as much as a martial skill; wooden practice
+          swords used for beginners; traditional dress (thobe) often worn during sessions
+
+      - name: Traditional Archery (Rami / Qaws)
+        description: >
+          Islamic archery using traditional bows — explicitly encouraged in hadith
+          ("Teach your children swimming, archery, and horse riding" — reported by al-Bayhaqi).
+          Covers stance, draw, aim, and release using recurve and traditional Arabic bows.
+        skill_levels: [beginner, intermediate, advanced]
+        businesses:
+          - name: Al-Rami Archery Club
+            area: Al-Aziziyah district, Mekka
+            notes: Indoor range with traditional and modern bow options; beginner sessions available
+          - name: Saudi Archery Federation Affiliated Clubs
+            area: Jeddah and Taif (check federation website for Mekka-area affiliates)
+            notes: Certified coaching; equipment rental included for beginners
+          - name: Taif Sports City Archery Range
+            area: Taif Sports City, Taif
+            notes: Outdoor range with longer distances; suitable for intermediate and advanced archers
+        duration: 1–2 hours per session
+        equipment_provided: true
+        notes: >
+          No prior experience needed to start; closed-toe shoes required;
+          traditional thumb ring (Zihgir) used in Islamic archery style
+
+      - name: Camel Riding
+        description: >
+          Riding the "Ship of the Desert" — an iconic Bedouin experience and deeply
+          symbolic animal in Islamic culture. Includes mounting, basic steering, and short trail rides.
+        skill_levels: [beginner]
+        businesses:
+          - name: Al-Badia Camel Farm
+            area: Outskirts of Mekka, Al-Badia district
+            notes: Guided camel rides on desert trails; photography sessions available
+          - name: Desert Safari Makkah (various operators)
+            area: Eastern desert outskirts of Mekka
+            notes: >
+              Half-day packages combining camel riding, dune driving, and traditional Bedouin
+              tent hospitality; bookable through local tour agencies
+          - name: Taif Camel Experience
+            area: Al-Hada, Taif
+            notes: Scenic mountain-area camel rides; cooler and more comfortable than desert rides
+        duration: 30 minutes – 2 hours
+        notes: >
+          Wear modest, comfortable clothing; camels kneel for mounting;
+          guides assist first-time riders; best experienced early morning or near sunset
+
+      - name: Falconry (Al-Saqr)
+        description: >
+          The ancient Arabian art of training and flying falcons for hunting — a UNESCO
+          Intangible Cultural Heritage practice. Includes handling, perch training, and
+          short free-flight sessions with trained birds.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Saudi Falconry Club (Jeddah)
+            area: Jeddah, approx. 80 km from Mekka
+            notes: >
+              Offers introductory falconry sessions; trained Saker and Peregrine falcons;
+              handlers guide beginners through glove work and lure flying
+          - name: Al-Saqr Heritage Falconry Center
+            area: Taif outskirts
+            notes: >
+              Combines falconry demonstration with Bedouin cultural experience;
+              group sessions and private bookings available
+          - name: King Abdulaziz Falconry Festival (seasonal)
+            area: Varies (Riyadh-based main event; regional events in Mekka/Taif area)
+            notes: >
+              Annual national festival with competitions, exhibitions, and public
+              demonstrations; check Saudi Falconry Association for dates and locations
+        duration: 1–3 hours
+        notes: >
+          Thick leather glove provided; long sleeves recommended; patience required —
+          falcons respond to calm, slow movements; no loud noises near the birds
+
+      - name: Traditional Wrestling (Al-Musaraa)
+        description: >
+          Classical Arabian wrestling — a ground-based grappling sport historically
+          practiced by Bedouin tribes. Focuses on balance, leverage, and controlled throws.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Al-Makkah Sports Club
+            area: Al-Aziziyah district, Mekka
+            address: King Abdulaziz Road, Al-Aziziyah, Mekka
+            notes: >
+              General sports club offering traditional and modern combat sports;
+              Al-Musaraa training sessions run by experienced coaches
+          - name: Al-Wahda Sports Club
+            area: Al-Zahir district, Mekka
+            notes: Community club with mat facilities; beginner-friendly environment
+        duration: 1–1.5 hours per session
+        notes: >
+          Wear comfortable athletic clothing; no shoes on the mat;
+          good supplementary fitness activity during pilgrimage downtime
+
+      - name: Arabian Dagger Craft (Khanjar)
+        description: >
+          Workshop learning the history, symbolism, and craftsmanship of the traditional
+          Arabian curved dagger (Khanjar / Janbiya). Includes handle carving and sheath decoration.
+        skill_levels: [beginner]
+        businesses:
+          - name: Saudi Heritage Commission Craft Workshops
+            area: Mekka Heritage Center and Jeddah Al-Balad district
+            notes: >
+              Seasonal craft workshops on traditional Arabian weaponry and jewelry;
+              contact Al-Turath (Heritage Commission) for schedule
+          - name: Souq Al-Zal Artisan Stalls
+            area: Al-Mu'alla district, Mekka
+            notes: >
+              Master craftsmen sometimes demonstrate Khanjar making; daggers and decorative
+              pieces available for purchase; not typically a hands-on lesson but worth observing
+        duration: 2–3 hours (workshop format)
+        notes: >
+          Purely craft-focused; no combat element; decorative Khanjars make meaningful souvenirs;
+          ornate versions with silver handles can be expensive but are heirloom-quality pieces
+
+      - name: Swimming and Water Sports
+        description: >
+          The Prophet Muhammad (PBUH) encouraged Muslims to learn swimming.
+          Jeddah's Red Sea coast (80 km) offers world-class diving, snorkeling,
+          and open-water swimming in warm, clear waters.
+        skill_levels: [beginner, intermediate, advanced]
+        businesses:
+          - name: Jeddah Yacht Club
+            area: Al-Kurnaysh (Corniche), Jeddah
+            address: Al-Hamra, Jeddah Corniche, Jeddah
+            notes: Swimming, kayaking, sailing; Red Sea access; day membership available
+          - name: Dive Jeddah
+            area: Al-Kurnaysh, Jeddah
+            notes: >
+              PADI-certified dive center offering beginner Discover Scuba courses and
+              guided reef dives; Red Sea coral reefs are world-renowned for biodiversity
+          - name: Al-Shallal Theme Park (indoor pool)
+            area: Corniche Road, Jeddah
+            notes: Large indoor/outdoor aquatic park; suitable for families and non-swimmers
+        duration: Half-day to full-day
+        notes: >
+          Modest swimwear required in public areas; private or segregated pools available
+          for those who prefer; Jeddah day trips easily arranged from Mekka via taxi or Careem
