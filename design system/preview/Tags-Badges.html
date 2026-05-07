@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"/>
+<title>Tags & Chips</title>
+<link rel="stylesheet" href="_card.css"/>
+<style>
+  .label { font-family: var(--font-ui); font-size: 12px; color: var(--fg-muted); letter-spacing: 0.12em; text-transform: uppercase; }
+  .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .group { font-family: var(--font-body); font-size: 12px; color: var(--fg-muted); }
+  .tag { font-family: var(--font-ui); font-size: 13px; font-weight: 500; padding: 6px 12px; border-radius: 999px; background: var(--parchment-100); color: var(--ink-800); border: 1px solid var(--border-subtle); }
+  .tag.active { background: var(--ink-900); color: var(--parchment-50); border-color: var(--ink-900); }
+  .tag.brand { background: var(--terracotta-100); color: var(--terracotta-700); border-color: var(--terracotta-300); }
+  .badge { font-family: var(--font-ui); font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 4px 10px; border-radius: 2px; }
+  .badge.event { background: var(--terracotta-500); color: #fff; }
+  .badge.live { background: var(--oasis-700); color: var(--parchment-50); }
+  .badge.new { background: var(--saffron-500); color: var(--ink-900); }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="label">Tags · Chips · Badges</div>
+  <div class="group">Category chips (filter rail)</div>
+  <div class="row">
+    <span class="tag active">الكل</span>
+    <span class="tag">مقاهٍ</span>
+    <span class="tag">مسارات</span>
+    <span class="tag">ركوب الخيل</span>
+    <span class="tag">مواقع تاريخية</span>
+    <span class="tag">ورش حرفية</span>
+    <span class="tag">روبوتات للأطفال</span>
+    <span class="tag">فعاليات</span>
+  </div>
+  <div class="group">Status badges</div>
+  <div class="row">
+    <span class="badge event">فعالية</span>
+    <span class="badge live">يبدأ اليوم</span>
+    <span class="badge new">جديد</span>
+    <span class="tag brand">مميّز</span>
+  </div>
+</div>
+</body></html>

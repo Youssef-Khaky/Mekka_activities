@@ -1,0 +1,33 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"/>
+<title>Form Inputs</title>
+<link rel="stylesheet" href="_card.css"/>
+<style>
+  .label { font-family: var(--font-ui); font-size: 12px; color: var(--fg-muted); letter-spacing: 0.12em; text-transform: uppercase; }
+  .field { display: flex; flex-direction: column; gap: 6px; }
+  .lbl { font-family: var(--font-ui); font-size: 13px; font-weight: 500; color: var(--ink-800); }
+  .input, .select { font-family: 'Noto Naskh Arabic', serif; font-size: 16px; padding: 12px 14px; border: 1px solid var(--border-default); border-radius: 2px; background: #fff; color: var(--ink-900); width: 100%; transition: border 140ms ease; }
+  .input:focus, .select:focus { outline: 2px solid var(--terracotta-500); outline-offset: 1px; border-color: var(--terracotta-500); }
+  .help { font-family: var(--font-body); font-size: 13px; color: var(--fg-secondary); }
+  .row { display: grid; grid-template-columns: 1fr 1fr; gap: 14px; }
+  .search { display: flex; align-items: center; gap: 10px; padding: 14px 18px; background: #fff; border: 1px solid var(--ink-800); border-radius: 999px; }
+  .search input { flex: 1; border: 0; outline: 0; font-family: 'Noto Naskh Arabic', serif; font-size: 16px; background: transparent; }
+  .icon { color: var(--ink-700); }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="label">Form Inputs</div>
+  <div class="search">
+    <svg class="icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.75"><circle cx="11" cy="11" r="7"/><path d="m20 20-3-3"/></svg>
+    <input type="text" placeholder="ابحث عن مكان أو فعالية في مكة…" />
+  </div>
+  <div class="row">
+    <div class="field"><div class="lbl">الفئة</div><select class="select"><option>جميع الفئات</option><option>مقاهٍ</option><option>مسارات</option></select></div>
+    <div class="field"><div class="lbl">التاريخ</div><input class="input" type="text" placeholder="الجمعة ٢٠ شوال" /></div>
+  </div>
+  <div class="field"><div class="lbl">ملاحظة للمنظّم</div><input class="input" type="text" placeholder="اكتب ملاحظتك هنا…" /><div class="help">سيتم إرسالها مع تفاصيل الحجز.</div></div>
+</div>
+</body></html>

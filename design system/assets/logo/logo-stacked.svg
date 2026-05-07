@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 220" width="480" height="220">
+  <text x="240" y="80" text-anchor="middle" font-family="Tajawal, sans-serif" font-weight="900" font-size="78" fill="#1a1612" direction="rtl">فعاليات</text>
+  <line x1="160" y1="112" x2="220" y2="112" stroke="#c97a4a" stroke-width="1"></line>
+  <line x1="260" y1="112" x2="320" y2="112" stroke="#c97a4a" stroke-width="1"></line>
+  <text x="240" y="176" text-anchor="middle" font-family="Tajawal, sans-serif" font-weight="900" font-size="64" fill="#c97a4a" direction="rtl">مكــة</text>
+  <text x="240" y="204" text-anchor="middle" font-family="Tajawal, sans-serif" font-weight="500" font-size="10" fill="#4a3f2f" letter-spacing="4">EST. ١٤٤٧ — MAKKAH</text>
+</svg>

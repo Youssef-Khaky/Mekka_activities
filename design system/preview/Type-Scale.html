@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"/>
+<title>Type Scale</title>
+<link rel="stylesheet" href="_card.css"/>
+<style>
+  .row { display: flex; gap: 16px; align-items: baseline; }
+  .label { font-family: var(--font-ui); font-size: 12px; color: var(--fg-muted); letter-spacing: 0.12em; text-transform: uppercase; }
+  .grid { display: grid; grid-template-columns: 90px 1fr 90px; gap: 12px 18px; align-items: baseline; }
+  .tag { font-family: var(--font-mono); font-size: 11px; color: var(--fg-muted); }
+  .ar { font-family: var(--font-display); color: var(--fg-primary); line-height: 1.1; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="row"><span class="label">Type Scale</span><span class="tag">px</span></div>
+  <div class="grid">
+    <div class="tag">display 88</div><div class="ar" style="font-size:64px; font-weight:700;">فعاليات</div><div class="tag">--fs-display</div>
+    <div class="tag">h1 · 64</div><div class="ar" style="font-size:48px; font-weight:700;">فعاليات</div><div class="tag">--fs-h1</div>
+    <div class="tag">h2 · 48</div><div class="ar" style="font-size:38px; font-weight:600;">فعاليات</div><div class="tag">--fs-h2</div>
+    <div class="tag">h3 · 36</div><div class="ar" style="font-size:30px; font-weight:600;">فعاليات</div><div class="tag">--fs-h3</div>
+    <div class="tag">h4 · 28</div><div class="ar" style="font-size:24px; font-weight:600; font-family:var(--font-ui);">فعاليات</div><div class="tag">--fs-h4</div>
+    <div class="tag">body · 17</div><div class="ar" style="font-size:17px; font-family:var(--font-body); font-weight:400;">رحلة في وادي إبراهيم عند الفجر</div><div class="tag">--fs-body</div>
+    <div class="tag">caption · 14</div><div class="ar" style="font-size:14px; font-family:var(--font-ui); color:var(--fg-secondary);">٣٢ مكانًا · مرتبة حسب القرب</div><div class="tag">--fs-caption</div>
+  </div>
+</div>
+</body></html>

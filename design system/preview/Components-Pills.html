@@ -1,0 +1,41 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"/>
+<title>Tags & Pills</title>
+<link rel="stylesheet" href="_card.css"/>
+<style>
+  .label { font-family: var(--font-ui); font-size: 12px; color: var(--fg-muted); letter-spacing: 0.12em; text-transform: uppercase; }
+  .row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+  .pill { font-family: var(--font-ui); font-weight: 500; font-size: 13px; line-height: 1; padding: 8px 14px; border-radius: 999px; border: 1px solid var(--border-default); background: transparent; color: var(--fg-primary); display: inline-flex; gap: 6px; align-items: center; }
+  .pill-active { background: #1a1612; color: #faf6ee; border-color: transparent; }
+  .pill-brand { background: #f4d9c8; color: #8f4a2c; border-color: transparent; }
+  .chip { font-family: var(--font-ui); font-size: 12px; padding: 4px 10px; border-radius: 2px; background: #ebe2cc; color: #4a3f2f; font-weight: 500; }
+  .group { font-family: var(--font-body); font-size: 12px; color: var(--fg-muted); }
+  .dot { width:6px; height:6px; border-radius:50%; background:#c97a4a; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="label">Pills · Tags · Categories</div>
+  <div class="group">Category rail (filter pills)</div>
+  <div class="row">
+    <span class="pill pill-active">الكل</span>
+    <span class="pill">مقاهٍ</span>
+    <span class="pill">فعاليات</span>
+    <span class="pill">مسارات</span>
+    <span class="pill">تراث</span>
+    <span class="pill">حِرف وورش</span>
+    <span class="pill">ركوب الخيل</span>
+    <span class="pill">روبوتات الأطفال</span>
+  </div>
+  <div class="group">Status & meta chips</div>
+  <div class="row">
+    <span class="chip"><span class="dot"></span> اليوم</span>
+    <span class="chip">مجاني</span>
+    <span class="chip">حجز مسبق</span>
+    <span class="chip">لكل المستويات</span>
+    <span class="pill pill-brand">جديد</span>
+  </div>
+</div>
+</body></html>
