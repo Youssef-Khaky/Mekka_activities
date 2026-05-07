@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"/>
+<title>Color — Accents & Semantic</title>
+<link rel="stylesheet" href="_card.css"/>
+<style>
+  .swatches { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+  .sw { display: flex; flex-direction: column; gap: 6px; }
+  .chip { aspect-ratio: 1.1/1; border-radius: var(--radius-sm); border: 1px solid var(--border-subtle); }
+  .name { font-family: var(--font-ui); font-size: 13px; color: var(--fg-primary); font-weight: 600; }
+  .val { font-family: var(--font-mono); font-size: 11px; color: var(--fg-muted); }
+  .row { display: flex; gap: 16px; align-items: baseline; }
+  .label { font-family: var(--font-ui); font-size: 12px; color: var(--fg-muted); letter-spacing: 0.12em; text-transform: uppercase; }
+  .group { font-family: var(--font-body); font-size: 12px; color: var(--fg-muted); margin-top: 4px; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="row"><span class="label">Accents & Semantic</span></div>
+  <div class="group">Accents — استخدمها بحذر</div>
+  <div class="swatches">
+    <div class="sw"><div class="chip" style="background:#7a9279; border-color:transparent"></div><div class="name">oasis-300</div><div class="val">#7A9279</div></div>
+    <div class="sw"><div class="chip" style="background:#3f5d3e; border-color:transparent"></div><div class="name">oasis-500</div><div class="val">#3F5D3E</div></div>
+    <div class="sw"><div class="chip" style="background:#1f3d2b; border-color:transparent"></div><div class="name">oasis-700 ★</div><div class="val">#1F3D2B</div></div>
+    <div class="sw"><div class="chip" style="background:#d4a574; border-color:transparent"></div><div class="name">saffron-400</div><div class="val">#D4A574</div></div>
+    <div class="sw"><div class="chip" style="background:#b8884a; border-color:transparent"></div><div class="name">saffron-500</div><div class="val">#B8884A</div></div>
+  </div>
+  <div class="group">Semantic states</div>
+  <div class="swatches">
+    <div class="sw"><div class="chip" style="background:#4a7a4a; border-color:transparent"></div><div class="name">success</div><div class="val">#4A7A4A</div></div>
+    <div class="sw"><div class="chip" style="background:#b8884a; border-color:transparent"></div><div class="name">warning</div><div class="val">#B8884A</div></div>
+    <div class="sw"><div class="chip" style="background:#a83a2a; border-color:transparent"></div><div class="name">danger</div><div class="val">#A83A2A</div></div>
+    <div class="sw"><div class="chip" style="background:#5a7a8a; border-color:transparent"></div><div class="name">info</div><div class="val">#5A7A8A</div></div>
+  </div>
+</div>
+</body></html>

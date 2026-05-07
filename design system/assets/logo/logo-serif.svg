@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 120" width="480" height="120">
+  
+  <text x="240" y="78" text-anchor="middle" class="arabic" font-size="64" fill="#1a1612" direction="rtl">فعاليات مكة</text>
+  <line x1="160" y1="98" x2="320" y2="98" stroke="#c97a4a" stroke-width="1.5"></line>
+  <text x="240" y="116" text-anchor="middle" font-family="IBM Plex Sans Arabic, sans-serif" font-size="11" fill="#4a3f2f" letter-spacing="3">FAALIYAT MAKKAH</text>
+</svg>

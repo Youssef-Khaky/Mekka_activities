@@ -1,0 +1,34 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"/>
+<title>Color — Neutrals</title>
+<link rel="stylesheet" href="_card.css"/>
+<style>
+  .swatches { display: grid; grid-template-columns: repeat(4, 1fr); gap: 12px; }
+  .sw { display: flex; flex-direction: column; gap: 6px; }
+  .chip { aspect-ratio: 1.1/1; border-radius: var(--radius-sm); border: 1px solid var(--border-subtle); }
+  .name { font-family: var(--font-ui); font-size: 13px; color: var(--fg-primary); font-weight: 600; }
+  .val { font-family: var(--font-mono); font-size: 11px; color: var(--fg-muted); }
+  .row { display: flex; gap: 16px; align-items: baseline; }
+  .label { font-family: var(--font-ui); font-size: 12px; color: var(--fg-muted); letter-spacing: 0.12em; text-transform: uppercase; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="row">
+    <span class="label">Neutrals · Parchment + Sand + Ink</span>
+    <span style="font-family:var(--font-body); font-size:13px; color:var(--fg-secondary);">رقّ، رمل، حبر</span>
+  </div>
+  <div class="swatches">
+    <div class="sw"><div class="chip" style="background:#faf6ee"></div><div class="name">parchment-50 ★</div><div class="val">#FAF6EE · page</div></div>
+    <div class="sw"><div class="chip" style="background:#f5efe2"></div><div class="name">parchment-100</div><div class="val">#F5EFE2</div></div>
+    <div class="sw"><div class="chip" style="background:#ebe2cc"></div><div class="name">parchment-200</div><div class="val">#EBE2CC · border</div></div>
+    <div class="sw"><div class="chip" style="background:#d9caa8"></div><div class="name">parchment-300</div><div class="val">#D9CAA8</div></div>
+    <div class="sw"><div class="chip" style="background:#c2a878; border-color:transparent"></div><div class="name">sand-400</div><div class="val">#C2A878</div></div>
+    <div class="sw"><div class="chip" style="background:#a48852; border-color:transparent"></div><div class="name">sand-500</div><div class="val">#A48852</div></div>
+    <div class="sw"><div class="chip" style="background:#4a3f2f; border-color:transparent"></div><div class="name">ink-700</div><div class="val">#4A3F2F · text-2</div></div>
+    <div class="sw"><div class="chip" style="background:#2d2620; border-color:transparent"></div><div class="name">ink-800</div><div class="val">#2D2620 · text-1</div></div>
+  </div>
+</div>
+</body></html>

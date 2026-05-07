@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"/>
+<title>Hover & Press States</title>
+<link rel="stylesheet" href="_card.css"/>
+<style>
+  .label { font-family: var(--font-ui); font-size: 12px; color: var(--fg-muted); letter-spacing: 0.12em; text-transform: uppercase; }
+  .group { font-family: var(--font-body); font-size: 12px; color: var(--fg-muted); }
+  .row { display: flex; gap: 14px; align-items: center; flex-wrap: wrap; }
+  .btn { font-family: var(--font-ui); font-size: 14px; font-weight: 500; padding: 10px 18px; border-radius: 2px; border: 0; }
+  .b1 { background: #c97a4a; color: #fff; }
+  .b2 { background: #b4623a; color: #fff; }
+  .b3 { background: #8f4a2c; color: #fff; }
+  .b4 { background: #c97a4a; color: #fff; outline: 2px solid #c97a4a; outline-offset: 2px; }
+  .label-tag { font-family: var(--font-mono); font-size: 11px; color: var(--fg-muted); }
+  .link { font-family: 'Noto Naskh Arabic', serif; font-size: 17px; color: var(--terracotta-600); }
+  .link.hover { text-decoration: underline; text-underline-offset: 3px; color: var(--terracotta-700); }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="label">Interaction States</div>
+  <div class="group">Buttons — rest → hover → press → focus</div>
+  <div class="row">
+    <div style="display:flex;flex-direction:column;gap:6px;align-items:center;"><button class="btn b1">احجز الآن</button><span class="label-tag">rest</span></div>
+    <div style="display:flex;flex-direction:column;gap:6px;align-items:center;"><button class="btn b2">احجز الآن</button><span class="label-tag">hover</span></div>
+    <div style="display:flex;flex-direction:column;gap:6px;align-items:center;"><button class="btn b3">احجز الآن</button><span class="label-tag">press</span></div>
+    <div style="display:flex;flex-direction:column;gap:6px;align-items:center;"><button class="btn b4">احجز الآن</button><span class="label-tag">focus</span></div>
+  </div>
+  <div class="group">Links</div>
+  <div class="row">
+    <span class="link">عرض جميع المقاهي</span>
+    <span class="label-tag">→</span>
+    <span class="link hover">عرض جميع المقاهي</span>
+  </div>
+  <div class="group" style="margin-top:6px;">No bouncing scale, no rotation. Color shifts only. Ease 220ms cubic-bezier(.2,.7,.2,1).</div>
+</div>
+</body></html>

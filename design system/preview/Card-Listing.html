@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"/>
+<title>Listing Card</title>
+<link rel="stylesheet" href="_card.css"/>
+<style>
+  .label { font-family: var(--font-ui); font-size: 12px; color: var(--fg-muted); letter-spacing: 0.12em; text-transform: uppercase; }
+  .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; }
+  .listing { background: #fff; border: 1px solid var(--border-subtle); border-radius: 4px; overflow: hidden; box-shadow: 0 1px 2px rgba(45,38,32,.06); }
+  .photo { aspect-ratio: 4/3; background: linear-gradient(135deg, #c97a4a, #6b3a2a); display: flex; align-items: flex-end; justify-content: flex-start; padding: 12px; position: relative; }
+  .photo.coffee { background: linear-gradient(135deg, #4a3f2f, #1a1612); }
+  .badge { font-family: var(--font-ui); font-size: 11px; font-weight: 600; letter-spacing: 0.08em; text-transform: uppercase; padding: 4px 10px; border-radius: 2px; background: var(--terracotta-500); color: #fff; }
+  .body { padding: 16px 16px 18px; }
+  .eyebrow { font-family: var(--font-ui); font-size: 12px; font-weight: 500; letter-spacing: 0.12em; color: var(--sand-500); text-transform: uppercase; }
+  .title { font-family: 'Amiri', serif; font-size: 22px; font-weight: 700; line-height: 1.2; color: var(--ink-900); margin: 6px 0 6px; }
+  .cut { font-family: 'Noto Naskh Arabic', serif; font-size: 14px; line-height: 1.6; color: var(--ink-700); }
+  .meta { font-family: var(--font-ui); font-size: 12px; color: var(--sand-500); margin-top: 12px; padding-top: 12px; border-top: 1px solid var(--border-subtle); display: flex; gap: 12px; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="label">Listing Card — Place / Event</div>
+  <div class="grid">
+    <div class="listing">
+      <div class="photo"><span class="badge">فعالية</span></div>
+      <div class="body">
+        <div class="eyebrow">ركوب الخيل</div>
+        <div class="title">رحلة فجر · وادي إبراهيم</div>
+        <div class="cut">رحلات صباحية لجميع المستويات. مرشد محلي وشاي.</div>
+        <div class="meta"><span>٢٢ كم</span><span>·</span><span>الجمعة ٥:٣٠ ص</span></div>
+      </div>
+    </div>
+    <div class="listing">
+      <div class="photo coffee"></div>
+      <div class="body">
+        <div class="eyebrow">مقاهٍ</div>
+        <div class="title">مقهى البَنّ</div>
+        <div class="cut">قهوة مختصة بحبوب يمنية. كتب، أمسيات شعرية، وحديقة داخلية.</div>
+        <div class="meta"><span>العزيزية</span><span>·</span><span>مفتوح حتى ١٢ ص</span></div>
+      </div>
+    </div>
+  </div>
+</div>
+</body></html>

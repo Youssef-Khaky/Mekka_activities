@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8"/>
+<title>Buttons</title>
+<link rel="stylesheet" href="_card.css"/>
+<style>
+  .label { font-family: var(--font-ui); font-size: 12px; color: var(--fg-muted); letter-spacing: 0.12em; text-transform: uppercase; }
+  .row { display: flex; gap: 12px; flex-wrap: wrap; align-items: center; }
+  .btn { font-family: var(--font-ui); font-weight: 500; font-size: 15px; line-height: 1; padding: 12px 20px; border-radius: 2px; border: 1px solid transparent; cursor: pointer; display: inline-flex; align-items: center; gap: 8px; transition: all 220ms cubic-bezier(.2,.7,.2,1); }
+  .btn-primary { background: #c97a4a; color: #fff; }
+  .btn-primary:hover { background: #b4623a; }
+  .btn-secondary { background: transparent; color: #1a1612; border-color: #2d2620; }
+  .btn-secondary:hover { background: #1a1612; color: #faf6ee; }
+  .btn-ghost { background: transparent; color: #4a3f2f; }
+  .btn-ghost:hover { background: #f5efe2; }
+  .btn-danger { background: transparent; color: #a83a2a; border-color: #a83a2a; }
+  .btn-pressed { background: #8f4a2c !important; color:#fff; }
+  .btn-disabled { background: #ebe2cc; color: #a48852; cursor: not-allowed; }
+  .group { font-family: var(--font-body); font-size: 12px; color: var(--fg-muted); }
+  .lg { font-size: 17px; padding: 16px 28px; }
+  .sm { font-size: 13px; padding: 8px 14px; }
+</style>
+</head>
+<body>
+<div class="card">
+  <div class="label">Buttons</div>
+  <div class="group">Primary, secondary, ghost — sizes & states</div>
+  <div class="row">
+    <button class="btn btn-primary lg">حجز الآن</button>
+    <button class="btn btn-primary">حجز الآن</button>
+    <button class="btn btn-primary sm">حجز</button>
+    <button class="btn btn-primary btn-pressed">مضغوط</button>
+    <button class="btn btn-disabled">غير متاح</button>
+  </div>
+  <div class="row">
+    <button class="btn btn-secondary">زيارة الموقع</button>
+    <button class="btn btn-ghost">شارك</button>
+    <button class="btn btn-ghost">إضافة إلى رحلتي</button>
+    <button class="btn btn-danger">إلغاء الحجز</button>
+  </div>
+</div>
+</body></html>
