@@ -1,0 +1,182 @@
+# Accommodation, transport, and practical visitor information
+
+activities:
+  accommodation:
+    description: Notable hotels and stays near Masjid al-Haram
+    items:
+    - name: Fairmont Makkah Clock Royal Tower
+      description: Luxury 5-star hotel in the iconic Clock Tower with direct views of the Kaaba
+      location:
+        address: Abraj Al-Bait Complex, Ibrahim Al Khalil Street, Mekka 24231
+        coordinates: 21.4196° N, 39.8260° E
+      distance_to_haram: Directly adjacent (2–3 minute walk)
+      notes: >-
+        Premium option; multiple restaurants, spa, rooftop views; reservations months in advance
+    - name: Swissôtel Makkah
+      description: Upscale hotel connected to the Abraj Al-Bait complex
+      location:
+        address: Abraj Al-Bait, Ibrahim Al Khalil Street, Mekka
+      distance_to_haram: 2–5 minute walk
+      notes: Excellent Haram views from upper floors; buffet dining available
+    - name: Raffles Makkah Palace
+      description: Ultra-luxury hotel in the Abraj Al-Bait with palatial suites
+      location:
+        address: Abraj Al-Bait Complex, Mekka
+      distance_to_haram: 3–5 minute walk
+      notes: Top-tier service; butler service; ideal for those prioritizing comfort
+    - name: Hilton Suites Makkah
+      description: Well-known 5-star hotel close to the Grand Mosque
+      location:
+        address: Ibrahim Al Khalil Street, Al Haram district, Mekka
+        coordinates: 21.4197° N, 39.8253° E
+      distance_to_haram: 5 minute walk
+      notes: Spacious suites; strong reputation for Hajj and Umrah groups
+    - name: Pullman ZamZam Makkah
+      description: Premium hotel offering Kaaba views and Haram proximity
+      location:
+        address: Ajyad Street, Al Haram district, Mekka
+      distance_to_haram: 5–7 minute walk
+      notes: Part of the Accor group; known for good service and comfortable rooms
+    - name: Le Méridien Towers Makkah
+      description: Twin-tower hotel in the Ajyad area with excellent dining
+      location:
+        address: Ajyad Street, Al Haram district, Mekka
+      distance_to_haram: 7–10 minute walk
+      notes: Popular with families and large groups; Al Nafoura restaurant on site
+    - name: InterContinental Makkah
+      description: Established 5-star hotel with conference facilities and Haram access
+      location:
+        address: King Abdulaziz Road, Al Haram district, Mekka
+      distance_to_haram: 10–15 minute walk
+      notes: Good for larger group bookings; shuttle service to the mosque available
+  transportation:
+    description: Getting around Mekka during your stay
+    items:
+    - name: Mekka Metro (Mashaaer Railway)
+      description: Metro line connecting Masjid al-Haram, Mina, Muzdalifah, and Arafat
+      location:
+        stations:
+        - King Abdulaziz Station (Masjid al-Haram)
+        - Mina Station
+        - Muzdalifah Station
+        - Arafat Station
+      notes: Operates mainly during Hajj season; alleviates congestion on pilgrimage routes
+    - name: Uber / Careem
+      description: Ride-hailing apps widely used in Mekka for point-to-point travel
+      notes: >-
+        Available year-round; surge pricing common during prayer times and Hajj; book in advance
+    - name: Mekka Bus Service (Saptco)
+      description: Public bus network covering key areas in Mekka
+      location:
+        key_routes:
+        - Al Haram ↔ Tan'eem (Masjid Aisha)
+        - Al Haram ↔ Jabal al-Nour
+        - Al Haram ↔ Al-Aziziyah
+      notes: Affordable; AC buses; Mada card (contactless payment) accepted
+    - name: Taxis
+      description: Metered and non-metered taxis available throughout Mekka
+      notes: >-
+        Agree on fare before starting; licensed yellow taxis preferred over informal options
+  practical_resources:
+    description: >
+      Essential practical information for a safe, organized, and spiritually fulfilling visit to Mekka — emergency contacts,
+      apps, visa guidance, and packing essentials.
+    items:
+    - name: Emergency Contacts
+      description: Key emergency numbers and medical facilities in Mekka.
+      contacts:
+      - service: Saudi Emergency (Police / Ambulance / Fire)
+        number: '911'
+      - service: Saudi Red Crescent (Ambulance)
+        number: '997'
+      - service: Hajj Ministry Emergency Line
+        number: '920002814'
+      hospitals:
+      - name: King Abdullah Medical Complex (KAMC)
+        area: Al Haram district, Mekka
+        notes: Largest hospital in Mekka; 24/7 emergency; free care for Hajj pilgrims
+      - name: Al-Noor Specialist Hospital
+        area: Al-Aziziyah Road, Mekka
+        notes: Full specialist services; English-speaking staff available
+      - name: King Faisal Hospital
+        area: Al-Zaher district, Mekka
+        notes: General hospital with well-equipped A&E
+    - name: Essential Apps for Pilgrims
+      description: >-
+        Smartphone applications that enhance safety, navigation, and spiritual experience.
+      apps:
+      - name: Nusuk (نسك)
+        developer: Saudi Ministry of Hajj and Umrah
+        platforms:
+        - iOS
+        - Android
+        features:
+        - Official Hajj and Umrah registration and permits
+        - Real-time crowd density maps for Masjid al-Haram
+        - Prayer times and Qibla direction
+        - Lost pilgrim reporting
+        notes: Mandatory for Hajj pilgrims; highly recommended for Umrah visitors
+      - name: Careem / Uber
+        platforms:
+        - iOS
+        - Android
+        features:
+        - Ride-hailing across Mekka and surrounding areas
+        - Advance booking available
+        notes: Careem is locally dominant; surge pricing during prayer times and Hajj
+      - name: Muslim Pro
+        platforms:
+        - iOS
+        - Android
+        features:
+        - Accurate prayer times for Mekka
+        - Quran with translations and audio recitation
+        - Adhkar (daily remembrances) tracker
+      - name: Google Maps / Apple Maps
+        platforms:
+        - iOS
+        - Android
+        features:
+        - Navigation within Mekka (good coverage)
+        - Download offline maps before arrival
+        notes: Walking coverage inside Masjid al-Haram is limited
+    - name: Visa and Entry Requirements
+      description: >
+        Saudi Arabia requires specific visas for Hajj and Umrah pilgrims. Always verify with the official Saudi Hajj Ministry
+        before booking.
+      visa_types:
+      - type: Hajj Visa
+        eligibility: Muslim pilgrims with approved national Hajj quota
+        apply_via: Your country's official Hajj mission or authorized Hajj operator
+        notes: Strictly for Hajj season; non-Muslim visitors are not permitted in Mekka
+      - type: Umrah Visa
+        eligibility: Muslim pilgrims; some nationalities via e-visa
+        validity: Up to 90 days; multiple-entry options available
+        apply_via: Saudi e-visa portal or licensed Umrah operators
+        notes: Many nationalities can now obtain the e-visa online; covers Mekka and Medina
+      - type: Saudi Tourist Visa (Non-Muslim)
+        eligibility: Nationals from eligible countries
+        notes: Non-Muslims may NOT enter Mekka city; covers all other Saudi destinations
+      notes: Always carry printed copies of all documents in addition to digital copies
+    - name: Ihram and Pilgrim Essentials Checklist
+      description: Practical packing guide for Hajj and Umrah.
+      ihram_requirements:
+        men:
+        - Two pieces of unstitched white cloth (Rida and Izar)
+        - Sandals (no covered heels in Ihram)
+        women:
+        - Modest, loose, full-coverage clothing (any color; face and hands uncovered)
+        - Comfortable walking shoes
+      recommended_items:
+      - Zamzam water carry bottle (stainless steel or BPA-free)
+      - Compact prayer mat
+      - Sunscreen (SPF 50+)
+      - Electrolyte sachets (ORS)
+      - Blister plasters and comfortable walking shoes
+      - Small first aid kit
+      - Prescription medications (carry doctor's letter in Arabic and English)
+      - Portable phone charger / power bank
+      - Small LED torch (useful in Mina tent city)
+      - Hajj/Umrah journal for recording duas and reflections
+      notes: >-
+        All items available near Masjid al-Haram if forgotten; Ihram cloth sold at Miqat stations

@@ -1,0 +1,229 @@
+# Food, shopping, and culinary experiences
+
+activities:
+  food_and_hospitality:
+    description: Culinary experiences and local hospitality
+    items:
+    - name: Al Baik
+      description: Iconic Saudi fast-food chain famous for crispy fried chicken and shrimp
+      location:
+        area: Multiple branches throughout Mekka
+        branches:
+        - address: Ajyad Street, near Masjid al-Haram
+        - address: Ibrahim Al Khalil Street, Al Haram
+        - address: Abraj Al-Bait Mall food court
+      notes: A must-try; expect queues; open 24 hours during Hajj and Ramadan seasons
+    - name: Al Romansiah
+      description: Popular Saudi restaurant chain serving traditional Kabsa and grills
+      location:
+        area: Multiple branches in Mekka
+        branches:
+        - address: Al-Aziziyah district, Mekka
+        - address: Al-Naseem district, Mekka
+      notes: Family-friendly seating; halal-certified; ideal for group dining
+    - name: Mataam Al Kabsa Al Asli
+      description: Traditional restaurant serving authentic Kabsa (spiced rice with meat)
+      location:
+        name: Mataam Al Kabsa Al Asli
+        area: Al-Aziziyah district, Mekka
+      notes: Affordable and popular with locals; communal table seating
+    - name: Saffron Restaurant (Fairmont Makkah)
+      description: Upscale buffet restaurant in the Fairmont Clock Tower with Kaaba views
+      location:
+        name: Fairmont Makkah Clock Royal Tower — Saffron Restaurant
+        address: Abraj Al-Bait Complex, Ibrahim Al Khalil Street, Mekka
+        floor: Level 3
+      notes: >-
+        Spectacular views of the Haram; international and Arabic cuisine; reservations recommended
+    - name: Al Nafoura (Le Méridien Towers)
+      description: All-day dining with Arabic and international buffet
+      location:
+        name: Le Méridien Towers Makkah — Al Nafoura Restaurant
+        address: Ajyad Street, Al Haram district, Mekka
+      notes: Convenient for pilgrims staying in Ajyad area; popular for Suhoor during Ramadan
+    - name: Herfy
+      description: Saudi fast-food chain offering burgers, chicken, and Arabic staples
+      location:
+        area: Multiple branches throughout Mekka
+        branches:
+        - address: Abraj Al-Bait Mall
+        - address: Al-Aziziyah district
+      notes: Budget-friendly; good for a quick meal between worship sessions
+    - name: Tandoor Express
+      description: Affordable South Asian-style restaurant popular with pilgrims
+      location:
+        name: Tandoor Express
+        area: Ajyad Street, near Masjid al-Haram, Mekka
+      notes: Popular with South Asian pilgrims; serves biryani, naan, and curries
+    - name: Nando's Makkah
+      description: Flame-grilled peri-peri chicken restaurant
+      location:
+        name: Nando's
+        address: Abraj Al-Bait Mall, Level 2, Ibrahim Al Khalil Street, Mekka
+      notes: Familiar international option; halal-certified
+    - name: Local Date Shops & Cafes
+      description: Buying and tasting various varieties of Saudi dates with Arabic coffee
+      location:
+        businesses:
+        - name: Bateel Dates Boutique
+          address: Abraj Al-Bait Mall, Mekka
+          notes: Premium Saudi dates and gourmet gifts
+        - name: Al-Madinah Date Market stalls
+          area: Souq area near Masjid al-Haram
+          notes: Fresh and dried dates in bulk; Ajwa, Medjool, Sukkari varieties
+  shopping:
+    description: Popular places to buy souvenirs, clothing, and Islamic goods
+    items:
+    - name: Abraj Al-Bait Mall (Clock Tower Mall)
+      description: Largest mall in Mekka, directly adjacent to Masjid al-Haram
+      location:
+        name: Abraj Al-Bait Mall
+        address: Ibrahim Al Khalil Street, Al Haram district, Mekka 24231
+        coordinates: 21.4196° N, 39.8262° E
+      hours: 10:00–00:00 daily (extended during Ramadan)
+      notes: >-
+        Houses Hyper Panda supermarket, Bateel, international fashion brands, and a food court
+    - name: Ajyad Mall
+      description: Mid-range mall popular with pilgrims for Islamic goods and clothing
+      location:
+        name: Ajyad Mall
+        address: Ajyad Street, Al Haram district, Mekka
+        coordinates: 21.4179° N, 39.8241° E
+      notes: >-
+        Good selection of Ihram garments, prayer items, and souvenirs at competitive prices
+    - name: Al Hijaz Mall
+      description: Shopping mall offering a mix of local and international brands
+      location:
+        name: Al Hijaz Mall
+        address: King Abdulaziz Road, Al-Aziziyah, Mekka
+      notes: Less crowded than Abraj Al-Bait; good for clothing and electronics
+    - name: Souq Al-Zal
+      description: Traditional open-air market for antiques, local handicrafts, and vintage items
+      location:
+        name: Souq Al-Zal
+        area: Old Mekka, near Al-Mu'alla district
+        address: Al-Zaher Road, Al Mu'alla, Mekka
+      notes: Bargaining expected; best visited in the evening; authentic local atmosphere
+    - name: Abdul Samad Al Qurashi Perfumes
+      description: Renowned Saudi perfumery selling high-quality Oud, musk, and Attar blends
+      location:
+        name: Abdul Samad Al Qurashi
+        branches:
+        - address: Abraj Al-Bait Mall, Mekka
+        - address: Ajyad Street, near Masjid al-Haram
+      notes: One of the most prestigious perfume houses in the Arab world; alcohol-free
+    - name: Haramain Perfumes
+      description: Affordable perfume shop popular for Bakhoor (incense) and oil perfumes
+      location:
+        name: Haramain Perfumes
+        area: Multiple shops near Masjid al-Haram souq area
+        address: Al Haram district, Mekka
+      notes: Great for buying gifts; reasonable prices; wide variety
+    - name: Maktabat Dar al-Salam (Islamic Bookstore)
+      description: Large Islamic bookstore selling Qurans, hadith books, and Islamic literature
+      location:
+        name: Dar al-Salam Bookstore
+        area: Near Masjid al-Haram, Al Haram district, Mekka
+      notes: Books available in Arabic, English, Urdu, French, and more; competitive prices
+    - name: Bin Dawood Supermarket
+      description: Large Saudi supermarket chain for food, supplies, and everyday items
+      location:
+        name: Bin Dawood
+        branches:
+        - address: Al-Aziziyah district, Mekka
+        - address: Near Abraj Al-Bait, Mekka
+      notes: Stocks Zamzam water bottles, halal snacks, and pilgrim essentials
+  culinary_arts:
+    description: >
+      Hands-on cooking experiences celebrating Saudi and Hejazi culinary heritage — from traditional bread-baking to coffee
+      ceremony mastery and royal kitchen techniques.
+    items:
+    - name: Saudi Cooking Classes (Hejazi Cuisine)
+      description: >
+        Learn to cook authentic Hejazi dishes — the distinct cuisine of the Mekka and Jeddah region, shaped by centuries of
+        pilgrims from across the Muslim world. Dishes include Kabsa, Saleeg, Jareesh, Mutabbaq, and Harees.
+      signature_dishes_taught:
+      - Kabsa (spiced rice with meat — the national dish)
+      - Saleeg (white rice slow-cooked in broth and milk; Hejazi specialty)
+      - Jareesh (cracked wheat porridge with meat and caramelized onions)
+      - Harees (slow-cooked wheat and lamb; Ramadan staple)
+      - Mutabbaq (stuffed pastry with spiced meat and egg)
+      - Maamoul (semolina cookies stuffed with dates or nuts)
+      businesses:
+      - name: Mekka Culinary Experience Center
+        area: Al-Aziziyah district, Mekka
+        notes: >
+          Group and private cooking classes taught by local Hejazi home cooks; all ingredients provided; full meal enjoyed
+          at the end; English and Arabic instruction
+      - name: Jeddah Cooking Academy
+        area: Al-Rawdah district, Jeddah
+        notes: >
+          Professional kitchen setting; wide Saudi and Gulf curriculum; Hejazi cuisine module highly popular with international
+          visitors
+      - name: Sofitel Jeddah Culinary Workshops
+        area: Corniche Road, Jeddah
+        notes: Hotel-run cooking experiences; Saudi and international techniques
+      duration: 3–4 hours per class (including eating the meal cooked)
+      notes: >-
+        Halal-only ingredients; alcohol-free; dietary preferences accommodated on request
+    - name: Arabic Coffee Ceremony (Qahwa Arabiyya)
+      description: >
+        The preparation and serving of traditional Saudi qahwa (Arabic coffee) is a refined art and a pillar of Arabian hospitality.
+        Learn to roast green beans, grind with a wooden mortar (Mihbaj), and brew with cardamom, cloves, and saffron.
+      businesses:
+      - name: Saudi Heritage Commission Coffee Workshops
+        area: Mekka Heritage Center
+        notes: >
+          Authentic demonstrations of traditional qahwa preparation; participants roast their own beans and brew a full ceremonial
+          pot (Dallah)
+      - name: Al-Nakhi Specialty Coffee (workshop sessions)
+        area: Al-Aziziyah district, Mekka
+        notes: >-
+          Specialty coffee roaster offering qahwa heritage sessions alongside modern brewing
+      - name: Taif Bedouin Camp Experiences
+        area: Al-Hada, Taif
+        notes: >
+          Bedouin hosts teach qahwa ceremony in a traditional tent setting; paired with dates, dried fruits, and the full
+          hospitality sequence
+      duration: 1–2 hours
+      notes: >
+        Qahwa is served without sugar (sweetness comes from dates served alongside); the Dallah (coffee pot) and small handle-less
+        cups (Fenjan) are iconic souvenirs
+    - name: Traditional Bread Baking (Khobz Tannour and Margoog)
+      description: >
+        Learn to bake traditional Arabian flatbread in a clay tandoor oven (Tannour) and prepare Margoog — a slow-cooked meat
+        and vegetable stew with thin bread layers. A deeply communal cooking tradition.
+      businesses:
+      - name: Mekka Heritage Cooking Sessions
+        area: Traditional homes and cultural centers in Al-Adl district, Mekka
+        notes: >
+          Hosted by local families via cultural heritage programs; hands-on bread slapping, tandoor management, and stew preparation
+      - name: Bedouin Desert Camp Cooking (Mekka outskirts)
+        area: Eastern desert outskirts of Mekka
+        notes: Evening programs include open-fire bread baking and Bedouin dinner preparation
+      duration: 2–3 hours
+      notes: >
+        Flatbread baking in a Tannour reaches very high heat; long oven gloves provided; the finished meal is eaten together
+        — a communal experience
+    - name: Date Tasting and Classification Workshop
+      description: >
+        Saudi Arabia produces over 100 varieties of dates. Learn to distinguish between Ajwa (Medina's prized black date),
+        Medjool (king of dates), Sukkari (caramel-sweet), Khlas, Safawi, and Barhi — assessing texture, sugar content, skin,
+        and origin.
+      businesses:
+      - name: Bateel Dates Academy Sessions
+        area: Abraj Al-Bait Mall, Mekka
+        notes: >
+          Guided tasting experiences; premium date varieties from Saudi farms; pairing with Arabic coffee; gift packaging
+          available
+      - name: Al-Madinah Date Market (tasting sessions)
+        area: Near Masjid al-Haram souq area, Mekka
+        notes: Informal but generous tastings from market vendors; bulk purchasing encouraged
+      - name: Taif Date and Honey Festival (seasonal)
+        area: Taif
+        notes: >
+          Annual event celebrating local dates and Sidr honey; expert-led tasting workshops; live harvest demonstrations
+      duration: 1–2 hours
+      notes: >
+        Dates are considered Sunnah food (the Prophet PBUH broke fast with dates); Ajwa dates from Medina have particular
+        religious significance for pilgrims
