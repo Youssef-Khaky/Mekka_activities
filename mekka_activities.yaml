@@ -276,6 +276,109 @@ activities:
           coordinates: "21.4227° N, 39.8264° E"
         notes: The well itself is enclosed but the surrounding area has informational displays
 
+      - name: Tajweed (Quranic Pronunciation) Masterclasses
+        description: >
+          Structured lessons in the rules of Tajweed — the precise science of Quranic
+          recitation covering makharij (articulation points), sifaat (letter attributes),
+          and rules of elongation and assimilation. Taught by certified Sheikh reciters.
+        skill_levels: [beginner, intermediate, advanced]
+        businesses:
+          - name: Masjid al-Haram Tajweed Circles
+            area: Masjid al-Haram, Al Haram district, Mekka
+            notes: Free daily circles after Fajr and Asr prayers; split by gender; beginners welcome
+          - name: Dar al-Quran al-Kareem
+            area: Al-Aziziyah district, Mekka
+            notes: Intensive short courses (1–2 weeks); certificates issued upon completion
+          - name: Umm al-Qura University Extension Program
+            area: Al-Abdiyah district, Mekka
+            notes: Seasonal open-enrollment Tajweed courses; some available to visiting pilgrims
+        duration: 1–2 hours per session
+        notes: Bring a copy of the Quran; some circles provide mushaf; smartphone Quran app also accepted
+
+      - name: Ijazah Certification (Chain of Quranic Transmission)
+        description: >
+          The Ijazah is an unbroken chain of oral authorization linking the student to the
+          Prophet Muhammad (PBUH) through a verified chain of certified reciters. Receiving
+          an Ijazah in Mekka — the holiest city on earth — carries profound spiritual significance.
+        location:
+          name: Masjid al-Haram and accredited Quran institutes, Mekka
+        prerequisites:
+          - Complete memorization of the Quran (Hifz) for a full Ijazah
+          - Partial Ijazah available for those with strong Tajweed in specific Surahs
+        businesses:
+          - name: Majma' al-Muluk Fahd li-Tiba'at al-Mushaf (King Fahd Quran Complex — Mekka liaison)
+            area: Connected to the Haram scholarly network
+            notes: Referrals to verified Shaykhs for Ijazah assessment and granting
+          - name: Dar al-Hadith al-Khayriyyah
+            area: Near Masjid al-Haram
+            notes: Historic institution with residing scholars who grant Ijazah in Quran and Hadith sciences
+        duration: Variable — from a single session (for partial Ijazah) to weeks of examination
+        notes: >
+          Contact institutes in advance; many Shaykhs have waiting lists;
+          recommended for those with prior Hifz and strong Tajweed foundation
+
+      - name: Arabic Language Immersion Courses
+        description: >
+          Short intensive courses in Modern Standard Arabic (Fusha) and Classical Quranic Arabic —
+          designed to deepen comprehension of the Quran, Hadith, and Islamic scholarship.
+          Available at institutes in Mekka for visiting students and pilgrims.
+        skill_levels: [beginner, intermediate, advanced]
+        businesses:
+          - name: Umm al-Qura University — Arabic Language Institute
+            area: Al-Abdiyah district, Mekka
+            notes: >
+              Officially accredited; short-term enrollment possible for pilgrims and international students;
+              focuses on classical and modern Arabic; contact admissions well in advance
+          - name: Al-Madinah International University (MEDIU) — Mekka Study Hub
+            area: Mekka
+            notes: Online-backed courses with in-person intensive modules; Arabic and Islamic studies
+          - name: Hejaz Arabic Language Center
+            area: Al-Aziziyah district, Mekka
+            notes: Private institute offering beginner to advanced courses; Quranic Arabic track available
+        duration: "1–4 week intensive modules; ongoing semester courses also available"
+        notes: >
+          Quranic Arabic courses focus on vocabulary and grammar found in the Quran;
+          even a basic foundation dramatically enriches the experience of prayer in the Haram
+
+      - name: Seerah (Prophet's Biography) Guided Walking Tours
+        description: >
+          Scholar-led walking tours connecting the geography of Mekka to the life of the
+          Prophet Muhammad (PBUH) — tracing his birthplace, early revelations, the Night Journey
+          origin, migration route, and key events of the early Muslim community.
+        businesses:
+          - name: Makkah Heritage Tours
+            area: Departs from Masjid al-Haram main gates
+            notes: >
+              2–4 hour guided Seerah walks; English, Arabic, Urdu, and Malay-speaking guides;
+              covers Birthplace of the Prophet, Khadijah's house site, Jabal Abu Qubays, and more
+          - name: Islamic Trails (Mekka & Medina Tours)
+            area: Al Haram district, Mekka
+            notes: >
+              Small group (max 12); scholar-authenticated commentary; connects Quranic verses
+              to physical locations throughout the city
+          - name: Mekka Historical Society Volunteer Guides
+            area: Various starting points
+            notes: Free or donation-based; contact through local mosques or Hajj Ministry visitor center
+        duration: 2–4 hours
+        notes: >
+          Best booked in advance; carry water; wear comfortable walking shoes;
+          available year-round but most enriching during Ramadan and Hajj season
+
+      - name: Makkah Museum (Ajyad Fortress Historical Complex)
+        description: >
+          The Makkah Museum, housed in Qishla al-Ajyad (a 19th-century Ottoman fortress
+          complex), exhibits Mekka's rich urban and social history — photographs, maps,
+          architectural remnants, and artefacts documenting the city's transformation over centuries.
+        location:
+          name: Qishla al-Ajyad / Makkah Museum
+          area: Ajyad district, adjacent to Masjid al-Haram
+          coordinates: "21.4187° N, 39.8258° E"
+        duration: 1–2 hours
+        admission: Free (with valid identification)
+        notes: >
+          Closed during prayer times; Arabic and English signage; photography permitted in most
+          exhibition halls; invaluable context for understanding Mekka's built heritage
+
   food_and_hospitality:
     description: Culinary experiences and local hospitality
     items:
@@ -2529,4 +2632,288 @@ activities:
           - Portable phone charger / power bank
           - Small LED torch (useful in Mina tent city)
           - Hajj/Umrah journal for recording duas and reflections
+
+  community_and_social:
+    description: >
+      Opportunities to connect with the global Muslim ummah — pilgrims from over 180 countries
+      converge in Mekka, making it the world's greatest gathering of human diversity united by
+      faith. These activities foster brotherhood, sisterhood, cultural exchange, and collective
+      spiritual growth.
+    items:
+      - name: Meeting Pilgrims from Around the World
+        description: >
+          Mekka hosts Muslims from over 180 countries simultaneously during Hajj and Umrah seasons —
+          an unparalleled opportunity to connect with believers from every culture, language,
+          and background. The Haram courtyards, tent cities of Mina, and hotel lobbies naturally
+          become gathering points for spontaneous cross-cultural dialogue and friendship.
+        location:
+          name: Masjid al-Haram courtyards, Mina tent city, hotel lobbies
+          area: Al Haram district and surroundings, Mekka
+        best_season: Hajj season (Dhul Hijjah) and Ramadan
+        notes: >
+          Carry a small notebook to exchange contacts; basic greetings in multiple languages
+          (Assalamu Alaikum works universally); a spirit of openness turns strangers into brothers
+
+      - name: International Islamic Conferences and Seminars
+        description: >
+          Mekka and the broader Hejaz region host major international Islamic scholarly events
+          throughout the year — covering Quran sciences, Islamic jurisprudence, contemporary
+          Muslim issues, and interfaith dialogue within Islam's scholarly traditions.
+        businesses:
+          - name: Muslim World League (Rabitat al-'Alam al-Islami)
+            area: Al Haram district, Mekka
+            notes: >
+              Hosts major international conferences on Islamic unity, Fiqh, and global Muslim affairs;
+              open registration events listed on their official website
+          - name: Fiqh Academy (Majma' al-Fiqh al-Islami)
+            area: Mekka
+            notes: >
+              Periodic scholarly symposia on contemporary Islamic jurisprudence;
+              attendance by invitation or open registration depending on event
+          - name: Umm al-Qura University Public Lectures
+            area: Al-Abdiyah district, Mekka
+            notes: Seasonal public lectures by leading Islamic scholars; Arabic and sometimes English
+        notes: >
+          Check schedules with the Saudi Ministry of Islamic Affairs;
+          most conferences welcome general Muslim attendees; dress modestly and carry ID
+
+      - name: Majlis al-'Ilm (Scholarly Gathering and Q&A Sessions)
+        description: >
+          Informal and semi-formal gatherings where Islamic scholars answer questions from the
+          public on matters of faith, jurisprudence, spirituality, and contemporary life. These
+          Majalis (plural of Majlis) have been a cornerstone of Islamic intellectual tradition
+          for 1,400 years and thrive in Mekka's scholarly atmosphere.
+        location:
+          name: Various — Masjid al-Haram gate areas, hotel conference rooms, local mosques
+          area: Al Haram district, Mekka
+        notes: >
+          Majalis are often announced through local mosque noticeboards or social media;
+          attending multiple scholars provides diverse perspectives; respectful listening and
+          note-taking are standard etiquette
+
+      - name: Jumu'ah Khutbah at Masjid al-Haram
+        description: >
+          Attending the Friday Sermon (Khutbah) at the Grand Mosque — delivered to the largest
+          regular congregation on earth (millions during Hajj season, hundreds of thousands year-round).
+          The Imam of Masjid al-Haram delivers the sermon in Classical Arabic, broadcast globally.
+        location:
+          name: Masjid al-Haram
+          area: Al Haram district, Mekka 24231
+          coordinates: "21.4225° N, 39.8262° E"
+        timing: "Every Friday; arrive by 11:00 to secure a spot inside the mosque; doors fill by noon"
+        duration: Approximately 45–60 minutes (sermon + prayer)
+        notes: >
+          Translation earpieces (in multiple languages) are sometimes available through the
+          mosque; the collective experience of praying Jumu'ah here is described by pilgrims
+          as one of the most moving moments of their lives
+
+      - name: Cultural Exchange at the Mina Tent City
+        description: >
+          During Hajj, pilgrims from the same country share tent zones — but neighboring tents
+          host delegations from entirely different cultures. The proximity creates natural
+          opportunities for cultural exchange: sharing food, learning phrases, exchanging gifts,
+          and witnessing the extraordinary diversity of the global Muslim community.
+        location:
+          name: Mina Tent City
+          area: Mina, approx. 5 km from Masjid al-Haram
+        best_season: Hajj season (11th–13th Dhul Hijjah)
+        notes: >
+          Bring small gifts from your home country (dates, sweets, or modest souvenirs) to share;
+          an act of generosity in Mina carries deep spiritual significance and leaves lasting bonds
+
+      - name: Community Iftar Gathering (Beyond Ramadan)
+        description: >
+          Sharing a meal together before prayer — Mekka's culture of communal generosity
+          extends beyond Ramadan. Hotels, local charities, and community groups regularly host
+          shared meals for pilgrims, workers, and visitors, embodying the Islamic tradition of
+          feeding others as an act of worship.
+        businesses:
+          - name: Haramain Hotels Charity Iftar Tables (Ramadan)
+            area: Outside Masjid al-Haram gates, Al Haram district
+            notes: Free for all comers; thousands of meals set out daily; a profound communal experience
+          - name: Pakistani, Indian, and Malaysian pilgrim community kitchens
+            area: Al-Aziziyah and Misfalah districts, Mekka
+            notes: >
+              Community-run kitchens serving national cuisines; open to all pilgrims;
+              ask at your hotel or pilgrim group for directions to nearby community tables
+          - name: Mekka Municipality Community Dining Program
+            area: Various locations, Mekka
+            notes: Year-round subsidized community meals for workers and pilgrims; free or very low cost
+        notes: Accept invitations generously; the Prophet said "the one who feeds others feeds himself spiritually"
+
+      - name: Joining a Pilgrimage Group (Hajj or Umrah Kafilah)
+        description: >
+          Traveling with an organized pilgrimage group (Kafilah) provides not only logistical
+          support but a built-in community for the journey — fellow pilgrims who pray, walk,
+          and experience the rites together. Group bonds formed during Hajj are often lifelong.
+        businesses:
+          - name: National Hajj Missions (country-specific)
+            area: Varies by origin country
+            notes: >
+              Each Muslim-majority country has an official Hajj mission coordinating group travel;
+              registered groups receive guided rites support, accommodation, and medical care
+          - name: Licensed Umrah Operators (Nusuk-registered)
+            area: International and Mekka-based
+            notes: >
+              Nusuk platform (nusuk.sa) lists all officially licensed Umrah operators;
+              group packages include guided Tawaf, educational sessions, and group meals
+        notes: >
+          Solo pilgrims can request to be merged with a compatible group through the
+          Hajj Ministry; community bonds formed in the holy city often become lifelong friendships
+
+  smart_hajj_and_innovation:
+    description: >
+      Saudi Arabia's Vision 2030 has transformed the pilgrim experience through cutting-edge
+      technology — AI crowd management, smart wristbands, digital permits, and virtual reality
+      tools. These innovations enhance safety, accessibility, and spiritual focus for millions
+      of annual visitors.
+    items:
+      - name: Nusuk Smart Platform (نسك)
+        description: >
+          The Saudi Ministry of Hajj and Umrah's official digital platform, integrating Hajj
+          and Umrah permits, pilgrim tracking, accommodation booking, real-time crowd maps,
+          and health services into a single application. Used by over 10 million pilgrims annually.
+        platform:
+          app_name: Nusuk (نسك)
+          developer: Saudi Ministry of Hajj and Umrah
+          platforms: [iOS, Android, Web]
+          website: "nusuk.sa"
+        key_features:
+          - Hajj and Umrah permit application and management
+          - Real-time crowd density heat maps for Masjid al-Haram and Mina
+          - Digital Ihram violation reporting system
+          - Lost pilgrim reporting and family reunion service
+          - Integrated prayer times, Qibla, and Zamzam water station locator
+          - Health service appointment booking at Hajj clinics
+          - Official transport scheduling (Haramain High Speed Rail + buses)
+        notes: >
+          Download and set up Nusuk before arriving in Mekka; it is the single most important
+          app for any Hajj or Umrah visitor; Arabic and English interface fully supported
+
+      - name: Hajj Smart Wristband / Nusuk Card
+        description: >
+          A digitally-encoded wristband or card issued to Hajj pilgrims containing their
+          identification, medical record, accommodation details, and emergency contacts — readable
+          by Saudi Hajj Authority personnel and medical teams via NFC/QR scan. Dramatically
+          improves pilgrim safety and lost-person recovery.
+        issued_by: Saudi Ministry of Hajj and Umrah (via authorized Hajj operators)
+        features:
+          - NFC and QR-readable pilgrim identity and medical information
+          - Links to emergency contact and group leader details
+          - Scanned at Jamarat entry to manage crowd flow by time slots
+          - Medical teams use it to access health history in emergencies
+        notes: >
+          Issued on registration; wear it throughout the Hajj period especially in Mina,
+          Muzdalifah, and Jamarat; never remove during the five days of Hajj rites
+
+      - name: AI-Powered Crowd Management and Safety Apps
+        description: >
+          The Saudi Hajj Authority deploys advanced AI systems monitoring crowd density
+          across all Hajj sites using 5,000+ cameras, thermal sensors, and satellite feeds.
+          Real-time data feeds into the Nusuk app's crowd heatmap, allowing pilgrims to choose
+          less congested gates and routes — significantly reducing dangerous crowding.
+        how_to_access:
+          - Via the crowd density map in the Nusuk app
+          - Live updates via official Saudi Hajj Authority social media channels
+          - Gate-by-gate traffic light displays at Masjid al-Haram entrances
+        notes: >
+          Check the crowd map before heading to the Mataf (Tawaf area) or Jamarat;
+          off-peak hours (late night, post-Fajr) are typically least crowded; the AI system
+          can route emergency vehicles through crowds in minutes
+
+      - name: Haramain High Speed Rail (Al-Haramain Express)
+        description: >
+          A 450 km/h high-speed rail line connecting Mekka, Jeddah King Abdulaziz International
+          Airport, Jeddah city, and Medina — reducing the Mekka–Medina journey from 4+ hours
+          by road to 2 hours by rail, and Mekka–Jeddah Airport to 30 minutes.
+        location:
+          name: Mekka Haramain Station
+          area: Al-Rusayfah district, Mekka
+          address: King Abdullah Road, Al-Rusayfah, Mekka
+          coordinates: "21.4556° N, 39.7483° E"
+        route_stations:
+          - Mekka (Al-Rusayfah Station)
+          - King Abdulaziz International Airport (Jeddah)
+          - Jeddah City (King Abdullah Station)
+          - King Abdullah Economic City (KAEC)
+          - Medina
+        journey_times:
+          mekka_to_jeddah_airport: "30 minutes"
+          mekka_to_jeddah_city: "37 minutes"
+          mekka_to_medina: "2 hours"
+        ticketing: Book via Nusuk app or Saudi Railways (SAR) official app; advance booking essential during Hajj
+        notes: >
+          Separate carriages for men and women; luggage storage available at stations;
+          the most comfortable way to travel between Mekka, Jeddah, and Medina
+
+      - name: Virtual Reality Haram Experience (Accessibility Tool)
+        description: >
+          VR experiences recreating the Tawaf, Masjid al-Haram interior, and Hajj rites —
+          developed for pilgrims with disabilities, the elderly, and Muslims who cannot yet
+          perform Hajj or Umrah. Also used as an educational preparation tool.
+        businesses:
+          - name: Nusuk VR (Ministry of Hajj and Umrah)
+            platform: VR headset and standard smartphone (360° video)
+            notes: >
+              Available through the Nusuk app; immersive 360° tour of the Haram, Kaaba interior
+              (rare footage), and all five Hajj sites; narrated in multiple languages
+          - name: Immersive Makkah (Saudi Ministry of Culture)
+            area: Digital experience; accessible globally
+            notes: >
+              High-resolution virtual tour developed for cultural outreach; includes historical
+              overlays showing Mekka at different eras
+        notes: >
+          Physical Hajj and Umrah cannot be replaced by VR in Islamic jurisprudence;
+          these tools serve as preparation, accessibility support, and spiritual connection
+          for those unable to travel
+
+      - name: Robotic and Automated Zamzam Bottling Facility Tour
+        description: >
+          The Zamzam Water Bottling Plant near Mekka is one of the most advanced water
+          treatment and bottling facilities in the world — processing and distributing millions
+          of litres of Zamzam water annually to pilgrims and as gifts worldwide, using
+          state-of-the-art filtration and fully automated bottling lines.
+        location:
+          name: Zamzam Water Bottling Plant
+          area: Kudai district, approx. 3 km south of Masjid al-Haram, Mekka
+        access: Guided tours occasionally arranged through Saudi Ministry of Hajj and Umrah (seasonal)
+        notes: >
+          Not always open to individual visitors; apply through official Hajj operator groups
+          or the Ministry of Hajj and Umrah visitor program; an extraordinary behind-the-scenes
+          look at the management of one of the world's most sacred resources
+
+      - name: Mosque Gate Electronic Crowd Flow Displays
+        description: >
+          Masjid al-Haram's 100+ entry gates are equipped with real-time electronic traffic
+          light displays showing crowd density: green (open, move freely), amber (moderate),
+          red (congested — choose an alternative gate). Part of the integrated safety system.
+        location:
+          name: All major gates of Masjid al-Haram
+          area: Al Haram district, Mekka
+        notes: >
+          Always check gate status before entering; green gates (usually on the northern
+          side — Bab Abdul Aziz and Bab Al-Malik Fahd area) are often less congested;
+          the system updates in real time and has significantly improved crowd safety
+
+      - name: Smart Health Monitoring Stations (Hajj Medical Centers)
+        description: >
+          During Hajj, the Saudi Ministry of Health deploys over 150 medical facilities and
+          mobile health units equipped with AI-assisted triage, heat stroke detection sensors,
+          and telemedicine capabilities — providing free emergency and routine healthcare
+          to all pilgrims regardless of nationality.
+        key_facilities:
+          - name: King Abdullah Medical Complex (KAMC) Main Hajj Hospital
+            area: Al Haram district, Mekka
+            notes: Largest dedicated Hajj hospital; 24/7 emergency; ICU and specialist care
+          - name: Mina Medical City (Hajj Season)
+            area: Mina tent city, Mekka
+            notes: Purpose-built temporary hospital city; 5,000+ bed capacity during Hajj peak
+          - name: Jamarat Mobile Medical Units
+            area: Around Jamarat Bridge, Mina
+            notes: Rapid response units; heat stroke treatment and trauma care
+        services_free_for_pilgrims: true
+        notes: >
+          Carry your Hajj smart wristband at all times; medical staff can access your
+          health record instantly; heat stroke prevention — hydrate every 15–20 minutes
+          in summer Mekka (temperatures can exceed 45°C)
         notes: All items available near Masjid al-Haram if forgotten; Ihram cloth sold at Miqat stations
