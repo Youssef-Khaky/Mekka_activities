@@ -2530,3 +2530,200 @@ activities:
           - Small LED torch (useful in Mina tent city)
           - Hajj/Umrah journal for recording duas and reflections
         notes: All items available near Masjid al-Haram if forgotten; Ihram cloth sold at Miqat stations
+
+  digital_pilgrim_tools:
+    description: Apps, platforms, and tech resources to enhance and organize your pilgrimage experience
+    items:
+      - name: Nusuk App
+        description: Official Saudi Hajj and Umrah super-app by the Ministry of Hajj
+        platforms: [iOS, Android]
+        features:
+          - Book Umrah permits and time slots
+          - Track Hajj packages and itineraries
+          - Access real-time crowd density maps for Masjid al-Haram
+          - Digital Hajj ID and pilgrim profile
+        notes: Mandatory for many pilgrims; download and register before travel
+
+      - name: Haj Navigator
+        description: GPS-guided navigation designed specifically for Hajj rites
+        platforms: [iOS, Android]
+        features:
+          - Step-by-step guidance for Tawaf, Sa'i, Stoning rites
+          - Offline maps of Masjid al-Haram, Mina, Arafat, Muzdalifah
+          - Prayer time alerts calibrated to Mekka
+        notes: Works without mobile data once maps are downloaded
+
+      - name: Muslim Pro / Athan
+        description: All-in-one Islamic app with Quran, prayer times, and qibla compass
+        platforms: [iOS, Android, Web]
+        features:
+          - Accurate prayer times for any location in Mekka
+          - Qibla direction finder
+          - Full Quran with translations and audio recitation
+          - Dhikr counters
+
+      - name: Zamzam Live
+        description: Live stream of Masjid al-Haram for spiritual connection when not in the mosque
+        access: Via YouTube (Makkah Live channel) or Saudi TV app
+        notes: Available 24/7; useful for staying spiritually connected from hotel rooms
+
+      - name: WhatsApp Group Coordination
+        description: Staying connected with your Hajj/Umrah group
+        tips:
+          - Create a dedicated family/group WhatsApp group before arrival
+          - Share a pinned meeting point message with coordinates
+          - Set a common phone wallpaper showing your group's tent/hotel details
+          - Enable location sharing during Hajj peak days
+        notes: Saudi SIM cards with data are available at King Abdulaziz Airport and Mekka shops
+
+      - name: Translation Apps (Arabic Assistance)
+        description: Real-time translation tools for communicating with locals
+        recommended:
+          - name: Google Translate
+            feature: Camera/lens translation for Arabic signs and menus
+          - name: iTranslate
+            feature: Voice-to-voice Arabic translation
+        notes: Download Arabic language packs offline before travel; useful in markets and clinics
+
+  charity_and_giving:
+    description: Opportunities to give sadaqah and engage in acts of generosity during your visit
+    items:
+      - name: Sadaqah at Masjid al-Haram
+        description: Giving voluntary charity inside or near the Grand Mosque
+        location:
+          name: Masjid al-Haram donation boxes
+          area: Scattered throughout the mosque corridors and exits
+        notes: Any amount is accepted; giving here carries enormous spiritual reward
+
+      - name: Feeding Pilgrims (It'am al-Ta'am)
+        description: Sponsoring or distributing food and water to pilgrims
+        options:
+          - Donate to licensed charities that distribute meals near the mosque
+          - Purchase sealed water bottles or dates and hand them directly to pilgrims
+          - Sponsor iftar meals during Ramadan through registered organizations
+        recommended_organizations:
+          - Makkah al-Mukarramah Charity (local)
+          - Islamic Relief KSA
+          - Human Appeal KSA
+        notes: A deeply rewarding act; ensure food handling meets hygiene standards
+
+      - name: Qurbani / Udhiyah (Sacrificial Animal)
+        description: Offering the ritual sacrifice during Eid al-Adha as part of Hajj
+        location:
+          name: Islamic Slaughterhouses, Mina
+          area: Mina valley, approx. 5 km east of Mekka
+        date: 10th–13th Dhul Hijjah
+        options:
+          - Perform personally at licensed Mina abattoirs
+          - Delegate to approved Hajj operators who handle distribution
+        notes: Meat is distributed to poor communities locally and internationally
+
+      - name: Sponsoring Zamzam Water Distribution
+        description: Contributing to the free distribution of Zamzam water to pilgrims
+        how_to:
+          - Donate to Zamzam distribution programs via Saudi government charity portals
+          - Volunteer with organized groups that carry and offer water in the mosque
+        notes: Even carrying a jug of water to elderly pilgrims counts as sadaqah
+
+      - name: Giving to the Poor in Mekka Markets
+        description: Discreet charity to the needy around the Haram area
+        tips:
+          - Many poor pilgrims and beggars are present near the mosque gates
+          - Give respectfully and privately where possible
+          - Carry small denomination Saudi Riyals (SAR 5–20) for easy giving
+        notes: Exercise discretion; avoid displaying large amounts of cash
+
+      - name: Waqf Contribution
+        description: Endowment donations for long-term Islamic causes
+        options:
+          - Donate through the Saudi Waqf General Authority portal
+          - Contribute to Quran distribution, mosque construction, or educational scholarships
+        notes: Waqf is a form of ongoing charity (sadaqah jariyah) with perpetual reward
+
+  language_and_communication:
+    description: Useful Arabic phrases, etiquette tips, and communication guidance for pilgrims
+    items:
+      - name: Essential Arabic Phrases for Pilgrims
+        description: Key phrases to help you communicate during your visit
+        phrases:
+          greetings:
+            - Arabic: "السلام عليكم"
+              Transliteration: As-salamu alaykum
+              Meaning: Peace be upon you (universal Islamic greeting)
+            - Arabic: "وعليكم السلام"
+              Transliteration: Wa alaykum as-salam
+              Meaning: And upon you peace (response)
+            - Arabic: "كيف حالك؟"
+              Transliteration: Kayfa haluk?
+              Meaning: How are you?
+          directions_and_navigation:
+            - Arabic: "أين المسجد الحرام؟"
+              Transliteration: Ayna al-Masjid al-Haram?
+              Meaning: Where is the Grand Mosque?
+            - Arabic: "أين الحمام؟"
+              Transliteration: Ayna al-hammam?
+              Meaning: Where is the bathroom?
+            - Arabic: "يسار / يمين / مستقيم"
+              Transliteration: Yasar / Yamin / Mustaqim
+              Meaning: Left / Right / Straight
+          emergency_and_health:
+            - Arabic: "أحتاج مساعدة"
+              Transliteration: Ahtaju musa'ada
+              Meaning: I need help
+            - Arabic: "أنا مريض"
+              Transliteration: Ana marid
+              Meaning: I am sick
+            - Arabic: "اتصل بالطوارئ"
+              Transliteration: Ittasil bil-tawari'
+              Meaning: Call emergency services
+          shopping_and_transactions:
+            - Arabic: "كم الثمن؟"
+              Transliteration: Kam al-thaman?
+              Meaning: How much does it cost?
+            - Arabic: "غالي جداً"
+              Transliteration: Ghali jiddan
+              Meaning: Too expensive
+            - Arabic: "هل يمكن التخفيض؟"
+              Transliteration: Hal yumkin al-takhfid?
+              Meaning: Can you lower the price?
+          spiritual_context:
+            - Arabic: "بارك الله فيك"
+              Transliteration: Barakallahu fik
+              Meaning: May Allah bless you (gratitude expression)
+            - Arabic: "جزاك الله خيراً"
+              Transliteration: Jazakallahu khayran
+              Meaning: May Allah reward you with goodness
+            - Arabic: "إن شاء الله"
+              Transliteration: In sha' Allah
+              Meaning: If Allah wills it (used for future plans)
+            - Arabic: "الحمد لله"
+              Transliteration: Alhamdulillah
+              Meaning: All praise is to Allah (gratitude)
+
+      - name: Communication Etiquette in Mekka
+        description: Cultural and religious norms for respectful communication
+        tips:
+          - Greet with As-salamu alaykum whenever meeting fellow Muslims
+          - Avoid raising your voice inside Masjid al-Haram
+          - Use your right hand when giving or receiving anything
+          - Address elders with respect; use "ya sheikh" or "ya ustadh" as honorifics
+          - Avoid public displays of frustration or anger, especially near the Kaaba
+          - Women should be addressed formally; avoid casual physical contact with unrelated women
+        notes: Patience (sabr) is a core virtue expected of pilgrims; lead by example
+
+      - name: Emergency Contact Numbers in Saudi Arabia
+        description: Critical numbers to know during your stay
+        contacts:
+          - service: Police
+            number: "911"
+          - service: Ambulance / Medical Emergency
+            number: "911"
+          - service: Civil Defence (Fire)
+            number: "998"
+          - service: Hajj Emergency Operations Center
+            number: "920002814"
+          - service: Saudi Red Crescent
+            number: "997"
+          - service: Tourist Police (for pilgrims)
+            number: "+966-12-551-1111"
+        notes: Save these numbers offline before arriving; international SIM or Saudi SIM both work
