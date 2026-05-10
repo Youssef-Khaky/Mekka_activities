@@ -2530,3 +2530,221 @@ activities:
           - Small LED torch (useful in Mina tent city)
           - Hajj/Umrah journal for recording duas and reflections
         notes: All items available near Masjid al-Haram if forgotten; Ihram cloth sold at Miqat stations
+
+  arabic_language_learning:
+    description: >
+      Structured Arabic language programs for pilgrims and visitors — from Quranic Arabic
+      for worship to conversational Hejazi dialect for daily life in Mekka. Learning Arabic
+      deepens engagement with prayers, Quran, and local culture.
+    items:
+      - name: Quranic Arabic Intensive (Fusha)
+        description: >
+          Focused courses in Classical Quranic Arabic — grammar (Nahw), morphology (Sarf),
+          and vocabulary of the Quran. Designed for pilgrims who want to understand the Quran
+          directly without translation.
+        skill_levels: [beginner, intermediate, advanced]
+        curricula:
+          - Madinah Arabic Book Series (Islamic University of Madinah curriculum)
+          - Bayyinah Arabic ("Arabic with Husain" — widely used online/in-person)
+          - Sarf Matn al-Bina (classical morphology)
+        businesses:
+          - name: Dar al-Hadith al-Khayriyyah Language Department
+            area: Near Masjid al-Haram, Mekka
+            notes: >
+              Short-term intensive Quranic Arabic modules for visiting pilgrims;
+              Arabic and English instruction; free or subsidized fees for Hajj pilgrims
+          - name: Umm al-Qura University Arabic for Non-Native Speakers Institute
+            area: Al-Abdiyah district, Mekka
+            notes: >
+              Formal enrollment and short-term visitor programs available;
+              rigorous curriculum; certificates issued; contact in advance for enrollment
+          - name: Al-Arabiyyah Bayna Yadayk Online + Mekka Sessions
+            area: Various community center locations, Mekka
+            notes: Widely used beginner textbook with companion in-person sessions; group format
+        duration: Half-day workshops to 4-week intensives
+        notes: >
+          Even basic Arabic grammar transforms prayer comprehension;
+          most courses welcome total beginners; Arabic script literacy taught from day one
+
+      - name: Hejazi Arabic Dialect (Conversational)
+        description: >
+          The spoken dialect of Mekka and the Hejaz region — softer and more cosmopolitan
+          than Najdi Arabic due to centuries of pilgrim influence. Learning basic phrases
+          for shopping, dining, directions, and hospitality greatly enriches the visit.
+        skill_levels: [beginner, intermediate]
+        phrases_covered:
+          - Greetings and farewells (Marhaba, Ahlan wa Sahlan, Ma'a Salama)
+          - Numbers and bargaining phrases
+          - Mosque and prayer vocabulary
+          - Restaurant and food ordering
+          - Emergency and medical phrases
+        businesses:
+          - name: Mekka Cultural Center (Dar al-Thaqafa) — Dialect Workshops
+            area: Al-Adl district, Mekka
+            notes: Conversational workshops for pilgrims; small groups; informal setting
+          - name: Local Language Exchange Cafes
+            area: Al-Aziziyah and Al-Naseem districts, Mekka
+            notes: >
+              Informal conversation exchange sessions where Arabic speakers practice
+              English/Urdu/French and visitors practice Arabic; hosted weekly at local cafes
+        duration: 1–2 hours per session
+        notes: No textbook required for dialect classes; audio-first approach; hugely useful for daily life
+
+      - name: Arabic Calligraphy as Language Learning
+        description: >
+          Learning to write the Arabic alphabet through calligraphy — combining
+          handwriting acquisition with the spiritual art of beautiful script. The physical
+          act of forming letters embeds the alphabet deeply in muscle memory.
+        skill_levels: [beginner]
+        businesses:
+          - name: Dar al-Khatt al-Islami
+            area: Al-Aziziyah district, Mekka
+            notes: Beginner alphabet sessions using the Naskh script; ideal for total beginners
+          - name: Mekka Cultural Center (Dar al-Thaqafa)
+            area: Al-Adl district, Mekka
+            notes: Combines alphabet writing with basic vocabulary; 2-hour introductory sessions
+        duration: 2 hours per session
+        notes: Most effective entry point for those who haven't yet learned the Arabic alphabet
+
+      - name: Quran Recitation with Tajweed (Proper Pronunciation)
+        description: >
+          Tajweed is the science of correct Quranic pronunciation — every letter has a
+          precise articulation point (Makhraj) and phonetic quality (Sifa). Being in Mekka
+          with access to certified Qurra (reciters) is an unparalleled learning opportunity.
+        skill_levels: [beginner, intermediate, advanced]
+        rules_covered:
+          - Makharij al-Huruf (letter articulation points)
+          - Ghunna (nasalization)
+          - Idghaam, Ikhfa, and Iqlab (assimilation rules)
+          - Madd (vowel prolongation)
+          - Waqf and Ibtida (pausing and resuming rules)
+        businesses:
+          - name: Masjid al-Haram Quran Circles (Halaqat al-Quran)
+            area: Masjid al-Haram — designated Tajweed sections
+            notes: >
+              Free sessions led by certified Qurra daily; sign up at the mosque's learning
+              desk near King Fahd Gate; both male and female circles available
+          - name: Tajweed Academy Makkah
+            area: Al-Aziziyah district, Mekka
+            notes: Private and group Tajweed lessons; qualified Ijazah-holding teachers; all levels
+          - name: Dar al-Quran al-Kareem
+            area: Near Masjid al-Haram, Mekka
+            notes: >
+              Intensive Quran memorization and Tajweed programs; Ijazah (chain of transmission)
+              available for advanced students; foundational for mosque-level recitation
+        duration: 30–60 minutes per session
+        notes: >
+          Tajweed transforms the experience of prayer permanently;
+          even non-Arabic speakers can learn proper pronunciation through phonetic instruction
+
+  technology_and_innovation:
+    description: >
+      Saudi Arabia's Vision 2030 transformation has introduced cutting-edge technology
+      experiences, smart-city infrastructure, and innovation hubs accessible from Mekka.
+      These activities blend modern curiosity with Islamic heritage in the digital age.
+    items:
+      - name: Nusuk Digital Platform Exploration
+        description: >
+          The Nusuk app and platform (Saudi Ministry of Hajj and Umrah) is itself a
+          landmark of digital governance — managing millions of pilgrims through AI-powered
+          crowd density mapping, permit systems, and real-time guidance.
+        platform: iOS and Android
+        key_features:
+          - Hajj and Umrah permit booking and management
+          - Real-time Masjid al-Haram crowd density visualization
+          - Interactive Hajj rites guidance with AR elements
+          - Lost pilgrim finder and emergency services integration
+          - Prayer times, Qibla, and digital Tawaf counter
+        notes: >
+          Download and explore Nusuk as a digital marvel of Islamic pilgrimage management;
+          the system handled over 2.5 million pilgrims simultaneously in recent Hajj seasons
+
+      - name: Abraj Al-Bait Clock Tower — Engineering Heritage Tour
+        description: >
+          The Abraj Al-Bait complex is one of the world's largest buildings and contains
+          the world's largest clock face. An architectural and engineering achievement combining
+          Islamic aesthetic with modern construction science.
+        location:
+          name: Abraj Al-Bait Complex
+          address: Ibrahim Al Khalil Street, Al Haram district, Mekka 24231
+          coordinates: "21.4196° N, 39.8262° E"
+        facts:
+          - Height: 601 metres (tallest building in Saudi Arabia)
+          - Clock face diameter: 43 metres (world's largest)
+          - Total floor area: 1.5 million square metres
+          - Construction: 2004–2012; 1,000+ cranes used at peak
+        notes: >
+          The Muezzin Tower (Abraj) broadcasts the Adhan visible and audible for kilometers;
+          engineering tours sometimes arranged through the Fairmont concierge
+
+      - name: Smart Hajj Technology Demonstration
+        description: >
+          Saudi Arabia deploys some of the world's most advanced crowd management and
+          smart-city technology specifically for the Hajj. AI cameras, RFID wristbands,
+          facial recognition entry, and autonomous vehicles are tested here first.
+        exhibitions:
+          - name: Saudi Ministry of Hajj Innovation Exhibition
+            area: Near Masjid al-Haram exhibition halls, Mekka
+            notes: Occasional public exhibitions showcasing Hajj tech innovations; check Nusuk app for schedule
+          - name: Saudi Innovation & Technology Pavilion (Jeddah)
+            area: Jeddah (80 km)
+            notes: Permanent exhibit on Saudi Vision 2030 technology projects including smart Hajj systems
+        notes: >
+          The Hajj remains the world's largest annual logistical event and serves as a live
+          proving ground for crowd AI, IoT, and public health technology
+
+      - name: Mekka Digital Library and Archives
+        description: >
+          Online and in-person access to the vast digitized archives of Islamic manuscripts,
+          historical Hajj photographs, and rare texts held by the King Abdulaziz Public Library system.
+        businesses:
+          - name: King Abdulaziz Public Library (Mekka Branch)
+            area: Al-Adl district, Mekka
+            notes: >
+              Access to digitized historical maps of Mekka, rare Islamic manuscripts,
+              and centuries of Hajj documentation; Arabic and English collections
+          - name: Saudi National Digital Library (online access)
+            platform: Web — accessible from hotel WiFi in Mekka
+            notes: >
+              Free access for Saudi residents; international visitors can register;
+              millions of academic resources, Islamic texts, and historical documents
+        notes: Research tool for pilgrims with academic or genealogical interest in Mekka's history
+
+      - name: VR and AR Islamic Heritage Experiences
+        description: >
+          Virtual and augmented reality experiences that reconstruct Mekka's historical
+          layers — how the city looked in the Prophet's time, through Ottoman expansion,
+          to modern redevelopment. A technology-meets-heritage encounter.
+        businesses:
+          - name: Saudi Heritage Commission Digital Experiences
+            area: Mekka Heritage Center and online
+            notes: >
+              VR reconstructions of ancient Mekka and the Kaaba through centuries;
+              available at Heritage Commission centers and occasionally at Hajj exhibitions
+          - name: Histopad Interactive Audio Tour (Masjid al-Haram)
+            area: Downloaded via smartphone app; used throughout Masjid al-Haram
+            notes: >
+              AR-enhanced guided tour of the Grand Mosque's historical elements;
+              overlays historical images on present-day architecture
+        notes: >
+          Combines educational depth with immersive experience; ideal for history-curious pilgrims
+          and for sharing with family members unable to make the journey
+
+      - name: Coding and Tech Meetups (Mekka/Jeddah)
+        description: >
+          Saudi Arabia's tech startup scene has expanded rapidly under Vision 2030.
+          Developer meetups, hackathons, and AI workshops are held regularly in Jeddah
+          (80 km) and occasionally in Mekka for the resident tech community.
+        businesses:
+          - name: GDG (Google Developer Group) Jeddah
+            area: Jeddah (various co-working venues)
+            notes: Monthly tech talks and workshops; open to visitors; English and Arabic sessions
+          - name: STC Hub (Saudi Telecom Innovation Center)
+            area: Jeddah
+            notes: Innovation lab hosting startup demos, hackathons, and mentorship sessions
+          - name: KACST Technology Outreach (King Abdulaziz City for Science and Technology)
+            area: Regional outreach events in Mekka and Jeddah
+            notes: Public science and technology lectures and exhibitions
+        notes: >
+          Check Eventbrite.sa and Meetup.com for current schedules;
+          networking with Saudi tech professionals is a unique cultural and professional experience
