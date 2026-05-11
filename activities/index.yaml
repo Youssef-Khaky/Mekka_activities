@@ -1,5 +1,5 @@
 # Mekka Activities — File Index
-# 24 categories / 170 items split across 8 files to keep each file manageable.
+# 27 categories / 196 items split across 8 files + consolidated master file.
 
 files:
   - file: 01_pilgrimage_rites.yaml
@@ -11,8 +11,8 @@ files:
     items: 21
 
   - file: 03_food_shopping_culinary.yaml
-    categories: [food_and_hospitality, shopping, culinary_arts]
-    items: 21
+    categories: [food_and_hospitality, shopping, culinary_arts, hejazi_street_food]
+    items: 27
 
   - file: 04_accommodation_transport_practical.yaml
     categories: [accommodation, transportation, practical_resources]
@@ -33,3 +33,11 @@ files:
   - file: 08_seasonal_events_family_health.yaml
     categories: [ramadan_activities, events, family_and_kids, health_and_medical_services]
     items: 30
+
+  - file: mekka_activities.yaml
+    note: Consolidated master file (English) — contains all categories including additions below
+    additional_categories:
+      - language_learning
+      - hejazi_street_food
+      - additional_historical_mosques
+    items: 196

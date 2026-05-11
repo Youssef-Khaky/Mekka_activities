@@ -2530,3 +2530,268 @@ activities:
           - Small LED torch (useful in Mina tent city)
           - Hajj/Umrah journal for recording duas and reflections
         notes: All items available near Masjid al-Haram if forgotten; Ihram cloth sold at Miqat stations
+
+  language_learning:
+    description: >
+      Arabic language courses and resources for pilgrims and visitors — from beginner
+      conversational Arabic to Quranic Arabic and Classical Fusha. Mekka is an immersive
+      environment for accelerated language learning.
+    items:
+      - name: Conversational Arabic for Pilgrims
+        description: >
+          Short intensive courses covering practical Arabic phrases for worship, navigation,
+          dining, and daily interaction in Mekka. Emphasis on Hejazi dialect alongside
+          Modern Standard Arabic for broad comprehension.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Masjid al-Haram Language Center (Markaz al-Lugha)
+            area: Al Haram district, Mekka
+            notes: Free short courses for pilgrims; covers basic ibadah vocabulary, directions, and essential phrases
+          - name: Arabic Without Walls (Umm al-Qura University online program)
+            area: Online and Mekka campus, Al-Abdiyah district
+            notes: Accredited short courses in spoken and written Arabic; enrollment open to international students
+          - name: Al-Madinah Institute (online, Mekka-based content)
+            area: Online
+            notes: Structured Arabic courses designed for Muslim learners worldwide; video-based with live tutoring
+        duration: 1–2 weeks (intensive) or ongoing weekly sessions
+        notes: Even 50 core Arabic words dramatically enriches the pilgrimage experience
+
+      - name: Quranic Arabic (Al-Arabiyya li-Fahm al-Quran)
+        description: >
+          Learning the classical Arabic of the Quran — understanding root words, basic grammar,
+          and vocabulary to comprehend the Quran directly without translation. A life-changing
+          skill particularly meaningful while performing Tawaf and prayer in Mekka.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Bayyinah Institute (online, globally accessible)
+            area: Online
+            notes: World-leading Quranic Arabic curriculum; "Arabic with Husna" and "Dream" programs highly regarded
+          - name: Dar al-Arqam Quranic Arabic Program (Mekka)
+            area: Al-Adl district, Mekka
+            notes: In-person weekly Quranic Arabic circles; free; taught by Umm al-Qura University graduates
+          - name: Umm al-Qura University Open Enrollment (Arabic for Non-Native Speakers)
+            area: Al-Abdiyah district, Mekka
+            notes: Formal language program; structured grammar and Quranic text study; international students welcome
+        duration: 4–12 weeks per level
+        notes: >
+          Arabic root system means mastering ~500 roots unlocks thousands of words;
+          context of Masjid al-Haram makes learning deeply motivating
+
+      - name: Arabic Calligraphy as Language Learning
+        description: >
+          Learning Arabic script through calligraphy — writing each letter by hand in
+          multiple styles builds reading fluency alongside aesthetic appreciation.
+          A traditional method used in Islamic educational institutions for centuries.
+        skill_levels: [beginner, intermediate]
+        businesses:
+          - name: Dar al-Khatt al-Islami
+            area: Al-Aziziyah district, Mekka
+            notes: Calligraphy courses explicitly designed to help non-Arabic readers learn the script
+          - name: Mekka Cultural Center (Dar al-Thaqafa)
+            area: Al-Adl district, Mekka
+            notes: Beginners' Arabic script workshops integrated with calligraphy technique
+        duration: 2–3 hours per session (letter form and script basics in first session)
+        notes: >
+          Learning to write Arabic by hand is the fastest route to confident reading;
+          combine with Quranic Arabic for dual skill development
+
+      - name: Islamic Terminology and Du'a Memorization Workshops
+        description: >
+          Focused workshops on the key Arabic supplications (du'a) of Hajj and Umrah —
+          their meanings, pronunciation, and the occasions for each. Understanding what
+          you are saying transforms rote recitation into heartfelt worship.
+        businesses:
+          - name: Masjid al-Haram Information and Guidance Offices
+            area: Masjid al-Haram (near main gates), Mekka
+            notes: Free pamphlets and brief sessions in multiple languages; Arabic scholars available
+          - name: Islamic Foundation of Mekka (Du'a Workshops)
+            area: Near Masjid al-Haram, Al Haram district
+            notes: Group and individual du'a memorization with transliteration and translation
+        duration: 1–3 hours per session
+        notes: >
+          Pocket du'a booklets available in 30+ languages at Masjid al-Haram information desks;
+          digital alternatives include Hisn al-Muslim app (Fortress of the Muslim)
+
+  hejazi_street_food:
+    description: >
+      Authentic street food and casual dining unique to the Hejaz region — the centuries-old
+      culinary tradition shaped by Mekka's role as a crossroads of pilgrims from across the
+      Muslim world. Best found in the souq areas around Masjid al-Haram and in traditional
+      neighborhoods like Al-Mu'alla and Ajyad.
+    items:
+      - name: Mutabbaq (Stuffed Pancake)
+        description: >
+          A beloved Hejazi street food — a large thin pancake filled with spiced minced meat,
+          egg, and onion then folded and fried. Sweet versions with banana or Nutella are also popular.
+          Directly influenced by Indian and Yemeni culinary traditions via centuries of pilgrimage trade.
+        where_to_find:
+          - name: Mutabbaq stalls in Souq Al-Zal
+            area: Al-Mu'alla district, Mekka
+            notes: Traditional iron griddle cooking; fresh made to order; very affordable
+          - name: Ajyad Street food stalls
+            area: Ajyad, near Masjid al-Haram
+            notes: High turnover means always fresh; popular post-Fajr and after Tarawih in Ramadan
+        price_range: SAR 5–15 per piece
+        notes: Watch the cook fold and seal the pancake — a satisfying street performance in itself
+
+      - name: Harees (Wheat and Lamb Porridge)
+        description: >
+          One of the oldest dishes in Arabian cuisine — slow-cooked wheat and lamb blended
+          into a smooth, comforting porridge. A Ramadan staple and Eid celebration dish;
+          the Prophet Muhammad (PBUH) reportedly loved this dish.
+        where_to_find:
+          - name: Al-Romansiah restaurant chain
+            area: Al-Aziziyah district, Mekka
+            notes: Consistently good Harees; Ramadan specials are particularly generous
+          - name: Traditional catering stalls near Masjid al-Haram (Ramadan and Eid season)
+            area: Ibrahim Al Khalil Street and Ajyad Street, Al Haram district
+            notes: Temporary stalls during Ramadan; prepared in large community cauldrons
+        price_range: SAR 15–35 per portion
+        best_season: Ramadan and Eid al-Adha
+        notes: Harees is a communal food — sharing from one large bowl is traditional
+
+      - name: Samboosa (Fried Pastry Parcels)
+        description: >
+          Triangular fried or baked pastry parcels filled with spiced meat, cheese, or lentils.
+          Ubiquitous at Ramadan Iftar tables across Mekka and the broader Arab world.
+          The Hejazi version is typically spicier than Gulf variants.
+        where_to_find:
+          - name: Ramadan market stalls throughout Mekka
+            area: Al Haram district and Al-Aziziyah, Mekka
+            notes: Sold by the bag; best bought immediately before Iftar (freshly fried)
+          - name: Bin Dawood Supermarket deli section
+            area: Al-Aziziyah district, Mekka
+            notes: Ready-made; convenient for self-catering pilgrims
+        price_range: SAR 1–3 per piece
+        notes: Pair with Tamarind juice (Tamar Hindi) — the classic Ramadan combination
+
+      - name: Shakshouka (Eggs in Spiced Tomato Sauce)
+        description: >
+          A hearty breakfast dish of eggs poached in a rich tomato, pepper, and cumin sauce.
+          A pillar of the Hejazi morning table — widely available near the Grand Mosque for
+          pilgrims starting early worship days.
+        where_to_find:
+          - name: Small traditional cafes in Al-Mu'alla district
+            area: Al-Mu'alla, Mekka
+            notes: Served with fresh Khobz (flatbread); communal table seating; very affordable
+          - name: Hotel breakfast buffets
+            area: Al Haram district hotels (Fairmont, Hilton, Pullman)
+            notes: Included in breakfast buffet at most Haram-area hotels
+        price_range: SAR 10–20 (street version)
+        best_time: "Post-Fajr (06:00–09:00) — most authentic atmosphere"
+        notes: Order extra bread for dipping; egg yolk runny vs. firm is a preference — specify when ordering
+
+      - name: Luqaimat (Sweet Fried Dumplings)
+        description: >
+          Small golden fried dough balls drizzled with date syrup (Dibs) and sesame.
+          A classic Arabian sweet snack — crispy outside, soft inside, served hot.
+          Traditional during Eid and Ramadan celebrations.
+        where_to_find:
+          - name: Luqaimat carts near Masjid al-Haram (evening and Eid)
+            area: Ajyad Street and Abraj Al-Bait area, Mekka
+            notes: Made fresh in the cart; buy by the cup or bag; extremely popular after Tarawih
+          - name: Eid market stalls across Mekka
+            area: Al-Aziziyah and city center markets
+            notes: Eid is peak season; long queues at popular vendors indicate quality
+        price_range: SAR 5–15 per cup
+        notes: Eat immediately — they are best within minutes of frying; date syrup dip is non-negotiable
+
+      - name: Thareed (Bread and Meat Stew)
+        description: >
+          A rich slow-cooked stew of lamb, vegetables, and spices poured over torn pieces
+          of thin bread (Regag or Khobz). One of the Prophet Muhammad's (PBUH) favorite dishes —
+          referenced in hadith. A deeply symbolic and nourishing Hejazi staple.
+        where_to_find:
+          - name: Traditional Hejazi restaurants in Al-Adl and Al-Mu'alla districts
+            area: Central Mekka
+            notes: Often available as a daily special; call ahead to confirm availability
+          - name: Mekka Culinary Experience Center
+            area: Al-Aziziyah district, Mekka
+            notes: Cooking class includes preparing and eating Thareed — the full experience
+        price_range: SAR 25–60 per portion (shared dish)
+        notes: Thareed is a communal dish — best shared; the bread absorbs all the stew flavors
+
+  additional_historical_mosques:
+    description: >
+      Historically significant mosques in and around the Hajj circuit — beyond Masjid al-Haram —
+      each tied to key events in Islamic history and the lives of the Prophet (PBUH) and companions.
+    items:
+      - name: Masjid al-Khaif (Mina)
+        description: >
+          One of the oldest mosques in the Hajj circuit, located in Mina near the Jamarat.
+          Tradition holds that 70 prophets prayed here. During Hajj, it is the main mosque
+          for pilgrims staying in Mina for the Tashreeq nights.
+        location:
+          name: Masjid al-Khaif
+          area: Mina, approx. 5 km from Masjid al-Haram
+          coordinates: "21.4064° N, 39.8772° E"
+          address: Mina Road, Mina, Mekka
+        best_time: During Hajj season (Dhul Hijjah 10–13)
+        notes: >
+          Named for its location at the foot (Khaif) of a mountain; pilgrims pray all five
+          daily prayers here during the Tashreeq days; large capacity mosque rebuilt multiple times
+
+      - name: Masjid Namira (Arafat)
+        description: >
+          The large mosque at the edge of the plain of Arafat where the Imam delivers
+          the Hajj khutbah (sermon) on the 9th of Dhul Hijjah — the most significant
+          religious sermon of the Islamic year. Built on the site where the Prophet
+          (PBUH) delivered his Farewell Sermon.
+        location:
+          name: Masjid Namira
+          area: Western edge of Arafat plain
+          coordinates: "21.3525° N, 39.9692° E"
+        date: 9th Dhul Hijjah (Hajj day only)
+        notes: >
+          Only accessible during Hajj; part of the mosque falls within Arafat boundaries
+          and part outside — prayer must be in the Arafat section for it to count toward Wuquf
+
+      - name: Masjid al-Ji'ranah
+        description: >
+          The mosque marking the place where the Prophet (PBUH) distributed the spoils
+          of the Battle of Hunayn and then entered Ihram for Umrah. Many pilgrims make
+          an additional Umrah beginning from this Miqat — following the Prophet's example.
+        location:
+          name: Masjid al-Ji'ranah
+          area: Al-Ji'ranah district, approx. 24 km northeast of Masjid al-Haram
+          coordinates: "21.4889° N, 39.9167° E"
+          address: Al-Ji'ranah Road, Mekka
+        notes: Accessible by taxi; ideal starting point for a second Umrah during a longer stay
+
+      - name: Masjid al-Hudaybiyyah (Masjid al-Shajara)
+        description: >
+          The mosque marking the site of the Treaty of Hudaybiyyah (628 CE) — when the
+          Prophet (PBUH) and 1,400 companions pledged the Bay'at al-Ridwan (Pledge of
+          Satisfaction) under a tree. Mentioned in Surah al-Fath (48) of the Quran.
+        location:
+          name: Masjid al-Hudaybiyyah
+          area: Al-Shumaysi district, approx. 22 km northwest of Masjid al-Haram
+          coordinates: "21.4425° N, 39.6789° E"
+          address: Al-Hudaybiyyah Road, Mekka
+        notes: >
+          A Miqat point for some pilgrims; the tree under which the pledge was taken is
+          gone (the companion Umar RA had it removed to prevent undue veneration) but
+          the location remains historically profound
+
+      - name: Masjid Bilal (Al-Rayah Mosque)
+        description: >
+          Mosque associated with Bilal ibn Rabah (RA) — the first muezzin of Islam, an
+          Abyssinian companion freed from slavery by Abu Bakr (RA). A significant site
+          honoring one of the most beloved figures of early Islamic history.
+        location:
+          name: Masjid Bilal (Al-Rayah)
+          area: Al-Mu'alla district, Mekka
+          coordinates: "21.4281° N, 39.8244° E"
+        notes: Small but historically moving; associated with the early Muslim community in Mekka
+
+      - name: Masjid al-Ijabah
+        description: >
+          A mosque in the Al-Mu'alla area linked to a supplication (Du'a) the Prophet
+          (PBUH) made for three matters at this location — two were answered and the
+          third withheld for mercy. The site of answered prayer carries spiritual resonance
+          for pilgrims making heartfelt supplications.
+        location:
+          name: Masjid al-Ijabah (Mosque of Answered Prayer)
+          area: Al-Mu'alla district, Mekka
+          coordinates: "21.4355° N, 39.8312° E"
+        notes: A place for prolonged personal du'a; less visited and therefore quieter than main sites
