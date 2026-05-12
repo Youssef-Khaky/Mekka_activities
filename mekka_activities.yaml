@@ -2530,3 +2530,214 @@ activities:
           - Small LED torch (useful in Mina tent city)
           - Hajj/Umrah journal for recording duas and reflections
         notes: All items available near Masjid al-Haram if forgotten; Ihram cloth sold at Miqat stations
+
+  accessible_pilgrimage:
+    description: >
+      Accessibility services, mobility assistance, and dedicated support programs for elderly
+      pilgrims, wheelchair users, and those with physical or sensory disabilities. Masjid al-Haram
+      has invested heavily in inclusive infrastructure to ensure Hajj and Umrah are achievable for all.
+    items:
+      - name: Wheelchair Tawaf (Ground Floor and Upper Levels)
+        description: >
+          Dedicated wheelchair lanes encircle the Kaaba on the ground-floor Mataf and on the
+          first and second floors for those unable to perform Tawaf on foot. Pushers (hired or
+          family) may accompany wheelchair users; battery-powered mobility scooters are permitted
+          in designated zones outside peak hours.
+        location:
+          name: Masjid al-Haram — Mataf (ground floor) and Levels 1–2
+          area: Al Haram district, Mekka 24231
+          coordinates: "21.4225° N, 39.8262° E"
+        notes: >
+          Arrive very early (before Fajr) or in off-peak hours to avoid crowds; special permits
+          for motorized scooters are available from Hajj Ministry offices inside the mosque
+
+      - name: Wheelchair and Mobility Aid Rental
+        description: >
+          Manual and electric wheelchairs, walkers, and crutches available for rent at multiple
+          points inside and around Masjid al-Haram. Wheelchairs can also be borrowed free of
+          charge from Saudi Red Crescent stations during peak seasons.
+        businesses:
+          - name: Wheelchair Rental Kiosks — Main Mosque Gates
+            area: Gates King Fahd, King Abdullah, Ajyad, and Umm al-Qura, Masjid al-Haram
+            notes: Available 24/7 during Hajj and Ramadan; small daily rental fee; deposit required
+          - name: Saudi Red Crescent Lending Points
+            area: Multiple stations around Masjid al-Haram perimeter
+            notes: Free short-term wheelchair loan; requires ID; return within the day
+        notes: Electric scooters must be declared at mosque security; battery types are regulated
+
+      - name: Sa'i Accessibility (Electric Carts and Elevator Access)
+        description: >
+          Al-Mas'a (Sa'i corridor) has electric golf-style carts for pilgrims unable to walk the
+          450 m stretch seven times. Elevators and escalators connect all three floors, and
+          wide lanes are reserved for mobility aids.
+        location:
+          name: Al-Mas'a Corridor, Masjid al-Haram
+          area: Inside Masjid al-Haram — ground through second floor
+          coordinates: "21.4234° N, 39.8271° E"
+        notes: >
+          Cart service is free; request at either the Safa or Marwa ends; cart capacity limited,
+          expect waits during peak hours — arrive outside Fajr or Isha rush
+
+      - name: Mina Golf Cart and Transport Services (Hajj)
+        description: >
+          During Hajj, motorized golf carts shuttle mobility-impaired pilgrims between tent
+          city accommodation areas and Jamarat Bridge, reducing the 1–4 km walk. Official
+          transport lanes are separate from pedestrian routes.
+        location:
+          name: Mina Tent City — Jamarat transport corridors
+          area: Mina, approx. 5 km from Masjid al-Haram
+          coordinates: "21.4133° N, 39.8924° E"
+        date: 10th–13th Dhul Hijjah
+        notes: >
+          Pre-arrange with your Hajj operator before arriving; Saudi Ministry of Hajj allocates
+          specific time windows for mobility-impaired pilgrims at Jamarat to minimize crowd risk
+
+      - name: Special Assistance Desk — Ministry of Hajj and Umrah
+        description: >
+          Dedicated assistance counters at Masjid al-Haram and Mina process requests for elderly
+          and disabled pilgrims — including companion passes, expedited entry, special accommodation
+          tent allocations, and medical escort arrangements.
+        location:
+          name: Ministry of Hajj Service Centers
+          area: Multiple gates of Masjid al-Haram and Mina camp entrance
+        url: https://www.nusuk.sa
+        notes: >
+          Register special needs requirements when booking via the Nusuk platform; an assistance
+          badge is issued that fast-tracks access at checkpoints
+
+      - name: Visual and Hearing Impairment Support
+        description: >
+          Tactile guidance strips are laid through key routes inside Masjid al-Haram for visually
+          impaired pilgrims. Audio description guides (available in Arabic, English, Urdu, French,
+          Indonesian) can be downloaded via the Nusuk app or borrowed as dedicated audio devices.
+          Sign-language interpreters are available by prior arrangement for official lectures.
+        businesses:
+          - name: Nusuk App — Audio Accessibility Mode
+            platforms: [iOS, Android]
+            url: https://www.nusuk.sa
+            notes: Turn-by-turn audio navigation within Masjid al-Haram; available in 10 languages
+          - name: Masjid al-Haram Guest Services (Gate 79 — King Abdulaziz Gate)
+            area: King Abdulaziz entrance, Masjid al-Haram
+            notes: Request audio guides and sign-language assistance; open 06:00–22:00
+
+      - name: Elderly Pilgrim Programs (Kibār al-Sinn)
+        description: >
+          Saudi Arabia's Ministry of Hajj operates dedicated Hajj groups for pilgrims aged 65+,
+          including closer tent allocations, reduced walking itineraries, direct bus access to
+          Jamarat, and priority medical attention. Many national Hajj missions also have senior
+          pilgrim tracks.
+        notes: >
+          Register through your country's official Hajj mission at the time of quota application;
+          senior groups are typically escorted by additional medical staff throughout the rites
+
+  charitable_giving:
+    description: >
+      Acts of Sadaqah (voluntary charity) and Zakat (obligatory almsgiving) carry special
+      spiritual weight when performed in Mekka. The city hosts a dense network of official
+      charity channels, food distribution programs, and international aid organizations —
+      particularly active during Hajj and Ramadan.
+    items:
+      - name: Zakat Payment via Saudi Zakat Authority
+        description: >
+          Muslims can fulfil their annual Zakat obligation through the Saudi Zakat, Tax and
+          Customs Authority (ZATCA) while visiting Mekka — funds are distributed to the eight
+          Quranic categories of recipients (asnaf) across the Kingdom and abroad.
+        url: https://zatca.gov.sa/en
+        payment_methods:
+          - ZATCA online portal (credit card, bank transfer)
+          - Physical counters at select locations in Mekka during Hajj
+        notes: >
+          Zakat al-Fitr (end-of-Ramadan obligation) must be paid before Eid prayer; standard rate
+          is approximately 2.5 kg of staple food or its cash equivalent per household member
+
+      - name: Sadaqah Boxes at Masjid al-Haram
+        description: >
+          Dedicated Sadaqah (voluntary charity) collection boxes are located throughout Masjid
+          al-Haram — at entrance gates, corridor pillars, and near Zamzam stations. Funds go to
+          mosque operations, Islamic da'wah, and local welfare programs.
+        location:
+          name: Masjid al-Haram
+          area: Throughout the mosque — gates, corridors, Zamzam stations
+        notes: All donations are tax-receipted in Saudi Arabia; no minimum amount
+
+      - name: Food Distribution and Iftar Sponsorship
+        description: >
+          Sponsoring Iftar meals for other worshippers in Masjid al-Haram is one of the most
+          beloved acts of charity in Mekka. Organizations coordinate community Iftar tables
+          throughout Ramadan, and individual sponsorship packages are available at low cost.
+        businesses:
+          - name: King Abdulaziz Complex Iftar Distribution Program
+            area: Masjid al-Haram — main courtyards and corridors
+            notes: >
+              Official program accepts Iftar meal sponsorships; contact the mosque admin office
+              (Gate 1 — Bab al-Fahd) or via the Haramain official app for booking
+          - name: Islamic Development Bank — Food Security Fund
+            area: Jeddah HQ + Mekka distribution (active during Hajj)
+            url: https://isdb.org
+            notes: Accepts one-time and recurring Sadaqah; Hajj-season food parcels to needy pilgrims
+          - name: Al-Barr Charitable Society (Mekka)
+            area: Al-Aziziyah district, Mekka
+            notes: >
+              Local NGO distributing hot meals, Zamzam water, and clothing to impoverished pilgrims
+              and local families year-round; volunteers welcome during Ramadan and Hajj
+        notes: Sponsoring Iftar for one person is approximately SAR 15–30 (USD 4–8) per meal
+
+      - name: Zamzam Water Distribution Volunteering
+        description: >
+          Volunteering or donating to organizations that transport and distribute Zamzam water
+          to arriving pilgrims and to those unable to reach the mosque — a deeply cherished
+          Prophetic tradition.
+        businesses:
+          - name: Zamzam Water Distribution Program — Saudi Presidency of Religious Affairs
+            area: Masjid al-Haram and Masjid al-Nabawi (Medina)
+            notes: >
+              Accepts donations for bottling and shipping Zamzam water to needy communities;
+              volunteers may assist with distribution trolleys inside the mosque by registering
+              at the mosque administration office
+          - name: Haramain Charitable Foundation
+            area: Mekka and Medina
+            url: https://haramain.org
+            notes: Funded projects include Zamzam cooler maintenance and free water for low-income pilgrims
+        notes: >
+          Carrying and handing Zamzam water to thirsty worshippers in the mosque is a recognised
+          act of Sadaqah even without formal organizational involvement
+
+      - name: Supporting Destitute Pilgrims (Miskeen Assistance)
+        description: >
+          Thousands of pilgrims arrive each year with insufficient funds to cover food, transport,
+          or return travel. Giving directly to those in visible need, or through official channels
+          that identify vetted cases, is a recognized and encouraged act of charity.
+        businesses:
+          - name: Mekka Pilgrim Welfare Office — Ministry of Hajj
+            area: Masjid al-Haram, Gate 79 and Mina assistance centers
+            url: https://www.nusuk.sa
+            notes: Reports stranded or destitute pilgrims; coordinates repatriation and emergency funds
+          - name: Charity Committees at National Hajj Missions
+            area: Mina and Al-Aziziyah (varies by country)
+            notes: >
+              Most country-level Hajj missions maintain a small welfare fund; approach the mission
+              representative if you wish to contribute or report a case
+        notes: >
+          Avoid giving large sums of cash directly to individuals in crowded areas; prefer
+          official channels or trusted local organizations to ensure funds reach those in genuine need
+
+      - name: Qurbani (Sacrifice) Beyond Personal Obligation
+        description: >
+          Performing additional Qurbani (animal sacrifice) beyond the required Hajj Hady —
+          gifting meat to the poor through the official slaughterhouse system. The Islamic
+          Development Bank's Sacrifice Program is the most widely used platform for remote
+          and additional Qurbani.
+        businesses:
+          - name: IDB — Sacrifice and Meat Distribution Program
+            area: Official Mina abattoir complex
+            url: https://isdb.org/sacrifice
+            notes: >
+              Online booking accepts Qurbani from pilgrims and non-pilgrims worldwide; meat
+              is slaughtered, refrigerated, and distributed to low-income families globally
+          - name: Adahi Program — Saudi Livestock Transport & Slaughter Co. (ELTAHIA)
+            area: Mina and Mekka slaughterhouse district
+            url: https://www.adahi.com
+            notes: The official Saudi government Qurbani platform; online payment; receipt confirmed by SMS
+        notes: >
+          Additional Qurbani is a highly recommended voluntary act; can be performed during
+          the first 13 days of Dhul Hijjah or specifically on Eid al-Adha (10th Dhul Hijjah)

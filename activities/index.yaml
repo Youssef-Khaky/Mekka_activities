@@ -1,5 +1,5 @@
 # Mekka Activities — File Index
-# 24 categories / 170 items split across 8 files to keep each file manageable.
+# 26 categories / 183 items split across 9 files to keep each file manageable.
 
 files:
   - file: 01_pilgrimage_rites.yaml
@@ -33,3 +33,7 @@ files:
   - file: 08_seasonal_events_family_health.yaml
     categories: [ramadan_activities, events, family_and_kids, health_and_medical_services]
     items: 30
+
+  - file: 09_accessible_charitable.yaml
+    categories: [accessible_pilgrimage, charitable_giving]
+    items: 13
