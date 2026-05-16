@@ -2530,3 +2530,349 @@ activities:
           - Small LED torch (useful in Mina tent city)
           - Hajj/Umrah journal for recording duas and reflections
         notes: All items available near Masjid al-Haram if forgotten; Ihram cloth sold at Miqat stations
+
+  arabic_language_learning:
+    description: >
+      Language programs and immersion opportunities for learning Arabic in Mekka —
+      from Quranic Arabic for non-speakers to conversational Modern Standard Arabic.
+      The immersive environment of the holy city makes Mekka one of the finest places
+      on earth to internalize the language of the Quran.
+    items:
+      - name: Quranic Arabic Courses (Masjid al-Haram Scholars)
+        description: >
+          Structured courses in Quranic Arabic (Classical Fusha) — covering grammar (Nahw),
+          morphology (Sarf), and vocabulary (Mufradat) specific to the Quran.
+          Offered by scholars inside and near Masjid al-Haram year-round.
+        skill_levels: [beginner, intermediate, advanced]
+        businesses:
+          - name: Dar al-Hadith al-Khayriyyah Arabic Institute
+            area: Near Masjid al-Haram, Mekka
+            notes: >
+              Established institute offering intensive Quranic Arabic modules;
+              taught in Arabic with multilingual support materials
+          - name: Masjid al-Haram Scholars' Durus (Free)
+            area: Masjid al-Haram — designated learning sections near columns
+            notes: >
+              Free lessons led by senior scholars covering Arabic linguistics in the
+              context of Quran and Hadith; schedules posted at mosque gates and on
+              the Haram's official website
+        duration: 1–2 hours per session (courses available from week-long to month-long)
+        notes: >
+          Even basic Quranic Arabic proficiency transforms the worship experience;
+          being surrounded by Arabic speakers in Mekka accelerates learning dramatically
+
+      - name: Formal Arabic Language School (Modern Standard Arabic)
+        description: >
+          Classroom Arabic tuition for pilgrims and residents building conversational
+          and written Modern Standard Arabic (MSA) proficiency — from alphabet to fluency.
+        skill_levels: [beginner, intermediate, advanced]
+        businesses:
+          - name: Umm al-Qura University Language Center
+            area: Al-Abdiyah district, Mekka
+            address: Umm al-Qura University, Al-Abdiyah, Mekka
+            notes: >
+              Arabic for Non-Native Speakers program; internationally accredited;
+              intensive residential options available; advance enrollment required
+          - name: Al-Azhar Mekka Institute Arabic Program
+            area: Al-Aziziyah district, Mekka
+            notes: >
+              Short-term intensive Arabic for Muslim visitors; focus on Islamic Arabic —
+              Quran, Hadith, and Fiqh vocabulary; open to all nationalities
+        duration: Intensive weeks to full-semester programs
+        notes: >
+          Mekka's multicultural environment provides extraordinary immersion;
+          daily interactions with Arabic-speaking shopkeepers, mosque staff, and pilgrims
+          supplement formal class learning at every turn
+
+      - name: Tajweed (Quranic Recitation Rules) Courses
+        description: >
+          Mastering correct Quranic recitation — articulation points (Makharij al-Huruf),
+          elongations (Madd), assimilation (Idgham), and melodic beautification.
+          Certified Tajweed teachers are available throughout the year near Masjid al-Haram.
+        skill_levels: [beginner, intermediate, advanced]
+        businesses:
+          - name: Masjid al-Haram Tajweed Circles
+            area: Masjid al-Haram — designated learning sections
+            notes: >
+              Free Tajweed lessons by qualified teachers; individual recitation
+              correction available; open to all levels year-round
+          - name: Dar al-Tajweed Institute
+            area: Al-Adl district, Mekka
+            notes: >
+              Graded Tajweed curriculum; certificates awarded upon completing each level;
+              online follow-up modules available post-visit
+        duration: 1–2 hours per session (individual or group)
+        notes: >
+          Learning Tajweed in the city of the Quran's first revelation carries
+          a profound spiritual dimension; recording personal recitation progress
+          makes a meaningful memento of the journey
+
+      - name: Language Exchange with Pilgrims from Across the Muslim World
+        description: >
+          Mekka draws pilgrims from 180+ countries — a unique opportunity to practice
+          Arabic with native speakers from Egypt, the Levant, the Gulf, and North Africa,
+          and to encounter the rich diversity of Arabic dialects alive in Islam.
+        how_to_participate: >
+          Engage conversation partners at the mosque, hotel lobbies, and restaurants;
+          community language exchange groups form via Mekka social media pages and
+          the Nusuk pilgrim community platform
+        dialect_diversity:
+          - Gulf Arabic (Saudi, Emirati, Kuwaiti) — locally dominant
+          - Egyptian Arabic — most widely understood dialect globally
+          - Levantine Arabic (Syrian, Lebanese, Palestinian)
+          - Moroccan / Maghrebi Arabic
+          - Modern Standard Arabic — universally understood by educated speakers
+        notes: >
+          The openness and brotherhood of the pilgrim community makes Mekka one of
+          the most welcoming language-practice environments on earth; native Arabic
+          speakers almost universally welcome the sincere effort of learners
+
+  traditional_medicine_wellness:
+    description: >
+      Traditional Islamic and Arabian medicine practices available in and around Mekka —
+      rooted in Prophetic medicine (Tibb al-Nabawi) and Bedouin healing traditions.
+      These complement modern medical care and are deeply valued by Muslim visitors.
+    items:
+      - name: Hijama (Prophetic Cupping Therapy)
+        description: >
+          Wet cupping therapy — one of the most explicitly recommended medical
+          practices in the Prophetic traditions. Cups create suction on specific
+          body points, followed by small controlled incisions to draw out blood
+          believed to carry toxins. Used for pain relief, circulation, and wellbeing.
+        religious_basis: >
+          The Prophet (PBUH) said: "The best medicine you can use is cupping" (Sahih Bukhari 5696);
+          recommended on specific Islamic calendar days: 17th, 19th, and 21st of the lunar month
+        businesses:
+          - name: Al-Hijama Prophetic Medicine Center
+            area: Al-Aziziyah district, Mekka
+            notes: >
+              Certified practitioners following Islamic medicine protocols;
+              single-use sterile equipment strictly maintained; consultation before session
+          - name: Tibb al-Nabawi Clinic (Mekka Branch)
+            area: Al-Noor district, Mekka
+            notes: Prophetic medicine specialization; dry and wet cupping; herbal consultations
+          - name: Dar al-Shifa Hijama Center
+            area: Near Masjid al-Haram, Al Haram district, Mekka
+            notes: Convenient for pilgrims; Arabic and English-speaking practitioners
+        duration: 45–90 minutes per session
+        notes: >
+          Fast for 4–6 hours before cupping; avoid immediately before or after Ihram;
+          always verify sterile single-use equipment before proceeding
+
+      - name: Prophetic Herbal Medicine (Tibb al-Nabawi)
+        description: >
+          Consultation with traditional Islamic medicine practitioners on herbs and natural
+          remedies mentioned in the Quran and Hadith — Black Seed (Habbatus Sauda),
+          Sidr honey, Zamzam water therapy, Miswak, and fenugreek (Hulbah).
+        key_remedies:
+          - "Black Seed (Nigella sativa) — a cure for everything except death (Bukhari 5688)"
+          - "Sidr Honey (from Taif) — antibacterial; respiratory and digestive benefits"
+          - "Zamzam Water — blessed water; intention (niyyah) made before drinking"
+          - "Miswak (Salvadora persica) — oral hygiene; Sunnah before each prayer"
+          - "Fenugreek (Hulbah) — digestive health and energy"
+          - "Olive Oil — mentioned in the Quran (24:35); anti-inflammatory"
+        businesses:
+          - name: Al-Shifa Prophetic Medicine Shop
+            area: Souq near Masjid al-Haram, Mekka
+            notes: Specialist in Prophetic medicine herbs and remedies; practitioner consultation
+          - name: Taif Sidr Honey Market
+            area: Taif souq (75 km from Mekka)
+            notes: Direct-from-apiary Sidr honey; one of the world's finest honey varieties
+          - name: Mekka Islamic Medicine Center
+            area: Al-Adl district, Mekka
+            notes: Holistic consultation combining Prophetic medicine with evidence-based guidance
+        notes: >
+          Black Seed oil and Sidr honey are widely available at souqs near Masjid al-Haram;
+          quality varies significantly — buy from reputable specialists and verify origins
+
+      - name: Miswak Practice and Natural Oral Hygiene
+        description: >
+          Using the Miswak (Arak tree tooth-stick) — a Prophetic Sunnah with scientifically
+          documented antibacterial properties. Mekka's souqs carry fresh and dried Miswak
+          sticks sourced from Arak trees native to the Arabian Peninsula.
+        businesses:
+          - name: Miswak sellers at Masjid al-Haram souq entrances
+            area: Al Haram district, Mekka
+            notes: Fresh and sealed sticks; very low cost; use before each prayer
+          - name: Islamic goods shops throughout Mekka
+            area: Ajyad Street, Abraj Al-Bait Mall, Al-Aziziyah
+            notes: Sealed packaged Miswak in bulk; widely available as gifts
+        notes: >
+          One of the most readily practiced Sunnahs in Mekka; used by pilgrims
+          before prayers throughout the mosque; keep fresh sticks moist in a cloth
+
+      - name: Post-Pilgrimage Recovery and Physiotherapy
+        description: >
+          Targeted recovery for the physical demands of Hajj and Umrah — extensive
+          walking (15–25 km/day), stair climbing, and standing for hours in heat.
+          Hotels and physiotherapy clinics in Mekka offer structured recovery programs.
+        businesses:
+          - name: Fairmont Spa and Wellness (Fairmont Makkah Clock Royal Tower)
+            area: Abraj Al-Bait Complex, Mekka
+            notes: >
+              Full-service spa; therapeutic massage; foot and leg recovery treatments;
+              separate male and female facilities
+          - name: Al-Nour Physiotherapy Center
+            area: Al-Aziziyah district, Mekka
+            notes: >
+              Sports and rehabilitation physiotherapy; post-pilgrimage foot and
+              joint treatment; advanced booking recommended during peak seasons
+          - name: Al-Shafa Mountain Wellness Retreat
+            area: Al-Shafa, Taif (75 km from Mekka)
+            notes: >
+              Cooler mountain setting; traditional Arabian oil massage with Taif rose oil;
+              day packages including massage, herbal bath, and mountain-view rest areas
+        duration: 45–90 minutes per session
+        notes: >
+          Particularly valuable during intensive pilgrimage seasons; foot and leg
+          massage after extensive Tawaf and Sa'i walking prevents lasting injury
+
+      - name: Qaylulah (Midday Rest — Islamic Restorative Practice)
+        description: >
+          The Islamic practice of a short midday rest (Qaylulah) — explicitly encouraged
+          in Hadith for maintaining energy and spiritual alertness throughout the day.
+          Masjid al-Haram's air-conditioned halls and shaded courtyards are ideal.
+        religious_basis: >
+          "Take a midday nap (Qaylulah), for the shaytan does not take a midday nap"
+          (Ibn Hibban, Sahih); widely practiced by the Prophet's companions in Mekka
+        location:
+          name: Masjid al-Haram shaded courtyards and interior halls
+          area: Al Haram district, Mekka
+        duration: 20–45 minutes (between Dhuhr and Asr prayers)
+        notes: >
+          A simple but profoundly sensible practice in Mekka's extreme heat;
+          pilgrims commonly rest in the mosque between Dhuhr and Asr;
+          a compact travel pillow adds significant comfort
+
+  islamic_sciences_study:
+    description: >
+      Opportunities for in-depth Islamic scholarly study during time in Mekka —
+      from Hadith and Tafsir to Seerah and Fiqh. The holy city hosts some of the
+      world's most eminent scholars and learning institutions, and studying here
+      carries a spiritual weight impossible to replicate elsewhere.
+    items:
+      - name: Attending Public Scholarly Lessons (Durus)
+        description: >
+          Mekka's resident scholars and distinguished visiting sheikhs regularly deliver
+          public lessons (Durus) inside Masjid al-Haram — covering Fiqh, Aqeedah,
+          Tafsir, Hadith, and Seerah after each prayer. Among the greatest privileges
+          of being in the holy city.
+        location:
+          name: Masjid al-Haram — scholars' areas near columns after each prayer
+          area: Al Haram district, Mekka
+        notes: >
+          Lesson schedules posted at mosque entrances and on the Haram's official
+          website and app; notable scholars' circles attract thousands;
+          Arabic comprehension beneficial — some scholars also teach in English or Urdu
+
+      - name: Hadith Science Courses (Mustalah al-Hadith)
+        description: >
+          Studying the science of Hadith — how the Prophet's (PBUH) traditions were
+          preserved, the chains of narration (Isnad), grading (Sahih, Hasan, Da'if),
+          and the lives of narrators (Rijal). Mekka's institutions offer some of the
+          most authoritative Hadith education in the world.
+        businesses:
+          - name: Dar al-Hadith al-Khayriyyah
+            area: Near Masjid al-Haram, Mekka
+            notes: >
+              Historic institution established in the 12th century AH; intensive courses
+              in Hadith authentication, Isnad chains, and major Hadith collections;
+              some modules available to visiting students
+          - name: Umm al-Qura University Islamic Studies (External Modules)
+            area: Al-Abdiyah district, Mekka
+            notes: Open academic modules for qualified external students; advance application required
+        duration: Intensive week-long modules to full semester programs
+        notes: >
+          Reading the major Hadith collections (Bukhari, Muslim, Abu Dawud, Tirmidhi)
+          with a scholar's explanation in the city of the Prophet's companions
+          is an experience unavailable elsewhere
+
+      - name: Tafsir Circles (Quranic Commentary)
+        description: >
+          Joining Quranic commentary (Tafsir) circles where qualified scholars explain
+          the meanings, revelation context (Asbab al-Nuzul), and linguistic subtleties
+          of Quranic verses. Being in the city of the Quran's first revelation gives
+          these circles a dimension of spiritual immediacy.
+        businesses:
+          - name: Post-prayer Tafsir circles at Masjid al-Haram
+            area: Masjid al-Haram, Mekka
+            notes: Various sheikhs hold Tafsir sessions after specific prayers; Arabic medium
+          - name: Al-Rabita al-Islamiyya (Muslim World League) Study Programs
+            area: Al Haram district, Mekka
+            notes: >
+              The Muslim World League runs educational programs near the Haram;
+              contact the League in advance for organized study circle access
+        notes: >
+          Ibn Kathir's Tafsir and Al-Jalalayn are commonly studied texts in Mekka;
+          recorded explanations from Haram scholars are available on recognized
+          Islamic platforms for continued study after returning home
+
+      - name: Seerah (Prophetic Biography) Intensives
+        description: >
+          Immersive study of the life of the Prophet Muhammad (PBUH) in the city of
+          his birth, early revelation, and migration — walking the streets of Mekka
+          while studying the events that unfolded there makes it the world's ultimate
+          living classroom for Seerah.
+        businesses:
+          - name: Seerah Guided Tours with Islamic Scholars
+            area: Mekka city — Al-Mu'alla, Jabal al-Nour, Masjid al-Haram, and surrounding sites
+            notes: >
+              Guided tours led by Islamic scholars narrating Seerah events at their
+              actual locations — birthplace of the Prophet (PBUH), site of Khadijah's
+              house, Cave of Hira, early Mekkan Muslim meeting points
+          - name: Mekka Seerah Academy (Intensive Format)
+            area: Al Haram district, Mekka
+            notes: >
+              Weekend and week-long residential Seerah intensives; historical and
+              spiritual framework taught; all levels welcome
+        duration: Half-day guided tours to week-long residential programs
+        notes: >
+          Ibn Hisham's Seerah and Ibn Kathir's al-Bidaya wa'l-Nihaya are recommended
+          pre-reading; the physical sites of the Seerah in Mekka make abstract
+          history viscerally real
+
+      - name: Fiqh of Hajj and Umrah Workshops
+        description: >
+          Practical Islamic jurisprudence (Fiqh) specific to the pilgrimage — covering
+          the conditions of validity, obligatory acts, Sunnahs, prohibitions in Ihram,
+          and how to handle common mistakes or doubts. Essential for performing
+          pilgrimage correctly and with confidence.
+        businesses:
+          - name: Ministry of Hajj and Umrah Scholar Advisory Desks
+            area: Masjid al-Haram service points at main gates
+            notes: >
+              Q&A sessions with qualified Fiqh scholars in Arabic, English, Urdu,
+              French, Malay, and other languages; no appointment needed
+          - name: Post-prayer Fiqh Circles at Masjid al-Haram
+            area: Masjid al-Haram — scholars' areas after Fajr and Asr
+            notes: >
+              Scholars address common Hajj and Umrah Fiqh questions immediately after
+              prayers; questions on ritual validity answered directly and practically
+        duration: 30 minutes – 2 hours per session
+        notes: >
+          Fiqh questions should be asked at the beginning of the pilgrimage trip,
+          not at the end; Mekka-based Fiqh learning has unique urgency —
+          rulings are applied immediately in the rituals being performed
+
+      - name: Aqeedah (Islamic Creed) Study Circles
+        description: >
+          Studying the fundamentals of Islamic belief (Aqeedah) — the nature of Allah,
+          divine attributes, the reality of Prophethood, the Day of Judgment, and
+          destiny (Qadar). Particularly meaningful in the context of Mekka's constant
+          living evidence of Allah's power and mercy.
+        businesses:
+          - name: Scholars' Aqeedah circles at Masjid al-Haram
+            area: Masjid al-Haram, Mekka
+            notes: Regular Aqeedah lessons by scholars stationed near the mosque; Arabic medium
+          - name: Al-Maktabah al-Makkiyyah Islamic Library
+            area: Near Masjid al-Haram, Mekka
+            notes: >
+              Classical Aqeedah texts available in Arabic and translation;
+              scholars available for guided study consultations on specific texts
+        recommended_texts:
+          - Al-Aqeedah al-Wasatiyyah (Ibn Taymiyyah)
+          - Al-Aqeedah al-Tahawiyyah (Imam al-Tahawi)
+          - Kitab al-Tawhid (Muhammad ibn Abd al-Wahhab)
+        notes: >
+          Arabic literacy significantly enhances engagement with classical Aqeedah texts;
+          many scholars in Mekka are specialists in this field and accessible after prayers
