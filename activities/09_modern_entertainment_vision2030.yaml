@@ -1,0 +1,369 @@
+# Modern Entertainment, Vision 2030 Attractions & Digital Pilgrim Tools
+# English-language supplement to the Arabic activity files (01–08).
+# Covers categories that have emerged or expanded under Saudi Vision 2030
+# and the digital transformation of Hajj / Umrah services.
+
+activities:
+
+  modern_entertainment:
+    description: >
+      Entertainment venues and experiences available in and around Mecca under
+      Saudi Arabia's Vision 2030 initiative, which opened cinemas, entertainment
+      parks, and cultural attractions across the Kingdom from 2018 onward.
+      All venues observe Islamic standards (halal food, gender-appropriate spaces).
+    items:
+    - name: VOX Cinemas — Makkah Mall
+      description: >
+        Multiplex cinema showing Arabic and international films. First cinemas in
+        Saudi Arabia opened in 2018; VOX is the largest regional chain and offers
+        family, standard, and premium THEATRE formats.
+      location:
+        name: Makkah Mall (Mecca Mall)
+        address: Al-Aziziyah District, Mecca
+        coordinates: 21.3927° N, 39.8579° E
+      operating_hours: "10:00–01:00 daily (last screening varies)"
+      url: https://www.voxcinemas.com/cinemas/vox-makkah-mall
+      notes: Book online to guarantee seats; separate family and individual sections available
+
+    - name: Fun Zone — Al Nakheel Mall
+      description: >
+        Indoor family entertainment center with trampolines, arcade games, climbing
+        walls, and soft-play areas. Ideal for families with children during Mecca's
+        intense summer heat.
+      location:
+        name: Al Nakheel Mall
+        address: Al Rusayfah District, Mecca
+      age_range: All ages (supervised zones for under 6)
+      duration: 1–3 hours
+      notes: Air-conditioned; shoe rental for trampoline area; birthday party packages available
+
+    - name: Escape Room Mecca
+      description: >
+        Immersive puzzle-solving escape rooms with Arabic and Islamic-themed
+        scenarios. Suitable for families, friend groups, and team-building;
+        sessions run 60 minutes with 2–8 participants per room.
+      location:
+        name: Entertainment District, Al Aziziyah
+        area: Mecca
+      duration: 60 minutes per session
+      notes: Advance booking recommended; group discounts available; themes include historical Mecca
+
+    - name: Go-Kart & Family Entertainment — Al Shallal Theme Park (Jeddah)
+      description: >
+        Al Shallal in Jeddah (80 km) is the region's largest entertainment complex:
+        indoor amusement park, water park, ice rink, bowling, and go-kart track.
+        A popular full-day trip from Mecca.
+      location:
+        name: Al Shallal Entertainment City
+        address: Corniche Road, Jeddah
+        coordinates: 21.5900° N, 39.1170° E
+        distance_from_mecca: 80 km (~1 hour)
+      url: https://www.alshallal.com.sa
+      duration: Half day to full day
+      notes: Halal food throughout; family and mixed sections; check seasonal operating hours
+
+    - name: Virtual Reality & Gaming Lounges
+      description: >
+        VR arcades and gaming cafés offering console gaming, VR headsets, and
+        esports stations — growing rapidly in Mecca and nearby Jeddah as part
+        of the Vision 2030 entertainment expansion.
+      businesses:
+      - name: Meta Zone VR Lounge
+        area: Abraj Al-Bait Mall, Mecca
+        notes: Walk-in VR sessions; 30–60 minute packages; no age restriction (parental guidance under 12)
+      - name: Gamescape Jeddah
+        area: Mall of Arabia, Jeddah
+        notes: Full esports lounge; VR pods; console rentals; competitive events some weekends
+      duration: 30 minutes to 2 hours
+      notes: Increasing number of outlets in shopping malls; confirm availability on arrival
+
+  vision_2030_attractions:
+    description: >
+      New cultural, tourism, and heritage developments in Mecca, Jeddah, and
+      Taif under Saudi Arabia's Vision 2030 program, which targets 150 million
+      annual visits by 2030 and has invested heavily in tourism infrastructure.
+    items:
+    - name: Abraj Al-Bait (Clock Tower Complex) — Observation Deck & Museums
+      description: >
+        The 601-meter Makkah Clock Tower (Fairmont Clock Royal Tower) anchors the
+        Abraj Al-Bait mega-complex. The observation deck on floors 76–78 offers
+        the highest public view of the Grand Mosque. The complex also houses the
+        Mecca Museum (floor 4) covering the history of the Two Holy Mosques.
+      location:
+        name: Abraj Al-Bait Complex
+        address: Ibrahim Al-Khalil Street, Mecca 24231
+        coordinates: 21.4196° N, 39.8262° E
+      highlights:
+      - Observation deck: panoramic 360° view of the Grand Mosque and city
+      - Mecca Museum: exhibits on the history of Al-Masjid Al-Haram expansions
+      - Luxury retail, restaurants, and the Fairmont Hotel lobby
+      url: https://www.fairmont.com/makkah
+      notes: Observation deck access through Fairmont lobby; hotel guests have priority
+
+    - name: King Abdulaziz Historical Center (Riyadh) — Day Trip
+      description: >
+        A world-class national museum and heritage park in Riyadh (1,000 km)
+        documenting Arabian Peninsula history from pre-Islamic times through the
+        founding of modern Saudi Arabia. A serious historical and cultural anchor
+        for understanding Mecca's broader context.
+      location:
+        area: Riyadh (~1 hour by flight from Jeddah or Mecca)
+      url: https://www.nmp.gov.sa/en
+      notes: Best reached by flight (Saudia / flynas from Jeddah); worth combining with a Riyadh visit
+
+    - name: Jeddah Historic District (Al-Balad) — UNESCO World Heritage Site
+      description: >
+        The ancient coral-stone city of Jeddah, inscribed on the UNESCO World
+        Heritage List in 2014. Merchants' houses feature intricate wooden
+        Rawasheen (balcony screens) unique to the Hijaz. Galleries, craft shops,
+        and heritage cafés have been restored under Vision 2030.
+      location:
+        name: Al-Balad Historic District
+        area: Old Jeddah, ~80 km west of Mecca
+        coordinates: 21.4858° N, 39.1864° E
+      url: https://www.visitsaudi.com/en/see-do/attractions/al-balad
+      duration: 2–4 hours walking
+      best_time: Morning (cooler, less crowded) or evening after 17:00
+      notes: Free entry to the district; individual heritage houses may charge small fees; guided tours available
+
+    - name: Hegra (Al-Ula) — Nabataean Archaeological City
+      description: >
+        Saudi Arabia's first UNESCO World Heritage Site — rock-cut Nabataean tombs
+        and inscriptions at ancient Hegra (Mada'in Salih), 1,300 km north of
+        Mecca. Now open to international tourists with guided tours, glamping, and
+        the annual Winter at Tantora cultural festival.
+      location:
+        area: Al-Ula, Medina Region (~1 hour flight from Jeddah)
+      url: https://www.experiencealula.com
+      notes: Requires advance booking through Experience AlUla platform; best October–April
+
+    - name: Taif Rose Valley & Honey Festival
+      description: >
+        Taif's famous Damask roses and bee-keeping traditions now anchor an annual
+        agro-tourism season (March–April for roses; year-round for honey). The
+        Taif Honey Festival (August–September) showcases rare Sidr and mountain
+        honeys. Both events are accessible as day trips from Mecca.
+      location:
+        area: Taif, ~75 km southeast of Mecca
+      season:
+        roses: March–April
+        honey_festival: August–September
+      url: https://www.visitsaudi.com/en
+      notes: Book Taif accommodation weeks ahead during rose season; rose water and honey available direct from farms
+
+    - name: Mecca Season (Mawsim Makkah)
+      description: >
+        Vision 2030's entertainment calendar for Mecca: cultural exhibitions, art
+        installations, traditional craft markets, live heritage performances, and
+        family activities scheduled around school holidays and off-Hajj periods.
+      timing: Varies (typically aligned with school breaks and non-Hajj seasons)
+      location:
+        areas:
+        - Abraj Al-Bait plaza and surrounds
+        - Al Aziziyah public spaces
+        - Al Shoqaiq Cultural Center
+      url: https://www.visitsaudi.com/en
+      notes: Program updated annually; follow @visitsaudi on social media for current events
+
+    - name: Diriyah (UNESCO) — Founding City of Saudi Arabia
+      description: >
+        The mud-brick capital of the first Saudi State, inscribed by UNESCO in
+        2010. Now undergoing a $50 billion restoration as a living heritage
+        destination with boutique hotels, open-air museums, restaurants, and
+        cultural festivals. ~1 hour flight from Jeddah.
+      location:
+        area: Diriyah, Riyadh Region
+      url: https://www.diriyah.sa/en
+      notes: At-Turaif District is the UNESCO-listed core; best combined with Riyadh visit
+
+  digital_pilgrimage_tools:
+    description: >
+      Essential apps, websites, and digital services that simplify and enrich
+      the Hajj and Umrah experience. Saudi Arabia's digital infrastructure for
+      pilgrims is among the most advanced in the world.
+    items:
+    - name: Nusuk App (Official Saudi Hajj & Umrah Platform)
+      description: >
+        The Saudi government's official all-in-one platform for Hajj and Umrah.
+        Functions include: Umrah permit booking, Hajj registration, hotel and
+        transport packages, live crowd maps for the Grand Mosque, Al-Masjid
+        Al-Haram prayer times, lost-pilgrim assistance, and volunteer sign-up.
+      platform: iOS and Android
+      url: https://www.nusuk.sa
+      notes: >
+        Mandatory for Hajj registration from most countries; Umrah permits now
+        issued exclusively through Nusuk or partner agencies; available in
+        Arabic, English, Urdu, French, Malay, and more
+
+    - name: Mecca Live (Grand Mosque Live Streams)
+      description: >
+        Official YouTube and website live streams of the Grand Mosque prayers —
+        Fajr through Isha plus Taraweeh and Tahajjud. Useful for planning arrival
+        times, viewing construction updates, and spiritual connection when away.
+      platform: YouTube, website
+      url: https://www.youtube.com/@quranmakkah
+      notes: Available 24 hours; HD quality; multiple camera angles including aerial views
+
+    - name: Athan (Prayer Times & Qibla)
+      description: >
+        The most widely used Islamic prayer times and Qibla direction app globally.
+        Provides accurate prayer times for Mecca and any location, Quran audio,
+        Adhkar (remembrance supplications), and mosque finder.
+      platform: iOS and Android
+      url: https://www.athan.com
+      notes: Works offline; adjustable calculation methods; over 100 million downloads
+
+    - name: Haramain Info App
+      description: >
+        Specialized app for Grand Mosque visitors: real-time crowd levels,
+        Tawaf floor availability, elevator status, prayer schedules, and
+        gate-by-gate entry guidance. Helps plan the best times for worship
+        to avoid peak congestion.
+      platform: iOS and Android
+      notes: Published by the General Presidency of the Grand Mosque; free; Arabic and English
+
+    - name: Google Maps / Apple Maps in Mecca
+      description: >
+        Both services offer excellent coverage of Mecca including the Grand Mosque
+        interior (walking routes to Tawaf, Sa'i, Zamzam stations). Offline maps
+        recommended — download the Mecca region before arrival to avoid data costs.
+      platform: iOS and Android
+      tips:
+      - Download offline map of Mecca region before departing home country
+      - Use "Grand Mosque" or "Al-Masjid Al-Haram" as the search anchor
+      - Rideshare via Uber or Careem is integrated into maps for seamless transport
+      notes: Street View coverage is limited near the Haram; satellite view is detailed
+
+    - name: Careem & Uber (Rideshare in Mecca)
+      description: >
+        Both apps operate throughout Mecca and the Jeddah–Mecca–Taif corridor.
+        Careem (Middle East-founded, Uber subsidiary) is the dominant local service.
+        Surge pricing applies during peak Hajj/Umrah periods.
+      platform: iOS and Android
+      url: https://www.careem.com
+      notes: >
+        Pre-book rides well in advance during peak Hajj days; drivers generally
+        know the Haram area well; cash and card payments accepted; Careem Bus
+        offers scheduled shuttle routes
+
+    - name: Zamzam Water Delivery Ordering
+      description: >
+        The Saudi government allows pilgrims and Muslims worldwide to order
+        certified Zamzam water (5-litre containers) shipped internationally
+        through official channels, or to collect extra at Jeddah Airport.
+      url: https://www.zamzam.gov.sa
+      notes: >
+        Pilgrims are permitted to carry 5 litres on return flights from Saudi Arabia;
+        in-mosque Zamzam is always free and unlimited; the website provides
+        authorized international shipping agents
+
+    - name: Quran.com & Tarteel AI (Quran Study Tools)
+      description: >
+        Quran.com offers the complete Quran with 40+ translations, word-by-word
+        analysis, and audio recitations by major reciters (including Grand Mosque
+        Imams). Tarteel AI provides real-time Quran recitation correction using
+        artificial intelligence — ideal for improving Tajweed during an extended
+        Mecca stay.
+      platform: iOS, Android, Web
+      urls:
+      - https://quran.com
+      - https://tarteel.ai
+      notes: Both are free; Quran.com works offline; Tarteel requires microphone access
+
+    - name: Saudi e-Visa & AbsherI Portal
+      description: >
+        Non-Saudi pilgrims must enter on an Umrah visa (Nusuk platform) or
+        tourist e-visa (visit.visitsaudi.com). The Absher I app allows residents
+        and visitors to manage government services, view visa status, and access
+        driving and ID services.
+      platform: iOS and Android
+      urls:
+      - https://visa.visitsaudi.com
+      - https://absher.sa
+      notes: Tourist e-visa holders may now perform Umrah year-round; process takes 24–72 hours online
+
+    - name: Muqeem & IQAMA Services (Residents)
+      description: >
+        The Muqeem portal manages residence permits (Iqama), exit/re-entry visas,
+        and work permits for expatriates living in Mecca and Saudi Arabia. The
+        MOI Absher platform also integrates these services.
+      platform: Web and iOS/Android
+      url: https://muqeem.sa
+      notes: Relevant for expatriate residents and long-stay workers in Mecca, not short-term pilgrims
+
+    - name: WhatsApp Pilgrim Support Groups
+      description: >
+        Informal but highly effective: Hajj group operators and community
+        organizations run WhatsApp groups for their pilgrims with real-time
+        updates on crowd conditions, lost-pilgrim alerts, schedule changes,
+        and local knowledge from group leaders.
+      tips:
+      - Ask your Hajj/Umrah operator for their official WhatsApp group link before travel
+      - Join country-specific Hajj mission groups (e.g. UK Hajj Group, US Muslim Hajj Association)
+      - Saudi Civil Defense (@moi911) posts Arabic crowd and safety alerts on X (Twitter)
+      notes: No single app; join via your travel agent or national Hajj mission group
+
+  sustainable_and_responsible_tourism:
+    description: >
+      Practices and initiatives that help visitors minimize their environmental
+      impact and support ethical, community-centered experiences in Mecca.
+      Sustainability is increasingly central to Vision 2030's tourism strategy.
+    items:
+    - name: Reduce Single-Use Plastic — Zamzam Refill Culture
+      description: >
+        Zamzam water is available free throughout the Grand Mosque from
+        refrigerated dispensers. Bringing a reusable BPA-free bottle or
+        collapsible flask eliminates the need for dozens of single-use
+        plastic cups across a multi-day stay.
+      tip: Stainless steel or BPA-free bottles are sold at all Haram-area shops; keep one always filled
+      notes: Free Zamzam is unlimited; every refill avoids single-use plastic waste
+
+    - name: Buy From Local Artisans (Not Airport Souvenir Chains)
+      description: >
+        Support Meccan craftspeople and small traders selling prayer beads
+        (Misbaha), hand-embroidered caps, locally-made Oud perfume, natural
+        Miswak, and traditional Hajj clothing — rather than mass-produced
+        imports in airport chains.
+      markets:
+      - name: Souq Al-Zal (Al-Ma'laa Area)
+        area: Al-Ma'laa District, near Jannat Al-Ma'la Cemetery
+        notes: Oldest surviving traditional market in Mecca; local traders; antique Islamic books
+      - name: Ateeq Street (Old Mecca)
+        area: Near Ajyad, central Mecca
+        notes: Traditional traders in prayer beads, caps, and fabric; bargaining customary
+      notes: Ask traders directly if items are locally sourced or made; many will be honest
+
+    - name: Volunteer Litter Pickup Near the Grand Mosque
+      description: >
+        An estimated 3 million people pass through the Grand Mosque daily in
+        peak season. Even individual, informal litter collection — picking up
+        cups, wrappers, and plastic bags while walking — has significant impact
+        on the sacred environment.
+      notes: No registration needed; any visitor can contribute; collecting litter is considered sadaqah (charity)
+
+    - name: Use Public Transport — Al-Mashaer Metro
+      description: >
+        The Mecca Metro (Al-Mashaer Al-Muqaddasah Metro) runs between the
+        Grand Mosque, Mina, Muzdalifah, and Arafat exclusively during Hajj
+        season, transporting millions of pilgrims. Using it reduces vehicle
+        congestion and carbon emissions on one of the world's most traveled
+        short corridors.
+      location:
+        name: Al-Mashaer Al-Muqaddasah Metro
+        lines: Line 1 (Arafat–Muzdalifah–Mina) and Line 2 (Mina–Grand Mosque)
+      notes: Hajj season only; capacity ~72,000 passengers/hour; free for Hajj pilgrims with valid ID
+
+    - name: Eat Local, Eat Seasonally
+      description: >
+        Mecca and surrounding Taif and Hejaz region produce seasonal foods
+        worth seeking out: Taif grapes (summer), Taif roses (spring), local
+        Hejazi lamb (year-round), wild mountain honey, and dates from Medina
+        and Al-Qasim. Choosing local reduces food miles and supports farmers.
+      businesses:
+      - name: Hejaz Heritage Kitchen (Al-Ma'laa)
+        area: Al-Ma'laa District, Mecca
+        notes: Traditional Meccan dishes using locally-sourced lamb, rice, and spices
+      - name: Souq Al-Taif Farmers' Stalls
+        area: Taif central market
+        notes: Direct-from-farm produce during growing season; Taif honey is the most prized
+      notes: Local date varieties (Ajwa, Sukkari, Medjool) make excellent, sustainably-sourced gifts
